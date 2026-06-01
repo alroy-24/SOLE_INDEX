@@ -37,7 +37,10 @@ export default function RootLayout({
       lang="en"
       className={`${archivo.variable} ${hanken.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="grain min-h-full flex flex-col bg-paper text-ink">
+      <body
+        suppressHydrationWarning
+        className="grain min-h-full flex flex-col bg-paper text-ink"
+      >
         <Nav />
         <main className="flex-1">{children}</main>
         <Footer />
