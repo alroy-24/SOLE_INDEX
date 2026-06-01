@@ -37,14 +37,29 @@ npm start        # serve the production build
 
 ## Deploy
 
-Easiest path is **Vercel** (made by Next.js's authors, free tier):
+The repo is already on GitHub at `alroy-24/SOLE_INDEX`. To put it live on
+**Vercel** (free tier, made by Next.js's authors):
 
-1. Push this folder to a GitHub repo.
-2. Go to [vercel.com/new](https://vercel.com/new) → import the repo.
-3. Framework auto-detects as Next.js. No env vars needed yet. **Deploy.**
+1. Go to [vercel.com/new](https://vercel.com/new) and sign in with GitHub.
+2. **Import** the `SOLE_INDEX` repo. Framework auto-detects as Next.js — leave
+   the defaults.
+3. *(Optional)* Under **Environment Variables**, add any of the affiliate vars
+   from [`.env.example`](.env.example) (`AMAZON_ASSOCIATE_TAG`, `CUELINKS_CID`,
+   the `AMAZON_*` keys). They're read at build time. You can add these later.
+4. **Deploy.** You get a live `https://<project>.vercel.app` URL in ~1 minute.
 
-You get a live `https://<project>.vercel.app` URL in ~1 minute. Every push to
-`main` redeploys automatically. (Netlify and Cloudflare Pages also work.)
+Every push to `main` redeploys automatically — including the automated price
+refreshes below.
+
+### Automated daily price refresh
+
+[`.github/workflows/refresh-prices.yml`](.github/workflows/refresh-prices.yml)
+re-pulls the live catalogue every day, commits `data/catalog.json` if it
+changed, and pushes — which triggers a fresh Vercel deploy. It runs as soon as
+the workflow is on `main`; trigger it manually anytime from the repo's **Actions**
+tab → *Refresh prices* → *Run workflow*. To include live Amazon prices in the
+refresh, add `AMAZON_ACCESS_KEY` / `AMAZON_SECRET_KEY` / `AMAZON_PARTNER_TAG` as
+repo **Actions secrets**.
 
 ---
 

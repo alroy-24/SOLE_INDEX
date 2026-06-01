@@ -1,0 +1,46 @@
+name: Refresh prices
+
+# Re-pulls the live catalogue daily, commits it if anything changed, and pushes.
+# When the repo is connected to Vercel, the push auto-deploys the fresh prices.
+#
+# Optional: to include live Amazon prices, add repo secrets
+# AMAZON_ACCESS_KEY / AMAZON_SECRET_KEY / AMAZON_PARTNER_TAG
+# (Settings → Secrets and variables → Actions). Without them the step still runs
+# and Amazon stays a deep-link.
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # 03:00 UTC daily (~08:30 IST)
+  workflow_dispatch: {} # allow manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Fetch latest prices
+        env:
+          AMAZON_ACCESS_KEY: ${{ secrets.AMAZON_ACCESS_KEY }}
+          AMAZON_SECRET_KEY: ${{ secrets.AMAZON_SECRET_KEY }}
+          AMAZON_PARTNER_TAG: ${{ secrets.AMAZON_PARTNER_TAG }}
+        run: node scripts/fetch-data.mjs
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "alroy-24"
+          git config user.email "pereiraalroy24@gmail.com"
+          if [ -n "$(git status --porcelain data/catalog.json)" ]; then
+            git add data/catalog.json
+            git commit -m "chore: refresh prices ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "No catalogue changes."
+          fi

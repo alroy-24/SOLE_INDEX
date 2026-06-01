@@ -14,6 +14,7 @@
  * swap their `linkOnly` reference offers for affiliate-API responses.
  */
 import { writeFile, mkdir } from "node:fs/promises";
+import { existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
 import { searchAmazon, isAmazonConfigured } from "./sources/amazon.mjs";
@@ -261,12 +262,18 @@ async function main() {
     console.log("Amazon PA-API not configured — Amazon rows stay as deep-links.");
   }
 
+  const outPath = join(ROOT, "data", "catalog.json");
+
+  // Safety: never overwrite a good catalogue with an empty one (e.g. if the
+  // source blocked us). Keep the last known-good data instead.
+  if (catalog.length === 0) {
+    console.warn("⚠ Fetched 0 sneakers — keeping existing catalog.json untouched.");
+    if (!existsSync(outPath)) process.exit(1);
+    return;
+  }
+
   await mkdir(join(ROOT, "data"), { recursive: true });
-  await writeFile(
-    join(ROOT, "data", "catalog.json"),
-    JSON.stringify(catalog, null, 2),
-    "utf8"
-  );
+  await writeFile(outPath, JSON.stringify(catalog, null, 2), "utf8");
 
   const brands = [...new Set(catalog.map((s) => s.brand))];
   console.log(`✓ Wrote ${catalog.length} sneakers to data/catalog.json`);
@@ -275,6 +282,8 @@ async function main() {
 }
 
 main().catch((e) => {
-  console.error("Fetch failed:", e);
-  process.exit(1);
+  console.error("Fetch failed:", e.message);
+  // Don't fail a build/CI run if we still have a usable catalogue to ship.
+  const outPath = join(ROOT, "data", "catalog.json");
+  process.exit(existsSync(outPath) ? 0 : 1);
 });
