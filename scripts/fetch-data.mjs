@@ -16,6 +16,9 @@
 import { writeFile, mkdir } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
+import { searchAmazon, isAmazonConfigured } from "./sources/amazon.mjs";
+
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, "..");
@@ -230,6 +233,33 @@ async function main() {
     delete s._super;
     return { ...s, offers };
   });
+
+  // Optional: enrich with live Amazon prices via PA-API (only if configured).
+  if (isAmazonConfigured()) {
+    console.log("Enriching with live Amazon prices (PA-API, ~1 req/sec)…");
+    let enriched = 0;
+    for (const s of catalog) {
+      const query = `${s.brand} ${s.model} ${s.colorway.split(" / ")[0]}`.trim();
+      const hit = await searchAmazon(query, {
+        brand: s.brand,
+        modelTokens: s.model.split(/\s+/),
+      });
+      if (hit) {
+        const offer = s.offers.find((o) => o.retailerId === "amazon");
+        if (offer) {
+          offer.price = hit.price;
+          offer.url = hit.url;
+          offer.inStock = hit.inStock;
+          delete offer.linkOnly;
+          enriched++;
+        }
+      }
+      await sleep(1100); // respect the default 1 request/sec TPS limit
+    }
+    console.log(`  ✓ Live Amazon prices added to ${enriched}/${catalog.length}`);
+  } else {
+    console.log("Amazon PA-API not configured — Amazon rows stay as deep-links.");
+  }
 
   await mkdir(join(ROOT, "data"), { recursive: true });
   await writeFile(

@@ -104,6 +104,35 @@ rebuild.
 
 ---
 
+## Affiliate monetization & live Amazon prices
+
+The plumbing is built and **env-driven** — with nothing set, the app behaves
+exactly as it does now. Copy `.env.example` → `.env.local` (and add the same
+vars to your Vercel project) to switch features on.
+
+| Variable | What it unlocks | Requirement |
+|---|---|---|
+| `AMAZON_ASSOCIATE_TAG` | Amazon "Buy" links earn commission (`?tag=`) | Amazon Associates account (no PA-API needed) |
+| `CUELINKS_CID` | Flipkart / AJIO / Nike / Myntra links earn commission via one wrapper | Cuelinks account |
+| `AMAZON_ACCESS_KEY` + `AMAZON_SECRET_KEY` + `AMAZON_PARTNER_TAG` | **Live Amazon prices** added to the catalogue | Approved PA-API access (~3 qualifying sales) |
+
+- **Link wrapping** lives in `lib/affiliate.ts`; every offer URL passes through
+  `affiliateUrl()` in `lib/data.ts`. Works the moment IDs are set.
+- **Live Amazon pricing** lives in `scripts/sources/amazon.mjs` (full PA-API 5.0
+  SigV4 client). When keys are present, `node scripts/fetch-data.mjs` queries
+  Amazon per pair (throttled to 1 req/sec), and matching results replace the
+  Amazon deep-link row with a real priced offer.
+- Add more live sources by writing another `scripts/sources/*.mjs` adapter that
+  returns `{ price, url, inStock }` and merging it the same way.
+
+```bash
+cp .env.example .env.local   # fill in what you have
+node scripts/fetch-data.mjs  # refreshes data/catalog.json (live Amazon if keyed)
+npm run build
+```
+
+---
+
 ## Roadmap ideas
 - Real product imagery once licensing/affiliate feeds are in place
 - Price-drop alerts (email/push) per pair + size
