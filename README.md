@@ -1,36 +1,104 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SOLEINDEX
 
-## Getting Started
+India's sneaker **price index**. One search lines up live prices for the same pair
+across Nike, AJIO, Flipkart, Amazon, VegNonVeg, Crepdog Crew, Extra Butter,
+SuperKicks and adidas — sorted cheapest-first, with a **Buy** button that sends
+you straight to that retailer.
 
-First, run the development server:
+Editorial monochrome design with a volt accent. Built with Next.js 16 (App
+Router), React 19, TypeScript and Tailwind v4.
+
+> **Status:** Phase 1 — the full product runs on *mock price data*. The data
+> layer is isolated behind one module so real sources drop in without touching
+> the UI (see [Going live with real prices](#going-live-with-real-prices)).
+
+---
+
+## Run locally
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
+npm run dev      # http://localhost:3000
+npm run build    # production build (prerenders every sneaker page)
+npm start        # serve the production build
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Deploy
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Easiest path is **Vercel** (made by Next.js's authors, free tier):
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Push this folder to a GitHub repo.
+2. Go to [vercel.com/new](https://vercel.com/new) → import the repo.
+3. Framework auto-detects as Next.js. No env vars needed yet. **Deploy.**
 
-## Learn More
+You get a live `https://<project>.vercel.app` URL in ~1 minute. Every push to
+`main` redeploys automatically. (Netlify and Cloudflare Pages also work.)
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Project map
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```
+app/
+  layout.tsx              fonts, <Nav>, <Footer>, global shell
+  page.tsx                home — hero, stats, marquee, shortlist, how-it-works
+  browse/page.tsx         catalogue (server) → renders <BrowseClient>
+  sneakers/[slug]/page.tsx  THE CORE — price ladder for one pair (SSG)
+components/
+  PriceTable.tsx          cheapest-first ladder, lowest flagged, Buy buttons
+  SneakerCard.tsx         grid card with lowest price + max saving
+  SneakerGraphic.tsx      dependency-free SVG sneaker, tinted per colorway
+  BrowseClient.tsx        client-side search / brand+category filters / sort
+  Nav.tsx · Footer.tsx · Marquee.tsx
+lib/
+  types.ts                Sneaker / Retailer / Offer shapes
+  data.ts                 ← MOCK SOURCE. Swap this to go live.
+  retailers.ts            store metadata (name, domain, "official" flag)
+  search-urls.ts          builds the outbound Buy link per retailer
+  utils.ts                INR formatting, sorting, savings, "x ago"
+```
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Going live with real prices
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Everything funnels through two files. The UI never needs to change.
+
+### 1. `lib/data.ts` — where prices come from
+`getAllSneakers()` returns `Sneaker[]`, each with an `offers[]` array. Replace
+the hand-authored `RAW` list with a fetch from your database / scrapers /
+affiliate feeds that returns the **same shape**. Make the page components
+`async` and `await getAllSneakers()` if your source is async.
+
+### 2. `lib/search-urls.ts` — where Buy sends people
+Today these resolve to each store's on-site search (robust, never 404s). For
+production, return **affiliate-wrapped deep links** to the exact product page so
+outbound clicks earn commission.
+
+### Realistic data strategy for India
+Most sneaker boutiques have **no public API**, so plan for a mix:
+
+| Source | How |
+|---|---|
+| **Amazon** | Product Advertising API (needs an Associates account + sales). |
+| **Flipkart** | Affiliate API (approval required). |
+| **Affiliate networks** | Cuelinks / INRDeals / vCommission aggregate many Indian merchants *and* give you the paid Buy links — usually the most practical path. |
+| **Boutiques** (VNV, Crepdog Crew, Extra Butter, SuperKicks) | Periodic scraping into your DB. Fragile + ToS-sensitive — cache results, run on a schedule (cron), and respect `robots.txt`. Never scrape on the user's request path. |
+
+Recommended architecture: a background job writes normalized offers into a
+database (Postgres / Supabase / Planetscale); `lib/data.ts` reads from it;
+pages use ISR (`export const revalidate = 1800`) so prices refresh without a
+rebuild.
+
+---
+
+## Roadmap ideas
+- Real product imagery once licensing/affiliate feeds are in place
+- Price-drop alerts (email/push) per pair + size
+- Size-level availability and price (not just per-store)
+- Historical price charts ("is this actually a deal?")
+- User accounts + wishlists
+
+---
+
+*Indicative demo data. Not affiliated with any listed retailer.*
