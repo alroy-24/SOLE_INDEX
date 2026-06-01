@@ -2,7 +2,7 @@ import Link from "next/link";
 import { getAllSneakers } from "@/lib/data";
 import { RETAILERS } from "@/lib/retailers";
 import { SneakerCard } from "@/components/SneakerCard";
-import { SneakerGraphic } from "@/components/SneakerGraphic";
+import { SneakerImage } from "@/components/SneakerImage";
 import { Marquee } from "@/components/Marquee";
 import { formatINR, lowestOffer, maxSaving } from "@/lib/utils";
 
@@ -71,10 +71,14 @@ export default function Home() {
               <span>Most compared today</span>
               <span className="numerals">№ 01</span>
             </div>
-            <SneakerGraphic
-              sneaker={hero}
-              className="relative my-6 w-full transition-transform duration-500 group-hover:scale-[1.04]"
-            />
+            <div className="relative my-6 aspect-[5/4] w-full">
+              <SneakerImage
+                sneaker={hero}
+                priority
+                sizes="(max-width: 1024px) 100vw, 560px"
+                className="transition-transform duration-500 group-hover:scale-[1.04]"
+              />
+            </div>
             <div className="relative flex items-end justify-between">
               <div>
                 <p className="text-[11px] font-semibold uppercase tracking-[0.14em] text-ash">
@@ -86,7 +90,7 @@ export default function Home() {
               <div className="text-right">
                 <p className="text-[10px] uppercase tracking-wide text-ash">from</p>
                 <p className="numerals text-3xl font-semibold leading-none">
-                  {heroLow ? formatINR(heroLow.price) : "—"}
+                  {heroLow?.price != null ? formatINR(heroLow.price) : "—"}
                 </p>
               </div>
             </div>

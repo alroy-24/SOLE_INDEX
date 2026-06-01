@@ -1,13 +1,14 @@
 import Link from "next/link";
 import type { Sneaker } from "@/lib/types";
-import { SneakerGraphic } from "./SneakerGraphic";
+import { SneakerImage } from "./SneakerImage";
 import { getRetailer } from "@/lib/retailers";
-import { formatINR, lowestOffer, maxSaving } from "@/lib/utils";
+import { formatINR, liveStoreCount, lowestOffer, maxSaving } from "@/lib/utils";
 
 export function SneakerCard({ sneaker, index = 0 }: { sneaker: Sneaker; index?: number }) {
   const low = lowestOffer(sneaker);
   const saving = maxSaving(sneaker);
   const storeCount = sneaker.offers.filter((o) => o.inStock).length;
+  const liveCount = liveStoreCount(sneaker);
   const lowStore = low ? getRetailer(low.retailerId) : undefined;
 
   return (
@@ -15,17 +16,17 @@ export function SneakerCard({ sneaker, index = 0 }: { sneaker: Sneaker; index?: 
       href={`/sneakers/${sneaker.slug}`}
       className="group relative flex flex-col border-r border-b rule transition-colors hover:bg-paper-dim"
     >
-      {/* graphic panel */}
-      <div className="relative overflow-hidden">
+      {/* image panel */}
+      <div className="relative aspect-[5/4] overflow-hidden">
         <div
           className="absolute inset-0 opacity-[0.18]"
           style={{
             background: `radial-gradient(120% 120% at 20% 0%, ${sneaker.palette[0]} 0%, transparent 60%)`,
           }}
         />
-        <SneakerGraphic
+        <SneakerImage
           sneaker={sneaker}
-          className="relative w-full px-6 py-8 transition-transform duration-500 ease-out group-hover:-translate-y-1 group-hover:scale-[1.03]"
+          className="p-5 transition-transform duration-500 ease-out group-hover:-translate-y-1 group-hover:scale-[1.04]"
         />
         <span className="absolute left-4 top-4 numerals text-[11px] text-ash">
           {String(index + 1).padStart(2, "0")}
@@ -66,12 +67,14 @@ export function SneakerCard({ sneaker, index = 0 }: { sneaker: Sneaker; index?: 
               Lowest · {lowStore?.name}
             </p>
             <p className="numerals text-2xl font-semibold leading-none">
-              {low ? formatINR(low.price) : "—"}
+              {low?.price != null ? formatINR(low.price) : "—"}
             </p>
           </div>
           <p className="text-right text-[11px] text-ink-soft">
-            {storeCount} {storeCount === 1 ? "store" : "stores"}
-            <span className="block text-ash">compare →</span>
+            {liveCount} live {liveCount === 1 ? "price" : "prices"}
+            <span className="block text-ash">
+              +{Math.max(0, storeCount - liveCount)} to check →
+            </span>
           </p>
         </div>
       </div>

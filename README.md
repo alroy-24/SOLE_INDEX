@@ -8,9 +8,21 @@ you straight to that retailer.
 Editorial monochrome design with a volt accent. Built with Next.js 16 (App
 Router), React 19, TypeScript and Tailwind v4.
 
-> **Status:** Phase 1 — the full product runs on *mock price data*. The data
-> layer is isolated behind one module so real sources drop in without touching
-> the UI (see [Going live with real prices](#going-live-with-real-prices)).
+> **Status:** Phase 2 — **live data**. The catalogue (96 sneakers, real images,
+> prices, sizes and stock) is pulled from SuperKicks' public Shopify feed by
+> `scripts/fetch-data.mjs` into `data/catalog.json`, which the app imports at
+> build time. Other retailers (Nike, Amazon, Flipkart, AJIO, VegNonVeg) appear
+> as honest "Check price" deep-links until their live prices are wired in.
+
+### Refresh prices
+
+```bash
+node scripts/fetch-data.mjs   # rewrites data/catalog.json from live sources
+npm run build                 # (or redeploy) to publish the new prices
+```
+
+On Vercel, run this on a schedule (Cron Job → rebuild hook) so prices stay
+fresh, or move the catalogue into a database read at request time with ISR.
 
 ---
 

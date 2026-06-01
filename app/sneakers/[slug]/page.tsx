@@ -3,10 +3,10 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllSneakers, getSneakerBySlug } from "@/lib/data";
 import { getRetailer } from "@/lib/retailers";
-import { SneakerGraphic } from "@/components/SneakerGraphic";
+import { SneakerImage } from "@/components/SneakerImage";
 import { PriceTable } from "@/components/PriceTable";
 import { SneakerCard } from "@/components/SneakerCard";
-import { formatINR, lowestOffer, maxSaving } from "@/lib/utils";
+import { formatINR, liveStoreCount, lowestOffer, maxSaving } from "@/lib/utils";
 
 export function generateStaticParams() {
   return getAllSneakers().map((s) => ({ slug: s.slug }));
@@ -24,7 +24,7 @@ export async function generateMetadata({
   return {
     title: `${s.brand} ${s.model} — ${s.colorway} | SOLEINDEX`,
     description: `Compare prices for the ${s.brand} ${s.model} (${s.colorway}) across ${s.offers.length} stores. From ${
-      low ? formatINR(low.price) : "—"
+      low?.price != null ? formatINR(low.price) : "—"
     }.`,
   };
 }
@@ -41,7 +41,7 @@ export default async function SneakerPage({
   const low = lowestOffer(sneaker);
   const lowStore = low ? getRetailer(low.retailerId) : undefined;
   const saving = maxSaving(sneaker);
-  const inStockCount = sneaker.offers.filter((o) => o.inStock).length;
+  const liveCount = liveStoreCount(sneaker);
 
   const related = getAllSneakers()
     .filter((s) => s.slug !== sneaker.slug && (s.brand === sneaker.brand || s.category === sneaker.category))
@@ -60,16 +60,21 @@ export default async function SneakerPage({
 
       {/* header */}
       <section className="grid grid-cols-1 border-y rule lg:grid-cols-[0.95fr_1.05fr]">
-        {/* graphic */}
-        <div className="relative border-b rule lg:border-b-0 lg:border-r">
+        {/* image */}
+        <div className="relative aspect-[4/3] border-b rule lg:border-b-0 lg:border-r">
           <div
             className="pointer-events-none absolute inset-0 opacity-20"
             style={{
               background: `radial-gradient(80% 70% at 40% 30%, ${sneaker.palette[0]} 0%, transparent 65%)`,
             }}
           />
-          <SneakerGraphic sneaker={sneaker} className="relative w-full px-8 py-12" />
-          <div className="absolute bottom-4 left-5 flex gap-1.5 sm:left-8">
+          <SneakerImage
+            sneaker={sneaker}
+            priority
+            sizes="(max-width: 1024px) 100vw, 620px"
+            className="p-8"
+          />
+          <div className="absolute bottom-4 left-5 z-10 flex gap-1.5 sm:left-8">
             {sneaker.palette.map((c, i) => (
               <span
                 key={i}
@@ -110,10 +115,11 @@ export default async function SneakerPage({
           <div className="mt-8 flex flex-wrap items-end justify-between gap-4 border-t rule pt-6">
             <div>
               <p className="text-[11px] uppercase tracking-wide text-ash">
-                Lowest of {inStockCount} in-stock · {lowStore?.name}
+                {liveCount} live price{liveCount === 1 ? "" : "s"} · lowest at{" "}
+                {lowStore?.name}
               </p>
               <p className="numerals text-5xl font-semibold leading-none">
-                {low ? formatINR(low.price) : "—"}
+                {low?.price != null ? formatINR(low.price) : "—"}
               </p>
               {saving > 0 && (
                 <p className="mt-2 inline-block bg-volt px-2 py-0.5 text-xs font-semibold uppercase tracking-wide text-ink">

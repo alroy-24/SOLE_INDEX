@@ -12,13 +12,18 @@ export type Retailer = {
 
 export type Offer = {
   retailerId: string;
-  /** Selling price in INR */
-  price: number;
+  /** Selling price in INR. Absent on `linkOnly` reference listings. */
+  price?: number;
   /** Pre-discount MRP in INR, if on sale */
   mrp?: number;
-  /** Outbound link to the product page (affiliate-wrapped in production) */
+  /** Outbound link to the product (or store search), affiliate-wrapped in prod */
   url: string;
   inStock: boolean;
+  /**
+   * True when we don't yet index a live price for this store, so the row is a
+   * "check price" deep-link rather than a real comparison entry.
+   */
+  linkOnly?: boolean;
   /** Sizes (UK) currently available at this retailer */
   sizes?: string[];
   /** ISO timestamp of when this price was last fetched */
@@ -33,8 +38,11 @@ export type Sneaker = {
   colorway: string;
   sku?: string;
   releaseYear?: number;
-  category: "Lifestyle" | "Running" | "Basketball" | "Skate" | "Trail";
-  /** Two or three colors used to render the editorial product graphic */
+  /** Free-form category label, e.g. "Lifestyle", "Basketball", "Running" */
+  category: string;
+  /** Real product images (CDN URLs). Falls back to the SVG graphic when empty. */
+  images?: string[];
+  /** Two or three colors used to render swatches / the fallback graphic */
   palette: string[];
   description: string;
   offers: Offer[];
