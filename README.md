@@ -1,14 +1,37 @@
-# SOLEINDEX
+<div align="center">
 
-**Live:** [soleindexx.vercel.app](https://soleindexx.vercel.app)
+# 👟 SOLEINDEX
 
-India's sneaker **price index**. One search lines up live prices for the same pair
-across Nike, AJIO, Flipkart, Amazon, VegNonVeg, Crepdog Crew, Extra Butter,
-SuperKicks and adidas — sorted cheapest-first, with a **Buy** button that sends
-you straight to that retailer.
+### India's sneaker **price index** — one search, every retailer, cheapest first.
+
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-soleindexx.vercel.app-000000?style=for-the-badge)](https://soleindexx.vercel.app)
+
+[![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com/)
+
+![SOLEINDEX preview](screenshots/Screenshot%202026-06-02%20193455.png)
+
+</div>
+
+---
+
+One search lines up live prices for the same pair across **Nike, AJIO, Flipkart,
+Amazon, VegNonVeg, Crepdog Crew, Extra Butter, SuperKicks and adidas** — sorted
+cheapest-first, with a **Buy** button that sends you straight to that retailer.
 
 Editorial monochrome design with a volt accent. Built with Next.js 16 (App
 Router), React 19, TypeScript and Tailwind v4.
+
+### ✨ Highlights
+
+- 🔍 **One price ladder per pair** — every retailer, cheapest flagged, max saving shown
+- ⚡ **Live catalogue** — 96 sneakers with real images, prices, sizes & stock
+- 🛒 **Direct Buy links** — affiliate-ready deep links per store
+- 🔄 **Auto-refreshing prices** — daily GitHub Action re-pulls and redeploys
+- 🎨 **Editorial design** — monochrome with a volt accent, fully responsive
 
 > **Status:** Phase 2 — **live data**. The catalogue (96 sneakers, real images,
 > prices, sizes and stock) is pulled from SuperKicks' public Shopify feed by
@@ -28,16 +51,19 @@ fresh, or move the catalogue into a database read at request time with ISR.
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-| | |
-|---|---|
-| ![SOLEINDEX screenshot](screenshots/Screenshot%202026-06-02%20193455.png) | ![SOLEINDEX screenshot](screenshots/Screenshot%202026-06-02%20193507.png) |
-| ![SOLEINDEX screenshot](screenshots/Screenshot%202026-06-02%20193527.png) | |
+<div align="center">
+
+| Home | Browse |
+|:---:|:---:|
+| ![Home](screenshots/Screenshot%202026-06-02%20193507.png) | ![Browse](screenshots/Screenshot%202026-06-02%20193527.png) |
+
+</div>
 
 ---
 
-## Run locally
+## 🚀 Run locally
 
 ```bash
 npm install
@@ -46,7 +72,7 @@ npm run build    # production build (prerenders every sneaker page)
 npm start        # serve the production build
 ```
 
-## Deploy
+## ☁️ Deploy
 
 The repo is already on GitHub at `alroy-24/SOLE_INDEX`. To put it live on
 **Vercel** (free tier, made by Next.js's authors):
@@ -74,7 +100,7 @@ repo **Actions secrets**.
 
 ---
 
-## Project map
+## 🗺️ Project map
 
 ```
 app/
@@ -98,7 +124,7 @@ lib/
 
 ---
 
-## Going live with real prices
+## 💸 Going live with real prices
 
 Everything funnels through two files. The UI never needs to change.
 
@@ -130,7 +156,7 @@ rebuild.
 
 ---
 
-## Affiliate monetization & live Amazon prices
+## 🤝 Affiliate monetization & live Amazon prices
 
 The plumbing is built and **env-driven** — with nothing set, the app behaves
 exactly as it does now. Copy `.env.example` → `.env.local` (and add the same
@@ -159,7 +185,7 @@ npm run build
 
 ---
 
-## Roadmap ideas
+## 🧭 Roadmap ideas
 - Real product imagery once licensing/affiliate feeds are in place
 - Price-drop alerts (email/push) per pair + size
 - Size-level availability and price (not just per-store)
@@ -168,4 +194,10 @@ npm run build
 
 ---
 
+<div align="center">
+
+**[soleindexx.vercel.app](https://soleindexx.vercel.app)**
+
 *Indicative demo data. Not affiliated with any listed retailer.*
+
+</div>
