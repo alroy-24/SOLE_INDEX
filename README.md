@@ -1,5 +1,7 @@
 # SOLEINDEX
 
+**Live:** [soleindexx.vercel.app](https://soleindexx.vercel.app)
+
 India's sneaker **price index**. One search lines up live prices for the same pair
 across Nike, AJIO, Flipkart, Amazon, VegNonVeg, Crepdog Crew, Extra Butter,
 SuperKicks and adidas — sorted cheapest-first, with a **Buy** button that sends
@@ -23,6 +25,15 @@ npm run build                 # (or redeploy) to publish the new prices
 
 On Vercel, run this on a schedule (Cron Job → rebuild hook) so prices stay
 fresh, or move the catalogue into a database read at request time with ISR.
+
+---
+
+## Screenshots
+
+| | |
+|---|---|
+| ![SOLEINDEX screenshot](screenshots/Screenshot%202026-06-02%20193455.png) | ![SOLEINDEX screenshot](screenshots/Screenshot%202026-06-02%20193507.png) |
+| ![SOLEINDEX screenshot](screenshots/Screenshot%202026-06-02%20193527.png) | |
 
 ---
 
