@@ -1,5 +1,397 @@
 [
   {
+    "id": "sk-new-balance-bb950-grey-white",
+    "slug": "new-balance-bb950-grey-white",
+    "brand": "New Balance",
+    "model": "Bb950",
+    "colorway": "Grey / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/13_683ad13d-1862-49e7-aaff-3e3473df0db3.jpg?v=1784102058",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_faf274de-cc9c-4118-b02b-25ca8261d9a6.jpg?v=1784102057",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_2a9f4a70-28c7-4d2e-889d-3f5ce5cb0be3.jpg?v=1784102057"
+    ],
+    "description": "The BB950 is the next evolution of court-inspired style. With its roots in mid-’80s basketball, the 950 is clean, versatile, and undeniably wearable. The puffed ‘N’ logo and basketball label on the tongue are distinct but subtle cues to the",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/new-balance-bb950-grey-white",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20Bb950%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20Bb950%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20Bb950%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Bb950%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-abzorb-2000-violet-sea-salt",
+    "slug": "new-balance-abzorb-2000-violet-sea-salt",
+    "brand": "New Balance",
+    "model": "Abzorb 2000",
+    "colorway": "Violet / Sea Salt",
+    "category": "Lifestyle",
+    "palette": [
+      "#6b4a8a",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_0fa61d52-1ac8-47e6-ae4b-e1def605ffbc.jpg?v=1784102103",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ad61cc35-8584-4ce2-ac6f-abacad369173.jpg?v=1784102103",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_791f322f-11a3-4088-a20b-133974eb48f4.jpg?v=1784102103"
+    ],
+    "description": "The ABZORB 2000 takes a distinctive feature of notable 2000s running-inspired classics and makes it the focal point of an all-new style. This progressive, experimental design features a full-length combination of ABZORB cushioning and ABZOR",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 18999,
+        "url": "https://www.superkicks.in/products/new-balance-abzorb-2000-violet-sea-salt",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20Abzorb%202000%20Violet",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20Abzorb%202000%20Violet",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20Abzorb%202000%20Violet",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Abzorb%202000%20Violet",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-471-brown-breakfast-tea",
+    "slug": "new-balance-471-brown-breakfast-tea",
+    "brand": "New Balance",
+    "model": "471",
+    "colorway": "Brown / Breakfast Tea",
+    "category": "Lifestyle",
+    "palette": [
+      "#6b4a2f",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_00f64a19-2cba-4afa-9055-c6fefbc90e5a.jpg?v=1784102118",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_1d2a2c4f-637e-43fc-97ae-fc2bce6196e3.jpg?v=1784102118",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_089ad626-d7c4-4645-9e71-621d9540fd65.jpg?v=1784102118"
+    ],
+    "description": "The 471 transforms ‘70s running heritage into a new, everyday go-to, with a reinterpretation of the era’s visual signatures. The sleek low profile, wedge-shaped EVA midsole, and herringbone outsole provide a familiar starting point, allowin",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/new-balance-471-brown-breakfast-tea",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20471%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20471%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20471%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20471%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-ava-edge-college-grey-black-dk-smoke-grey",
+    "slug": "nike-ava-edge-college-grey-black-dk-smoke-grey",
+    "brand": "Nike",
+    "model": "Ava Edge",
+    "colorway": "College Grey / Black / Dk Smoke Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_5a3849b4-085a-4c1a-a9a1-21351c5a5aa3.jpg?v=1784103895",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_5a6ef4fc-cb0d-498a-b13b-e549b444a8d0.jpg?v=1784103895",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_32f2afbe-718d-4662-8ef4-e968ef20d05c.jpg?v=1784103895"
+    ],
+    "description": "Inspired by the geometry of modern cities, the Nike Ava Edge is built for crisscrossing the concrete jungle. It combines a flexible yet protective upper with performance-level cushioning and an outsole that leaves a memorable mark. Navigati",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13995,
+        "url": "https://www.superkicks.in/products/nike-ava-edge-college-grey-black-dk-smoke-grey",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Ava%20Edge%20College%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Ava%20Edge%20College%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Ava%20Edge%20College%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Ava%20Edge%20College%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Ava%20Edge%20College%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-flight-court-black-white-university-red",
+    "slug": "jordan-flight-court-black-white-university-red",
+    "brand": "Jordan",
+    "model": "Flight Court",
+    "colorway": "Black / White / University Red",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_7_163e5d2f-57ad-4273-a9c7-2ada05f00de4.jpg?v=1784105053",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_8_368bd209-36f0-4aab-bde4-e618448c38fc.jpg?v=1784105029",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_7_33222008-472a-4be5-8cfa-df37fe70d785.jpg?v=1784105029"
+    ],
+    "description": "Inspired by the past, built for tomorrow. We remixed elements from the AJ3, AJ4 and AJ5 to create a fresh take on the classics. Smooth leather and soft suede give you style and durability while textile panels add breathability. Plus, embroi",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8695,
+        "url": "https://www.superkicks.in/products/jordan-flight-court-black-white-university-red",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Flight%20Court%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Flight%20Court%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Flight%20Court%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Flight%20Court%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Flight%20Court%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-spizike-low-anthracite-university-red-black",
+    "slug": "jordan-spizike-low-anthracite-university-red-black",
+    "brand": "Jordan",
+    "model": "Spizike Low",
+    "colorway": "Anthracite / University Red / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_6_6a3eef05-f088-4a4b-9ff5-63870d724430.jpg?v=1784104452",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_7_b59ca69e-ae3c-4f52-afbc-32e280af16eb.jpg?v=1784104452",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/10_08c1e5b7-0640-4384-a707-b7235f07b17f.jpg?v=1784104451"
+    ],
+    "description": "The Spizike takes elements of five classic Jordans, combines them, and gives you one iconic sneaker. It's an homage to Spike Lee formally introducing Hollywood and hoops in a culture moment. You get a great looking pair of kicks with some h",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 14995,
+        "url": "https://www.superkicks.in/products/jordan-spizike-low-anthracite-university-red-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Spizike%20Low%20Anthracite",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Spizike%20Low%20Anthracite",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Spizike%20Low%20Anthracite",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Spizike%20Low%20Anthracite",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Spizike%20Low%20Anthracite",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
+      }
+    ]
+  },
+  {
     "id": "sk-jordan-air-jordan-1-mid-true-blue-summit-white-varsity-red-black",
     "slug": "jordan-air-jordan-1-mid-true-blue-summit-white-varsity-red-black",
     "brand": "Jordan",
@@ -22,44 +414,50 @@
         "retailerId": "superkicks",
         "price": 11495,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-true-blue-summit-white-varsity-red-black",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20True%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20True%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20True%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20True%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20True%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -94,42 +492,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Ava%20X%20Mesh%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Ava%20X%20Mesh%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Ava%20X%20Mesh%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Ava%20X%20Mesh%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Ava%20X%20Mesh%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -161,42 +559,42 @@
           "5.5",
           "6.5"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%20Mule%20Se%20Metallic%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%20Mule%20Se%20Metallic%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%20Mule%20Se%20Metallic%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%20Mule%20Se%20Metallic%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%20Mule%20Se%20Metallic%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -231,42 +629,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Ava%20X%20Mesh%20College%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Ava%20X%20Mesh%20College%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Ava%20X%20Mesh%20College%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Ava%20X%20Mesh%20College%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Ava%20X%20Mesh%20College%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -292,37 +690,41 @@
         "retailerId": "superkicks",
         "price": 7999,
         "url": "https://www.superkicks.in/products/puma-speedcat-mule-espresso-bean-haute-coffee",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Mule%20Espresso%20Bean",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Mule%20Espresso%20Bean",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Mule%20Espresso%20Bean",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Mule%20Espresso%20Bean",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -348,37 +750,41 @@
         "retailerId": "superkicks",
         "price": 7999,
         "url": "https://www.superkicks.in/products/puma-speedcat-mule-puma-black",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Mule%20Puma%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Mule%20Puma%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Mule%20Puma%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Mule%20Puma%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -412,42 +818,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Ava%20X%20Mesh%20Alabaster",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Ava%20X%20Mesh%20Alabaster",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Ava%20X%20Mesh%20Alabaster",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Ava%20X%20Mesh%20Alabaster",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Ava%20X%20Mesh%20Alabaster",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -482,42 +888,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Ava%20X%20Light%20Bone",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Ava%20X%20Light%20Bone",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Ava%20X%20Light%20Bone",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Ava%20X%20Light%20Bone",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Ava%20X%20Light%20Bone",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -543,44 +949,50 @@
         "retailerId": "superkicks",
         "price": 12495,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-black-tough-red-black",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -606,44 +1018,48 @@
         "retailerId": "superkicks",
         "price": 11895,
         "url": "https://www.superkicks.in/products/jordan-trunner-lx-lt-british-tan-desert-orange",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Trunner%20Lx%20Lt%20British%20Tan",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Trunner%20Lx%20Lt%20British%20Tan",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Trunner%20Lx%20Lt%20British%20Tan",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Trunner%20Lx%20Lt%20British%20Tan",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Trunner%20Lx%20Lt%20British%20Tan",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -669,44 +1085,48 @@
         "retailerId": "superkicks",
         "price": 9995,
         "url": "https://www.superkicks.in/products/nike-dunk-low-se-white-university-red-white",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Dunk%20Low%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Dunk%20Low%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Dunk%20Low%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Dunk%20Low%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Dunk%20Low%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -732,44 +1152,48 @@
         "retailerId": "superkicks",
         "price": 14995,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-mule-se-off-noir-metallic-gold-chalk",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "4.5",
+          "5.5",
+          "6.5"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%20Mule%20Se%20Off%20Noir",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%20Mule%20Se%20Off%20Noir",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%20Mule%20Se%20Off%20Noir",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%20Mule%20Se%20Off%20Noir",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%20Mule%20Se%20Off%20Noir",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -795,44 +1219,48 @@
         "retailerId": "superkicks",
         "price": 10995,
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-university-red-university-red-lt-magenta",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20University%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20University%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20University%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20University%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20University%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -860,42 +1288,42 @@
         "url": "https://www.superkicks.in/products/nike-astrograbber-suede-lt-magenta-muslin-sail",
         "inStock": false,
         "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Astrograbber%20Suede%20Lt%20Magenta",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Astrograbber%20Suede%20Lt%20Magenta",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Astrograbber%20Suede%20Lt%20Magenta",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Astrograbber%20Suede%20Lt%20Magenta",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Astrograbber%20Suede%20Lt%20Magenta",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -922,44 +1350,50 @@
         "retailerId": "superkicks",
         "price": 15295,
         "url": "https://www.superkicks.in/products/jordan-sixty-plus-low-white-black-tour-yellow",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Sixty%20Plus%20Low%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Sixty%20Plus%20Low%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Sixty%20Plus%20Low%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Sixty%20Plus%20Low%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Sixty%20Plus%20Low%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -986,44 +1420,50 @@
         "retailerId": "superkicks",
         "price": 15295,
         "url": "https://www.superkicks.in/products/jordan-sixty-plus-low-white-varsity-red-true-blue",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Sixty%20Plus%20Low%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Sixty%20Plus%20Low%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Sixty%20Plus%20Low%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Sixty%20Plus%20Low%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Sixty%20Plus%20Low%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1050,44 +1490,48 @@
         "retailerId": "superkicks",
         "price": 10795,
         "url": "https://www.superkicks.in/products/jordan-pointe-black-flt-gold-star-chalk",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Pointe%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Pointe%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Pointe%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Pointe%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Pointe%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1114,44 +1558,48 @@
         "retailerId": "superkicks",
         "price": 12795,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-triple-stack-blue-beyond-white-black",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Blue%20Beyond",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Blue%20Beyond",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Blue%20Beyond",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Blue%20Beyond",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Blue%20Beyond",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1177,44 +1625,48 @@
         "retailerId": "superkicks",
         "price": 9695,
         "url": "https://www.superkicks.in/products/nike-p-6000-grey-fog-newsprint-photon-dust",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20P-6000%20Grey%20Fog",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20P-6000%20Grey%20Fog",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20P-6000%20Grey%20Fog",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20P-6000%20Grey%20Fog",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20P-6000%20Grey%20Fog",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1249,42 +1701,42 @@
           "9.5",
           "10.5"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20G.T.%20Cut%20Dylan%20Harper%20X%20Titan%20Ep%20Bleached%20Aqua",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20G.T.%20Cut%20Dylan%20Harper%20X%20Titan%20Ep%20Bleached%20Aqua",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20G.T.%20Cut%20Dylan%20Harper%20X%20Titan%20Ep%20Bleached%20Aqua",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20G.T.%20Cut%20Dylan%20Harper%20X%20Titan%20Ep%20Bleached%20Aqua",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20G.T.%20Cut%20Dylan%20Harper%20X%20Titan%20Ep%20Bleached%20Aqua",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1318,35 +1770,35 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Asics%20Earls%20X%20Gel-Cumulus%2016%20Coconut%20Milk",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Asics%20Earls%20X%20Gel-Cumulus%2016%20Coconut%20Milk",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Asics%20Earls%20X%20Gel-Cumulus%2016%20Coconut%20Milk",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Asics%20Earls%20X%20Gel-Cumulus%2016%20Coconut%20Milk",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1378,42 +1830,42 @@
           "8",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Dn8%20Premium%20Se%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Dn8%20Premium%20Se%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Dn8%20Premium%20Se%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Dn8%20Premium%20Se%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Dn8%20Premium%20Se%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1447,42 +1899,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Plus%20Vii%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Plus%20Vii%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Plus%20Vii%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Plus%20Vii%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Plus%20Vii%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1517,42 +1969,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20Big%20Bubble%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20Big%20Bubble%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1584,42 +2036,42 @@
           "5",
           "6"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "adidas",
         "url": "https://www.adidas.co.in/search?q=adidas%20Tokyo%20Maroon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=adidas%20Tokyo%20Maroon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=adidas%20Tokyo%20Maroon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=adidas%20Tokyo%20Maroon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Tokyo%20Maroon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1651,42 +2103,42 @@
           "5",
           "6"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "adidas",
         "url": "https://www.adidas.co.in/search?q=adidas%20Tokyo%20Royal%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=adidas%20Tokyo%20Royal%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=adidas%20Tokyo%20Royal%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=adidas%20Tokyo%20Royal%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Tokyo%20Royal%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1714,35 +2166,35 @@
         "url": "https://www.superkicks.in/products/new-balance-471-fairweather-blue-fire-cracker",
         "inStock": false,
         "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=New%20Balance%20471%20Fairweather%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=New%20Balance%20471%20Fairweather%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=New%20Balance%20471%20Fairweather%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=New%20Balance%20471%20Fairweather%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.329Z"
       }
     ]
   },
@@ -1774,35 +2226,35 @@
           "S",
           "M"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Reebok%20Women%20Leggings%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Reebok%20Women%20Leggings%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Reebok%20Women%20Leggings%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Reebok%20Women%20Leggings%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -1834,35 +2286,35 @@
           "5",
           "6"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Puma%20Aka%20Boku%20Rs-%20Connect%20Trainer%20Multi",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Puma%20Aka%20Boku%20Rs-%20Connect%20Trainer%20Multi",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Puma%20Aka%20Boku%20Rs-%20Connect%20Trainer%20Multi",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Puma%20Aka%20Boku%20Rs-%20Connect%20Trainer%20Multi",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -1896,35 +2348,35 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Puma%20Deviate%20Nitro%204%20Check%20Royal%20Sapphire",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Puma%20Deviate%20Nitro%204%20Check%20Royal%20Sapphire",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Puma%20Deviate%20Nitro%204%20Check%20Royal%20Sapphire",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Puma%20Deviate%20Nitro%204%20Check%20Royal%20Sapphire",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -1958,35 +2410,35 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Puma%20Deviate%20Nitro%204%20Check%20For%20All%20Time%20Puma%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Puma%20Deviate%20Nitro%204%20Check%20For%20All%20Time%20Puma%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Puma%20Deviate%20Nitro%204%20Check%20For%20All%20Time%20Puma%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Puma%20Deviate%20Nitro%204%20Check%20For%20All%20Time%20Puma%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2016,42 +2468,42 @@
         "sizes": [
           "9"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "adidas",
         "url": "https://www.adidas.co.in/search?q=adidas%20Megaride%20By%20Avavav%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=adidas%20Megaride%20By%20Avavav%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=adidas%20Megaride%20By%20Avavav%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=adidas%20Megaride%20By%20Avavav%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Megaride%20By%20Avavav%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2081,42 +2533,42 @@
         "sizes": [
           "9"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "adidas",
         "url": "https://www.adidas.co.in/search?q=adidas%20Megaride%20By%20Avavav%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=adidas%20Megaride%20By%20Avavav%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=adidas%20Megaride%20By%20Avavav%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=adidas%20Megaride%20By%20Avavav%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Megaride%20By%20Avavav%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2149,42 +2601,42 @@
           "5",
           "6"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "adidas",
         "url": "https://www.adidas.co.in/search?q=adidas%20Adistar%20Control%205%20Aurora%20Ivy",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=adidas%20Adistar%20Control%205%20Aurora%20Ivy",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=adidas%20Adistar%20Control%205%20Aurora%20Ivy",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=adidas%20Adistar%20Control%205%20Aurora%20Ivy",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Adistar%20Control%205%20Aurora%20Ivy",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2218,42 +2670,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "adidas",
         "url": "https://www.adidas.co.in/search?q=adidas%20Adistar%20Control%205%20Silver%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=adidas%20Adistar%20Control%205%20Silver%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=adidas%20Adistar%20Control%205%20Silver%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=adidas%20Adistar%20Control%205%20Silver%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Adistar%20Control%205%20Silver%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2288,42 +2740,42 @@
           "2",
           "2.5"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20X%20Lego%C2%AE%20Collection%20(Ps)%20Lucky%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20X%20Lego%C2%AE%20Collection%20(Ps)%20Lucky%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20X%20Lego%C2%AE%20Collection%20(Ps)%20Lucky%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20X%20Lego%C2%AE%20Collection%20(Ps)%20Lucky%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20X%20Lego%C2%AE%20Collection%20(Ps)%20Lucky%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2354,42 +2806,42 @@
           "4",
           "5"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%205%20Retro%20OG%20(Gs)%20White%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%205%20Retro%20OG%20(Gs)%20White%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%205%20Retro%20OG%20(Gs)%20White%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%205%20Retro%20OG%20(Gs)%20White%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%205%20Retro%20OG%20(Gs)%20White%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2422,42 +2874,42 @@
           "5",
           "6"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Rejuven8%20Dk%20Field%20Brown",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Rejuven8%20Dk%20Field%20Brown",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Rejuven8%20Dk%20Field%20Brown",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Rejuven8%20Dk%20Field%20Brown",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Rejuven8%20Dk%20Field%20Brown",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2490,42 +2942,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Jordan%20Trunner%20Flow%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Jordan%20Trunner%20Flow%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Jordan%20Trunner%20Flow%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Jordan%20Trunner%20Flow%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Jordan%20Trunner%20Flow%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2559,35 +3011,35 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=New%20Balance%20574%20Oxford%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=New%20Balance%20574%20Oxford%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=New%20Balance%20574%20Oxford%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=New%20Balance%20574%20Oxford%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2619,42 +3071,42 @@
           "5",
           "6"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20OG%20Malachite",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20OG%20Malachite",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20OG%20Malachite",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20OG%20Malachite",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20OG%20Malachite",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2689,42 +3141,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2090%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2090%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2090%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2090%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2090%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2758,35 +3210,35 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=New%20Balance%20471%20Rosewood",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=New%20Balance%20471%20Rosewood",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=New%20Balance%20471%20Rosewood",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=New%20Balance%20471%20Rosewood",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2820,35 +3272,35 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=New%20Balance%20471%20Cinnamon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=New%20Balance%20471%20Cinnamon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=New%20Balance%20471%20Cinnamon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=New%20Balance%20471%20Cinnamon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2882,42 +3334,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "adidas",
         "url": "https://www.adidas.co.in/search?q=adidas%20Adistar%20Control%205%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=adidas%20Adistar%20Control%205%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=adidas%20Adistar%20Control%205%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=adidas%20Adistar%20Control%205%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Adistar%20Control%205%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -2946,42 +3398,42 @@
         "url": "https://www.superkicks.in/products/nike-dunk-low-midnight-navy-speed-red-green-noise",
         "inStock": false,
         "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Dunk%20Low%20Midnight%20Navy",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Dunk%20Low%20Midnight%20Navy",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Dunk%20Low%20Midnight%20Navy",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Dunk%20Low%20Midnight%20Navy",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Dunk%20Low%20Midnight%20Navy",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3016,42 +3468,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "adidas",
         "url": "https://www.adidas.co.in/search?q=adidas%20Samba%2062%20Super%20Mercedes%20Amg%20Petronas%20F1%20Team%20Cloud%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=adidas%20Samba%2062%20Super%20Mercedes%20Amg%20Petronas%20F1%20Team%20Cloud%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=adidas%20Samba%2062%20Super%20Mercedes%20Amg%20Petronas%20F1%20Team%20Cloud%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=adidas%20Samba%2062%20Super%20Mercedes%20Amg%20Petronas%20F1%20Team%20Cloud%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%2062%20Super%20Mercedes%20Amg%20Petronas%20F1%20Team%20Cloud%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3082,42 +3534,42 @@
           "8",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "adidas",
         "url": "https://www.adidas.co.in/search?q=adidas%20F50%20Formotion%20Sp5der%20Silver%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=adidas%20F50%20Formotion%20Sp5der%20Silver%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=adidas%20F50%20Formotion%20Sp5der%20Silver%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=adidas%20F50%20Formotion%20Sp5der%20Silver%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20F50%20Formotion%20Sp5der%20Silver%20Metallic",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3150,35 +3602,35 @@
           "6",
           "7"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Thaely%20Maryjane%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Thaely%20Maryjane%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Thaely%20Maryjane%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Thaely%20Maryjane%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3208,44 +3660,45 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8"
+          "8",
+          "9"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Retro%20High%20OG%20Love%20Letter%20Shadow%20Brown",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Retro%20High%20OG%20Love%20Letter%20Shadow%20Brown",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Retro%20High%20OG%20Love%20Letter%20Shadow%20Brown",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Retro%20High%20OG%20Love%20Letter%20Shadow%20Brown",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Retro%20High%20OG%20Love%20Letter%20Shadow%20Brown",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3272,39 +3725,37 @@
         "price": 7499,
         "mrp": 9999,
         "url": "https://www.superkicks.in/products/puma-speedcat-og-pink-white",
-        "inStock": true,
-        "sizes": [
-          "7"
-        ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20OG%20Pink",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20OG%20Pink",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20OG%20Pink",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20OG%20Pink",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3338,42 +3789,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Dn8%20Dark%20Obsidian",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Dn8%20Dark%20Obsidian",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Dn8%20Dark%20Obsidian",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Dn8%20Dark%20Obsidian",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Dn8%20Dark%20Obsidian",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3406,42 +3857,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Dn8%20Flt%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Dn8%20Flt%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Dn8%20Flt%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Dn8%20Flt%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Dn8%20Flt%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3472,37 +3923,38 @@
           "7",
           "8",
           "9",
-          "10"
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=New%20Balance%202010%20Cortado",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=New%20Balance%202010%20Cortado",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=New%20Balance%202010%20Cortado",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=New%20Balance%202010%20Cortado",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3536,42 +3988,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Lx%20Sunflower%20Sesame",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Lx%20Sunflower%20Sesame",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Lx%20Sunflower%20Sesame",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Lx%20Sunflower%20Sesame",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Lx%20Sunflower%20Sesame",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3604,35 +4056,35 @@
           "9",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Thaely%20Tech%20Tabi%20Real%20Tree%20Camo%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Thaely%20Tech%20Tabi%20Real%20Tree%20Camo%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Thaely%20Tech%20Tabi%20Real%20Tree%20Camo%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Thaely%20Tech%20Tabi%20Real%20Tree%20Camo%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3664,35 +4116,35 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Thaely%20Tech%20Tabi%20Obsidian%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Thaely%20Tech%20Tabi%20Obsidian%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Thaely%20Tech%20Tabi%20Obsidian%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Thaely%20Tech%20Tabi%20Obsidian%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3724,35 +4176,35 @@
           "8",
           "9"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Thaely%20Tech%20Tabi%20Flaming%20Hot%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Thaely%20Tech%20Tabi%20Flaming%20Hot%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Thaely%20Tech%20Tabi%20Flaming%20Hot%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Thaely%20Tech%20Tabi%20Flaming%20Hot%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3783,35 +4235,35 @@
           "7",
           "8"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Thaely%20Tech%20Tabi%20Digi%20Camo%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Thaely%20Tech%20Tabi%20Digi%20Camo%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Thaely%20Tech%20Tabi%20Digi%20Camo%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Thaely%20Tech%20Tabi%20Digi%20Camo%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3845,35 +4297,35 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Thaely%20Tech%20Tabi%20Carbon%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Thaely%20Tech%20Tabi%20Carbon%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Thaely%20Tech%20Tabi%20Carbon%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Thaely%20Tech%20Tabi%20Carbon%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3907,42 +4359,42 @@
           "6",
           "7"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20High%20OG%20Khaki",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20High%20OG%20Khaki",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20High%20OG%20Khaki",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20High%20OG%20Khaki",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20High%20OG%20Khaki",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -3972,44 +4424,46 @@
         "sizes": [
           "7",
           "8",
+          "9",
+          "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Spizike%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Spizike%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Spizike%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Spizike%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Spizike%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4038,44 +4492,48 @@
         "url": "https://www.superkicks.in/products/jordan-son-of-mars-low-fire-red-grey-mist-white-black",
         "inStock": true,
         "sizes": [
-          "7"
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Son%20Of%20Mars%20Low%20Fire%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Son%20Of%20Mars%20Low%20Fire%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Son%20Of%20Mars%20Low%20Fire%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Son%20Of%20Mars%20Low%20Fire%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Son%20Of%20Mars%20Low%20Fire%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4109,42 +4567,42 @@
           "6",
           "7"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4179,42 +4637,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Summit%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Se%20Summit%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Summit%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Se%20Summit%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Summit%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4249,42 +4707,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Lv8%20Metallic%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Lv8%20Metallic%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Metallic%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Lv8%20Metallic%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Metallic%20Silver",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4316,42 +4774,42 @@
           "5",
           "6"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Muse%20Pink%20Foam",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Muse%20Pink%20Foam",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Muse%20Pink%20Foam",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Muse%20Pink%20Foam",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Muse%20Pink%20Foam",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4383,42 +4841,42 @@
           "5",
           "6"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Muse%20Chalk",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Muse%20Chalk",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Muse%20Chalk",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Muse%20Chalk",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Muse%20Chalk",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4449,42 +4907,42 @@
         "sizes": [
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Plus%20Vii%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Plus%20Vii%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Plus%20Vii%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Plus%20Vii%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Plus%20Vii%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4519,42 +4977,42 @@
           "11",
           "12"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Palomino",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Palomino",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Palomino",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Palomino",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Palomino",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4590,42 +5048,42 @@
           "11",
           "12"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4659,35 +5117,35 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Asics%20Japan%20S%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Asics%20Japan%20S%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Asics%20Japan%20S%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Asics%20Japan%20S%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4721,42 +5179,42 @@
           "6",
           "7"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20Shadow%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20Shadow%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20Shadow%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20Shadow%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20Shadow%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4790,42 +5248,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Off%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Se%20Off%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Off%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Se%20Off%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Off%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4858,42 +5316,42 @@
           "6",
           "7"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20Shadow%20Sail",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20Shadow%20Sail",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20Shadow%20Sail",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20Shadow%20Sail",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20Shadow%20Sail",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4927,42 +5385,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Jordan%20Trunner%20O%2FS%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Jordan%20Trunner%20O%2FS%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Jordan%20Trunner%20O%2FS%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Jordan%20Trunner%20O%2FS%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Jordan%20Trunner%20O%2FS%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -4997,42 +5455,42 @@
           "11",
           "12"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5067,42 +5525,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5134,42 +5592,42 @@
           "5",
           "6"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Dunk%20Low%20Hydrogen%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Dunk%20Low%20Hydrogen%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Dunk%20Low%20Hydrogen%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Dunk%20Low%20Hydrogen%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Dunk%20Low%20Hydrogen%20Blue",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5202,42 +5660,42 @@
           "3.5",
           "4.5"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%203%20World'S%20Best%20Sail",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%203%20World'S%20Best%20Sail",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%203%20World'S%20Best%20Sail",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%203%20World'S%20Best%20Sail",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%203%20World'S%20Best%20Sail",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5271,42 +5729,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "adidas",
         "url": "https://www.adidas.co.in/search?q=adidas%20Glenburn%20X%20Argentina%20X%20Thrasher%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=adidas%20Glenburn%20X%20Argentina%20X%20Thrasher%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=adidas%20Glenburn%20X%20Argentina%20X%20Thrasher%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=adidas%20Glenburn%20X%20Argentina%20X%20Thrasher%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Glenburn%20X%20Argentina%20X%20Thrasher%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5338,42 +5796,42 @@
           "5",
           "6"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Dunk%20Low%20Pink%20Foam",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Dunk%20Low%20Pink%20Foam",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Dunk%20Low%20Pink%20Foam",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Dunk%20Low%20Pink%20Foam",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Dunk%20Low%20Pink%20Foam",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5401,45 +5859,44 @@
         "url": "https://www.superkicks.in/products/nike-air-liquid-max-black-metallic-silver-light-army",
         "inStock": true,
         "sizes": [
-          "7",
-          "8"
+          "7"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Liquid%20Max%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Liquid%20Max%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Liquid%20Max%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Liquid%20Max%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Liquid%20Max%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5465,44 +5922,46 @@
         "retailerId": "superkicks",
         "price": 9695,
         "url": "https://www.superkicks.in/products/nike-sb-dunk-low-pro-green-noise-watermelon-light-curry",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "inStock": true,
+        "sizes": [
+          "11"
+        ],
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Sb%20Dunk%20Low%20Pro%20Green%20Noise",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Sb%20Dunk%20Low%20Pro%20Green%20Noise",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Sb%20Dunk%20Low%20Pro%20Green%20Noise",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Sb%20Dunk%20Low%20Pro%20Green%20Noise",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Sb%20Dunk%20Low%20Pro%20Green%20Noise",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.171Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5536,42 +5995,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Jordan%20Trunner%20O%2FS%20Palomino",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Jordan%20Trunner%20O%2FS%20Palomino",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Jordan%20Trunner%20O%2FS%20Palomino",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Jordan%20Trunner%20O%2FS%20Palomino",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Jordan%20Trunner%20O%2FS%20Palomino",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5605,42 +6064,42 @@
           "7",
           "8"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Astrograbber%20Leather%20Cinnamon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Astrograbber%20Leather%20Cinnamon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Astrograbber%20Leather%20Cinnamon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Astrograbber%20Leather%20Cinnamon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Astrograbber%20Leather%20Cinnamon",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5675,42 +6134,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Smoke%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20Big%20Bubble%20Smoke%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Smoke%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20Big%20Bubble%20Smoke%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Smoke%20Grey",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5743,42 +6202,42 @@
           "6",
           "7"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5812,35 +6271,35 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Asics%20Finesse%20X%20Gel-Cumulus%2016%20Desert%20Rose",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Asics%20Finesse%20X%20Gel-Cumulus%2016%20Desert%20Rose",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Asics%20Finesse%20X%20Gel-Cumulus%2016%20Desert%20Rose",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Asics%20Finesse%20X%20Gel-Cumulus%2016%20Desert%20Rose",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   },
@@ -5869,456 +6328,42 @@
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-black-university-red-white",
         "inStock": false,
         "sizes": [],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-lv8-denim-desert-khaki-desert-khaki-lt-khaki",
-    "slug": "nike-air-force-1-07-lv8-denim-desert-khaki-desert-khaki-lt-khaki",
-    "brand": "Nike",
-    "model": "Air Force 1 '07 Lv8 Denim",
-    "colorway": "Desert Khaki / Desert Khaki / Lt Khaki",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#2f5fa6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_67bf6383-b381-4ae1-9ad3-0b0353f0ed19.jpg?v=1781783416",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_13d85041-8011-4dce-ba60-6730a838bce8.jpg?v=1781783415",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6f28c955-cef8-4ac3-8ca9-e0a77f1e909f.jpg?v=1781783415"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. The classic ‘80s construction pairs durable canvas with bold details for style that tracks whether you’re on court or on the go. Leather upper with perforated toe box is breath",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-lv8-denim-desert-khaki-desert-khaki-lt-khaki",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Lv8%20Denim%20Desert%20Khaki",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Lv8%20Denim%20Desert%20Khaki",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Denim%20Desert%20Khaki",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Lv8%20Denim%20Desert%20Khaki",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Denim%20Desert%20Khaki",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-black-black-off-noir-metallic-silver",
-    "slug": "nike-air-force-1-07-black-black-off-noir-metallic-silver",
-    "brand": "Nike",
-    "model": "Air Force 1 '07",
-    "colorway": "Black / Black / Off Noir / Metallic Silver",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_9c09eeb0-568e-424c-ba4c-33880d8626dc.jpg?v=1781783441",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0e128a7b-0c78-4ad4-bf68-9dc3a83ce828.jpg?v=1781783441",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_f0673bef-3d30-493f-a998-9709ea51d258.jpg?v=1781783441"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. The Air Force 1 pairs its classic silhouette with premium leather for a crisp, clean look. Leather upper with perforated toe box is breathable and comfortable. Nike Air unit pr",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-black-black-off-noir-metallic-silver",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-white-white-wolf-grey-metallic-silver",
-    "slug": "nike-air-force-1-07-white-white-wolf-grey-metallic-silver",
-    "brand": "Nike",
-    "model": "Air Force 1 '07",
-    "colorway": "White / White / Wolf Grey / Metallic Silver",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d108ef44-165a-4ae8-b6c7-779ea7c1519a.jpg?v=1781783470",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_494d5679-b54e-4bf4-a81b-cd543790d203.jpg?v=1781783471",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_0f68bff1-a47f-4433-b09e-17a1a8f1ee98.jpg?v=1781783471"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. The Air Force 1 pairs its classic silhouette with premium leather for a crisp, clean look. Leather upper with perforated toe box is breathable and comfortable. Nike Air unit pr",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-white-white-wolf-grey-metallic-silver",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-astrograbber-textile-sail-old-royal-muslin",
-    "slug": "nike-astrograbber-textile-sail-old-royal-muslin",
-    "brand": "Nike",
-    "model": "Astrograbber Textile",
-    "colorway": "Sail / Old Royal / Muslin",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#2f5fa6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_5ee6016c-67da-43e6-972f-a20d03b0ded3.jpg?v=1781783372",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_83b387eb-ab65-4f5d-875c-63796834d5b1.jpg?v=1781783372",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_746b5e92-7680-4483-953b-f69100d5b923.jpg?v=1781783372"
-    ],
-    "description": "Debuting on the heels of Nike's Waffle Trainer, the state-of-the-art Astrograbber was designed to better grip the turf on American football fields. Breathable textiles upgrade the gridiron classic to a modern status symbol worthy of everyda",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9695,
-        "url": "https://www.superkicks.in/products/nike-astrograbber-textile-sail-old-royal-muslin",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Astrograbber%20Textile%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Astrograbber%20Textile%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Astrograbber%20Textile%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Astrograbber%20Textile%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Astrograbber%20Textile%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-mid-white-aluminum-wolf-grey",
-    "slug": "jordan-air-jordan-1-mid-white-aluminum-wolf-grey",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Mid",
-    "colorway": "White / Aluminum / Wolf Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d84d1232-c4d2-4ac9-98bb-bbe01d2b7d0d.jpg?v=1781783187",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_c77026f6-ee29-4485-afef-58d9ea4fe99b.jpg?v=1781783187",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5a3dd1de-0481-4388-949c-3559781e9226.jpg?v=1781783187"
-    ],
-    "description": "HERITAGE STYLE, PREMIUM COMFORT ON AND OFF THE COURT. The Air Jordan 1 Mid brings full-court style and premium comfort to an iconic look. Its Air-Sole unit cushions play on the hardwood, while the padded collar gives you a supportive feel. ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11495,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-white-aluminum-wolf-grey",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-pink-rise-pink-rise-pink-foam",
-    "slug": "nike-air-force-1-07-pink-rise-pink-rise-pink-foam",
-    "brand": "Nike",
-    "model": "Air Force 1 '07",
-    "colorway": "Pink Rise / Pink Rise / Pink Foam",
-    "category": "Lifestyle",
-    "palette": [
-      "#e093a6",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_4271dc41-6424-4fee-9e0e-5a1c74339518.jpg?v=1781783512",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_b5eb4c6a-be93-4676-a388-9c47a1b79eee.jpg?v=1781783512",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3f43d672-3646-4b4a-878f-6f9411808687.jpg?v=1781783512"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. The Air Force 1 pairs its classic silhouette with premium leather for a crisp, clean look. Leather upper with perforated toe box is breathable and comfortable. Nike Air unit pr",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-pink-rise-pink-rise-pink-foam",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Pink%20Rise",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Pink%20Rise",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Pink%20Rise",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Pink%20Rise",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Pink%20Rise",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-07-15T05:21:24.172Z"
+        "fetchedAt": "2026-07-16T05:30:17.330Z"
       }
     ]
   }
