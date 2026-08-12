@@ -13,7 +13,7 @@
  * objects and merge it below. To enable live prices for Amazon/Flipkart/AJIO,
  * swap their `linkOnly` reference offers for affiliate-API responses.
  */
-import { writeFile, mkdir } from "node:fs/promises";
+import { writeFile, readFile, mkdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import { dirname, join } from "node:path";
@@ -183,8 +183,9 @@ function stripHtml(html) {
     .trim();
 }
 
+// Offers are built without `fetchedAt`; the stamp is applied in `stampOffers`
+// once enrichment has finished, so it can be compared against the last run.
 function buildOffers(s) {
-  const now = new Date().toISOString();
   const query = encodeURIComponent(`${s.brand} ${s.model} ${s.colorway.split(" / ")[0]}`.trim());
   const offers = [
     {
@@ -194,7 +195,6 @@ function buildOffers(s) {
       url: s._super.url,
       inStock: s._super.inStock,
       sizes: s._super.sizes,
-      fetchedAt: now,
     },
   ];
 
@@ -210,10 +210,47 @@ function buildOffers(s) {
       url: make(query),
       inStock: true,
       linkOnly: true,
-      fetchedAt: now,
     });
   }
   return offers;
+}
+
+/** Everything about an offer except when we looked at it, key-order independent. */
+function fingerprint(offer) {
+  const { fetchedAt, ...rest } = offer;
+  return JSON.stringify(rest, Object.keys(rest).sort());
+}
+
+/** Previous run's offers, keyed `sneakerId::retailerId`. Empty on first run. */
+async function loadPreviousOffers(path) {
+  const map = new Map();
+  if (!existsSync(path)) return map;
+  try {
+    for (const s of JSON.parse(await readFile(path, "utf8"))) {
+      for (const o of s.offers || []) map.set(`${s.id}::${o.retailerId}`, o);
+    }
+  } catch {
+    // Corrupt or hand-edited catalogue — fall back to stamping everything.
+  }
+  return map;
+}
+
+/**
+ * Carry the old timestamp forward when an offer is unchanged since the last
+ * run. Two consequences, both wanted:
+ *   - A re-fetch that finds identical prices writes an identical file, so CI
+ *     has nothing to commit. Commits then track real price moves, not cron.
+ *   - `fetchedAt` means "this price last changed" rather than "the job last
+ *     ran", which is what the "updated X ago" label in PriceTable implies.
+ */
+function stampOffers(catalog, previous, now) {
+  for (const s of catalog) {
+    s.offers = s.offers.map((offer) => {
+      const before = previous.get(`${s.id}::${offer.retailerId}`);
+      const unchanged = before?.fetchedAt && fingerprint(before) === fingerprint(offer);
+      return { ...offer, fetchedAt: unchanged ? before.fetchedAt : now };
+    });
+  }
 }
 
 async function main() {
@@ -234,6 +271,9 @@ async function main() {
     delete s._super;
     return { ...s, offers };
   });
+
+  const outPath = join(ROOT, "data", "catalog.json");
+  const previous = await loadPreviousOffers(outPath);
 
   // Optional: enrich with live Amazon prices via PA-API (only if configured).
   if (isAmazonConfigured()) {
@@ -262,7 +302,7 @@ async function main() {
     console.log("Amazon PA-API not configured — Amazon rows stay as deep-links.");
   }
 
-  const outPath = join(ROOT, "data", "catalog.json");
+  stampOffers(catalog, previous, new Date().toISOString());
 
   // Safety: never overwrite a good catalogue with an empty one (e.g. if the
   // source blocked us). Keep the last known-good data instead.

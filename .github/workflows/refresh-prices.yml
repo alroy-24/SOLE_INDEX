@@ -35,8 +35,12 @@ jobs:
 
       - name: Commit & push if changed
         run: |
-          git config user.name "alroy-24"
-          git config user.email "pereiraalroy24@gmail.com"
+          # Author as the Actions bot, not as a person. These are machine data
+          # updates, and attributing them to a human account paints a fake daily
+          # streak across that account's contribution graph. Bot commits don't
+          # count toward it, which is the honest result.
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [ -n "$(git status --porcelain data/catalog.json)" ]; then
             git add data/catalog.json
             git commit -m "chore: refresh prices ($(date -u +%Y-%m-%d))"
