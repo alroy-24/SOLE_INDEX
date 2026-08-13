@@ -1,5 +1,991 @@
 [
   {
+    "id": "sk-asics-skyhand-og-light-sage-ash-green",
+    "slug": "asics-skyhand-og-light-sage-ash-green",
+    "brand": "Asics",
+    "model": "Skyhand OG",
+    "colorway": "Light Sage / Ash Green",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#2f6f4e"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_e9695763-fd2e-4743-99b2-08431c82346f.jpg?v=1786538392",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_ff86d112-f0a3-420c-9dfe-a35d859197e3.jpg?v=1786538392",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_6bb6ca52-263e-4520-ac83-192627fe1f3f.jpg?v=1786538392"
+    ],
+    "description": "The SKYHAND™ OG sneaker returns with original handball heritage. Surfacing with its 1990s design DNA, this shoe's slimmer-cut court silhouette is revamped with modern comfort properties. The upper materials are formed with a leather constru",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/asics-skyhand-og-light-sage-ash-green",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Skyhand%20OG%20Light%20Sage",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Skyhand%20OG%20Light%20Sage",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Skyhand%20OG%20Light%20Sage",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Skyhand%20OG%20Light%20Sage",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-giannis-freak-8-le-ep-white-metallic-silver-lt-smoke-grey",
+    "slug": "nike-giannis-freak-8-le-ep-white-metallic-silver-lt-smoke-grey",
+    "brand": "Nike",
+    "model": "Giannis Freak 8 Le Ep",
+    "colorway": "White / Metallic Silver / Lt Smoke Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_2b97cae9-2b93-4e70-8532-a6193569f26c.jpg?v=1786537412",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_36676a39-156f-464f-adba-630874b52911.jpg?v=1786537412",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_896fdfd2-552e-4b3c-a4e9-41cd2540e330.jpg?v=1786537412"
+    ],
+    "description": "For all his gifts, Giannis loves the grind. He's blessed by the basketball gods but believes the only way to get better is work. The Giannis Freak 8 matches that drive for any hooper determined to get 1% better every day, thanks to super-re",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10995,
+        "url": "https://www.superkicks.in/products/nike-giannis-freak-8-le-ep-white-metallic-silver-lt-smoke-grey",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Giannis%20Freak%208%20Le%20Ep%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Giannis%20Freak%208%20Le%20Ep%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Giannis%20Freak%208%20Le%20Ep%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Giannis%20Freak%208%20Le%20Ep%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Giannis%20Freak%208%20Le%20Ep%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-wedge-totally-taupe-chocolate",
+    "slug": "puma-speedcat-wedge-totally-taupe-chocolate",
+    "brand": "Puma",
+    "model": "Speedcat Wedge",
+    "colorway": "Totally Taupe / Chocolate",
+    "category": "Lifestyle",
+    "palette": [
+      "#6b4a2f",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f875d216-fe88-4e8d-8489-f65da6ca19cb.jpg?v=1786445261",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_53a561b6-c685-4eff-9637-49328fcfd81d.jpg?v=1786445261",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_e4679664-8508-40e1-a48a-714678c13d1b.jpg?v=1786445261"
+    ],
+    "description": "The Speedcat Wedge transforms an icon with a modern twist—featuring a concealed wedge heel and statement hook-and-loop straps for elevated style. Crafted with metallic accents, this design stands taller while keeping its signature streamlin",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-wedge-totally-taupe-chocolate",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "6"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Wedge%20Totally%20Taupe",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Wedge%20Totally%20Taupe",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Wedge%20Totally%20Taupe",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Wedge%20Totally%20Taupe",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-mclaren-racing-speedcat-puma-black-bright-papaya",
+    "slug": "puma-mclaren-racing-speedcat-puma-black-bright-papaya",
+    "brand": "Puma",
+    "model": "Mclaren Racing Speedcat",
+    "colorway": "Puma Black / Bright Papaya",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_954a577d-c7e5-4e30-95e8-5395178ff9d1.jpg?v=1786441767",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ab316939-545f-4704-b04d-6c51da51e135.jpg?v=1786441767",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_db071df9-b20d-412f-b78c-a8bf4f2858c5.jpg?v=1786441767"
+    ],
+    "description": "Motorsport isn’t just a vibe – it’s an energy. These lifestyle sneakers blend McLAREN RACING design cues with the iconic Speedcat silhouette. A nod to racing heritage, they keep you grounded in comfort and confidence wherever the day takes ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/puma-mclaren-racing-speedcat-puma-black-bright-papaya",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Mclaren%20Racing%20Speedcat%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Mclaren%20Racing%20Speedcat%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Mclaren%20Racing%20Speedcat%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Mclaren%20Racing%20Speedcat%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-hali-1-basketball-fresh-mint-green-moon",
+    "slug": "puma-hali-1-basketball-fresh-mint-green-moon",
+    "brand": "Puma",
+    "model": "Hali 1 Basketball",
+    "colorway": "Fresh Mint / Green Moon",
+    "category": "Lifestyle",
+    "palette": [
+      "#2f6f4e",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_36b37d6e-301e-4d56-b72f-014e96ba5b1b.jpg?v=1786434590",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_e1a73728-60ee-4a6f-a5c2-033c720908c8.jpg?v=1786434590",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_31f24576-f2d5-4913-b4b0-5cce0e3491ae.jpg?v=1786434590"
+    ],
+    "description": "The Hali 1 Low Basketball Shoes bring bounce and court-gripping traction to help quick cuts feel smooth and landings stay soft. A mesh overlay locks you in, and cushioning helps you keep pushing – right through the final buzzer. FEATURES BE",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11999,
+        "url": "https://www.superkicks.in/products/puma-hali-1-basketball-fresh-mint-green-moon",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Hali%201%20Basketball%20Fresh%20Mint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Hali%201%20Basketball%20Fresh%20Mint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Hali%201%20Basketball%20Fresh%20Mint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Hali%201%20Basketball%20Fresh%20Mint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-ballet-mouse-gray-puma-black",
+    "slug": "puma-speedcat-ballet-mouse-gray-puma-black",
+    "brand": "Puma",
+    "model": "Speedcat Ballet",
+    "colorway": "Mouse Gray / Puma Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_5eebd3c8-cd34-401a-8633-95f0e9da7a36.jpg?v=1786433674",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_1a5f940b-7153-4bb1-b44f-cc28f711f7f2.jpg?v=1786433674",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f0ef3e69-1a99-43b9-adfc-b9fa29513f33.jpg?v=1786433674"
+    ],
+    "description": "Rewrite the classics with Speedcat Ballet, a new iteration of the PUMA Speedcat. Drawing inspiration from classic ballet flats, the Speedcat Ballet transforms the icon of racing culture with a chic slip-on construction. Featuring a unique c",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 6999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-ballet-mouse-gray-puma-black",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Ballet%20Mouse%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Ballet%20Mouse%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Ballet%20Mouse%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Ballet%20Mouse%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-ballet-dusky-rosewood-puma-black",
+    "slug": "puma-speedcat-ballet-dusky-rosewood-puma-black",
+    "brand": "Puma",
+    "model": "Speedcat Ballet",
+    "colorway": "Dusky Rosewood / Puma Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#e093a6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_5f6752ef-cc17-418d-8b36-c1631a55c0b8.jpg?v=1786433178",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_b6920acb-65f2-4473-871f-292c88c8c83e.jpg?v=1786433178",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_34552c5d-ce29-4bf9-b431-5c8f5fe5b7c1.jpg?v=1786433178"
+    ],
+    "description": "The classic PUMA shoe is inspired by racetrack speed: The Speedcat Ballet stands out from other shoes with its race shoe-inspired shape and sleek lines that give you a fast and bold look. Bring motorsport to the street and feature minimalis",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 6999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-ballet-dusky-rosewood-puma-black",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Ballet%20Dusky%20Rosewood",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Ballet%20Dusky%20Rosewood",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Ballet%20Dusky%20Rosewood",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Ballet%20Dusky%20Rosewood",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-go-puma-black-puma-white",
+    "slug": "puma-speedcat-go-puma-black-puma-white",
+    "brand": "Puma",
+    "model": "Speedcat Go",
+    "colorway": "Puma Black / Puma White",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_9628bd50-9c3a-4c5f-85ec-45c284ee3769.jpg?v=1786431781",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_8b1a64b6-8989-4079-a97c-039ab3c46363.jpg?v=1786431781",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_74bbaf52-e856-4157-a342-cd523ff2b6ba.jpg?v=1786431781"
+    ],
+    "description": "An icon of racing culture, the PUMA Speedcat has been synonymous with speed, precision, and unparalleled performance for over 25 years. It originated as a Formula 1® footwear style, but over the decades it found itself on a new circuit – tr",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 7999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-go-puma-black-puma-white",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Go%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Go%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Go%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Go%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-og-puma-red-puma-white",
+    "slug": "puma-speedcat-og-puma-red-puma-white",
+    "brand": "Puma",
+    "model": "Speedcat OG",
+    "colorway": "Puma Red & Puma White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3fb15fe9-84a0-4c2e-b52e-7689534986cc.jpg?v=1786536565",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8c47a14b-5ee6-453a-b918-baeba876e264.jpg?v=1786536565",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_9aaaa0ba-a049-4837-bfaa-86d4680234c7.jpg?v=1786536566"
+    ],
+    "description": "The PUMA Speedcat OG sneaker brings back a motorsport classic with a sharp, striking design. Originally built for performance driving, the PUMA Speedcat OG sneaker features a low-profile, rounded toe, and premium suede upper. Gold foil bran",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-og-puma-red-puma-white",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20OG%20Puma%20Red%20%26%20Puma%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20OG%20Puma%20Red%20%26%20Puma%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20OG%20Puma%20Red%20%26%20Puma%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20OG%20Puma%20Red%20%26%20Puma%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-h-street-etoile-misty-pink-chocolate-fondue",
+    "slug": "puma-h-street-etoile-misty-pink-chocolate-fondue",
+    "brand": "Puma",
+    "model": "H-Street Etoile",
+    "colorway": "Misty Pink / Chocolate Fondue",
+    "category": "Lifestyle",
+    "palette": [
+      "#e093a6",
+      "#6b4a2f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c163551e-2c2a-44cb-b7d9-04789146a961.jpg?v=1786430176",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_08cfead2-d5a2-4fc4-ab0e-93674894d411.jpg?v=1786430175",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_aff336c3-26de-496d-8ca4-cde5fa494227.jpg?v=1786430175"
+    ],
+    "description": "With a design inspired by the iconic 2000s running spike, the PUMA Harambee, the?H-Street?is a timeless icon. These H-Street Etoile ballet-inspired sneakers blend a mix of satiny and soft materials for an elegant touch.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8999,
+        "url": "https://www.superkicks.in/products/puma-h-street-etoile-misty-pink-chocolate-fondue",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20H-Street%20Etoile%20Misty%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20H-Street%20Etoile%20Misty%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20H-Street%20Etoile%20Misty%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20H-Street%20Etoile%20Misty%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-go-etoile-black-glacial-gray",
+    "slug": "puma-speedcat-go-etoile-black-glacial-gray",
+    "brand": "Puma",
+    "model": "Speedcat Go Etoile",
+    "colorway": "Black & Glacial Gray",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_676313fd-d2f1-41e1-85ab-9ff09d7e7ba7.jpg?v=1786536890",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_af447152-d763-464e-a724-c7e2c8be0c3c.jpg?v=1786536890",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_271d2c7d-f00e-4d66-90ee-89b32a7e4f65.jpg?v=1786536890"
+    ],
+    "description": "The Speedcat Go Etoile reworks the Speedcat Go’s elastic closure into a satin ribbon like lace, leaning into ballet inspired detailing while staying rooted in its motorsport DNA. The result is a silhouette that continues to expand its cultu",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 7999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-go-etoile-black-glacial-gray",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Go%20Etoile%20Black%20%26%20Glacial%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Go%20Etoile%20Black%20%26%20Glacial%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Go%20Etoile%20Black%20%26%20Glacial%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Go%20Etoile%20Black%20%26%20Glacial%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-h-street-etoile-sage-glow-warm-white",
+    "slug": "puma-h-street-etoile-sage-glow-warm-white",
+    "brand": "Puma",
+    "model": "H-Street Etoile",
+    "colorway": "Sage Glow / Warm White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#2f6f4e"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c298a5cf-1871-4c9f-bf5c-5f8950b77915.jpg?v=1786384000",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_8cb59249-e0bd-46b0-80cd-d43b106ad084.jpg?v=1786383999",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_10e6eb86-f279-4b50-a24b-c65e76f28213.jpg?v=1786383999"
+    ],
+    "description": "With a design inspired by the iconic 2000s running spike, the PUMA Harambee, the?H-Street?is a timeless icon. These H-Street Etoile ballet-inspired sneakers blend a mix of satiny and soft materials for an elegant touch.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8999,
+        "url": "https://www.superkicks.in/products/puma-h-street-etoile-sage-glow-warm-white",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20H-Street%20Etoile%20Sage%20Glow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20H-Street%20Etoile%20Sage%20Glow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20H-Street%20Etoile%20Sage%20Glow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20H-Street%20Etoile%20Sage%20Glow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-icon-frosted-ivory-puma-black",
+    "slug": "puma-speedcat-icon-frosted-ivory-puma-black",
+    "brand": "Puma",
+    "model": "Speedcat Icon",
+    "colorway": "Frosted Ivory / Puma Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_26c7c7d2-bc12-41db-9e68-23ff071c8576.jpg?v=1786537032",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_1f0f197b-2828-48ff-9875-c7917bf25437.jpg?v=1786537032",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_105dc2d4-47d3-47de-88c2-4c6335b1136b.jpg?v=1786537032"
+    ],
+    "description": "No matter how you style it, Speedcat brings edge and individuality to every fit. With elevated detailing and refined accents, the collection delivers a fresh take on an icon. Inspired by the speed of the racetrack, this PUMA classic brings ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-icon-frosted-ivory-puma-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Icon%20Frosted%20Ivory",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Icon%20Frosted%20Ivory",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Icon%20Frosted%20Ivory",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Icon%20Frosted%20Ivory",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-ballet-dress-up-powder-pink-black",
+    "slug": "puma-speedcat-ballet-dress-up-powder-pink-black",
+    "brand": "Puma",
+    "model": "Speedcat Ballet Dress-Up",
+    "colorway": "Powder Pink / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#2f5fa6",
+      "#e093a6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_cee02c76-ec08-4bdf-b7d7-8e0a2f7a4162.jpg?v=1786537173",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_f6d4be6a-020b-4bde-aa30-c935c10d5a0b.jpg?v=1786537173",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/12_429e03d3-b2a6-496f-9b96-1e62af735ad4.jpg?v=1786537173"
+    ],
+    "description": "An icon inspired by the speed of the racetrack, the Speedcat sneakers bring edge and individuality to any outfit. This version of the classic is finished with embroidered branding. FEATURES BENEFITS ORTHOLITE®: Provides step-in comfort and ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 6999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-ballet-dress-up-powder-pink-black",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Ballet%20Dress-Up%20Powder%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Ballet%20Dress-Up%20Powder%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Ballet%20Dress-Up%20Powder%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Ballet%20Dress-Up%20Powder%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-asics-gel-stratus-mc-white-clay-canyon",
+    "slug": "asics-gel-stratus-mc-white-clay-canyon",
+    "brand": "Asics",
+    "model": "Gel-Stratus Mc",
+    "colorway": "White / Clay Canyon",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#d8702f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1d9f7e6a-bacf-4a69-a2b6-bc58753853d6.jpg?v=1786538511",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_10ba38eb-724b-4131-875f-3fe888b55f5d.jpg?v=1786538512",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_edd5ad5c-277d-4b75-9ea5-36aa9ddc3d0f.jpg?v=1786538511"
+    ],
+    "description": "The GEL-STRATUS™ MC sneaker blends technical aesthetics with functional comfort properties. The upper is inspired by the GEL-STRATUS™ 4 running shoe, integrating synthetic leather overlays and air mesh underlays. Key elements from other 201",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/asics-gel-stratus-mc-white-clay-canyon",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-95-big-bubble-og-mink-brown-filbert-newsprint-sail",
+    "slug": "nike-air-max-95-big-bubble-og-mink-brown-filbert-newsprint-sail",
+    "brand": "Nike",
+    "model": "Air Max 95 Big Bubble OG",
+    "colorway": "Mink Brown / Filbert / Newsprint / Sail",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#6b4a2f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_d104bef9-1d90-444e-8abb-ae2d4fbd9a42.jpg?v=1786539089",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_6edba132-f4bd-4bc0-89a8-e538c3884797.jpg?v=1786539089",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_40361c00-dc9a-4c5e-9ef4-0673c7e7a978.jpg?v=1786539089"
+    ],
+    "description": "Taking inspiration from the human body and '90s track aesthetics, the Air Max 95 mixes unbelievable comfort with fast-paced style. The wavy side panels add natural flow to any outfit while visible cushioning in the heel and forefoot deliver",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 15995,
+        "url": "https://www.superkicks.in/products/nike-air-max-95-big-bubble-og-mink-brown-filbert-newsprint-sail",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20Big%20Bubble%20OG%20Mink%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20Big%20Bubble%20OG%20Mink%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20OG%20Mink%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20Big%20Bubble%20OG%20Mink%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20OG%20Mink%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
+      }
+    ]
+  },
+  {
     "id": "sk-adidas-f50-taekwondo-core-black-lucid-ray-blue-silver-metallic",
     "slug": "adidas-f50-taekwondo-core-black-lucid-ray-blue-silver-metallic",
     "brand": "adidas",
@@ -362,10 +1348,11 @@
         "url": "https://www.superkicks.in/products/nike-react-x-rejuven8-pink-smoke-pink-rise",
         "inStock": true,
         "sizes": [
+          "4.5",
           "5.5",
           "6.5"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-13T04:43:59.945Z"
       },
       {
         "retailerId": "nike",
@@ -5243,1011 +6230,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-taylor-all-star-black-egret-gold-1",
-    "slug": "converse-chuck-taylor-all-star-black-egret-gold-1",
-    "brand": "Converse",
-    "model": "Chuck Taylor All Star",
-    "colorway": "Black / Egret / Gold",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#d9b441"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_8ae2b34b-1a81-415b-a6b0-3c5cc0848104.jpg?v=1784786435",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_b412b28b-3ef6-4f4f-b299-38b1758c9295.jpg?v=1784786435",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ac396751-2b59-48ce-bb8f-b14620038b7f.jpg?v=1784786435"
-    ],
-    "description": "Made To Match Your Favorite Heavy-Duty Jacket. Classic Silhouettes Meet Workwear Aesthetics In Zipper-Accented Chucks. Durable Twill Upper For That Classic Chucks Look And Feel Ortholite Cushioning Helps Provide Optimal Underfoot Comfort Zi",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 4499,
-        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-black-egret-gold-1",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-p-6000-medium-ash-black-iron-grey-hyper-pink",
-    "slug": "nike-p-6000-medium-ash-black-iron-grey-hyper-pink",
-    "brand": "Nike",
-    "model": "P-6000",
-    "colorway": "Medium Ash / Black / Iron Grey / Hyper Pink",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94",
-      "#e093a6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_16a2530b-68c8-454c-ade7-b492b69b64a5.jpg?v=1784793845",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a7d4c197-54e6-4eec-ae8d-ddcabd297d6e.jpg?v=1784793844",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_2a7d9b8f-3291-4fdb-b29a-1a1f4803b2cc.jpg?v=1784793844"
-    ],
-    "description": "A mash-up of Pegasus sneakers past, the P-6000 takes early 2000s running to modern heights. Featuring mixed materials and sporty lines, it's the perfect blend of head-turning comfort and early aughties style. Foam midsole adds a lifted, tra",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9695,
-        "url": "https://www.superkicks.in/products/nike-p-6000-medium-ash-black-iron-grey-hyper-pink",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20P-6000%20Medium%20Ash",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20P-6000%20Medium%20Ash",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20P-6000%20Medium%20Ash",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20P-6000%20Medium%20Ash",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20P-6000%20Medium%20Ash",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-taylor-all-star-egret-egret-black",
-    "slug": "converse-chuck-taylor-all-star-egret-egret-black",
-    "brand": "Converse",
-    "model": "Chuck Taylor All Star",
-    "colorway": "Egret / Egret / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_2603267e-6db6-4889-b095-9e60eaf802d2.jpg?v=1784785870",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_b0ac65fa-3aac-46a2-95c0-24258d032b05.jpg?v=1784785870",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_7123453d-37d0-4839-90ab-d00d67e7efcf.jpg?v=1784785870"
-    ],
-    "description": "Made To Match Your Favorite Heavy-Duty Jacket. Classic Silhouettes Meet Workwear Aesthetics In Zipper-Accented Chucks. Durable Twill Upper For That Classic Chucks Look And Feel Ortholite Cushioning Helps Provide Optimal Underfoot Comfort Zi",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 4999,
-        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-egret-egret-black",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-liquid-man-black-black-anthracite-smoke-grey",
-    "slug": "nike-air-max-liquid-man-black-black-anthracite-smoke-grey",
-    "brand": "Nike",
-    "model": "Air Liquid Max",
-    "colorway": "Black / Black / Anthracite / Smoke Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a6efae53-1cde-460c-9f66-0a888056c949.jpg?v=1784794315",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/8_5acfc998-5727-4d4d-8549-0cbbbb139921.jpg?v=1784794315",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_3d3770c8-69a8-4f73-a9e1-e96fa5b99f61.jpg?v=1784794315"
-    ],
-    "description": "The Air Liquid Max wasn't made to convince you. It was made to innovate. Do you like it, or not? Either way, it's one of the most comfortable Air Max shoes to date. Every step feels fluid and smooth thanks to the drop-in Cushlon Midsole sta",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 19995,
-        "url": "https://www.superkicks.in/products/nike-air-max-liquid-man-black-black-anthracite-smoke-grey",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Liquid%20Max%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Liquid%20Max%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Liquid%20Max%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Liquid%20Max%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Liquid%20Max%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-big-bubble-black-university-red-tough-red",
-    "slug": "nike-air-max-big-bubble-black-university-red-tough-red",
-    "brand": "Nike",
-    "model": "Air Max Big Bubble",
-    "colorway": "Black / University Red / Tough Red",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c6f93f91-1ff4-4346-8225-3796fbc57c91.jpg?v=1784722706",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_77b47015-d5c6-4d54-89b9-fe1ecefa142e.jpg?v=1784722707",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8e98bf98-9a08-4081-918c-5a4de82ae1bb.jpg?v=1784722706"
-    ],
-    "description": "The Air Max 95 takes inspiration from the human anatomy, leading to its distinctive wavy design. This version pairs mixed materials and visible cushioning for a layered look with unbelievable comfort. Inspired by the human anatomy, the mids",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 16995,
-        "url": "https://www.superkicks.in/products/nike-air-max-big-bubble-black-university-red-tough-red",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Big%20Bubble%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Big%20Bubble%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Big%20Bubble%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Big%20Bubble%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Big%20Bubble%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-taylor-lo-lavender-latte-icy-demeanor",
-    "slug": "converse-chuck-taylor-lo-lavender-latte-icy-demeanor",
-    "brand": "Converse",
-    "model": "Chuck Taylor Lo",
-    "colorway": "Lavender Latte / Icy Demeanor",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f03c0cbc-d4d5-4631-96e8-a8656d42d005.jpg?v=1784716486",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_ce7f403e-645c-4d78-91c1-77afe3432bd1.jpg?v=1784716535",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_f6478bdb-599c-40b7-8fe1-f10b8a4535a6.jpg?v=1784716486"
-    ],
-    "description": "Looking Great Never Felt So Good. These Streamlined Suede Sneakers Pair The Clean, Classic Look You Love With Incognito Cushioning And Trendy Color Combos. Premium Suede Upper And Full-Grain Leather Heel Collar For A Timeless Look And Feel ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 5999,
-        "url": "https://www.superkicks.in/products/converse-chuck-taylor-lo-lavender-latte-icy-demeanor",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20Lo%20Lavender%20Latte",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20Lo%20Lavender%20Latte",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20Lo%20Lavender%20Latte",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20Lo%20Lavender%20Latte",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-taylor-all-star-black-hay-day-white",
-    "slug": "converse-chuck-taylor-all-star-black-hay-day-white",
-    "brand": "Converse",
-    "model": "Chuck Taylor All Star",
-    "colorway": "Black / Hay Day / White",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_138e942c-f2d8-4d8d-b762-bf805321779f.jpg?v=1784717147",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/22_70ddee69-f811-47b2-8d53-1aad31fb624f.jpg?v=1784717147",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_e2aa5605-94b2-4e6a-a5e0-b1e709133a3d.jpg?v=1784717147"
-    ],
-    "description": "Wild Chucks Fit For Your Wild Self. Leopard-Print Laces Bring The Bold Statement To Your Favorite Classic Style. Canvas Upper For That Classic Chucks Look And Feel Ortholite Cushioning Helps Provide Optimal Underfoot Comfort Leopard Print L",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 4499,
-        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-black-hay-day-white",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-taylor-all-star-almost-lavender-gold-black",
-    "slug": "converse-chuck-taylor-all-star-almost-lavender-gold-black",
-    "brand": "Converse",
-    "model": "Chuck Taylor All Star",
-    "colorway": "Almost Lavender / Gold / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#d9b441"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1189ef40-6f03-4367-be26-61ab375b08ee.jpg?v=1784702015",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_01f12696-ab36-469c-974a-0ed220d1f667.jpg?v=1784702015",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_b4d6621f-03f4-4566-8a93-ddff4c477b17.jpg?v=1784702015"
-    ],
-    "description": "Timeless, Romantic, Delicate—Lace Chucks Are Whatever You Want Them To Be. Durable Canvas Upper For That Classic Chucks Look And Feel Ortholite Cushioning Helps Provide Optimal Underfoot Comfort Two Sets Of Laces Allow For Single Or Double ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 4999,
-        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-almost-lavender-gold-black",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Almost%20Lavender",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Almost%20Lavender",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Almost%20Lavender",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Almost%20Lavender",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-triple-stack-lt-british-tan-metallic-gold",
-    "slug": "jordan-air-jordan-1-triple-stack-lt-british-tan-metallic-gold",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Triple Stack",
-    "colorway": "Lt British Tan / Metallic Gold",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#d9b441"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b62008ec-191d-469b-850d-8aad6df0c7a3.jpg?v=1784722353",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_d5fcca4a-60c3-4b03-b292-94f5f219f32a.jpg?v=1784722353",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_82ab3818-6132-4cd0-87a1-04fd5b91bebc.jpg?v=1784722353"
-    ],
-    "description": "Stand tall with elevated style. Inspired by the original that debuted in 1985, the Air Jordan 1 offers a clean, classic look that's familiar yet always fresh. This remix boldly reworks the icon's original magic with a triple-stacked sole. W",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12795,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-triple-stack-lt-british-tan-metallic-gold",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Lt%20British%20Tan",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Lt%20British%20Tan",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Lt%20British%20Tan",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Lt%20British%20Tan",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Lt%20British%20Tan",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-70-classic-grey-egret-black",
-    "slug": "converse-chuck-70-classic-grey-egret-black",
-    "brand": "Converse",
-    "model": "Chuck 70",
-    "colorway": "Classic Grey / Egret / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3c8ae02a-5ffe-45ca-a1ff-308f903ad070.jpg?v=1784717375",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_83c3a6e8-73dd-408b-b3e2-7315c5f93923.jpg?v=1784717375",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_1210dfc7-26c7-4258-9836-c75b488cfec4.jpg?v=1784717375"
-    ],
-    "description": "The Chuck 70 Washed Canvas Takes The Edge Off With A Faded Upper That Adds The Perfect Amount Of Character, From The First Wear. Washed Canvas Upper For A Lived In Look, Fresh Out The Box Ortholite Cushioning Helps You Walk The Walk Medial ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 5499,
-        "url": "https://www.superkicks.in/products/converse-chuck-70-classic-grey-egret-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%2070%20Classic%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%2070%20Classic%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%2070%20Classic%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%2070%20Classic%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-70-grey-new-world-grey-new-world",
-    "slug": "converse-chuck-70-grey-new-world-grey-new-world",
-    "brand": "Converse",
-    "model": "Chuck 70",
-    "colorway": "Grey New World / Grey New World",
-    "category": "Lifestyle",
-    "palette": [
-      "#9b9b94",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3c49e4c7-5876-470d-a992-041bbea0eaeb.jpg?v=1784716727",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_c90bca22-7d4c-4672-bdce-e93c9b03bddd.jpg?v=1784716727",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_082404d6-e228-4216-bd12-f5c6ec30f6a8.jpg?v=1784716727"
-    ],
-    "description": "The Chuck 70 Washed Canvas Takes The Edge Off With A Faded Upper That Adds The Perfect Amount Of Character, From The First Wear. Washed Canvas Upper For A Lived In Look, Fresh Out The Box Ortholite Cushioning Helps You Walk The Walk Tonal M",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 6399,
-        "url": "https://www.superkicks.in/products/converse-chuck-70-grey-new-world-grey-new-world",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%2070%20Grey%20New%20World",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%2070%20Grey%20New%20World",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%2070%20Grey%20New%20World",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%2070%20Grey%20New%20World",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-70-brick-snack-brick-snack-egret",
-    "slug": "converse-chuck-70-brick-snack-brick-snack-egret",
-    "brand": "Converse",
-    "model": "Chuck 70",
-    "colorway": "Brick Snack / Brick Snack / Egret",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_891a0b46-13be-4c1f-a377-60dfe5e85759.jpg?v=1784714815",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_04d5b068-f99a-4eb7-b4d0-da31b927b0f2.jpg?v=1784714815",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_0d80886f-3b38-42de-a2fc-031f57e1db40.jpg?v=1784714815"
-    ],
-    "description": "The Chuck 70 Washed Canvas Takes The Edge Off With A Faded Upper That Adds The Perfect Amount Of Character, From The First Wear. Washed Canvas Upper For A Lived In Look, Fresh Out The Box Ortholite Cushioning Helps You Walk The Walk Tonal M",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 6399,
-        "url": "https://www.superkicks.in/products/converse-chuck-70-brick-snack-brick-snack-egret",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%2070%20Brick%20Snack",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%2070%20Brick%20Snack",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%2070%20Brick%20Snack",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%2070%20Brick%20Snack",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-taylor-all-star-throwback-vintage-cargo-vintage-white-1",
-    "slug": "converse-chuck-taylor-all-star-throwback-vintage-cargo-vintage-white-1",
-    "brand": "Converse",
-    "model": "Chuck Taylor All Star Throwback",
-    "colorway": "Vintage Cargo / Vintage White",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#161616"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_fe8d7e8a-1ea2-49fc-9633-4b4b61ed1b63.jpg?v=1784717631",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_e1d74a43-9557-4112-b174-d8b7ffa64c1d.jpg?v=1784717631",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_d003ed64-de2c-4092-92c5-55d21dd731a9.jpg?v=1784717631"
-    ],
-    "description": "Introducing The Chuck Taylor Throwback. The Classic, Now Built Stronger, Wider, And Unapologetically Better. Inspired By 90'S Style And Culture, The Throwback Is A Super Comfortable Chuck That Celebrates The Raw Energy That Made The Chuck T",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 5299,
-        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-throwback-vintage-cargo-vintage-white-1",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Throwback%20Vintage%20Cargo",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Throwback%20Vintage%20Cargo",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Throwback%20Vintage%20Cargo",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Throwback%20Vintage%20Cargo",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-taylor-all-star-egret-black-honey-stick-1",
-    "slug": "converse-chuck-taylor-all-star-egret-black-honey-stick-1",
-    "brand": "Converse",
-    "model": "Chuck Taylor All Star",
-    "colorway": "Egret / Black / Honey Stick",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f083f63a-6ad8-42b9-aab3-12548f43b91f.jpg?v=1784633646",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_346aa17b-f7f1-4664-a702-14d81abe08c9.jpg?v=1784633647",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_9753f09e-1a90-4f87-acac-a2474b6b2693.jpg?v=1784633647"
-    ],
-    "description": "Wild Chucks Fit For Your Wild Self. Leopard-Print Laces Bring The Bold Statement To Your Favorite Classic Style. Canvas Upper For That Classic Chucks Look And Feel Ortholite Cushioning Helps Provide Optimal Underfoot Comfort Leopard Print L",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 4499,
-        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-egret-black-honey-stick-1",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-asics-empty-behavior-x-hypersync-black-breeze",
-    "slug": "asics-empty-behavior-x-hypersync-black-breeze",
-    "brand": "Asics",
-    "model": "Empty Behavior X Hypersync",
-    "colorway": "Black / Breeze",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c4627f6e-cdb2-4259-a54d-bc05e6eeba9f.jpg?v=1784036141",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_ddf69775-b2cf-4f4b-9405-4ecf7a6700a7.jpg?v=1784036141",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/13_47928335-dbea-4007-a1c2-b0cde82fa111.jpg?v=1784036142"
-    ],
-    "description": "This HYPERSYNC™ shoe marks the second collaboration with EMPTY BEHAVIOR. It's built around the theme of \"Powerette\"—a fusion of raw athletic strength and the refined elegance of ballet. The tutu-inspired tongue blends seamlessly into the si",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12999,
-        "url": "https://www.superkicks.in/products/asics-empty-behavior-x-hypersync-black-breeze",
-        "inStock": true,
-        "sizes": [
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Asics%20Empty%20Behavior%20X%20Hypersync%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Asics%20Empty%20Behavior%20X%20Hypersync%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Asics%20Empty%20Behavior%20X%20Hypersync%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Asics%20Empty%20Behavior%20X%20Hypersync%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-asics-empty-behavior-x-hypersync-white-pure-silver",
-    "slug": "asics-empty-behavior-x-hypersync-white-pure-silver",
-    "brand": "Asics",
-    "model": "Empty Behavior X Hypersync",
-    "colorway": "White / Pure Silver",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_301b8a29-7f24-4855-9aa9-0984e090889f.jpg?v=1784036195",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_1fc5bd0f-b675-4bef-bcca-5a181031bfb1.jpg?v=1784036195",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_697c1f74-f5f0-4041-b6dc-1abb80d2b9ee.jpg?v=1784036195"
-    ],
-    "description": "This HYPERSYNC™ shoe marks the second collaboration with EMPTY BEHAVIOR. It's built around the theme of \"Powerette\"—a fusion of raw athletic strength and the refined elegance of ballet. The tutu-inspired tongue blends seamlessly into the si",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12999,
-        "url": "https://www.superkicks.in/products/asics-empty-behavior-x-hypersync-white-pure-silver",
-        "inStock": true,
-        "sizes": [
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Asics%20Empty%20Behavior%20X%20Hypersync%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Asics%20Empty%20Behavior%20X%20Hypersync%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Asics%20Empty%20Behavior%20X%20Hypersync%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Asics%20Empty%20Behavior%20X%20Hypersync%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.195Z"
       }
     ]
   }
