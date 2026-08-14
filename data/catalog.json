@@ -1,5 +1,188 @@
 [
   {
+    "id": "sk-jordan-air-jordan-1-low-og-laser-black-varsity-red-summit-white",
+    "slug": "jordan-air-jordan-1-low-og-laser-black-varsity-red-summit-white",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Low OG Laser",
+    "colorway": "Black / Varsity Red / Summit White",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_78550737-dfc4-410f-92f5-60ddad951896.jpg?v=1786627653",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_c84876ce-b822-4990-9d58-5d527eb19407.jpg?v=1786627653",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_459fe76c-a6df-44c3-924a-85ef71395d7f.jpg?v=1786627654"
+    ],
+    "description": "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. With an iconic design that pairs perfectly with any 'fit, these kicks ensure you'll always be on point. Genui",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 14995,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-og-laser-black-varsity-red-summit-white",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20OG%20Laser%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20OG%20Laser%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20OG%20Laser%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20OG%20Laser%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20OG%20Laser%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-327-pebble",
+    "slug": "new-balance-327-pebble",
+    "brand": "New Balance",
+    "model": "327",
+    "colorway": "Pebble",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_13_f312e510-242e-4b46-8495-fdf67b441388.jpg?v=1786608333",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_14_e1da1276-87e6-4606-916d-a7eba139f459.jpg?v=1786608333"
+    ],
+    "description": "1970s, but make it modern. Inspired by our most iconic ‘70s running shoes, the 327 is a bold blend of retro and right now unlike anything in your closet. Flared midsole Oversized N logo adds retro-inspired style Medial linear ‘New Balance’ ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/new-balance-327-pebble",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20327%20Pebble",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20327%20Pebble",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20327%20Pebble",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20327%20Pebble",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-go-etoile-misty-pink-chocolate-fondue",
+    "slug": "puma-speedcat-go-etoile-misty-pink-chocolate-fondue",
+    "brand": "Puma",
+    "model": "Speedcat Go Etoile",
+    "colorway": "Misty Pink / Chocolate Fondue",
+    "category": "Lifestyle",
+    "palette": [
+      "#e093a6",
+      "#6b4a2f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_40811274-078c-4672-bfb4-965ed144690c.jpg?v=1786603690",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_c77ca87e-a638-4911-b16e-948f1fa8b7a9.jpg?v=1786603690",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8fd4fa0f-78f6-4557-abe4-8cc61bf1c993.jpg?v=1786603690"
+    ],
+    "description": "An icon inspired by the speed of the racetrack, the Speedcat sneakers bring edge and individuality to any outfit. Updating that race-day attitude, these sneakers mix materials for a ballet-inspired look.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 7999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-go-etoile-misty-pink-chocolate-fondue",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Go%20Etoile%20Misty%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Go%20Etoile%20Misty%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Go%20Etoile%20Misty%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Go%20Etoile%20Misty%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
+      }
+    ]
+  },
+  {
     "id": "sk-asics-skyhand-og-light-sage-ash-green",
     "slug": "asics-skyhand-og-light-sage-ash-green",
     "brand": "Asics",
@@ -85,13 +268,11 @@
         "url": "https://www.superkicks.in/products/nike-giannis-freak-8-le-ep-white-metallic-silver-lt-smoke-grey",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-08-13T04:43:59.945Z"
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
       },
       {
         "retailerId": "nike",
@@ -154,10 +335,9 @@
         "url": "https://www.superkicks.in/products/puma-speedcat-wedge-totally-taupe-chocolate",
         "inStock": true,
         "sizes": [
-          "4",
           "6"
         ],
-        "fetchedAt": "2026-08-13T04:43:59.945Z"
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
       },
       {
         "retailerId": "amazon",
@@ -806,9 +986,9 @@
       "#e093a6"
     ],
     "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_cee02c76-ec08-4bdf-b7d7-8e0a2f7a4162.jpg?v=1786537173",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_f6d4be6a-020b-4bde-aa30-c935c10d5a0b.jpg?v=1786537173",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/12_429e03d3-b2a6-496f-9b96-1e62af735ad4.jpg?v=1786537173"
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_8e9d4614-9311-4c65-807e-2edc3c822f8c.jpg?v=1786611013",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_01cf0440-5bb9-4f7d-8545-54c80a329159.jpg?v=1786611013",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/12_3a9af3db-f781-4caf-a4db-101cf11de4d1.jpg?v=1786611013"
     ],
     "description": "An icon inspired by the speed of the racetrack, the Speedcat sneakers bring edge and individuality to any outfit. This version of the classic is finished with embroidered branding. FEATURES BENEFITS ORTHOLITE®: Provides step-in comfort and ",
     "offers": [
@@ -848,68 +1028,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Ballet%20Dress-Up%20Powder%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-13T04:43:59.945Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-asics-gel-stratus-mc-white-clay-canyon",
-    "slug": "asics-gel-stratus-mc-white-clay-canyon",
-    "brand": "Asics",
-    "model": "Gel-Stratus Mc",
-    "colorway": "White / Clay Canyon",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#d8702f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1d9f7e6a-bacf-4a69-a2b6-bc58753853d6.jpg?v=1786538511",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_10ba38eb-724b-4131-875f-3fe888b55f5d.jpg?v=1786538512",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_edd5ad5c-277d-4b75-9ea5-36aa9ddc3d0f.jpg?v=1786538511"
-    ],
-    "description": "The GEL-STRATUS™ MC sneaker blends technical aesthetics with functional comfort properties. The upper is inspired by the GEL-STRATUS™ 4 running shoe, integrating synthetic leather overlays and air mesh underlays. Key elements from other 201",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9999,
-        "url": "https://www.superkicks.in/products/asics-gel-stratus-mc-white-clay-canyon",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-13T04:43:59.945Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Asics%20Gel-Stratus%20Mc%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-13T04:43:59.945Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Asics%20Gel-Stratus%20Mc%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-13T04:43:59.945Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Asics%20Gel-Stratus%20Mc%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-13T04:43:59.945Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Asics%20Gel-Stratus%20Mc%20White",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-13T04:43:59.945Z"
@@ -2346,9 +2464,12 @@
         "retailerId": "superkicks",
         "price": 18999,
         "url": "https://www.superkicks.in/products/asics-x-vandy-the-pink-gel-kayano-12-1-antique-white-antique-white",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "11"
+        ],
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
       },
       {
         "retailerId": "amazon",
@@ -2464,12 +2585,11 @@
         "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-chuck-70-high-top-lucent-white-tillandsia-purple",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
           "10"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
       },
       {
         "retailerId": "amazon",
@@ -5266,11 +5386,10 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
           "9",
           "10"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-14T04:40:47.880Z"
       },
       {
         "retailerId": "amazon",
@@ -6087,146 +6206,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-blazy-white-summit-white-sail",
-    "slug": "nike-blazy-white-summit-white-sail",
-    "brand": "Nike",
-    "model": "Blazy",
-    "colorway": "White / Summit White / Sail",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#161616"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d899fcdb-105b-49cf-a614-fcf152abce70.jpg?v=1784802199",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/22_d98ed466-e807-4482-adc0-ac13188789a4.jpg?v=1784802199",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_a4b18b3b-34ec-4c55-ac2e-39ab4cc7c245.jpg?v=1784802199"
-    ],
-    "description": "The Blazy is a shoe that feels as laid-back as it looks. We took inspiration from the Blazer's aesthetics and added more wiggle room to the toe box for maximum comfort. Its double-taped midsole gives the illusion of reclining, earning its m",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/nike-blazy-white-summit-white-sail",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Blazy%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Blazy%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Blazy%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Blazy%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Blazy%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-low-black-summit-white-true-blue-varsity-red",
-    "slug": "jordan-air-jordan-1-low-black-summit-white-true-blue-varsity-red",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Low",
-    "colorway": "Black / Summit White / True Blue / Varsity Red",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/22_43fe670f-afc8-4253-9682-e07592ab8449.jpg?v=1784801284",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_761e8e62-cbce-4f2a-8356-3f9ff23d3506.jpg?v=1784801284",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_3783060e-a7b8-435a-93f5-f6efaca57c4b.jpg?v=1784801284"
-    ],
-    "description": "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. With an iconic design that pairs perfectly with any 'fit, these kicks ensure you'll always be on point. Encap",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-black-summit-white-true-blue-varsity-red",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Black",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-12T04:40:04.194Z"
