@@ -706,10 +706,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
-          "6"
+          "5"
         ],
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
+        "fetchedAt": "2026-08-16T03:38:27.785Z"
       },
       {
         "retailerId": "amazon",
@@ -1010,13 +1009,12 @@
         "url": "https://www.superkicks.in/products/nike-giannis-freak-8-le-ep-white-metallic-silver-lt-smoke-grey",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
+        "fetchedAt": "2026-08-16T03:38:27.785Z"
       },
       {
         "retailerId": "nike",
@@ -2157,10 +2155,9 @@
         "sizes": [
           "3",
           "4",
-          "5",
           "6"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-16T03:38:27.785Z"
       },
       {
         "retailerId": "amazon",
@@ -3187,64 +3184,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Ac%20Runner%20Smoked%20Violet%20With%20Dark%20Smoked%20Violet",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-asics-x-vandy-the-pink-gel-kayano-12-1-antique-white-antique-white",
-    "slug": "asics-x-vandy-the-pink-gel-kayano-12-1-antique-white-antique-white",
-    "brand": "Asics",
-    "model": "Vandy The Pink X Asics Gel-Kayano 12.1",
-    "colorway": "Vanilla / Antique Multii",
-    "category": "Lifestyle",
-    "palette": [
-      "#e093a6",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_30d01e8b-12ec-4e5d-a389-08e78a71c4b7.jpg?v=1785831164",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_cc6644d8-6ce9-4727-94c2-4426b120d6a4.jpg?v=1785831164",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_add963f1-498d-408b-9146-6539ef2bf2f4.jpg?v=1785831164"
-    ],
-    "description": "Born from the sweetest collaboration between nostalgia and design, the VandyThePink GEL-Kayano 12.1 \"Antique Multi\" melts together the flavors of a Neapolitan daydream. Pink, yellow, and brown swirl across a silver mesh base, turning retro ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 18999,
-        "url": "https://www.superkicks.in/products/asics-x-vandy-the-pink-gel-kayano-12-1-antique-white-antique-white",
-        "inStock": true,
-        "sizes": [
-          "7"
-        ],
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Asics%20Vandy%20The%20Pink%20X%20Asics%20Gel-Kayano%2012.1%20Vanilla",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Asics%20Vandy%20The%20Pink%20X%20Asics%20Gel-Kayano%2012.1%20Vanilla",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Asics%20Vandy%20The%20Pink%20X%20Asics%20Gel-Kayano%2012.1%20Vanilla",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Asics%20Vandy%20The%20Pink%20X%20Asics%20Gel-Kayano%2012.1%20Vanilla",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-12T04:40:04.194Z"
@@ -4778,10 +4717,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-16T03:38:27.785Z"
       },
       {
         "retailerId": "adidas",
@@ -5256,10 +5194,9 @@
           "7",
           "8",
           "9",
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-16T03:38:27.785Z"
       },
       {
         "retailerId": "amazon",
@@ -6167,6 +6104,68 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-12T04:40:04.194Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-asics-gel-kayano-14-cream-cocoa-powder",
+    "slug": "asics-gel-kayano-14-cream-cocoa-powder",
+    "brand": "Asics",
+    "model": "Gel-Kayano 14",
+    "colorway": "Cream / Cocoa Powder",
+    "category": "Lifestyle",
+    "palette": [
+      "#e7dfcd",
+      "#2f5fa6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_970498f3-cf10-4701-8edf-60ddde7a62fe.jpg?v=1784886947",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_f165da39-bbb9-4e5c-b532-01e8f8dfc69d.jpg?v=1784886946",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_8cd6d266-afab-43c8-b57d-862862370b91.jpg?v=1784886946"
+    ],
+    "description": "Conveying a new perception to the retro running shape, the GEL-KAYANO 14 running shoe resurfaces with its late 2000s aesthetic as a nod to our storied GEL-KAYANO series. Reinterpreting the shoe's performance capabilities with updated materi",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/asics-gel-kayano-14-cream-cocoa-powder",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-16T03:38:27.785Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Gel-Kayano%2014%20Cream",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-16T03:38:27.785Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Gel-Kayano%2014%20Cream",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-16T03:38:27.785Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Gel-Kayano%2014%20Cream",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-16T03:38:27.785Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Gel-Kayano%2014%20Cream",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-16T03:38:27.785Z"
       }
     ]
   }
