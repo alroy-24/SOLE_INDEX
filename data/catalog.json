@@ -1011,10 +1011,9 @@
         "sizes": [
           "8",
           "9",
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-08-16T03:38:27.785Z"
+        "fetchedAt": "2026-08-17T03:39:51.026Z"
       },
       {
         "retailerId": "nike",
@@ -2626,11 +2625,9 @@
         "retailerId": "superkicks",
         "price": 5499,
         "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-vegeta-all-star-chuck-tayor-hi-delft-high-risk-red",
-        "inStock": true,
-        "sizes": [
-          "7"
-        ],
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-08-17T03:39:51.026Z"
       },
       {
         "retailerId": "amazon",
@@ -5192,11 +5189,10 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
           "9",
           "11"
         ],
-        "fetchedAt": "2026-08-16T03:38:27.785Z"
+        "fetchedAt": "2026-08-17T03:39:51.026Z"
       },
       {
         "retailerId": "amazon",
@@ -5509,13 +5505,12 @@
         "url": "https://www.superkicks.in/products/adidas-hyperboost-run-core-black-cloud-white-core-black",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-17T03:39:51.026Z"
       },
       {
         "retailerId": "adidas",
@@ -5581,10 +5576,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-17T03:39:51.026Z"
       },
       {
         "retailerId": "adidas",
