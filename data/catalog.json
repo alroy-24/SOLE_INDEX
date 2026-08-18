@@ -1,5 +1,656 @@
 [
   {
+    "id": "sk-asics-gel-stratus-mc-white-clay-canyon",
+    "slug": "asics-gel-stratus-mc-white-clay-canyon",
+    "brand": "Asics",
+    "model": "Gel-Stratus Mc",
+    "colorway": "White / Clay Canyon",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#d8702f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1d9f7e6a-bacf-4a69-a2b6-bc58753853d6.jpg?v=1786538511",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_10ba38eb-724b-4131-875f-3fe888b55f5d.jpg?v=1786538512",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_edd5ad5c-277d-4b75-9ea5-36aa9ddc3d0f.jpg?v=1786538511"
+    ],
+    "description": "The GEL-STRATUS™ MC sneaker blends technical aesthetics with functional comfort properties. The upper is inspired by the GEL-STRATUS™ 4 running shoe, integrating synthetic leather overlays and air mesh underlays. Key elements from other 201",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/asics-gel-stratus-mc-white-clay-canyon",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-superfly-elm-metallic-silver-baroque-brown",
+    "slug": "nike-air-superfly-elm-metallic-silver-baroque-brown",
+    "brand": "Nike",
+    "model": "Air Superfly",
+    "colorway": "Elm / Metallic Silver / Baroque Brown",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#6b4a2f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_007d5efc-5704-476f-b55f-99957c87e3d6.jpg?v=1786971858",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_1f55daea-e0e6-47d3-ad15-ef97c6c0fda6.jpg?v=1786971859",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/17_6faf7b9d-62d1-4eee-920a-03bf6e6ce8c9.jpg?v=1786971859"
+    ],
+    "description": "The Superfly ushers in a new era of running-inspired design. It emerges from our vault with new Air and a new attitude. The low-profile shape and outsole pattern channel its track heritage, while textured finishes bring your look up to spee",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8695,
+        "url": "https://www.superkicks.in/products/nike-air-superfly-elm-metallic-silver-baroque-brown",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Superfly%20Elm",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Superfly%20Elm",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Superfly%20Elm",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Superfly%20Elm",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Superfly%20Elm",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-ballet-nova-grey",
+    "slug": "puma-speedcat-ballet-nova-grey",
+    "brand": "Puma",
+    "model": "Speedcat Ballet Nova",
+    "colorway": "Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f466918e-82a8-4725-b545-6a3d8b8b89ec.jpg?v=1786971664",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0b63c6c7-0b28-4142-a122-f4b315b2b1a3.jpg?v=1786971664",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_7c838482-36e6-4073-9cd7-3307a7ee7d0f.jpg?v=1786971664"
+    ],
+    "description": "No matter how you style it, Speedcat Ballet brings elegance and individuality to every fit. With ballet-inspired detailing and refined accents, this silhouette delivers a bold reinterpretation of an icon. Rooted in racing heritage yet desig",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 6999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-ballet-nova-grey",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Ballet%20Nova%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Ballet%20Nova%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-bb950-white-green-grey",
+    "slug": "new-balance-bb950-white-green-grey",
+    "brand": "New Balance",
+    "model": "Bb950",
+    "colorway": "White / Green / Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#9b9b94",
+      "#2f6f4e"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_273dea13-9ada-499b-9f72-70abcc863ec4.jpg?v=1786964320",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_09b6d3af-10c8-4579-95ad-ed919b9b9ea0.jpg?v=1786964320",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_bf3e0b87-c3d4-40f9-ac40-eedc0ae126de.jpg?v=1786964320"
+    ],
+    "description": "The BB950 is the next evolution of court-inspired style. With its roots in mid-’80s basketball, the 950 is clean, versatile, and undeniably wearable. The puffed ‘N’ logo and basketball label on the tongue are distinct but subtle cues to the",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/new-balance-bb950-white-green-grey",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-bb950-white-red-grey",
+    "slug": "new-balance-bb950-white-red-grey",
+    "brand": "New Balance",
+    "model": "Bb950",
+    "colorway": "White / Red / Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#9b9b94",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4ec3bd08-0b1c-4bae-8c5f-20aea5edc229.jpg?v=1786964068",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_7ddf9aae-c363-43c2-a011-93687eacf9db.jpg?v=1786964068",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_0713018b-8e12-4fdb-9442-278c5e67c85a.jpg?v=1786964068"
+    ],
+    "description": "The BB950 is the next evolution of court-inspired style. With its roots in mid-’80s basketball, the 950 is clean, versatile, and undeniably wearable. The puffed ‘N’ logo and basketball label on the tongue are distinct but subtle cues to the",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/new-balance-bb950-white-red-grey",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-9060-slate-grey-1",
+    "slug": "new-balance-9060-slate-grey-1",
+    "brand": "New Balance",
+    "model": "9060",
+    "colorway": "Slate Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_52092c95-075d-4484-bd89-93d3debb3563.jpg?v=1786964643",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_fbce9ff8-9d0f-4287-962b-4bc2b8d532d6.jpg?v=1786964643",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9cd65a1a-e89c-4a41-84d9-07d57545912f.jpg?v=1786964643"
+    ],
+    "description": "The 9060 is a new expression of the refined style and innovation-led design of the classic 99X series. The 9060 reinterprets familiar 99X elements with a warped sensibility inspired by the proudly futuristic, visible tech aesthetic of the Y",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 18999,
+        "url": "https://www.superkicks.in/products/new-balance-9060-slate-grey-1",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-air-jordan-4-retro-comic-off-white-fire-pink-anthracite",
+    "slug": "jordan-air-jordan-4-retro-comic-off-white-fire-pink-anthracite",
+    "brand": "Jordan",
+    "model": "Air Jordan 4 Retro Comic",
+    "colorway": "Off White / Fire Pink / Anthracite",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#e093a6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c4c70ddf-5488-4dca-82b6-b4c196dceb71.jpg?v=1786712342",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_ed1514f4-a633-49e3-8971-41ec2921974e.jpg?v=1786712342",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_08a63251-dc52-483f-b848-6c971fd852f3.jpg?v=1786712343"
+    ],
+    "description": "Like your favorite comic book superheroes, the AJ4 still reigns supreme. This edition pulls inspiration from comic book culture, lending an action-packed update to the iconic silhouette. Think of it as a variant cover to a key issue—vibrant",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 21995,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-4-retro-comic-off-white-fire-pink-anthracite",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%204%20Retro%20Comic%20Off%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%204%20Retro%20Comic%20Off%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%204%20Retro%20Comic%20Off%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%204%20Retro%20Comic%20Off%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%204%20Retro%20Comic%20Off%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-react-x-rejuven8-cool-grey-black-volt-1",
+    "slug": "nike-react-x-rejuven8-cool-grey-black-volt-1",
+    "brand": "Nike",
+    "model": "React X Rejuven8",
+    "colorway": "Cool Grey|Black|Volt",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_00ddb635-d1e2-4c04-9459-81e64fca093c.jpg?v=1785935356",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_47fe8316-c97b-44e1-819c-dba773fb36bb.jpg?v=1785935356",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_e51c5dc7-c164-42c1-a874-df6bda1fcefc.jpg?v=1785935356"
+    ],
+    "description": "Give your feet a rest. Made from soft and responsive ReactX foam, the Rejuven8 uses some of our best tech to create recovery slides you'll look forward to wearing.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 4695,
+        "url": "https://www.superkicks.in/products/nike-react-x-rejuven8-cool-grey-black-volt-1",
+        "inStock": true,
+        "sizes": [
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20React%20X%20Rejuven8%20Cool%20Grey%7CBlack%7CVolt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20React%20X%20Rejuven8%20Cool%20Grey%7CBlack%7CVolt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20React%20X%20Rejuven8%20Cool%20Grey%7CBlack%7CVolt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20React%20X%20Rejuven8%20Cool%20Grey%7CBlack%7CVolt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20React%20X%20Rejuven8%20Cool%20Grey%7CBlack%7CVolt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-react-x-rejuven8-black",
+    "slug": "nike-react-x-rejuven8-black",
+    "brand": "Nike",
+    "model": "React X Rejuven8",
+    "colorway": "Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_2b8a54ef-ce81-4441-b0cc-ce58b2338f57.jpg?v=1785934766",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_858a8e39-73b7-44f4-828d-8c1553d6dadb.jpg?v=1785934766",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_fcc3db33-75a0-4e5d-b581-315ef2617b2f.jpg?v=1785934767"
+    ],
+    "description": "Give your feet a rest. Made from soft and responsive ReactX foam the Rejuven8 uses some of our best tech to create recovery slides you'll look forward to wearing.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 4695,
+        "url": "https://www.superkicks.in/products/nike-react-x-rejuven8-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20React%20X%20Rejuven8%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20React%20X%20Rejuven8%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20React%20X%20Rejuven8%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20React%20X%20Rejuven8%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20React%20X%20Rejuven8%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-95-big-bubble-iron-grey-illusion-green-black",
+    "slug": "nike-air-max-95-big-bubble-iron-grey-illusion-green-black",
+    "brand": "Nike",
+    "model": "Air Max 95 Big Bubble",
+    "colorway": "Iron Grey / Illusion Green / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94",
+      "#2f6f4e"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_73827e36-2092-400e-a018-9abfccfbfd30.jpg?v=1786948441",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_a0de5cd0-c1ba-44f0-a94b-123aba7ec6bd.jpg?v=1786948441",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a0018661-d658-4afb-962e-37d11e8c7353.jpg?v=1786948441"
+    ],
+    "description": "The Air Max 95 takes inspiration from the human anatomy, leading to its distinctive wavy design. This version pairs mixed materials and visible cushioning for a layered look with unbelievable comfort. Inspired by the human anatomy, the mids",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16995,
+        "url": "https://www.superkicks.in/products/nike-air-max-95-big-bubble-iron-grey-illusion-green-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Iron%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20Big%20Bubble%20Iron%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Iron%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20Big%20Bubble%20Iron%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Iron%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      }
+    ]
+  },
+  {
     "id": "sk-puma-speedcat-ballet-nova-red-rhythm-puma-black",
     "slug": "puma-speedcat-ballet-nova-red-rhythm-puma-black",
     "brand": "Puma",
@@ -202,9 +853,15 @@
         "retailerId": "superkicks",
         "price": 8695,
         "url": "https://www.superkicks.in/products/nike-air-max-fire-black-white",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
       },
       {
         "retailerId": "nike",
@@ -2625,9 +3282,11 @@
         "retailerId": "superkicks",
         "price": 5499,
         "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-vegeta-all-star-chuck-tayor-hi-delft-high-risk-red",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-17T03:39:51.026Z"
+        "inStock": true,
+        "sizes": [
+          "7"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
       },
       {
         "retailerId": "amazon",
@@ -3385,9 +4044,11 @@
         "retailerId": "superkicks",
         "price": 5499,
         "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-chuck-taylor-all-star-high-top-orange-white",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "inStock": true,
+        "sizes": [
+          "11"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
       },
       {
         "retailerId": "amazon",
@@ -5546,620 +6207,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-hyperboost-edge-cloud-white-aurora-onix-solar-turbo",
-    "slug": "adidas-hyperboost-edge-cloud-white-aurora-onix-solar-turbo",
-    "brand": "adidas",
-    "model": "Hyperboost Edge",
-    "colorway": "Cloud White / Aurora Onix / Solar Turbo",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#2f6f4e"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_2e7ad240-dd58-468d-9092-a9ae0c72de94.jpg?v=1785142468",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/27.jpg?v=1785142468",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4af0a0b9-36e2-49a2-8fd3-dd480767f288.jpg?v=1785142468"
-    ],
-    "description": "Hyperboost Edge introduces a new era of road running by combining maximum cushioning, high energy return and lightweight performance in one shoe. The shoe combines three breakthrough technologies: the new Hyperboost Pro midsole, a PRIMEWEAV",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 19999,
-        "url": "https://www.superkicks.in/products/adidas-hyperboost-edge-cloud-white-aurora-onix-solar-turbo",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-08-17T03:39:51.026Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Hyperboost%20Edge%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Hyperboost%20Edge%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Hyperboost%20Edge%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Hyperboost%20Edge%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Hyperboost%20Edge%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-taylor-all-star-heavy-duty-brown-egret-black",
-    "slug": "converse-chuck-taylor-all-star-heavy-duty-brown-egret-black",
-    "brand": "Converse",
-    "model": "Chuck Taylor All Star",
-    "colorway": "Heavy Duty Brown / Egret / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3cd50c95-6172-4b54-9f52-c2a91c2e5a34.jpg?v=1784632386",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_2755b116-f71b-4c22-8c6b-3457f8ed499c.jpg?v=1784632386",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_7e64b0d1-332e-4589-b85b-c05ccdefbbde.jpg?v=1784632386"
-    ],
-    "description": "Meet the upgraded Converse Chuck Taylor All Star Sneakers — where earthy sophistication meets playful self-expression. This iconic silhouette features a deep brown canvas upper contrasted beautifully against a whitw toecap and midsole. The ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 4499,
-        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-heavy-duty-brown-egret-black",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Heavy%20Duty%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Heavy%20Duty%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Heavy%20Duty%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Heavy%20Duty%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-chuck-taylor-all-star-petal-pit-petal-pit-petal-pit",
-    "slug": "converse-chuck-taylor-all-star-petal-pit-petal-pit-petal-pit",
-    "brand": "Converse",
-    "model": "Chuck Taylor All Star",
-    "colorway": "Petal Pit / Petal Pit / Petal Pit",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_bc386813-ccc1-4195-a181-e944d28cddaa.jpg?v=1784723331",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_72a66b39-9bc7-40f1-886e-ba20527d8d9b.jpg?v=1784723331",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_49e085e1-5f19-4efb-af8c-834a934735a8.jpg?v=1784723331"
-    ],
-    "description": "Embrace your softer side without losing an ounce of attitude with the Converse Sneakers. This head-turning monochromatic leather high-top is crafted for those who lead with femininity and confidence. Featuring a luxurious all-pink leather u",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 4999,
-        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-petal-pit-petal-pit-petal-pit",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Petal%20Pit",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Petal%20Pit",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Petal%20Pit",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Petal%20Pit",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-90-black-yellow-ochre-white",
-    "slug": "nike-air-max-90-black-yellow-ochre-white",
-    "brand": "Nike",
-    "model": "Air Max 90",
-    "colorway": "Black / Yellow Ochre / White",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#d9b441"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_e837a1c7-3b35-4a36-a481-dcd1293332ee.jpg?v=1784632974",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f529bcbd-67a3-45d0-ae54-ad791c409208.jpg?v=1784632974",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8690479d-ed7f-44bd-a009-5b9938b32ed5.jpg?v=1784632974"
-    ],
-    "description": "The Air Max 90 stays true to its running roots with the iconic Waffle sole, while stitched overlays and textured accents create the '90s look you love. Finished with preppy pops of plaid, its visible cushioning adds comfort to your journey.",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12995,
-        "url": "https://www.superkicks.in/products/nike-air-max-90-black-yellow-ochre-white",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2090%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2090%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2090%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2090%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2090%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-5030-black-silver-metallic",
-    "slug": "new-balance-5030-black-silver-metallic",
-    "brand": "New Balance",
-    "model": "5030",
-    "colorway": "Black / Silver Metallic",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1b399603-5abc-4c10-b2d0-620d94227c05.jpg?v=1785139470",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c3defd8b-9521-4923-9fa9-1874ff37dae4.jpg?v=1785139470",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_97d4e924-7d40-43bc-a648-f477931db0a5.jpg?v=1785221834"
-    ],
-    "description": "This versatile shoe offers exceptional underfoot comfort for smooth movement and all-day wear. Features The ABZORB midsole absorbs impact through its cushioning and compression-resistant properties. Debossed upper detailing. Sculpted midsol",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11999,
-        "url": "https://www.superkicks.in/products/new-balance-5030-black-silver-metallic",
-        "inStock": true,
-        "sizes": [
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%205030%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%205030%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%205030%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%205030%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-9060-timberwolf",
-    "slug": "new-balance-9060-timberwolf",
-    "brand": "New Balance",
-    "model": "9060",
-    "colorway": "Timberwolf",
-    "category": "Lifestyle",
-    "palette": [
-      "#9b9b94",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_6c6bfbc6-e185-4c2c-80ff-65e47fadbff4.jpg?v=1785140589",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_7a73998e-aa8f-4fe6-bad5-b75242581b8e.jpg?v=1785140589",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4c54c30d-c4b8-4aa6-a169-5e05993d5900.jpg?v=1785140589"
-    ],
-    "description": "The 9060 is a new expression of the refined style and innovation-led design of the classic 99X series. The 9060 reinterprets familiar 99X elements with a warped sensibility inspired by the proudly futuristic, visible tech aesthetic of the Y",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 18999,
-        "url": "https://www.superkicks.in/products/new-balance-9060-timberwolf",
-        "inStock": true,
-        "sizes": [
-          "7"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Timberwolf",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Timberwolf",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Timberwolf",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Timberwolf",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-5030-grey-black",
-    "slug": "new-balance-5030-grey-black",
-    "brand": "New Balance",
-    "model": "5030",
-    "colorway": "Grey / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_e4453f12-f86d-4214-8e2d-aa0d2d09eb1e.jpg?v=1785139146",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_65b167eb-2f16-4dc5-bb43-004a8a3007c7.jpg?v=1785139146",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_ccce83f8-681e-4ebe-8531-2e4791b91aa9.jpg?v=1785139146"
-    ],
-    "description": "This versatile shoe offers exceptional underfoot comfort for smooth movement and all-day wear. Features The ABZORB midsole absorbs impact through its cushioning and compression-resistant properties. Debossed upper detailing. Sculpted midsol",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11999,
-        "url": "https://www.superkicks.in/products/new-balance-5030-grey-black",
-        "inStock": true,
-        "sizes": [
-          "8",
-          "10"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%205030%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%205030%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%205030%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%205030%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-327-angora",
-    "slug": "new-balance-327-angora",
-    "brand": "New Balance",
-    "model": "327",
-    "colorway": "Angora",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6e8db79f-e9bf-4d34-9516-b89d83f05245.jpg?v=1784890570",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_1a1adb8d-699c-4f89-8d58-5f7b92441185.jpg?v=1784890570",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ae017eb0-b13b-49cb-bae3-8b449f293f82.jpg?v=1784890570"
-    ],
-    "description": "1970s, but make it modern. Inspired by our most iconic ‘70s running shoes, the 327 is a bold blend of retro and right now unlike anything in your closet. Flared midsole Oversized N logo adds retro-inspired style Medial linear ‘New Balance’ ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10999,
-        "url": "https://www.superkicks.in/products/new-balance-327-angora",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%20327%20Angora",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%20327%20Angora",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%20327%20Angora",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20327%20Angora",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-asics-gel-nyc-2-0-cream-dusty-fern",
-    "slug": "asics-gel-nyc-2-0-cream-dusty-fern",
-    "brand": "Asics",
-    "model": "Gel-Nyc 2.0",
-    "colorway": "Cream / Dusty Fern",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_62ccb314-04c7-4d59-bd3d-cd224ad08229.jpg?v=1784887455",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_8f0cd4aa-b4f6-417a-b650-802f76b5bc64.jpg?v=1784887456",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6d30deba-4d94-4276-a09a-55545f9ff377.jpg?v=1784887456"
-    ],
-    "description": "The GEL-NYC™ 2.0 sneaker sources inspiration from heritage and modern performance running styles. Its upper construction references the GEL-1050™ sneaker from the year 2000. The materials are also updated with suede overlays for a modern fi",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13999,
-        "url": "https://www.superkicks.in/products/asics-gel-nyc-2-0-cream-dusty-fern",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-08-14T04:40:47.880Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Asics%20Gel-Nyc%202.0%20Cream",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Asics%20Gel-Nyc%202.0%20Cream",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Asics%20Gel-Nyc%202.0%20Cream",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Asics%20Gel-Nyc%202.0%20Cream",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-asics-gel-kayano-14-cream-cocoa-powder",
-    "slug": "asics-gel-kayano-14-cream-cocoa-powder",
-    "brand": "Asics",
-    "model": "Gel-Kayano 14",
-    "colorway": "Cream / Cocoa Powder",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#2f5fa6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_970498f3-cf10-4701-8edf-60ddde7a62fe.jpg?v=1784886947",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_f165da39-bbb9-4e5c-b532-01e8f8dfc69d.jpg?v=1784886946",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_8cd6d266-afab-43c8-b57d-862862370b91.jpg?v=1784886946"
-    ],
-    "description": "Conveying a new perception to the retro running shape, the GEL-KAYANO 14 running shoe resurfaces with its late 2000s aesthetic as a nod to our storied GEL-KAYANO series. Reinterpreting the shoe's performance capabilities with updated materi",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13999,
-        "url": "https://www.superkicks.in/products/asics-gel-kayano-14-cream-cocoa-powder",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-16T03:38:27.785Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Asics%20Gel-Kayano%2014%20Cream",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-16T03:38:27.785Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Asics%20Gel-Kayano%2014%20Cream",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-16T03:38:27.785Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Asics%20Gel-Kayano%2014%20Cream",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-16T03:38:27.785Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Asics%20Gel-Kayano%2014%20Cream",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-16T03:38:27.785Z"
       }
     ]
   }
