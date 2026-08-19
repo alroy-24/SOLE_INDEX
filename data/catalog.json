@@ -1,26 +1,26 @@
 [
   {
-    "id": "sk-asics-gel-stratus-mc-white-clay-canyon",
-    "slug": "asics-gel-stratus-mc-white-clay-canyon",
-    "brand": "Asics",
-    "model": "Gel-Stratus Mc",
-    "colorway": "White / Clay Canyon",
+    "id": "sk-nike-zoom-vomero-5-se-blue-void-metallic-silver-midnight-navy",
+    "slug": "nike-zoom-vomero-5-se-blue-void-metallic-silver-midnight-navy",
+    "brand": "Nike",
+    "model": "Zoom Vomero 5 Se",
+    "colorway": "Blue Void / Metallic Silver / Midnight Navy",
     "category": "Lifestyle",
     "palette": [
-      "#f4f1e9",
-      "#d8702f"
+      "#9b9b94",
+      "#2f5fa6"
     ],
     "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1d9f7e6a-bacf-4a69-a2b6-bc58753853d6.jpg?v=1786538511",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_10ba38eb-724b-4131-875f-3fe888b55f5d.jpg?v=1786538512",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_edd5ad5c-277d-4b75-9ea5-36aa9ddc3d0f.jpg?v=1786538511"
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d931324a-1944-4c13-9ed3-303d69d72791.jpg?v=1786972745",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_53289f5d-91c2-4214-a3fd-73589fb72f17.jpg?v=1786972746",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/17_cd91a2f2-379e-4b2b-83e6-218d34177a28.jpg?v=1786972746"
     ],
-    "description": "The GEL-STRATUS™ MC sneaker blends technical aesthetics with functional comfort properties. The upper is inspired by the GEL-STRATUS™ 4 running shoe, integrating synthetic leather overlays and air mesh underlays. Key elements from other 201",
+    "description": "The Vomero 5 takes early 2000s running to modern heights. A combination of breathable and durable materials stands ready for the rigors of your day, while Zoom Air cushioning delivers a smooth ride. Synthetic leather on the upper adds durab",
     "offers": [
       {
         "retailerId": "superkicks",
-        "price": 9999,
-        "url": "https://www.superkicks.in/products/asics-gel-stratus-mc-white-clay-canyon",
+        "price": 14995,
+        "url": "https://www.superkicks.in/products/nike-zoom-vomero-5-se-blue-void-metallic-silver-midnight-navy",
         "inStock": true,
         "sizes": [
           "7",
@@ -29,35 +29,178 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Zoom%20Vomero%205%20Se%20Blue%20Void",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
       },
       {
         "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Asics%20Gel-Stratus%20Mc%20White",
+        "url": "https://www.amazon.in/s?k=Nike%20Zoom%20Vomero%205%20Se%20Blue%20Void",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
       },
       {
         "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Asics%20Gel-Stratus%20Mc%20White",
+        "url": "https://www.flipkart.com/search?q=Nike%20Zoom%20Vomero%205%20Se%20Blue%20Void",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
       },
       {
         "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Asics%20Gel-Stratus%20Mc%20White",
+        "url": "https://www.ajio.com/search/?text=Nike%20Zoom%20Vomero%205%20Se%20Blue%20Void",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
       },
       {
         "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Asics%20Gel-Stratus%20Mc%20White",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Zoom%20Vomero%205%20Se%20Blue%20Void",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-dn8-leather-platinum-tint-lt-smoke-grey",
+    "slug": "nike-air-max-dn8-leather-platinum-tint-lt-smoke-grey",
+    "brand": "Nike",
+    "model": "Air Max Dn8 Leather",
+    "colorway": "Platinum Tint / Lt Smoke Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_92594682-5243-4397-9bdb-442a693bbb53.jpg?v=1786972044",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_9b2035ac-034b-4694-864e-06cb49fc7c9b.jpg?v=1786972043",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_15e060bc-3fdd-4a55-a205-88e8c36ba51c.jpg?v=1786972043"
+    ],
+    "description": "More Air, less bulk. The Dn8 takes our Dynamic Air system and condenses it into a sleek, low-profile package. Powered by eight pressurized Air tubes, it gives you a responsive sensation with every step. Enter an unreal experience of movemen",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19295,
+        "url": "https://www.superkicks.in/products/nike-air-max-dn8-leather-platinum-tint-lt-smoke-grey",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Dn8%20Leather%20Platinum%20Tint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Dn8%20Leather%20Platinum%20Tint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Dn8%20Leather%20Platinum%20Tint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Dn8%20Leather%20Platinum%20Tint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Dn8%20Leather%20Platinum%20Tint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-dunk-low-retro-soft-pearl-black-mosswood-brown-sail",
+    "slug": "nike-dunk-low-retro-soft-pearl-black-mosswood-brown-sail",
+    "brand": "Nike",
+    "model": "Dunk Low Retro",
+    "colorway": "Soft Pearl / Black / Mosswood Brown / Sail",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#6b4a2f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3e911626-c60d-43ff-9ac0-8bebe704246d.jpg?v=1786972580",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_e00a16fe-57e6-416c-8f20-56f6dd3dbeab.jpg?v=1786972581",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_2e7660e5-7df4-4bee-b635-96cc7c7db6cb.jpg?v=1786972580"
+    ],
+    "description": "You can always count on a classic. The Dunk pairs its iconic color blocking with premium materials and plush padding for game-changing comfort. The possibilities are endless—how will you wear your Dunks? More Details Foam midsole Rubber out",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10995,
+        "url": "https://www.superkicks.in/products/nike-dunk-low-retro-soft-pearl-black-mosswood-brown-sail",
+        "inStock": true,
+        "sizes": [
+          "8",
+          "9"
+        ],
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Dunk%20Low%20Retro%20Soft%20Pearl",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Dunk%20Low%20Retro%20Soft%20Pearl",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Dunk%20Low%20Retro%20Soft%20Pearl",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Dunk%20Low%20Retro%20Soft%20Pearl",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Dunk%20Low%20Retro%20Soft%20Pearl",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
       }
     ]
   },
@@ -538,10 +681,9 @@
         "inStock": true,
         "sizes": [
           "7",
-          "9",
           "10"
         ],
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
       },
       {
         "retailerId": "nike",
@@ -4044,11 +4186,9 @@
         "retailerId": "superkicks",
         "price": 5499,
         "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-chuck-taylor-all-star-high-top-orange-white",
-        "inStock": true,
-        "sizes": [
-          "11"
-        ],
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
       },
       {
         "retailerId": "amazon",
@@ -5177,11 +5317,9 @@
         "url": "https://www.superkicks.in/products/nike-moon-shoe-og-baroque-brown-cashmere-black",
         "inStock": true,
         "sizes": [
-          "4",
-          "5",
-          "6"
+          "4"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-19T03:36:54.335Z"
       },
       {
         "retailerId": "nike",
@@ -6068,142 +6206,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Sb%20Dunk%20Low%20Pro%20Saffron%20Quartz",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-hyperboost-edge-hyper-white-solar-turbo-solar-turbo",
-    "slug": "adidas-hyperboost-edge-hyper-white-solar-turbo-solar-turbo",
-    "brand": "adidas",
-    "model": "Hyperboost Edge",
-    "colorway": "Hyper White / Solar Turbo / Solar Turbo",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#161616"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_5ed90ce2-e43a-4bd7-9b66-5cb3c4506cb4.jpg?v=1785143104",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_3fdbd3ce-2324-463d-9063-92dfc57ae501.jpg?v=1785143104",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_70f10652-d815-4a2f-8f9e-7805ffab98ed.jpg?v=1785143104"
-    ],
-    "description": "Hyperboost Edge introduces a new era of road running by combining maximum cushioning, high energy return and lightweight performance in one shoe. The shoe combines three breakthrough technologies: the new Hyperboost Pro midsole, a PRIMEWEAV",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 19999,
-        "url": "https://www.superkicks.in/products/adidas-hyperboost-edge-hyper-white-solar-turbo-solar-turbo",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Hyperboost%20Edge%20Hyper%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Hyperboost%20Edge%20Hyper%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Hyperboost%20Edge%20Hyper%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Hyperboost%20Edge%20Hyper%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Hyperboost%20Edge%20Hyper%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-hyperboost-run-core-black-cloud-white-core-black",
-    "slug": "adidas-hyperboost-run-core-black-cloud-white-core-black",
-    "brand": "adidas",
-    "model": "Hyperboost Run",
-    "colorway": "Core Black / Cloud White / Core Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_59ea0f89-c643-4e08-a42e-c6a38f35c797.jpg?v=1785145743",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_749ecfa9-39cc-458a-b17f-185cefcab898.jpg?v=1785145743",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_41bc1d07-7600-4a68-aebc-0120522f1d28.jpg?v=1785145743"
-    ],
-    "description": "A lightweight daily trainer, powered by Hyperboost Pro technology with a lower stack for closer control through easy runs to tempo runs. These running shoes feature a super-soft Primeweave engineered woven upper for effortless comfort and l",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 17999,
-        "url": "https://www.superkicks.in/products/adidas-hyperboost-run-core-black-cloud-white-core-black",
-        "inStock": true,
-        "sizes": [
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-17T03:39:51.026Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Hyperboost%20Run%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Hyperboost%20Run%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Hyperboost%20Run%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Hyperboost%20Run%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Hyperboost%20Run%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-12T04:40:04.194Z"
