@@ -12,7 +12,7 @@
     ],
     "images": [
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_0b4ea5ee-2f9a-446c-907c-e42faf206b7b.png?v=1787038183",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/11_d5b30c19-8a4b-4fba-a2da-22d634682357.png?v=1787038183",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/18_b11b9c91-cbe2-4eb6-9bb1-bec7b6a2fdd6.jpg?v=1787209519",
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_324283a5-254f-48d9-b52e-485c917671ec.png?v=1787038183"
     ],
     "description": "Inspired by the tradition of passing down cherished possessions, the Superkicks x adidas Consortium Samba “Heirloom” takes cues from the petis of old India - handcrafted trunks used to store objects of value. Crafted in leather, the design ",
@@ -27,14 +27,9 @@
           "4",
           "5",
           "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
+          "7"
         ],
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
+        "fetchedAt": "2026-08-21T03:40:56.403Z"
       },
       {
         "retailerId": "adidas",
@@ -303,11 +298,10 @@
         "url": "https://www.superkicks.in/products/nike-react-x-rejuven8-cool-grey-black-volt",
         "inStock": true,
         "sizes": [
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
+        "fetchedAt": "2026-08-21T03:40:56.403Z"
       },
       {
         "retailerId": "nike",
@@ -765,13 +759,12 @@
         "url": "https://www.superkicks.in/products/new-balance-bb950-white-red-grey",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
+        "fetchedAt": "2026-08-21T03:40:56.403Z"
       },
       {
         "retailerId": "amazon",
@@ -1029,10 +1022,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
+        "fetchedAt": "2026-08-21T03:40:56.403Z"
       },
       {
         "retailerId": "nike",
@@ -1274,15 +1266,9 @@
         "retailerId": "superkicks",
         "price": 8695,
         "url": "https://www.superkicks.in/products/nike-air-max-fire-black-white",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-08-21T03:40:56.403Z"
       },
       {
         "retailerId": "nike",
@@ -4463,10 +4449,9 @@
         "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-chuck-taylor-all-star-high-top-orange-white",
         "inStock": true,
         "sizes": [
-          "9",
           "11"
         ],
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
+        "fetchedAt": "2026-08-21T03:40:56.403Z"
       },
       {
         "retailerId": "amazon",
@@ -4594,10 +4579,9 @@
           "7",
           "8",
           "9",
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-21T03:40:56.403Z"
       },
       {
         "retailerId": "adidas",
@@ -5120,10 +5104,11 @@
         "sizes": [
           "7",
           "8",
+          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-21T03:40:56.403Z"
       },
       {
         "retailerId": "nike",
