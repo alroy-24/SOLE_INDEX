@@ -1,5 +1,65 @@
 [
   {
+    "id": "sk-puma-speedcat-ballet-nova-grey",
+    "slug": "puma-speedcat-ballet-nova-grey",
+    "brand": "Puma",
+    "model": "Speedcat Ballet Nova",
+    "colorway": "Soft Grass / Toasted Almond",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_5acf6743-af2c-4774-88c6-6270fa762bd4.jpg?v=1787314891",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_173ddd60-cd15-4c7d-9901-256432b9e087.jpg?v=1787314891",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_033d23ee-f13a-4c8a-85b1-bf09a6125d16.jpg?v=1787314891"
+    ],
+    "description": "No matter how you style it, Speedcat Ballet brings elegance and individuality to every fit. With ballet-inspired detailing and refined accents, this silhouette delivers a bold reinterpretation of an icon. Rooted in racing heritage yet desig",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 6999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-ballet-nova-grey",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-18T03:35:20.656Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Ballet%20Nova%20Soft%20Grass",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-22T03:33:02.659Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Soft%20Grass",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-22T03:33:02.659Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Ballet%20Nova%20Soft%20Grass",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-22T03:33:02.659Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Soft%20Grass",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-22T03:33:02.659Z"
+      }
+    ]
+  },
+  {
     "id": "sk-adidas-originals-adidas-originals-x-superkicks-samba-ngtcar-wonwhi-prebrn",
     "slug": "adidas-originals-adidas-originals-x-superkicks-samba-ngtcar-wonwhi-prebrn",
     "brand": "adidas",
@@ -24,12 +84,9 @@
         "inStock": true,
         "sizes": [
           "3",
-          "4",
-          "5",
-          "6",
-          "7"
+          "4"
         ],
-        "fetchedAt": "2026-08-21T03:40:56.403Z"
+        "fetchedAt": "2026-08-22T03:33:02.659Z"
       },
       {
         "retailerId": "adidas",
@@ -298,10 +355,9 @@
         "url": "https://www.superkicks.in/products/nike-react-x-rejuven8-cool-grey-black-volt",
         "inStock": true,
         "sizes": [
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-08-21T03:40:56.403Z"
+        "fetchedAt": "2026-08-22T03:33:02.659Z"
       },
       {
         "retailerId": "nike",
@@ -435,11 +491,10 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-19T03:36:54.335Z"
+        "fetchedAt": "2026-08-22T03:33:02.659Z"
       },
       {
         "retailerId": "nike",
@@ -605,66 +660,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Superfly%20Elm",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-speedcat-ballet-nova-grey",
-    "slug": "puma-speedcat-ballet-nova-grey",
-    "brand": "Puma",
-    "model": "Speedcat Ballet Nova",
-    "colorway": "Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#9b9b94",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f466918e-82a8-4725-b545-6a3d8b8b89ec.jpg?v=1786971664",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0b63c6c7-0b28-4142-a122-f4b315b2b1a3.jpg?v=1786971664",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_7c838482-36e6-4073-9cd7-3307a7ee7d0f.jpg?v=1786971664"
-    ],
-    "description": "No matter how you style it, Speedcat Ballet brings elegance and individuality to every fit. With ballet-inspired detailing and refined accents, this silhouette delivers a bold reinterpretation of an icon. Rooted in racing heritage yet desig",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 6999,
-        "url": "https://www.superkicks.in/products/puma-speedcat-ballet-nova-grey",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Ballet%20Nova%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Ballet%20Nova%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Grey",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-18T03:35:20.656Z"
@@ -1826,9 +1821,14 @@
         "retailerId": "superkicks",
         "price": 14995,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-og-laser-black-varsity-red-summit-white",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-14T04:40:47.880Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-08-22T03:33:02.659Z"
       },
       {
         "retailerId": "nike",
@@ -2073,10 +2073,9 @@
         "inStock": true,
         "sizes": [
           "8",
-          "9",
-          "11"
+          "9"
         ],
-        "fetchedAt": "2026-08-17T03:39:51.026Z"
+        "fetchedAt": "2026-08-22T03:33:02.659Z"
       },
       {
         "retailerId": "nike",
@@ -2139,10 +2138,9 @@
         "url": "https://www.superkicks.in/products/puma-speedcat-wedge-totally-taupe-chocolate",
         "inStock": true,
         "sizes": [
-          "4",
-          "5"
+          "4"
         ],
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
+        "fetchedAt": "2026-08-22T03:33:02.659Z"
       },
       {
         "retailerId": "amazon",
