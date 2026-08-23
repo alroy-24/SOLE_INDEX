@@ -81,12 +81,9 @@
         "retailerId": "superkicks",
         "price": 12999,
         "url": "https://www.superkicks.in/products/adidas-originals-adidas-originals-x-superkicks-samba-ngtcar-wonwhi-prebrn",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4"
-        ],
-        "fetchedAt": "2026-08-22T03:33:02.659Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-08-23T03:40:27.452Z"
       },
       {
         "retailerId": "adidas",
@@ -150,10 +147,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
-          "6"
+          "5"
         ],
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
+        "fetchedAt": "2026-08-23T03:40:27.452Z"
       },
       {
         "retailerId": "adidas",
@@ -4332,10 +4328,9 @@
         "inStock": true,
         "sizes": [
           "8",
-          "9",
-          "10"
+          "9"
         ],
-        "fetchedAt": "2026-08-14T04:40:47.880Z"
+        "fetchedAt": "2026-08-23T03:40:27.452Z"
       },
       {
         "retailerId": "amazon",
@@ -4445,11 +4440,9 @@
         "retailerId": "superkicks",
         "price": 5499,
         "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-chuck-taylor-all-star-high-top-orange-white",
-        "inStock": true,
-        "sizes": [
-          "11"
-        ],
-        "fetchedAt": "2026-08-21T03:40:56.403Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-08-23T03:40:27.452Z"
       },
       {
         "retailerId": "amazon",
@@ -5307,10 +5300,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
           "6"
         ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "fetchedAt": "2026-08-23T03:40:27.452Z"
       },
       {
         "retailerId": "nike",
