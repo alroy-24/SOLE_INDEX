@@ -1,5 +1,438 @@
 [
   {
+    "id": "sk-new-balance-327-dark-earth-mushroom",
+    "slug": "new-balance-327-dark-earth-mushroom",
+    "brand": "New Balance",
+    "model": "327",
+    "colorway": "Dark Earth / Mushroom",
+    "category": "Lifestyle",
+    "palette": [
+      "#6b4a2f",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1_8235870c-34fa-43fe-bc15-afb1c6382c3b.jpg?v=1787574889",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_5d425849-698a-47da-a0ad-a3961c6fa4a9.jpg?v=1787563480",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9184cd16-356b-4c52-9d9c-a17e02f27e13.jpg?v=1787563480"
+    ],
+    "description": "1970s, but make it modern. Inspired by our most iconic ‘70s running shoes, the 327 is a bold blend of retro and right now unlike anything in your closet. Flared midsole Oversized N logo adds retro-inspired style Medial linear ‘New Balance’ ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/new-balance-327-dark-earth-mushroom",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20327%20Dark%20Earth",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20327%20Dark%20Earth",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20327%20Dark%20Earth",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20327%20Dark%20Earth",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-9060-quicksand-incense",
+    "slug": "new-balance-9060-quicksand-incense",
+    "brand": "New Balance",
+    "model": "9060",
+    "colorway": "Quicksand / Incense",
+    "category": "Lifestyle",
+    "palette": [
+      "#e7dfcd",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_673e2145-1708-4e29-a69a-cf8cb2b12607.jpg?v=1787572518",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_5fbb97b9-752e-4290-9024-bd2bca2eb9fb.jpg?v=1787562255",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_9e071d49-1e55-45f8-b5ad-55d7872d0487.jpg?v=1787562255"
+    ],
+    "description": "The 9060 is a new expression of the refined style and innovation-led design of the classic 99X series. The 9060 reinterprets familiar 99X elements with a warped sensibility inspired by the proudly futuristic, visible tech aesthetic of the Y",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 18999,
+        "url": "https://www.superkicks.in/products/new-balance-9060-quicksand-incense",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Quicksand",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Quicksand",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Quicksand",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Quicksand",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-1906-silver-black-mint",
+    "slug": "new-balance-1906-silver-black-mint",
+    "brand": "New Balance",
+    "model": "1906",
+    "colorway": "Silver Black Mint",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94",
+      "#2f6f4e"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/24_51ca22ed-86dd-4d3b-afa8-5694dc9abebe.jpg?v=1787563177",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_68bbcc02-7e72-404a-bae5-152d77e4c0a8.jpg?v=1787563177",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_4f75b2f3-85ed-468d-93ee-47156fbb708f.jpg?v=1787563177"
+    ],
+    "description": "The 1906 is a modern adaptation of a 2000s era performance runner. The distinctive design is led by a sole unit featuring a combination of ABZORB cushioning, shock absorbing N-ergy, and segmented ABZORB SBS pods at the heel. This hi-tech ap",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16999,
+        "url": "https://www.superkicks.in/products/new-balance-1906-silver-black-mint",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%201906%20Silver%20Black%20Mint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%201906%20Silver%20Black%20Mint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%201906%20Silver%20Black%20Mint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%201906%20Silver%20Black%20Mint",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-574-castlerock-with-stoneware",
+    "slug": "new-balance-574-castlerock-with-stoneware",
+    "brand": "New Balance",
+    "model": "574",
+    "colorway": "Castlerock With Stoneware",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_5e0613ed-d80c-417e-9ef2-fc3bf40f9209.jpg?v=1787562386",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_57f6f329-d7fd-4310-87d4-4b69b4165582.jpg?v=1787562386",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_712e55de-7182-4225-a01d-f66f089433b3.jpg?v=1787562386"
+    ],
+    "description": "‘The most New Balance shoe ever’ says it all, right? No, actually. The 574 might be our unlikeliest icon. The 574 was built to be a reliable shoe that could do a lot of different things well rather than as a platform for revolutionary techn",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/new-balance-574-castlerock-with-stoneware",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20574%20Castlerock%20With%20Stoneware",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20574%20Castlerock%20With%20Stoneware",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20574%20Castlerock%20With%20Stoneware",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20574%20Castlerock%20With%20Stoneware",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-471-light-arctic-grey-with-light-zinc-blue",
+    "slug": "new-balance-471-light-arctic-grey-with-light-zinc-blue",
+    "brand": "New Balance",
+    "model": "471",
+    "colorway": "Light Arctic Grey With Light Zinc Blue",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#2f5fa6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_fae68c97-1062-414f-b745-e781f286dec5.jpg?v=1787561790",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_8536c376-207e-4025-a548-05e02a6eff3c.jpg?v=1787561790",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_91027905-6b78-4772-b232-875a1d68b068.jpg?v=1787561790"
+    ],
+    "description": "The 471 transforms ‘70s running heritage into a new, everyday go-to, with a reinterpretation of the era’s visual signatures. The sleek low profile, wedge-shaped EVA midsole, and herringbone outsole provide a familiar starting point, allowin",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/new-balance-471-light-arctic-grey-with-light-zinc-blue",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20471%20Light%20Arctic%20Grey%20With%20Light%20Zinc%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20471%20Light%20Arctic%20Grey%20With%20Light%20Zinc%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20471%20Light%20Arctic%20Grey%20With%20Light%20Zinc%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20471%20Light%20Arctic%20Grey%20With%20Light%20Zinc%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-abzorb-2000-silver-moss-with-bayberry-and-sea-salt",
+    "slug": "new-balance-abzorb-2000-silver-moss-with-bayberry-and-sea-salt",
+    "brand": "New Balance",
+    "model": "Abzorb 2000",
+    "colorway": "Silver Moss With Bayberry And Sea Salt",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_25014226-5f19-4961-a0ba-ff45f2268bda.jpg?v=1787561641",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_fde752a9-d89e-4d77-8426-0b84fb0a0deb.jpg?v=1787561642",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_2449ada0-b1f9-46e8-9aee-67e26fb224e4.jpg?v=1787561642"
+    ],
+    "description": "The ABZORB 2000 takes a distinctive feature of notable 2000s running-inspired classics and makes it the focal point of an all-new style. This progressive, experimental design features a full-length combination of ABZORB cushioning and ABZOR",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19999,
+        "url": "https://www.superkicks.in/products/new-balance-abzorb-2000-silver-moss-with-bayberry-and-sea-salt",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20Abzorb%202000%20Silver%20Moss%20With%20Bayberry%20And%20Sea%20Salt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20Abzorb%202000%20Silver%20Moss%20With%20Bayberry%20And%20Sea%20Salt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20Abzorb%202000%20Silver%20Moss%20With%20Bayberry%20And%20Sea%20Salt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Abzorb%202000%20Silver%20Moss%20With%20Bayberry%20And%20Sea%20Salt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-asics-gel-stratus-mc-white-clay-canyon",
+    "slug": "asics-gel-stratus-mc-white-clay-canyon",
+    "brand": "Asics",
+    "model": "Gel-Stratus Mc",
+    "colorway": "White / Clay Canyon",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#d8702f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1d9f7e6a-bacf-4a69-a2b6-bc58753853d6.jpg?v=1786538511",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_10ba38eb-724b-4131-875f-3fe888b55f5d.jpg?v=1786538512",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_edd5ad5c-277d-4b75-9ea5-36aa9ddc3d0f.jpg?v=1786538511"
+    ],
+    "description": "The GEL-STRATUS™ MC sneaker blends technical aesthetics with functional comfort properties. The upper is inspired by the GEL-STRATUS™ 4 running shoe, integrating synthetic leather overlays and air mesh underlays. Key elements from other 201",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/asics-gel-stratus-mc-white-clay-canyon",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Gel-Stratus%20Mc%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
+      }
+    ]
+  },
+  {
     "id": "sk-puma-speedcat-ballet-nova-grey",
     "slug": "puma-speedcat-ballet-nova-grey",
     "brand": "Puma",
@@ -60,69 +493,6 @@
     ]
   },
   {
-    "id": "sk-adidas-originals-adidas-originals-x-superkicks-samba-ngtcar-wonwhi-prebrn",
-    "slug": "adidas-originals-adidas-originals-x-superkicks-samba-ngtcar-wonwhi-prebrn",
-    "brand": "adidas",
-    "model": "Adidas Originals X Superkicks Samba Heirloom",
-    "colorway": "Ngtcar / Wonwhi / Prebrn",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_0b4ea5ee-2f9a-446c-907c-e42faf206b7b.png?v=1787038183",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/18_b11b9c91-cbe2-4eb6-9bb1-bec7b6a2fdd6.jpg?v=1787209519",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_324283a5-254f-48d9-b52e-485c917671ec.png?v=1787038183"
-    ],
-    "description": "Inspired by the tradition of passing down cherished possessions, the Superkicks x adidas Consortium Samba “Heirloom” takes cues from the petis of old India - handcrafted trunks used to store objects of value. Crafted in leather, the design ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12999,
-        "url": "https://www.superkicks.in/products/adidas-originals-adidas-originals-x-superkicks-samba-ngtcar-wonwhi-prebrn",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-23T03:40:27.452Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Adidas%20Originals%20X%20Superkicks%20Samba%20Heirloom%20Ngtcar",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Adidas%20Originals%20X%20Superkicks%20Samba%20Heirloom%20Ngtcar",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Adidas%20Originals%20X%20Superkicks%20Samba%20Heirloom%20Ngtcar",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Adidas%20Originals%20X%20Superkicks%20Samba%20Heirloom%20Ngtcar",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Adidas%20Originals%20X%20Superkicks%20Samba%20Heirloom%20Ngtcar",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      }
-    ]
-  },
-  {
     "id": "sk-adidas-originals-samba-jane-cloud-white-alumina-core-black",
     "slug": "adidas-originals-samba-jane-cloud-white-alumina-core-black",
     "brand": "adidas",
@@ -147,9 +517,10 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5"
+          "5",
+          "6"
         ],
-        "fetchedAt": "2026-08-23T03:40:27.452Z"
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
       },
       {
         "retailerId": "adidas",
@@ -943,9 +1314,12 @@
         "inStock": true,
         "sizes": [
           "7",
-          "10"
+          "8",
+          "9",
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-08-19T03:36:54.335Z"
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
       },
       {
         "retailerId": "nike",
@@ -2068,9 +2442,10 @@
         "inStock": true,
         "sizes": [
           "8",
-          "9"
+          "9",
+          "11"
         ],
-        "fetchedAt": "2026-08-22T03:33:02.659Z"
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
       },
       {
         "retailerId": "nike",
@@ -3875,10 +4250,9 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
-          "9"
+          "8"
         ],
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
       },
       {
         "retailerId": "adidas",
@@ -4000,18 +4374,20 @@
     ],
     "images": [
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a89b174d-7ba0-452d-8fb0-9a0f2946fc08.jpg?v=1785830821",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_df784456-2eb0-442a-b29a-f3b0ff15d9b0.jpg?v=1785830821",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f07133fe-6772-4d54-bcaf-6e699fe2ec1d.jpg?v=1785830821"
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/7_ffad1819-f475-47b5-af37-16119b64f00c.jpg?v=1785830821",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_df784456-2eb0-442a-b29a-f3b0ff15d9b0.jpg?v=1785830821"
     ],
-    "description": "",
+    "description": "PW Adistar Jellyfish Shoes The newest release from adidas Originals by Pharrell Williams.",
     "offers": [
       {
         "retailerId": "superkicks",
         "price": 29999,
         "url": "https://www.superkicks.in/products/adidas-pw-adistar-jellyfish-white-white-white",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
+        "inStock": true,
+        "sizes": [
+          "7"
+        ],
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
       },
       {
         "retailerId": "adidas",
@@ -4569,9 +4945,10 @@
           "7",
           "8",
           "9",
+          "10",
           "11"
         ],
-        "fetchedAt": "2026-08-21T03:40:56.403Z"
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
       },
       {
         "retailerId": "adidas",
@@ -5298,9 +5675,10 @@
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-cream-ii-sail-metallic-gold",
         "inStock": true,
         "sizes": [
-          "4"
+          "4",
+          "5"
         ],
-        "fetchedAt": "2026-08-24T03:43:38.582Z"
+        "fetchedAt": "2026-08-25T03:38:44.094Z"
       },
       {
         "retailerId": "nike",
@@ -5800,415 +6178,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-samba-og-collegiate-green-warm-vanilla-gum",
-    "slug": "adidas-originals-samba-og-collegiate-green-warm-vanilla-gum",
-    "brand": "adidas",
-    "model": "Samba OG",
-    "colorway": "Collegiate Green / Warm Vanilla / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#2f6f4e"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_0e778312-5b86-4451-abe5-9d404582b817.jpg?v=1785497033",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c220f464-a9c1-466a-a831-95527f49f649.jpg?v=1785497033",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_608dac78-405f-41fe-a3e6-8924422c0ac2.jpg?v=1785497033"
-    ],
-    "description": "Born On The Football Pitch In The 1950s, The Samba Og Shoes Have Evolved Into A Streetwear Staple. This Updated Silhouette Features A Premium Suede Upper In Sporty Colours, Complemented By A Gold Hangtag And Signature Branding Details For A",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10999,
-        "url": "https://www.superkicks.in/products/adidas-originals-samba-og-collegiate-green-warm-vanilla-gum",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20OG%20Collegiate%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Samba%20OG%20Collegiate%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20OG%20Collegiate%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20OG%20Collegiate%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Collegiate%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-anthony-edwards-2-haze-coral-bliss-lilac-zero-metalic",
-    "slug": "adidas-anthony-edwards-2-haze-coral-bliss-lilac-zero-metalic",
-    "brand": "adidas",
-    "model": "Anthony Edwards 2",
-    "colorway": "Haze Coral / Bliss Lilac / Zero Metalic",
-    "category": "Basketball",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_618c55be-8c0a-4419-8c8c-2b0a4650c67d.jpg?v=1785496893",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_07bf6085-80cb-4939-a000-63fab5b22387.jpg?v=1785496893",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_5db56a77-bf35-4d72-b9b3-1fca45382e65.jpg?v=1785496893"
-    ],
-    "description": "Step onto the court with rebellious optimism in the Anthony Edwards 2 Shoes. These basketball shoes are designed to empower athletes and trendsetters alike, blending advanced design with a dynamic look that stands out. Experience adidas tec",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12999,
-        "url": "https://www.superkicks.in/products/adidas-anthony-edwards-2-haze-coral-bliss-lilac-zero-metalic",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Anthony%20Edwards%202%20Haze%20Coral",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Anthony%20Edwards%202%20Haze%20Coral",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Anthony%20Edwards%202%20Haze%20Coral",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Anthony%20Edwards%202%20Haze%20Coral",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Anthony%20Edwards%202%20Haze%20Coral",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-anthony-edwards-2-core-black-gold-metallic-solar-turbo",
-    "slug": "adidas-anthony-edwards-2-core-black-gold-metallic-solar-turbo",
-    "brand": "adidas",
-    "model": "Anthony Edwards 2",
-    "colorway": "Core Black / Gold Metallic / Solar Turbo",
-    "category": "Basketball",
-    "palette": [
-      "#161616",
-      "#d9b441"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_eca15519-4c1a-4055-9e2c-7bd7c57e3004.jpg?v=1785496655",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/31_17f271f4-bd64-4c78-acc1-27424ed3db1f.jpg?v=1785496655",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_1015c550-6969-4c53-9cac-1273f0c2177d.jpg?v=1785496655"
-    ],
-    "description": "When You Step Onto The Court, You Want To Feel Unstoppable. Designed To Elevate Your Game With Cutting-edge Technology And Sleek Design, The Anthony Edwards 2 Shoes Are Made For Basketball Enthusiasts Who Crave Performance And Style In Equa",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12999,
-        "url": "https://www.superkicks.in/products/adidas-anthony-edwards-2-core-black-gold-metallic-solar-turbo",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Anthony%20Edwards%202%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Anthony%20Edwards%202%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Anthony%20Edwards%202%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Anthony%20Edwards%202%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Anthony%20Edwards%202%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-ghost-sprint-ballet-shoes-core-black-core-black-gum",
-    "slug": "adidas-ghost-sprint-ballet-shoes-core-black-core-black-gum",
-    "brand": "adidas",
-    "model": "Ghost Sprint Ballet",
-    "colorway": "Core Black / Core Black / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3da213c3-4d1a-433d-a59d-9bd35c543888.jpg?v=1785496446",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_b415e107-3dd5-4541-8ed2-cd3f80d9b439.jpg?v=1785496446",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_608fda0c-ba70-4f46-8dcd-e55549011365.jpg?v=1785496446"
-    ],
-    "description": "Embrace a bold new era with the Ghost Sprint Ballet Shoes, a fresh take on a 2000s classic. This season, adidas reimagines the runner silhouette with a ballerina-inspired Mary Jane twist, creating a statement piece for trainer enthusiasts a",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8999,
-        "url": "https://www.superkicks.in/products/adidas-ghost-sprint-ballet-shoes-core-black-core-black-gum",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Ghost%20Sprint%20Ballet%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Ghost%20Sprint%20Ballet%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Ghost%20Sprint%20Ballet%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Ghost%20Sprint%20Ballet%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Ghost%20Sprint%20Ballet%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-gazelle-indoor-trace-brown-warm-vanilla-gum",
-    "slug": "adidas-originals-gazelle-indoor-trace-brown-warm-vanilla-gum",
-    "brand": "adidas",
-    "model": "Gazelle Indoor",
-    "colorway": "Trace Brown / Warm Vanilla / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_e8f195fc-8be9-461f-b5fb-5a1af5e5d2d3.jpg?v=1785496162",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_80771345-146e-4863-a5dc-56c46636f190.jpg?v=1785496162",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_cd1533b6-9883-4c0a-99bf-7a985f8eac3c.jpg?v=1785496162"
-    ],
-    "description": "The Gazelle Indoor Shoes From Adidas Originals Bring Legacy Style To Life. First Built For Indoor Use, This Version Stands Out With A Translucent Gum Sole That Wraps The Silhouette For A Bold, Distinctive Edge. A Premium Suede Upper With Nu",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11999,
-        "url": "https://www.superkicks.in/products/adidas-originals-gazelle-indoor-trace-brown-warm-vanilla-gum",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Gazelle%20Indoor%20Trace%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Gazelle%20Indoor%20Trace%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Gazelle%20Indoor%20Trace%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Gazelle%20Indoor%20Trace%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Gazelle%20Indoor%20Trace%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-ghost-sprint-ballet-shoes-earth-strata-earth-strata-gum",
-    "slug": "adidas-ghost-sprint-ballet-shoes-earth-strata-earth-strata-gum",
-    "brand": "adidas",
-    "model": "Ghost Sprint Ballet",
-    "colorway": "Earth Strata / Earth Strata / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f47f1ca9-f196-4f6b-a411-d57ad6f63010.jpg?v=1785496035",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_3a86ff97-365a-4224-8b39-3ab369a6cbc5.jpg?v=1785496035",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c2e2ba28-ba1f-4c2e-a967-a95b1fc9e82d.jpg?v=1785496035"
-    ],
-    "description": "Embrace a bold new era with the Ghost Sprint Ballet Shoes, a fresh take on a 2000s classic. This season, adidas reimagines the runner silhouette with a ballerina-inspired Mary Jane twist, creating a statement piece for trainer enthusiasts a",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8999,
-        "url": "https://www.superkicks.in/products/adidas-ghost-sprint-ballet-shoes-earth-strata-earth-strata-gum",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Ghost%20Sprint%20Ballet%20Earth%20Strata",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Ghost%20Sprint%20Ballet%20Earth%20Strata",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Ghost%20Sprint%20Ballet%20Earth%20Strata",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Ghost%20Sprint%20Ballet%20Earth%20Strata",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Ghost%20Sprint%20Ballet%20Earth%20Strata",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
       }
     ]
   }
