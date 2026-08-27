@@ -1,5 +1,1200 @@
 [
   {
+    "id": "sk-new-balance-327-grey-matter-white",
+    "slug": "new-balance-327-grey-matter-white",
+    "brand": "New Balance",
+    "model": "327",
+    "colorway": "Grey Matter / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/Untitled-4444.jpg?v=1787836479",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/Untitled-3_9d859272-c515-4e16-8a8f-9087cf0189b8.jpg?v=1787836479",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/Untitled-5_jpg.jpg?v=1787823088"
+    ],
+    "description": "1970s, but make it modern. Inspired by our most iconic ‘70s running shoes, the 327 is a bold blend of retro and right now unlike anything in your closet. Flared midsole Oversized N logo adds retro-inspired style Medial linear ‘New Balance’ ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/new-balance-327-grey-matter-white",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20327%20Grey%20Matter",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20327%20Grey%20Matter",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20327%20Grey%20Matter",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20327%20Grey%20Matter",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-air-jordan-2-retro-black-cement-grey-fire-red-sail-shoes-for-men",
+    "slug": "air-jordan-2-retro-black-cement-grey-fire-red-sail-shoes-for-men",
+    "brand": "Jordan",
+    "model": "Air Jordan 2 Retro",
+    "colorway": "Black / Cement Grey / Fire Red / Sail",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_080103c1-214c-4877-a254-4183def9d99c.jpg?v=1695105944",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_e0931757-5649-415b-a668-9edd9aa61ea3.jpg?v=1695105943",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_5dba5fa0-e3b3-4e7b-8300-0bf7af1b6320.jpg?v=1695105945"
+    ],
+    "description": "Making its debut in 1986, the AJ2 was the cool younger sibling of its famous predecessor—a sleeker and more pared-down version of the iconic AJ1. With premium leather and Nike Air underfoot, this throwback serves the ultimate combo of weara",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 6918,
+        "mrp": 17295,
+        "url": "https://www.superkicks.in/products/air-jordan-2-retro-black-cement-grey-fire-red-sail-shoes-for-men",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%202%20Retro%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%202%20Retro%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%202%20Retro%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%202%20Retro%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%202%20Retro%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-converse-chuck-taylor-all-star-pro-real-tree-realtree-apx-black-1",
+    "slug": "converse-chuck-taylor-all-star-pro-real-tree-realtree-apx-black-1",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star Pro Real Tree",
+    "colorway": "Realtree Apx Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_839c5ab2-95dc-4b15-80e7-df1775476f20.jpg?v=1787736966",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_8868568a-3477-4467-a6ec-1a4254bda400.jpg?v=1787736966",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_99ead97d-f9df-4497-b3c3-81e78ceed9db.jpg?v=1787736966"
+    ],
+    "description": "NEVER BLEND IN With A Printed Canvas Upper, Rubber Overlays, And A Traction Outsole, The Cons Ctas Pro Real Tree Is A Sleeper Build That Looks Effortless But Can Handle Whatever, Whenever. Woven Canvas Upper With Printed Real Tree Pattern C",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 5499,
+        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-pro-real-tree-realtree-apx-black-1",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Pro%20Real%20Tree%20Realtree%20Apx%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Pro%20Real%20Tree%20Realtree%20Apx%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Pro%20Real%20Tree%20Realtree%20Apx%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Pro%20Real%20Tree%20Realtree%20Apx%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-converse-chuck-taylor-all-star-white-black-white",
+    "slug": "converse-chuck-taylor-all-star-white-black-white",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star",
+    "colorway": "White / Black / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_32ab1eb6-87fb-4751-b562-7118b6e9dd80.jpg?v=1787736352",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/21_c6cbb251-855a-4c84-8386-a4074f77ef72.jpg?v=1787736353",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_46f34bfc-e715-4934-ac97-d1e697ca7801.jpg?v=1787736352"
+    ],
+    "description": "Embrace your whimsical dark side with the Chuck Taylor All Star Sneaker from Converse! These low-top Chucks feature a canvas upper adorned with delicate silver gothic charms — from winged hearts to cats and bows — paired with unique crochet",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 4999,
+        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-white-black-white",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-1906-altitude",
+    "slug": "new-balance-1906-altitude",
+    "brand": "New Balance",
+    "model": "1906",
+    "colorway": "Altitude",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_44e39d42-6c95-4ef8-84cd-cbd36f5c9d83.jpg?v=1787747558",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_5eeb8ad2-c3de-49b1-9964-f8a6eba272dc.jpg?v=1787747558",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_073649f1-3083-461a-a0cb-29774e6df7cc.jpg?v=1787747558"
+    ],
+    "description": "The 1906R, like its cousins the 2002R and the 860v2, is led by a sole unit featuring a combination of flexible ACTEVA LITE cushioning, shock absorbing N-ergy, and segmented ABZORB SBS pods at the heel. This hi-tech approach is also reflecte",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16999,
+        "url": "https://www.superkicks.in/products/new-balance-1906-altitude",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "11.5"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%201906%20Altitude",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%201906%20Altitude",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%201906%20Altitude",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%201906%20Altitude",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-5030-linen-with-pink-chalk",
+    "slug": "new-balance-5030-linen-with-pink-chalk",
+    "brand": "New Balance",
+    "model": "5030",
+    "colorway": "Linen With Pink Chalk",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#e7dfcd",
+      "#e093a6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1a4230bf-7b8f-4003-bdb4-45ec9bd4d64b.jpg?v=1787747432",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_66bdd178-f0f2-4d1b-8970-91595d8324d1.jpg?v=1787747432",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_91a16f53-67f8-4853-a653-090f5614606c.jpg?v=1787747432"
+    ],
+    "description": "This versatile shoe offers exceptional underfoot comfort for smooth movement and all-day wear. Features The ABZORB midsole absorbs impact through its cushioning and compression-resistant properties. Debossed upper detailing. Sculpted midsol",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12999,
+        "url": "https://www.superkicks.in/products/new-balance-5030-linen-with-pink-chalk",
+        "inStock": true,
+        "sizes": [
+          "5.5",
+          "6",
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "9"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%205030%20Linen%20With%20Pink%20Chalk",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%205030%20Linen%20With%20Pink%20Chalk",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%205030%20Linen%20With%20Pink%20Chalk",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%205030%20Linen%20With%20Pink%20Chalk",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-9060-nightwatch-green-with-angora",
+    "slug": "new-balance-9060-nightwatch-green-with-angora",
+    "brand": "New Balance",
+    "model": "9060",
+    "colorway": "Nightwatch Green With Angora",
+    "category": "Lifestyle",
+    "palette": [
+      "#2f6f4e",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_9500d89e-8010-4634-bc48-eb3d164fcbf6.jpg?v=1787747266",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_75e6388a-aa53-42e3-ae16-f2aff9ce3643.jpg?v=1787747266",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_cdc2260b-445c-4672-9a7e-7ab6fa07826b.jpg?v=1787747266"
+    ],
+    "description": "The 9060 is a new expression of the refined style and innovation-led design of the classic 99X series. The 9060 reinterprets familiar 99X elements with a warped sensibility inspired by the proudly futuristic, visible tech aesthetic of the Y",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 18999,
+        "url": "https://www.superkicks.in/products/new-balance-9060-nightwatch-green-with-angora",
+        "inStock": true,
+        "sizes": [
+          "5.5",
+          "6",
+          "7",
+          "7.5",
+          "8",
+          "9",
+          "9.5",
+          "10",
+          "10.5",
+          "11.5"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Nightwatch%20Green%20With%20Angora",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Nightwatch%20Green%20With%20Angora",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Nightwatch%20Green%20With%20Angora",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Nightwatch%20Green%20With%20Angora",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-1906-black",
+    "slug": "new-balance-1906-black",
+    "brand": "New Balance",
+    "model": "1906",
+    "colorway": "Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f8303fc2-0e33-462b-8f04-d24f4915c6c4.jpg?v=1787747145",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_a75a5fda-fec6-49c8-b941-c1b8d9202cba.jpg?v=1787747144",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_33b92f51-2439-4db1-8cf5-28d59ced813e.jpg?v=1787747144"
+    ],
+    "description": "The 1906R, like its cousins the 2002R and the 860v2, is led by a sole unit featuring a combination of flexible ACTEVA LITE cushioning, shock absorbing N-ergy, and segmented ABZORB SBS pods at the heel. This hi-tech approach is also reflecte",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16999,
+        "url": "https://www.superkicks.in/products/new-balance-1906-black",
+        "inStock": true,
+        "sizes": [
+          "6.5",
+          "8",
+          "9",
+          "9.5",
+          "11.5"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%201906%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%201906%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%201906%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%201906%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-9060-timberwolf-with-black-cement",
+    "slug": "new-balance-9060-timberwolf-with-black-cement",
+    "brand": "New Balance",
+    "model": "9060",
+    "colorway": "Timberwolf With Black Cement",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_691a95b2-6a86-4556-a134-7cc3c5f4224f.jpg?v=1787746914",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_d6bb2af2-2fb3-4ed3-bd34-897f0dc0ce96.jpg?v=1787746914",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_989bb2d2-0db7-4978-add5-449aa804ed22.jpg?v=1787746914"
+    ],
+    "description": "The 9060 is a new expression of the refined style and innovation-led design of the classic 99X series. The 9060 reinterprets familiar 99X elements with a warped sensibility inspired by the proudly futuristic, visible tech aesthetic of the Y",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 18999,
+        "url": "https://www.superkicks.in/products/new-balance-9060-timberwolf-with-black-cement",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "8",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Timberwolf%20With%20Black%20Cement",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Timberwolf%20With%20Black%20Cement",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Timberwolf%20With%20Black%20Cement",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Timberwolf%20With%20Black%20Cement",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-5030-black-black-metallic",
+    "slug": "new-balance-5030-black-black-metallic",
+    "brand": "New Balance",
+    "model": "5030",
+    "colorway": "Black / Black Metallic",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_31117fd9-9a3f-4b00-818e-4339479a32be.jpg?v=1787746738",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_79e45243-72cf-4313-b8c7-35a13138f6d1.jpg?v=1787746738",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_20fc1a45-409d-429e-83eb-268b721164df.jpg?v=1787746737"
+    ],
+    "description": "This versatile shoe offers exceptional underfoot comfort for smooth movement and all-day wear. Features The ABZORB midsole absorbs impact through its cushioning and compression-resistant properties. Debossed upper detailing. Sculpted midsol",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11999,
+        "url": "https://www.superkicks.in/products/new-balance-5030-black-black-metallic",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "9.5",
+          "10",
+          "10.5",
+          "11",
+          "11.5"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%205030%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%205030%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%205030%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%205030%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-1906-white-with-nordic-green",
+    "slug": "new-balance-1906-white-with-nordic-green",
+    "brand": "New Balance",
+    "model": "1906",
+    "colorway": "White With Nordic Green",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#2f6f4e"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_36f40690-4c74-4364-bec3-1b5816216188.jpg?v=1787746333",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_eecb5247-3b81-45d9-9007-781cb2f3f70b.jpg?v=1787746333",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3d3f2f16-6ba4-4a49-91b5-faf65172aac1.jpg?v=1787746333"
+    ],
+    "description": "The 1906R, like its cousins the 2002R and the 860v2, is led by a sole unit featuring a combination of flexible ACTEVA LITE cushioning, shock absorbing N-ergy, and segmented ABZORB SBS pods at the heel. This hi-tech approach is also reflecte",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16999,
+        "url": "https://www.superkicks.in/products/new-balance-1906-white-with-nordic-green",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "7.5",
+          "8.5",
+          "9",
+          "9.5",
+          "10",
+          "11",
+          "11.5"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%201906%20White%20With%20Nordic%20Green",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%201906%20White%20With%20Nordic%20Green",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%201906%20White%20With%20Nordic%20Green",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%201906%20White%20With%20Nordic%20Green",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-204l-silver-metallic-white-black",
+    "slug": "new-balance-204l-silver-metallic-white-black",
+    "brand": "New Balance",
+    "model": "204l",
+    "colorway": "Silver Metallic / White / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_6d156a42-fff3-4119-bc14-210685390c3c.jpg?v=1787746139",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d8be2f49-3e2c-4b8b-b6ba-944afc351e27.jpg?v=1787746139",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/25_04319108-5fe6-496a-bb88-e7696bb6a46f.jpg?v=1787746139"
+    ],
+    "description": "Enter the 204L: an unexpected interpretation of 2000s running-inspired style. This low-profile silhouette blends the slim structure of '70s running shoes with tech-inspired texture of premium suede. Pulling design elements from past and pre",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12999,
+        "url": "https://www.superkicks.in/products/new-balance-204l-silver-metallic-white-black",
+        "inStock": true,
+        "sizes": [
+          "6.5",
+          "10",
+          "10.5"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20204l%20Silver%20Metallic",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20204l%20Silver%20Metallic",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20204l%20Silver%20Metallic",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20204l%20Silver%20Metallic",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-1906-black-with-black-cement",
+    "slug": "new-balance-1906-black-with-black-cement",
+    "brand": "New Balance",
+    "model": "1906",
+    "colorway": "Black With Black Cement",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_95d77114-b655-414b-8809-abbcbe6f59c3.jpg?v=1787745993",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_296c88b5-264f-428a-9520-cf14bb9cc484.jpg?v=1787745993",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3596f8f4-d473-4a7e-9707-6240667bf06e.jpg?v=1787745993"
+    ],
+    "description": "These running shoes are designed with comfort features and premium footwear technology to keep up with your child's active lifestyle.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16999,
+        "url": "https://www.superkicks.in/products/new-balance-1906-black-with-black-cement",
+        "inStock": true,
+        "sizes": [
+          "8.5",
+          "9.5",
+          "10.5"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%201906%20Black%20With%20Black%20Cement",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%201906%20Black%20With%20Black%20Cement",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%201906%20Black%20With%20Black%20Cement",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%201906%20Black%20With%20Black%20Cement",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-converse-as-1-pro-truffle-black-truffle",
+    "slug": "converse-as-1-pro-truffle-black-truffle",
+    "brand": "Converse",
+    "model": "As-1 Pro",
+    "colorway": "Truffle / Black / Truffle",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_cb0c9072-aa07-4987-ab36-2d0471878644.jpg?v=1787745676",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9606beef-2c8b-4f81-bb59-7f56cc815358.jpg?v=1787745676",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_2787a2a5-ad91-47e4-a228-d801503e1d64.jpg?v=1787745676"
+    ],
+    "description": "BOUNCE BACK Designed By Alexis Sablone, The Dynamic As-1 Pro Gets A Refresh. It Has The Look Of A '90S Favorite, But With Innovative Detailing Like Foam Cushioning To Help Absorb Impact. Now It Arrives In A Durable Mix Of Leather And Rubber",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 6999,
+        "url": "https://www.superkicks.in/products/converse-as-1-pro-truffle-black-truffle",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Converse%20As-1%20Pro%20Truffle",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Converse%20As-1%20Pro%20Truffle",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Converse%20As-1%20Pro%20Truffle",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Converse%20As-1%20Pro%20Truffle",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-converse-chuck-taylor-all-star-white-egret-black",
+    "slug": "converse-chuck-taylor-all-star-white-egret-black",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star",
+    "colorway": "White / Egret / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_30b4a87c-82a9-4be3-86cb-7afe032437f8.jpg?v=1787736184",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c2eef6d6-26aa-4515-9bca-6f6a18e8f6f2.jpg?v=1787736184",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_9d008d2d-ff17-43e6-bb66-91b8db3ad117.jpg?v=1787736184"
+    ],
+    "description": "SCALED UP Make a bold statement. Snake-print leather Chucks add a subtle flair to every outfit. Scale patterns in alternating hues create the illusion of snake-skin texture, making any look absolutely striking. Coated, full-grain leather up",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 4999,
+        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-white-egret-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-converse-chuck-taylor-all-star-black-silver-gold",
+    "slug": "converse-chuck-taylor-all-star-black-silver-gold",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star",
+    "colorway": "Black / Silver / Gold",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94",
+      "#d9b441"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_2e52bb5d-c215-4d3e-b58e-5847633cfcea.jpg?v=1787736455",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_21e1462e-015d-474e-a07e-e43f35fa35eb.jpg?v=1787736455",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_b561f21a-1aef-4a43-866d-5a0d0be5b5de.jpg?v=1787736455"
+    ],
+    "description": "No rocket needed for these interstellar Chucks. Constellation-inspired details pop with a metallic shimmer that will make you shine just as bright as the stars above. Durable canvas upper for that classic Chucks look and feel OrthoLite cush",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 4999,
+        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-black-silver-gold",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-converse-chuck-taylor-all-star-egret-silver-gold",
+    "slug": "converse-chuck-taylor-all-star-egret-silver-gold",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star",
+    "colorway": "Egret / Silver / Gold",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#d9b441"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_759717ba-a969-4f42-8795-206762aca5a2.jpg?v=1787736064",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_30ffc7ad-48d0-48a2-8374-753684af0218.jpg?v=1787736064",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_5d569141-94e2-4a50-958e-85abda5b3bb5.jpg?v=1787736064"
+    ],
+    "description": "No rocket needed for these interstellar Chucks. Constellation-inspired details pop with a metallic shimmer that will make you shine just as bright as the stars above. Durable canvas upper for that classic Chucks look and feel OrthoLite cush",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 4999,
+        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-egret-silver-gold",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Egret",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-converse-chuck-taylor-all-star-classic-grey-egret-black",
+    "slug": "converse-chuck-taylor-all-star-classic-grey-egret-black",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star",
+    "colorway": "Classic Grey / Egret / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_40466113-7031-4f71-8420-4a13850bab8b.jpg?v=1787735921",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ef2c5daf-517d-49cd-80f7-983701d60938.jpg?v=1787735921",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_acd4f4a4-480f-43af-8203-dc7229953b7c.jpg?v=1787735921"
+    ],
+    "description": "Make a bold statement. Snake-print leather Chucks add a subtle flair to every outfit. Scale patterns in alternating hues create the illusion of snake-skin texture, making any look absolutely striking. Coated, full-grain leather upper, with ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 4499,
+        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-classic-grey-egret-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Classic%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Classic%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Classic%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Classic%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-vomero-premium-university-red-metallic-silver",
+    "slug": "nike-vomero-premium-university-red-metallic-silver",
+    "brand": "Nike",
+    "model": "Vomero Premium",
+    "colorway": "University Red / Metallic Silver",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ce111022-0480-4ad9-8c45-76486c08e321.jpg?v=1787578156",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_64e255da-09e5-461c-bb4f-e2dc11250660.jpg?v=1787578156",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a2b3ebae-1c63-400f-b67f-adf51e95f0d5.jpg?v=1787578156"
+    ],
+    "description": "The Vomero Premium always features two energy boosting Air Zoom units surrounded by ultrasoft, responsive ZoomX foam to give you our most comfortable ride yet for everyday road runs. Textile upper is breathable and durable. Snappy and respo",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19695,
+        "url": "https://www.superkicks.in/products/nike-vomero-premium-university-red-metallic-silver",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Vomero%20Premium%20University%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Vomero%20Premium%20University%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Vomero%20Premium%20University%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Vomero%20Premium%20University%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Vomero%20Premium%20University%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
+      }
+    ]
+  },
+  {
     "id": "sk-new-balance-740-oxford-blue-magic-blue",
     "slug": "new-balance-740-oxford-blue-magic-blue",
     "brand": "New Balance",
@@ -956,10 +2151,13 @@
         "url": "https://www.superkicks.in/products/nike-vomero-premium-black-metallic-silver-white",
         "inStock": true,
         "sizes": [
+          "4",
           "5",
-          "7"
+          "6",
+          "7",
+          "9"
         ],
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
       },
       {
         "retailerId": "nike",
@@ -1025,11 +2223,10 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
       },
       {
         "retailerId": "nike",
@@ -1653,11 +2850,9 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
-          "9",
-          "10"
+          "9"
         ],
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
       },
       {
         "retailerId": "nike",
@@ -4651,10 +5846,9 @@
         "inStock": true,
         "sizes": [
           "3",
-          "4",
-          "6"
+          "4"
         ],
-        "fetchedAt": "2026-08-16T03:38:27.785Z"
+        "fetchedAt": "2026-08-27T13:17:39.735Z"
       },
       {
         "retailerId": "amazon",
@@ -4954,1220 +6148,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Muenchen%20Earth%20Strata",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-bw-army-lux-cardboard-cardboard-gum",
-    "slug": "adidas-bw-army-lux-cardboard-cardboard-gum",
-    "brand": "adidas",
-    "model": "Bw Army Lux",
-    "colorway": "Cardboard / Cardboard / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f0fd8e7e-5741-4b03-965d-ecb4c01ab5f9.jpg?v=1785933707",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_3667a978-c8b5-45cc-b248-2793eba8c9d0.jpg?v=1785933708",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_51379abc-5136-45b7-ba37-49307ee5aa87.jpg?v=1785933707"
-    ],
-    "description": "Classic Style Shoes With Lace Closure For Versatile Wear And Adjustability. The Bw Army Lux Shoes Are A Premium Addition To The Adidas Originals Collection. These Shoes Blend Classic Army-inspired Aesthetics With Modern Materials For A Look",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12999,
-        "url": "https://www.superkicks.in/products/adidas-bw-army-lux-cardboard-cardboard-gum",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Bw%20Army%20Lux%20Cardboard",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Bw%20Army%20Lux%20Cardboard",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Bw%20Army%20Lux%20Cardboard",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Bw%20Army%20Lux%20Cardboard",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Bw%20Army%20Lux%20Cardboard",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-adistar-xlg-2-0-core-black-cloud-white-frozen-lemon",
-    "slug": "adidas-adistar-xlg-2-0-core-black-cloud-white-frozen-lemon",
-    "brand": "adidas",
-    "model": "Adistar Xlg 2.0",
-    "colorway": "Core Black / Cloud White / Frozen Lemon",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#d9b441"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_12_4ffbf7d5-7c6f-4f7c-b864-b7f1db68490b.jpg?v=1786010771",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_13_f2e8b5ed-99f7-4d34-b971-1de7faedba75.jpg?v=1786010771",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_12_7a2fae9f-4f09-4b66-9fcf-1552f819316c.jpg?v=1786010771"
-    ],
-    "description": "Shoes With Adiprene Cushioning Technology For Responsive Comfort. Bring Back The Bold Spirit Of The 00s With The Adistar Xlg 2.0 Shoes, A Fresh Take On Classic Adidas Running Heritage. Designed In A Street Style, They Fuse Retro Inspiration",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 14999,
-        "url": "https://www.superkicks.in/products/adidas-adistar-xlg-2-0-core-black-cloud-white-frozen-lemon",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Adistar%20Xlg%202.0%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Adistar%20Xlg%202.0%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Adistar%20Xlg%202.0%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Adistar%20Xlg%202.0%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Adistar%20Xlg%202.0%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-x-dragon-ball-z-vegeta-all-star-chuck-tayor-hi-delft-high-risk-red",
-    "slug": "converse-x-dragon-ball-z-vegeta-all-star-chuck-tayor-hi-delft-high-risk-red",
-    "brand": "Converse",
-    "model": "X Dragon Ball Z Vegeta All Star Chuck Tayor Hi",
-    "colorway": "Delft / High Risk Red",
-    "category": "Lifestyle",
-    "palette": [
-      "#c2362f",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_8661854c-78a2-420c-97f7-349dd638069d.jpg?v=1786002219",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_1a285f5b-b838-4176-9838-6fc3451a2cd3.jpg?v=1786002219",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_cf47a4b3-2946-41b8-9811-e62aa16c4f63.jpg?v=1786002219"
-    ],
-    "description": "FALL FAVORITE Your favorite Chuck updates his look just in time for the arrival of cooler temperatures. Canvas in trendy fall colors allows you to add a style that stands out to your collection. With the days getting shorter, why not add so",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 5499,
-        "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-vegeta-all-star-chuck-tayor-hi-delft-high-risk-red",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-20T03:37:09.851Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20X%20Dragon%20Ball%20Z%20Vegeta%20All%20Star%20Chuck%20Tayor%20Hi%20Delft",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20X%20Dragon%20Ball%20Z%20Vegeta%20All%20Star%20Chuck%20Tayor%20Hi%20Delft",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20X%20Dragon%20Ball%20Z%20Vegeta%20All%20Star%20Chuck%20Tayor%20Hi%20Delft",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20X%20Dragon%20Ball%20Z%20Vegeta%20All%20Star%20Chuck%20Tayor%20Hi%20Delft",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-hartcopy-x-consortium-bw-army-decon-crystal-white-greone-gum",
-    "slug": "adidas-hartcopy-x-consortium-bw-army-decon-crystal-white-greone-gum",
-    "brand": "adidas",
-    "model": "Hartcopy X Consortium Bw Army Decon",
-    "colorway": "Crystal White / Greone / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_0b1984ca-00fe-483d-b923-b356da790526.jpg?v=1785929187",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_9fb46012-c6e6-4fbf-99bd-bb9407de8e44.jpg?v=1785929187",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4f15e898-842a-44b9-bb43-8a48d7dd5c0e.jpg?v=1785929187"
-    ],
-    "description": "The BW Army traces its roots back to the German Army Trainers adidas supplied throughout the '70s and '80s. For this collaboration, Hartcopy strips the icon back to its essentials, introducing a thinner, collapsible leather upper that gives",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12999,
-        "url": "https://www.superkicks.in/products/adidas-hartcopy-x-consortium-bw-army-decon-crystal-white-greone-gum",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Hartcopy%20X%20Consortium%20Bw%20Army%20Decon%20Crystal%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Hartcopy%20X%20Consortium%20Bw%20Army%20Decon%20Crystal%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Hartcopy%20X%20Consortium%20Bw%20Army%20Decon%20Crystal%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Hartcopy%20X%20Consortium%20Bw%20Army%20Decon%20Crystal%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Hartcopy%20X%20Consortium%20Bw%20Army%20Decon%20Crystal%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-hartcopy-x-consortium-bw-army-decon-halo-gold-halo-gold-gum",
-    "slug": "adidas-hartcopy-x-consortium-bw-army-decon-halo-gold-halo-gold-gum",
-    "brand": "adidas",
-    "model": "Hartcopy X Consortium Bw Army Decon",
-    "colorway": "Halo Gold / Halo Gold / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#d9b441"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a56e975d-355b-4695-a237-e00cbdc1c93e.jpg?v=1785929672",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b6d177d9-8db6-4c99-be0f-be04440e1f45.jpg?v=1785929672",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_f51607d0-c924-4c00-a54f-63a0666b594b.jpg?v=1785929672"
-    ],
-    "description": "The BW Army traces its roots back to the German Army Trainers adidas supplied throughout the '70s and '80s. For this collaboration, Hartcopy strips the icon back to its essentials, introducing a thinner, collapsible leather upper that gives",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12999,
-        "url": "https://www.superkicks.in/products/adidas-hartcopy-x-consortium-bw-army-decon-halo-gold-halo-gold-gum",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Hartcopy%20X%20Consortium%20Bw%20Army%20Decon%20Halo%20Gold",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Hartcopy%20X%20Consortium%20Bw%20Army%20Decon%20Halo%20Gold",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Hartcopy%20X%20Consortium%20Bw%20Army%20Decon%20Halo%20Gold",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Hartcopy%20X%20Consortium%20Bw%20Army%20Decon%20Halo%20Gold",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Hartcopy%20X%20Consortium%20Bw%20Army%20Decon%20Halo%20Gold",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-adistar-xlg-2-0-hirblu-crewht-thgome",
-    "slug": "adidas-adistar-xlg-2-0-hirblu-crewht-thgome",
-    "brand": "adidas",
-    "model": "Adistar Xlg 2.0",
-    "colorway": "Hirblu / Crewht / Thgome",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c671bf8e-0ce4-42dd-94bc-0a6e3d39915b.jpg?v=1785825238",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b75907fd-b124-43ea-a088-e45eb7bb92f3.jpg?v=1785825238",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_27dc956e-7674-4cbc-83e3-3f5dc0697ab2.jpg?v=1785825238"
-    ],
-    "description": "Embrace A Bold New Era With The Adistar Xlg 2.0 Shoes, A Fresh Take On Classic Adidas Running Style From The 00s. Designed For City Explorers And Trendsetters, These Shoes Blend Nostalgic Design With Modern Proportions, Making Every Step A ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 14999,
-        "url": "https://www.superkicks.in/products/adidas-adistar-xlg-2-0-hirblu-crewht-thgome",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8"
-        ],
-        "fetchedAt": "2026-08-25T03:38:44.094Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Adistar%20Xlg%202.0%20Hirblu",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Adistar%20Xlg%202.0%20Hirblu",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Adistar%20Xlg%202.0%20Hirblu",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Adistar%20Xlg%202.0%20Hirblu",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Adistar%20Xlg%202.0%20Hirblu",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-adistar-xlg-2-0-cloud-white-core-black-solar-orange-1",
-    "slug": "adidas-adistar-xlg-2-0-cloud-white-core-black-solar-orange-1",
-    "brand": "adidas",
-    "model": "Adistar Xlg 2.0",
-    "colorway": "Cloud White / Core Black / Solar Orange",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#d8702f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/HQ7468_1.png?v=1779879231",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c2a90e7c-4888-48d0-bd5e-47bb8bb69f9c.png?v=1778759708",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_197fcd6a-9ba8-4eba-9e5c-bafc393de04a.png?v=1778759708"
-    ],
-    "description": "Shoes with Adiprene cushioning for classic looking everyday wear. With a design inspired by the ADISTAR family, the ADISTAR XLG 2.0 Shoes are a fresh take on a classic, blending 00s running style with modern flair. Adiprene cushioning in th",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 14999,
-        "url": "https://www.superkicks.in/products/adidas-adistar-xlg-2-0-cloud-white-core-black-solar-orange-1",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Adistar%20Xlg%202.0%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Adistar%20Xlg%202.0%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Adistar%20Xlg%202.0%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Adistar%20Xlg%202.0%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Adistar%20Xlg%202.0%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-pw-adistar-jellyfish-white-white-white",
-    "slug": "adidas-pw-adistar-jellyfish-white-white-white",
-    "brand": "adidas",
-    "model": "Pw Adistar Jellyfish",
-    "colorway": "White / White / White",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#161616"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a89b174d-7ba0-452d-8fb0-9a0f2946fc08.jpg?v=1785830821",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/7_ffad1819-f475-47b5-af37-16119b64f00c.jpg?v=1785830821",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_df784456-2eb0-442a-b29a-f3b0ff15d9b0.jpg?v=1785830821"
-    ],
-    "description": "PW Adistar Jellyfish Shoes The newest release from adidas Originals by Pharrell Williams.",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 29999,
-        "url": "https://www.superkicks.in/products/adidas-pw-adistar-jellyfish-white-white-white",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Pw%20Adistar%20Jellyfish%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Pw%20Adistar%20Jellyfish%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Pw%20Adistar%20Jellyfish%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-lv8-cacao-wow-velvet-brown-lt-british-tan",
-    "slug": "nike-air-force-1-07-lv8-cacao-wow-velvet-brown-lt-british-tan",
-    "brand": "Nike",
-    "model": "Air Force 1 '07 Lv8",
-    "colorway": "Cacao Wow / Velvet Brown / Lt British Tan",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_862068f7-78aa-40e3-91a4-46fa3836978d.jpg?v=1785929823",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_3b21cd9e-71ac-478a-b1da-d2d560f17479.jpg?v=1785929823",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_cb8ee5c7-a4f0-47be-aab3-2edc0e7c44d5.jpg?v=1785929823"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. The Air Force 1 pairs its classic silhouette with real and synthetic leather for a crisp, clean look. Real and synthetic leather upper with perforated toe box is breathable and",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-lv8-cacao-wow-velvet-brown-lt-british-tan",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Lv8%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Lv8%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Lv8%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-ac-runner-white-with-black-and-neo-flame",
-    "slug": "new-balance-ac-runner-white-with-black-and-neo-flame",
-    "brand": "New Balance",
-    "model": "Ac Runner",
-    "colorway": "White With Black And Neo Flame",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_db4b6315-5772-4179-93c9-8d7152219bf5.jpg?v=1785826948",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_be9ffe29-3d22-4375-9029-41b383e96abf.jpg?v=1785826948",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_1bee3321-c558-4867-8fed-bd460fb5e5af.jpg?v=1785826948"
-    ],
-    "description": "Even if running isn’t your sport, it’s part of the game. The AC Runner is made for the conditioning runs, training, and drills that turn into difference-making plays on game day. The comfort-focused cushioning, stability, and support is com",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 18999,
-        "url": "https://www.superkicks.in/products/new-balance-ac-runner-white-with-black-and-neo-flame",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%20Ac%20Runner%20White%20With%20Black%20And%20Neo%20Flame",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%20Ac%20Runner%20White%20With%20Black%20And%20Neo%20Flame",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%20Ac%20Runner%20White%20With%20Black%20And%20Neo%20Flame",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Ac%20Runner%20White%20With%20Black%20And%20Neo%20Flame",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-ac-runner-smoked-violet-with-dark-smoked-violet",
-    "slug": "new-balance-ac-runner-smoked-violet-with-dark-smoked-violet",
-    "brand": "New Balance",
-    "model": "Ac Runner",
-    "colorway": "Smoked Violet With Dark Smoked Violet",
-    "category": "Lifestyle",
-    "palette": [
-      "#9b9b94",
-      "#6b4a8a"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_9a0573a4-55e6-4384-99e4-0a1e2908c239.jpg?v=1785826648",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3150c5b0-5337-417b-89e6-c51dd171ba21.jpg?v=1785826648",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_e42f9546-4bfc-4d7c-98be-46ad818dd770.jpg?v=1785826648"
-    ],
-    "description": "Even if running isn’t your sport, it’s part of the game. The AC Runner is made for the conditioning runs, training, and drills that turn into difference-making plays on game day. The comfort-focused cushioning, stability, and support is com",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 18999,
-        "url": "https://www.superkicks.in/products/new-balance-ac-runner-smoked-violet-with-dark-smoked-violet",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%20Ac%20Runner%20Smoked%20Violet%20With%20Dark%20Smoked%20Violet",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%20Ac%20Runner%20Smoked%20Violet%20With%20Dark%20Smoked%20Violet",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%20Ac%20Runner%20Smoked%20Violet%20With%20Dark%20Smoked%20Violet",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Ac%20Runner%20Smoked%20Violet%20With%20Dark%20Smoked%20Violet",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-x-dragon-ball-z-chuck-70-high-top-peridot-garden-green",
-    "slug": "converse-x-dragon-ball-z-chuck-70-high-top-peridot-garden-green",
-    "brand": "Converse",
-    "model": "X Dragon Ball Z Chuck 70 High Top",
-    "colorway": "Peridot / Garden Green",
-    "category": "Lifestyle",
-    "palette": [
-      "#2f6f4e",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_2cd4d63d-c2af-4a0c-8f04-87a4a413e1ff.jpg?v=1784794575",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_0e8e5a55-1b3d-43c2-bf83-268e8f4da074.jpg?v=1784794575",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/7_7a585d7b-7097-4520-96a4-53a335bfd511.jpg?v=1784794575"
-    ],
-    "description": "Achieve the perfect form of anime-inspired style with the Converse x Dragon Ball Z Chuck Taylor All Star High-Top Cell Sneaker. Inspired by Cell's signature design, this limited-edition Chuck Taylor pairs classic canvas style with exclusive",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 5499,
-        "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-chuck-70-high-top-peridot-garden-green",
-        "inStock": true,
-        "sizes": [
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Peridot",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Peridot",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Peridot",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Peridot",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-x-dragon-ball-z-chuck-70-high-top-lucent-white-tillandsia-purple",
-    "slug": "converse-x-dragon-ball-z-chuck-70-high-top-lucent-white-tillandsia-purple",
-    "brand": "Converse",
-    "model": "X Dragon Ball Z Chuck 70 High Top",
-    "colorway": "Lucent White / Tillandsia Purple",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#6b4a8a"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ba534b5f-b722-4c82-8a82-7a856e5ec72d.jpg?v=1784794864",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_bf69b670-1cc2-479d-b89c-de45e91a60f8.jpg?v=1784794864",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_9f049873-191a-4259-b010-6f49f2226060.jpg?v=1784794864"
-    ],
-    "description": "Step into final-form style with the Converse x Dragon Ball Z Chuck Taylor All Star High-Top Frieza Sneaker. Inspired by Frieza's unmistakable look, this limited-edition Chuck Taylor pairs classic canvas style with exclusive Dragon Ball Z de",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 5499,
-        "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-chuck-70-high-top-lucent-white-tillandsia-purple",
-        "inStock": true,
-        "sizes": [
-          "8",
-          "9"
-        ],
-        "fetchedAt": "2026-08-23T03:40:27.452Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Lucent%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Lucent%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Lucent%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Lucent%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-x-dragon-ball-z-chuck-70-high-top-black-cyber-yellow",
-    "slug": "converse-x-dragon-ball-z-chuck-70-high-top-black-cyber-yellow",
-    "brand": "Converse",
-    "model": "X Dragon Ball Z Chuck 70 High Top",
-    "colorway": "Black / Cyber Yellow",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#d9b441"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_e01a14c2-0952-496d-a1e5-fe775d80a250.jpg?v=1784721039",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_e4e38982-31bc-421c-aaec-bd21d706e5b8.jpg?v=1784721039",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_49cdd50e-2267-4f7d-b430-7ae49225e7f9.jpg?v=1784721039"
-    ],
-    "description": "This drop isn't for the collectors who keep their shoes in climate-controlled plastic boxes. It's for the ones who grew up watching the epic battles and loving the characters. From the screen, to your feet, and on the street. Details Leathe",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 6999,
-        "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-chuck-70-high-top-black-cyber-yellow",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20X%20Dragon%20Ball%20Z%20Chuck%2070%20High%20Top%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-converse-x-dragon-ball-z-chuck-taylor-all-star-high-top-orange-white",
-    "slug": "converse-x-dragon-ball-z-chuck-taylor-all-star-high-top-orange-white",
-    "brand": "Converse",
-    "model": "X Dragon Ball Z Chuck Taylor All Star High Top",
-    "colorway": "Orange / White",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#d8702f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4c3e73d6-329b-4833-87f9-1fdd87f24130.jpg?v=1784717827",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_9cf8b6e4-475d-4691-a930-a43e607b74a7.jpg?v=1784717827",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c6552352-9e6e-4622-8ed0-6a0a565a838e.jpg?v=1784717827"
-    ],
-    "description": "This drop isn't for the collectors who keep their shoes in climate-controlled plastic boxes. It's for the ones who grew up watching the epic battles and loving the characters. From the screen, to your feet, and on the street. Details Classi",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 5499,
-        "url": "https://www.superkicks.in/products/converse-x-dragon-ball-z-chuck-taylor-all-star-high-top-orange-white",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-23T03:40:27.452Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Converse%20X%20Dragon%20Ball%20Z%20Chuck%20Taylor%20All%20Star%20High%20Top%20Orange",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Converse%20X%20Dragon%20Ball%20Z%20Chuck%20Taylor%20All%20Star%20High%20Top%20Orange",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Converse%20X%20Dragon%20Ball%20Z%20Chuck%20Taylor%20All%20Star%20High%20Top%20Orange",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Converse%20X%20Dragon%20Ball%20Z%20Chuck%20Taylor%20All%20Star%20High%20Top%20Orange",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-x-hellstar-megaride-s2-ftwwht-owhite-cblack",
-    "slug": "adidas-originals-x-hellstar-megaride-s2-ftwwht-owhite-cblack",
-    "brand": "adidas",
-    "model": "X Hellstar Megaride S2",
-    "colorway": "Ftwwht / Owhite / Cblack",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/7_d643de66-dbb7-43de-bea1-2997c4264569.jpg?v=1785830547",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_1393bfde-df39-4004-8a18-69e9e4ede92f.jpg?v=1785830547",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_fdec8ac9-36bf-4e5e-a5fb-b9eb37c473fa.jpg?v=1785830547"
-    ],
-    "description": "Hellstar Megaride S2 Shoes The newest release from adidas Originals by Hellstar. adidas Originals and Hellstar have teamed up for their first global release with the MEGARIDE S2, interpreting the iconic adidas running-inspired franchise and",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 24999,
-        "url": "https://www.superkicks.in/products/adidas-originals-x-hellstar-megaride-s2-ftwwht-owhite-cblack",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20X%20Hellstar%20Megaride%20S2%20Ftwwht",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20X%20Hellstar%20Megaride%20S2%20Ftwwht",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20X%20Hellstar%20Megaride%20S2%20Ftwwht",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20X%20Hellstar%20Megaride%20S2%20Ftwwht",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20X%20Hellstar%20Megaride%20S2%20Ftwwht",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-adistar-xlg-2-0-hi-res-blue-core-black-off-white",
-    "slug": "adidas-adistar-xlg-2-0-hi-res-blue-core-black-off-white",
-    "brand": "adidas",
-    "model": "Adistar Xlg 2.0",
-    "colorway": "Hi / Res Blue / Core Black / Off White",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#2f5fa6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_5a91a8d3-cfec-4bb0-be12-3da83676699e.jpg?v=1785496318",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_112f668e-b158-4897-8794-c0c673024151.jpg?v=1785496318",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_8ce326e8-d776-4561-817b-9f6774760d29.jpg?v=1785496318"
-    ],
-    "description": "Embrace a bold new era with the Adistar Xlg 2.0 shoes, a fresh take on classic Adidas running style from the 00s. Designed For City Explorers And Trendsetters, These Shoes Blend Nostalgic Design With Modern Proportions, Making Every Step A ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 14999,
-        "url": "https://www.superkicks.in/products/adidas-adistar-xlg-2-0-hi-res-blue-core-black-off-white",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-25T03:38:44.094Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Adistar%20Xlg%202.0%20Hi",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Adistar%20Xlg%202.0%20Hi",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Adistar%20Xlg%202.0%20Hi",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Adistar%20Xlg%202.0%20Hi",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Adistar%20Xlg%202.0%20Hi",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-327-angora-cream",
-    "slug": "new-balance-327-angora-cream",
-    "brand": "New Balance",
-    "model": "327",
-    "colorway": "Angora / Cream",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_60adcc04-5720-42d0-972e-022c28a1974e.jpg?v=1785922823",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1b4c4cc8-3b34-4451-aa4e-7e8b0c699c59.jpg?v=1785922823"
-    ],
-    "description": "1970s, but make it modern. Inspired by our most iconic ‘70s running shoes, the 327 is a bold blend of retro and right now unlike anything in your closet. Flared midsole Oversized N logo adds retro-inspired style Medial linear ‘New Balance’ ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10999,
-        "url": "https://www.superkicks.in/products/new-balance-327-angora-cream",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%20327%20Angora",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%20327%20Angora",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%20327%20Angora",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20327%20Angora",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-1906-sea-salt",
-    "slug": "new-balance-1906-sea-salt",
-    "brand": "New Balance",
-    "model": "1906",
-    "colorway": "Sea Salt",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a0d877de-5198-4959-956e-df98082486d6.jpg?v=1785922550",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_4ba024d8-3f49-4daf-8b32-ddc49d020cd2.jpg?v=1785922550",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_d402fc9e-18f3-43c2-a89f-2d78c6f3355d.jpg?v=1785922550"
-    ],
-    "description": "The 1906 is a modern adaptation of a 2000s era performance runner. The distinctive design is led by a sole unit featuring a combination of ABZORB cushioning, shock absorbing N-ergy, and segmented ABZORB SBS pods at the heel. This hi-tech ap",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 16999,
-        "url": "https://www.superkicks.in/products/new-balance-1906-sea-salt",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%201906%20Sea%20Salt",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%201906%20Sea%20Salt",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%201906%20Sea%20Salt",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-12T04:40:04.194Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%201906%20Sea%20Salt",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-12T04:40:04.194Z"
