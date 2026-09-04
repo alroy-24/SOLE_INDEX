@@ -1,5 +1,132 @@
 [
   {
+    "id": "sk-nike-mind-002-flyknit-sanddrift-fossil-rose-plum-eclipse",
+    "slug": "nike-mind-002-flyknit-sanddrift-fossil-rose-plum-eclipse",
+    "brand": "Nike",
+    "model": "Mind 002 Flyknit",
+    "colorway": "Sanddrift / Fossil Rose / Plum Eclipse",
+    "category": "Lifestyle",
+    "palette": [
+      "#e7dfcd",
+      "#e093a6",
+      "#6b4a8a"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_cd701f1e-7094-4181-a64d-30bd56a19249.jpg?v=1787575937",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0437a17e-b7ee-449c-897f-1458f89fc84c.jpg?v=1787575937",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_465b770c-52fc-4f71-9b40-316103b4baee.jpg?v=1787575938"
+    ],
+    "description": "The benefits of Nike Mind technology in a comfortable, go-anywhere sneaker? Yeah, we did that. Plush and responsive foam cushions your every step while large outsole nodes push against your foot, engaging sensory areas of the brain to help ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12795,
+        "url": "https://www.superkicks.in/products/nike-mind-002-flyknit-sanddrift-fossil-rose-plum-eclipse",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Mind%20002%20Flyknit%20Sanddrift",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Mind%20002%20Flyknit%20Sanddrift",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Mind%20002%20Flyknit%20Sanddrift",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Mind%20002%20Flyknit%20Sanddrift",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Mind%20002%20Flyknit%20Sanddrift",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-mind-002-flyknit-light-bone-saturn-gold-infinite-gold",
+    "slug": "nike-mind-002-flyknit-light-bone-saturn-gold-infinite-gold",
+    "brand": "Nike",
+    "model": "Mind 002 Flyknit",
+    "colorway": "Light Bone / Saturn Gold / Infinite Gold",
+    "category": "Lifestyle",
+    "palette": [
+      "#e7dfcd",
+      "#d9b441"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c31c6aa1-6711-496d-bbee-747376184675.jpg?v=1787575823",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_7d86f92b-c530-45ca-bba6-c25341e8b734.jpg?v=1787575823",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_142be4b2-9d57-43f0-a0c5-fdf44b30ff52.jpg?v=1787575823"
+    ],
+    "description": "The benefits of Nike Mind technology in a comfortable, go-anywhere sneaker? Yeah, we did that. Plush and responsive foam cushions your every step while large outsole nodes push against your foot, engaging sensory areas of the brain to help ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12795,
+        "url": "https://www.superkicks.in/products/nike-mind-002-flyknit-light-bone-saturn-gold-infinite-gold",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Mind%20002%20Flyknit%20Light%20Bone",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Mind%20002%20Flyknit%20Light%20Bone",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Mind%20002%20Flyknit%20Light%20Bone",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Mind%20002%20Flyknit%20Light%20Bone",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Mind%20002%20Flyknit%20Light%20Bone",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
+      }
+    ]
+  },
+  {
     "id": "sk-puma-puma-x-salehe-bembury-velum-2-nitro™-red-clay-nasturtium",
     "slug": "puma-puma-x-salehe-bembury-velum-2-nitro™-red-clay-nasturtium",
     "brand": "Puma",
@@ -62,10 +189,10 @@
     ]
   },
   {
-    "id": "sk-adidas-adizero-f50-solar-green-core-black-silver-metallic",
-    "slug": "adidas-adizero-f50-solar-green-core-black-silver-metallic",
+    "id": "sk-adidas-originals-x-sp5der-adizero-f50-formotion-solar-green-core-black-silver-metallic",
+    "slug": "adidas-originals-x-sp5der-adizero-f50-formotion-solar-green-core-black-silver-metallic",
     "brand": "adidas",
-    "model": "Adizero F50",
+    "model": "X Sp5der Adizero F50 Formotion",
     "colorway": "Solar Green / Core Black / Silver Metallic",
     "category": "Lifestyle",
     "palette": [
@@ -78,12 +205,12 @@
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f5ac51fb-525f-474e-a057-2d79350dfb43.jpg?v=1788352592",
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_5e8eb06b-2c5f-4a1c-b733-9788524086bb.jpg?v=1788352591"
     ],
-    "description": "The Adizero F50 Shoes are a bold collaboration between adidas and SP5DER. Designed for those who move with intent, these shoes blend classic streetwear energy with a modern edge. The regular fit provides comfort while the lace closure offer",
+    "description": "SP5DER x adidas F50 Formotion. Solar Green turns adidas football DNA all the way up. An F50-inspired upper meets Formotion running tech, creating a hybrid that feels just as at home on the streets as it does on the pitch. Football heritage,",
     "offers": [
       {
         "retailerId": "superkicks",
         "price": 19999,
-        "url": "https://www.superkicks.in/products/adidas-adizero-f50-solar-green-core-black-silver-metallic",
+        "url": "https://www.superkicks.in/products/adidas-originals-x-sp5der-adizero-f50-formotion-solar-green-core-black-silver-metallic",
         "inStock": true,
         "sizes": [
           "7",
@@ -92,50 +219,50 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Adizero%20F50%20Solar%20Green",
+        "url": "https://www.adidas.co.in/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Solar%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Adizero%20F50%20Solar%20Green",
+        "url": "https://www.amazon.in/s?k=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Solar%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Adizero%20F50%20Solar%20Green",
+        "url": "https://www.flipkart.com/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Solar%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Adizero%20F50%20Solar%20Green",
+        "url": "https://www.ajio.com/search/?text=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Solar%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Adizero%20F50%20Solar%20Green",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Solar%20Green",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       }
     ]
   },
   {
-    "id": "sk-adidas-adizero-f50-red-supplier-colour-core-black",
-    "slug": "adidas-adizero-f50-red-supplier-colour-core-black",
+    "id": "sk-adidas-original-x-sp5der-adizero-f50-formotion-red-supplier-colour-core-black",
+    "slug": "adidas-original-x-sp5der-adizero-f50-formotion-red-supplier-colour-core-black",
     "brand": "adidas",
-    "model": "Adizero F50",
+    "model": "X Sp5der Adizero F50 Formotion",
     "colorway": "Red / Supplier Colour / Core Black",
     "category": "Lifestyle",
     "palette": [
@@ -147,12 +274,12 @@
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_530fd405-8168-44d9-8612-dc0c2fe3ba3b.jpg?v=1788352449",
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_bb35f940-4b60-4928-a721-9721debd3130.jpg?v=1788352449"
     ],
-    "description": "The Adizero F50 Shoes are a bold collaboration between adidas and SP5DER. Designed for those who move with intent, these shoes blend classic streetwear energy with a modern edge. The regular fit provides comfort while the lace closure offer",
+    "description": "SP5DER x adidas F50 Formotion. Glossy red meets vivid pink across the upper, Three Stripes and Formotion sole. Loud, graphic and built to stand out. Football, the SP5DER way.",
     "offers": [
       {
         "retailerId": "superkicks",
         "price": 19999,
-        "url": "https://www.superkicks.in/products/adidas-adizero-f50-red-supplier-colour-core-black",
+        "url": "https://www.superkicks.in/products/adidas-original-x-sp5der-adizero-f50-formotion-red-supplier-colour-core-black",
         "inStock": true,
         "sizes": [
           "7",
@@ -161,42 +288,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Adizero%20F50%20Red",
+        "url": "https://www.adidas.co.in/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Adizero%20F50%20Red",
+        "url": "https://www.amazon.in/s?k=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Adizero%20F50%20Red",
+        "url": "https://www.flipkart.com/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Adizero%20F50%20Red",
+        "url": "https://www.ajio.com/search/?text=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Adizero%20F50%20Red",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Red",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       }
     ]
   },
@@ -684,11 +811,10 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "adidas",
@@ -1434,11 +1560,10 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "adidas",
@@ -2250,10 +2375,10 @@
     ]
   },
   {
-    "id": "sk-new-balance-1906-black",
-    "slug": "new-balance-1906-black",
+    "id": "sk-new-balance-1906e-black",
+    "slug": "new-balance-1906e-black",
     "brand": "New Balance",
-    "model": "1906",
+    "model": "1906e",
     "colorway": "Black",
     "category": "Lifestyle",
     "palette": [
@@ -2265,12 +2390,12 @@
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_a75a5fda-fec6-49c8-b941-c1b8d9202cba.jpg?v=1787747144",
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_33b92f51-2439-4db1-8cf5-28d59ced813e.jpg?v=1787747144"
     ],
-    "description": "The 1906R, like its cousins the 2002R and the 860v2, is led by a sole unit featuring a combination of flexible ACTEVA LITE cushioning, shock absorbing N-ergy, and segmented ABZORB SBS pods at the heel. This hi-tech approach is also reflecte",
+    "description": "The 1906E, like its cousins the 2002R and the 860v2, is led by a sole unit featuring a combination of flexible ACTEVA LITE cushioning, shock absorbing N-ergy, and segmented ABZORB SBS pods at the heel. This hi-tech approach is also reflecte",
     "offers": [
       {
         "retailerId": "superkicks",
         "price": 16999,
-        "url": "https://www.superkicks.in/products/new-balance-1906-black",
+        "url": "https://www.superkicks.in/products/new-balance-1906e-black",
         "inStock": true,
         "sizes": [
           "6.5",
@@ -2279,35 +2404,35 @@
           "9.5",
           "11.5"
         ],
-        "fetchedAt": "2026-08-27T13:17:39.735Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%201906%20Black",
+        "url": "https://www.amazon.in/s?k=New%20Balance%201906e%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-27T13:17:39.735Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%201906%20Black",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%201906e%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-27T13:17:39.735Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%201906%20Black",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%201906e%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-27T13:17:39.735Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%201906%20Black",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%201906e%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-27T13:17:39.735Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       }
     ]
   },
@@ -2778,10 +2903,9 @@
         "inStock": true,
         "sizes": [
           "8",
-          "9",
           "11"
         ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "amazon",
@@ -3064,10 +3188,10 @@
     ]
   },
   {
-    "id": "sk-new-balance-1906-white-with-deep-end",
-    "slug": "new-balance-1906-white-with-deep-end",
+    "id": "sk-new-balance-1906r-white-with-deep-end",
+    "slug": "new-balance-1906r-white-with-deep-end",
     "brand": "New Balance",
-    "model": "1906",
+    "model": "1906r",
     "colorway": "White With Deep End",
     "category": "Lifestyle",
     "palette": [
@@ -3079,46 +3203,46 @@
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_da5bd03f-3f9a-4a94-afff-1734539b83a2.jpg?v=1787654784",
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_b3be0022-24fb-4bf2-88fd-f16e8b13c014.jpg?v=1787654784"
     ],
-    "description": "The 1906, like its cousins the 2002R and the 860v2, is led by a sole unit featuring a combination of flexible ACTEVA LITE cushioning, shock absorbing N-ergy, and segmented ABZORB SBS pods at the heel. This hi-tech approach is also reflected",
+    "description": "The 1906R, like its cousins the 2002R and the 860v2, is led by a sole unit featuring a combination of flexible ACTEVA LITE cushioning, shock absorbing N-ergy, and segmented ABZORB SBS pods at the heel. This hi-tech approach is also reflecte",
     "offers": [
       {
         "retailerId": "superkicks",
         "price": 16999,
-        "url": "https://www.superkicks.in/products/new-balance-1906-white-with-deep-end",
+        "url": "https://www.superkicks.in/products/new-balance-1906r-white-with-deep-end",
         "inStock": true,
         "sizes": [
           "4",
           "5"
         ],
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%201906%20White%20With%20Deep%20End",
+        "url": "https://www.amazon.in/s?k=New%20Balance%201906r%20White%20With%20Deep%20End",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%201906%20White%20With%20Deep%20End",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%201906r%20White%20With%20Deep%20End",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%201906%20White%20With%20Deep%20End",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%201906r%20White%20With%20Deep%20End",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%201906%20White%20With%20Deep%20End",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%201906r%20White%20With%20Deep%20End",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       }
     ]
   },
@@ -3547,10 +3671,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
-          "6"
+          "5"
         ],
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "nike",
@@ -3682,10 +3805,9 @@
         "sizes": [
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-08-31T09:01:21.468Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "nike",
@@ -3953,10 +4075,9 @@
         "url": "https://www.superkicks.in/products/nike-cortez-leather-white-varsity-red-varsity-blue",
         "inStock": true,
         "sizes": [
-          "8",
-          "11"
+          "8"
         ],
-        "fetchedAt": "2026-08-31T09:01:21.468Z"
+        "fetchedAt": "2026-09-04T07:30:06.501Z"
       },
       {
         "retailerId": "nike",
@@ -6086,131 +6207,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-15T03:29:26.462Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-speedcat-go-for-all-time-red-puma-white",
-    "slug": "puma-speedcat-go-for-all-time-red-puma-white",
-    "brand": "Puma",
-    "model": "Speedcat Go",
-    "colorway": "For All Time Red / Puma White",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f41308f3-3a86-427f-952e-f0837fe7dc35.jpg?v=1786605795",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ab31bfdd-e38e-426c-af34-8d484ed794ac.jpg?v=1786605795",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b562b51a-4f72-419e-a647-181bfd61d379.jpg?v=1786605795"
-    ],
-    "description": "An icon of racing culture, the PUMA Speedcat has been synonymous with speed, precision, and unparalleled performance for over 25 years. It originated as a Formula 1® footwear style, but over the decades it found itself on a new circuit – tr",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 7999,
-        "url": "https://www.superkicks.in/products/puma-speedcat-go-for-all-time-red-puma-white",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-31T09:01:21.468Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Go%20For%20All%20Time%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Go%20For%20All%20Time%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Go%20For%20All%20Time%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Go%20For%20All%20Time%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-low-og-laser-black-varsity-red-summit-white",
-    "slug": "jordan-air-jordan-1-low-og-laser-black-varsity-red-summit-white",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Low OG Laser",
-    "colorway": "Black / Varsity Red / Summit White",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_78550737-dfc4-410f-92f5-60ddad951896.jpg?v=1786627653",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_c84876ce-b822-4990-9d58-5d527eb19407.jpg?v=1786627653",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_459fe76c-a6df-44c3-924a-85ef71395d7f.jpg?v=1786627654"
-    ],
-    "description": "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. With an iconic design that pairs perfectly with any 'fit, these kicks ensure you'll always be on point. Genui",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 14995,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-og-laser-black-varsity-red-summit-white",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-08-22T03:33:02.659Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20OG%20Laser%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-14T04:40:47.880Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20OG%20Laser%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-14T04:40:47.880Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20OG%20Laser%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-14T04:40:47.880Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20OG%20Laser%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-14T04:40:47.880Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20OG%20Laser%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-14T04:40:47.880Z"
       }
     ]
   }
