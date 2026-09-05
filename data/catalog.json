@@ -1832,11 +1832,10 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-31T09:01:21.468Z"
+        "fetchedAt": "2026-09-05T07:11:16.287Z"
       },
       {
         "retailerId": "amazon",
@@ -3272,10 +3271,9 @@
         "sizes": [
           "7",
           "8",
-          "9",
-          "10"
+          "9"
         ],
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
+        "fetchedAt": "2026-09-05T07:11:16.287Z"
       },
       {
         "retailerId": "amazon",
@@ -4075,9 +4073,12 @@
         "url": "https://www.superkicks.in/products/nike-cortez-leather-white-varsity-red-varsity-blue",
         "inStock": true,
         "sizes": [
-          "8"
+          "8",
+          "9",
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
+        "fetchedAt": "2026-09-05T07:11:16.287Z"
       },
       {
         "retailerId": "nike",
@@ -4831,9 +4832,13 @@
         "retailerId": "superkicks",
         "price": 4695,
         "url": "https://www.superkicks.in/products/nike-react-x-rejuven8-cool-grey-black-volt",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
+        "inStock": true,
+        "sizes": [
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-05T07:11:16.287Z"
       },
       {
         "retailerId": "nike",
@@ -5226,12 +5231,13 @@
         "url": "https://www.superkicks.in/products/new-balance-bb950-white-red-grey",
         "inStock": true,
         "sizes": [
+          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-21T03:40:56.403Z"
+        "fetchedAt": "2026-09-05T07:11:16.287Z"
       },
       {
         "retailerId": "amazon",
@@ -5490,9 +5496,10 @@
           "7",
           "8",
           "9",
-          "10"
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-08-21T03:40:56.403Z"
+        "fetchedAt": "2026-09-05T07:11:16.287Z"
       },
       {
         "retailerId": "nike",
@@ -5734,9 +5741,14 @@
         "retailerId": "superkicks",
         "price": 8695,
         "url": "https://www.superkicks.in/products/nike-air-max-fire-black-white",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-08-21T03:40:56.403Z"
+        "inStock": true,
+        "sizes": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-05T07:11:16.287Z"
       },
       {
         "retailerId": "nike",
@@ -6050,10 +6062,9 @@
         "sizes": [
           "7",
           "8",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
+        "fetchedAt": "2026-09-05T07:11:16.287Z"
       },
       {
         "retailerId": "nike",
