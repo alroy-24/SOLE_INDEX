@@ -2400,10 +2400,9 @@
           "6.5",
           "8",
           "9",
-          "9.5",
           "11.5"
         ],
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
+        "fetchedAt": "2026-09-06T07:23:28.983Z"
       },
       {
         "retailerId": "amazon",
@@ -2518,7 +2517,7 @@
     "offers": [
       {
         "retailerId": "superkicks",
-        "price": 11999,
+        "price": 12999,
         "url": "https://www.superkicks.in/products/new-balance-5030-black-black-metallic",
         "inStock": true,
         "sizes": [
@@ -2533,7 +2532,7 @@
           "11",
           "11.5"
         ],
-        "fetchedAt": "2026-08-27T13:17:39.735Z"
+        "fetchedAt": "2026-09-06T07:23:28.983Z"
       },
       {
         "retailerId": "amazon",
@@ -2960,12 +2959,11 @@
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-egret-silver-gold",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-06T07:23:28.983Z"
       },
       {
         "retailerId": "amazon",
@@ -3084,10 +3082,9 @@
         "sizes": [
           "4",
           "5",
-          "6",
-          "7"
+          "6"
         ],
-        "fetchedAt": "2026-08-27T13:17:39.735Z"
+        "fetchedAt": "2026-09-06T07:23:28.983Z"
       },
       {
         "retailerId": "nike",
@@ -4074,11 +4071,10 @@
         "inStock": true,
         "sizes": [
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-05T07:11:16.287Z"
+        "fetchedAt": "2026-09-06T07:23:28.983Z"
       },
       {
         "retailerId": "nike",
@@ -4451,10 +4447,9 @@
         "sizes": [
           "7",
           "8",
-          "9",
-          "10"
+          "9"
         ],
-        "fetchedAt": "2026-08-30T08:38:26.840Z"
+        "fetchedAt": "2026-09-06T07:23:28.983Z"
       },
       {
         "retailerId": "amazon",
