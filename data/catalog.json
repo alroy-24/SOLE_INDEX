@@ -859,7 +859,7 @@
     "brand": "Nike",
     "model": "G.T. Future Ep",
     "colorway": "Varsity Red / Black",
-    "category": "Lifestyle",
+    "category": "Basketball",
     "palette": [
       "#161616",
       "#c2362f"
@@ -1423,10 +1423,9 @@
           "6",
           "7",
           "8",
-          "9",
           "10"
         ],
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
+        "fetchedAt": "2026-09-07T07:39:02.621Z"
       },
       {
         "retailerId": "adidas",
@@ -1629,11 +1628,9 @@
         "sizes": [
           "6",
           "7",
-          "9",
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-07T07:39:02.621Z"
       },
       {
         "retailerId": "adidas",
@@ -1954,11 +1951,12 @@
         "url": "https://www.superkicks.in/products/new-balance-327-grey-matter-white",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
           "8",
           "9"
         ],
-        "fetchedAt": "2026-08-27T13:17:39.735Z"
+        "fetchedAt": "2026-09-07T07:39:02.621Z"
       },
       {
         "retailerId": "amazon",
@@ -4264,10 +4262,11 @@
         "sizes": [
           "7",
           "8",
+          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
+        "fetchedAt": "2026-09-07T07:39:02.621Z"
       },
       {
         "retailerId": "amazon",
