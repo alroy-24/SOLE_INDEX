@@ -674,9 +674,10 @@
           "8",
           "9",
           "10",
-          "11"
+          "11",
+          "12"
         ],
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
+        "fetchedAt": "2026-09-08T07:31:20.533Z"
       },
       {
         "retailerId": "adidas",
@@ -875,9 +876,12 @@
         "retailerId": "superkicks",
         "price": 17495,
         "url": "https://www.superkicks.in/products/nike-g-t-future-ep-varsity-red-black",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8"
+        ],
+        "fetchedAt": "2026-09-08T07:31:20.533Z"
       },
       {
         "retailerId": "nike",
@@ -1423,9 +1427,11 @@
           "6",
           "7",
           "8",
-          "10"
+          "9",
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-09-07T07:39:02.621Z"
+        "fetchedAt": "2026-09-08T07:31:20.533Z"
       },
       {
         "retailerId": "adidas",
@@ -1628,9 +1634,12 @@
         "sizes": [
           "6",
           "7",
+          "8",
+          "9",
+          "10",
           "11"
         ],
-        "fetchedAt": "2026-09-07T07:39:02.621Z"
+        "fetchedAt": "2026-09-08T07:31:20.533Z"
       },
       {
         "retailerId": "adidas",
@@ -2898,10 +2907,9 @@
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-black-silver-gold",
         "inStock": true,
         "sizes": [
-          "8",
-          "11"
+          "8"
         ],
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
+        "fetchedAt": "2026-09-08T07:31:20.533Z"
       },
       {
         "retailerId": "amazon",
@@ -4068,11 +4076,10 @@
         "url": "https://www.superkicks.in/products/nike-cortez-leather-white-varsity-red-varsity-blue",
         "inStock": true,
         "sizes": [
-          "8",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-06T07:23:28.983Z"
+        "fetchedAt": "2026-09-08T07:31:20.533Z"
       },
       {
         "retailerId": "nike",
@@ -4504,13 +4511,12 @@
         "url": "https://www.superkicks.in/products/asics-gel-stratus-mc-white-clay-canyon",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-25T03:38:44.094Z"
+        "fetchedAt": "2026-09-08T07:31:20.533Z"
       },
       {
         "retailerId": "amazon",
@@ -5350,13 +5356,12 @@
         "url": "https://www.superkicks.in/products/jordan-air-jordan-4-retro-comic-off-white-fire-pink-anthracite",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
+        "fetchedAt": "2026-09-08T07:31:20.533Z"
       },
       {
         "retailerId": "nike",
@@ -5738,11 +5743,10 @@
         "inStock": true,
         "sizes": [
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-05T07:11:16.287Z"
+        "fetchedAt": "2026-09-08T07:31:20.533Z"
       },
       {
         "retailerId": "nike",
