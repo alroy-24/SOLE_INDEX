@@ -531,13 +531,9 @@
         "retailerId": "superkicks",
         "price": 16995,
         "url": "https://www.superkicks.in/products/nike-air-max-plus-se-black-off-noir-metallic-silver",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "nike",
@@ -808,14 +804,9 @@
         "retailerId": "superkicks",
         "price": 7999,
         "url": "https://www.superkicks.in/products/adidas-originals-adidas-originals-x-daewon-song-glenburn-brown",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "adidas",
@@ -876,12 +867,9 @@
         "retailerId": "superkicks",
         "price": 17495,
         "url": "https://www.superkicks.in/products/nike-g-t-future-ep-varsity-red-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8"
-        ],
-        "fetchedAt": "2026-09-08T07:31:20.533Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "nike",
@@ -947,10 +935,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "adidas",
@@ -1016,10 +1003,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "adidas",
@@ -1085,10 +1071,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "adidas",
@@ -1217,16 +1202,9 @@
         "retailerId": "superkicks",
         "price": 15999,
         "url": "https://www.superkicks.in/products/adidas-lj-adistar-control-5-semi-lucid-red-semi-solar-slime-clay",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "adidas",
@@ -1354,14 +1332,9 @@
         "retailerId": "superkicks",
         "price": 10999,
         "url": "https://www.superkicks.in/products/adidas-originals-samba-jane-crystal-white-supplier-colour-acid-orange",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "7"
-        ],
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "adidas",
@@ -1563,12 +1536,10 @@
         "url": "https://www.superkicks.in/products/adidas-originals-samba-og-khaki-three-olive-strata-gum",
         "inStock": true,
         "sizes": [
-          "7",
-          "8",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "adidas",
@@ -2905,11 +2876,9 @@
         "retailerId": "superkicks",
         "price": 4999,
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-black-silver-gold",
-        "inStock": true,
-        "sizes": [
-          "8"
-        ],
-        "fetchedAt": "2026-09-08T07:31:20.533Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "amazon",
@@ -3086,11 +3055,10 @@
         "url": "https://www.superkicks.in/products/nike-vomero-premium-university-red-metallic-silver",
         "inStock": true,
         "sizes": [
-          "4",
           "5",
           "6"
         ],
-        "fetchedAt": "2026-09-06T07:23:28.983Z"
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "nike",
@@ -3404,10 +3372,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "adidas",
@@ -4451,11 +4418,10 @@
         "url": "https://www.superkicks.in/products/new-balance-abzorb-2000-silver-moss-with-bayberry-and-sea-salt",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9"
         ],
-        "fetchedAt": "2026-09-06T07:23:28.983Z"
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "amazon",
@@ -4699,10 +4665,9 @@
         "url": "https://www.superkicks.in/products/nike-acg-zegama-spruce-fog-sea-glass-black-black-spruce",
         "inStock": true,
         "sizes": [
-          "7",
-          "9"
+          "7"
         ],
-        "fetchedAt": "2026-08-27T13:17:39.735Z"
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "nike",
@@ -5356,12 +5321,10 @@
         "url": "https://www.superkicks.in/products/jordan-air-jordan-4-retro-comic-off-white-fire-pink-anthracite",
         "inStock": true,
         "sizes": [
-          "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-08T07:31:20.533Z"
+        "fetchedAt": "2026-09-09T07:39:03.679Z"
       },
       {
         "retailerId": "nike",
