@@ -1,5 +1,283 @@
 [
   {
+    "id": "sk-nike-moon-shoe-og-midnight-navy-sail-black",
+    "slug": "nike-moon-shoe-og-midnight-navy-sail-black",
+    "brand": "Nike",
+    "model": "Moon Shoe OG",
+    "colorway": "Midnight Navy / Sail / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#2f5fa6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_5214cbbb-1f55-40b4-bb69-69073bc82c6e.jpg?v=1788946241",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_5d299dcf-bcdc-4331-8dc9-932e2945e703.jpg?v=1788946241",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/9_f7033d32-7ffe-430c-8610-c57bd61cc00e.jpg?v=1788946241"
+    ],
+    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using his wife's waffle iron. This modern take brings the original design back into the limelight. The nylon upper, complete with leather Swoosh, pairs",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8995,
+        "url": "https://www.superkicks.in/products/nike-moon-shoe-og-midnight-navy-sail-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20OG%20Midnight%20Navy",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20OG%20Midnight%20Navy",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20OG%20Midnight%20Navy",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20OG%20Midnight%20Navy",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20OG%20Midnight%20Navy",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-moon-shoe-og-sail-black-sail",
+    "slug": "nike-moon-shoe-og-sail-black-sail",
+    "brand": "Nike",
+    "model": "Moon Shoe OG",
+    "colorway": "Sail / Black / Sail",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_b34d6bb8-6d60-45f9-842f-06beac64bf03.jpg?v=1788946794",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/7_1a7b6be8-bffb-4418-b80d-93ceeb5ecde6.jpg?v=1788946794",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/8_5cd32a7d-5651-401b-803d-f8bf14b64097.jpg?v=1788946794"
+    ],
+    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using his wife's waffle iron. This modern take brings the original design back into the limelight. The nylon upper, complete with leather Swoosh, pairs",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8995,
+        "url": "https://www.superkicks.in/products/nike-moon-shoe-og-sail-black-sail",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20OG%20Sail",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20OG%20Sail",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20OG%20Sail",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20OG%20Sail",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20OG%20Sail",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-moon-shoe-og-cacao-wow-sail-gum-light-brown",
+    "slug": "nike-moon-shoe-og-cacao-wow-sail-gum-light-brown",
+    "brand": "Nike",
+    "model": "Moon Shoe OG",
+    "colorway": "Cacao Wow / Sail / Gum Light Brown",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#e7dfcd",
+      "#6b4a2f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_edd03def-8ac4-4c0b-a6aa-4cf03ddc2ccb.jpg?v=1788946889",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f4b47f96-189c-4081-8740-048b6afe5d30.jpg?v=1788946889",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ab86ba5c-c4e7-4373-ae26-ad0c28eadd78.jpg?v=1788946889"
+    ],
+    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using his wife's waffle iron. This modern take brings the original design back into the limelight. The nylon upper, complete with leather Swoosh, pairs",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8995,
+        "url": "https://www.superkicks.in/products/nike-moon-shoe-og-cacao-wow-sail-gum-light-brown",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20OG%20Cacao%20Wow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20OG%20Cacao%20Wow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20OG%20Cacao%20Wow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20OG%20Cacao%20Wow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20OG%20Cacao%20Wow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-air-jordan-12-retro-idols-become-rivals-summit-white-gorge-green-fierce-purple",
+    "slug": "jordan-air-jordan-12-retro-idols-become-rivals-summit-white-gorge-green-fierce-purple",
+    "brand": "Jordan",
+    "model": "Air Jordan 12 Retro Idols Become Rivals",
+    "colorway": "Summit White / Gorge Green / Fierce Purple",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#2f6f4e",
+      "#6b4a8a"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_94777ad7-de30-4f47-85d3-54986b8c53d0.jpg?v=1788777701",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_381c2a0a-9ee0-4773-b138-d8b8e1d71282.jpg?v=1788777702",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9c748f40-487e-4a51-9a58-1180a224f6d0.jpg?v=1788777702"
+    ],
+    "description": "Inspired by early-2000s player exclusives, this Summit White and Gorge Green edition of the AJ12 comes clad in luxe leather and bold colors, drawn from hoops icons of the era. MJ's game-winning look from '96 is the return of Tinker Hatfield",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 18395,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-12-retro-idols-become-rivals-summit-white-gorge-green-fierce-purple",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%2012%20Retro%20Idols%20Become%20Rivals%20Summit%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%2012%20Retro%20Idols%20Become%20Rivals%20Summit%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%2012%20Retro%20Idols%20Become%20Rivals%20Summit%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%2012%20Retro%20Idols%20Become%20Rivals%20Summit%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%2012%20Retro%20Idols%20Become%20Rivals%20Summit%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
+      }
+    ]
+  },
+  {
     "id": "sk-nike-mind-002-flyknit-sanddrift-fossil-rose-plum-eclipse",
     "slug": "nike-mind-002-flyknit-sanddrift-fossil-rose-plum-eclipse",
     "brand": "Nike",
@@ -2060,10 +2338,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-08-27T13:17:39.735Z"
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
       },
       {
         "retailerId": "amazon",
@@ -3705,10 +3982,9 @@
         "inStock": true,
         "sizes": [
           "8",
-          "9",
-          "10"
+          "9"
         ],
-        "fetchedAt": "2026-08-31T09:01:21.468Z"
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
       },
       {
         "retailerId": "nike",
@@ -4043,10 +4319,9 @@
         "url": "https://www.superkicks.in/products/nike-cortez-leather-white-varsity-red-varsity-blue",
         "inStock": true,
         "sizes": [
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-09-08T07:31:20.533Z"
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
       },
       {
         "retailerId": "nike",
@@ -4800,10 +5075,9 @@
         "inStock": true,
         "sizes": [
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-09-05T07:11:16.287Z"
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
       },
       {
         "retailerId": "nike",
@@ -5321,10 +5595,10 @@
         "url": "https://www.superkicks.in/products/jordan-air-jordan-4-retro-comic-off-white-fire-pink-anthracite",
         "inStock": true,
         "sizes": [
-          "10",
+          "9",
           "11"
         ],
-        "fetchedAt": "2026-09-09T07:39:03.679Z"
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
       },
       {
         "retailerId": "nike",
@@ -5388,10 +5662,9 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
-          "9"
+          "8"
         ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-10T07:35:30.039Z"
       },
       {
         "retailerId": "nike",
@@ -5928,254 +6201,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Puma%20Suede%20Charles%20F.%20Stead%20V%20Honey%20Butter",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-suede-charles-f-stead-puma-black-puma-white",
-    "slug": "puma-suede-charles-f-stead-puma-black-puma-white",
-    "brand": "Puma",
-    "model": "Suede Charles F. Stead",
-    "colorway": "Puma Black / Puma White",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_97f1b5ae-e8c9-4394-91ae-8fc6abe5a6d8.jpg?v=1785498117",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_449f15c6-4374-4022-8225-7240c442c05b.jpg?v=1785498118",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ad21706f-019b-4f46-9b87-ed483cb75909.jpg?v=1785498118"
-    ],
-    "description": "We’ve partnered with one of England’s oldest tanneries, Charles F. Stead, to usher in a new era for one of our most beloved and timeless styles: The Suede. For over 130 years, Charles F. Stead Tannery has been constructing premium suede pro",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10999,
-        "url": "https://www.superkicks.in/products/puma-suede-charles-f-stead-puma-black-puma-white",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Suede%20Charles%20F.%20Stead%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Suede%20Charles%20F.%20Stead%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Suede%20Charles%20F.%20Stead%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Suede%20Charles%20F.%20Stead%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-fire-black-gamma-blue-metallic-silver",
-    "slug": "nike-air-max-fire-black-gamma-blue-metallic-silver",
-    "brand": "Nike",
-    "model": "Air Max Fire",
-    "colorway": "Black / Gamma Blue / Metallic Silver",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94",
-      "#2f5fa6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_8164d1ac-608d-43b0-97cb-51b4ff75b287.jpg?v=1786626774",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f7973c12-026b-42d0-9af3-0e2ef22e8d88.jpg?v=1786626775",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_28c756cc-d58b-4232-b896-b17e245725da.jpg?v=1786626774"
-    ],
-    "description": "Sleek and supportive, the Fire is a hot edition to the Air Max family. A mix of mesh and synthetic leather offers breathable durability. Signature Max Air in the heel provides all-day cushioning. Mesh upper with synthetic overlays creates a",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8695,
-        "url": "https://www.superkicks.in/products/nike-air-max-fire-black-gamma-blue-metallic-silver",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "10"
-        ],
-        "fetchedAt": "2026-09-05T07:11:16.287Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Fire%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Fire%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Fire%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Fire%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Fire%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-h-street-luster-powder-pink-birch",
-    "slug": "puma-h-street-luster-powder-pink-birch",
-    "brand": "Puma",
-    "model": "H-Street Luster",
-    "colorway": "Powder Pink / Birch",
-    "category": "Lifestyle",
-    "palette": [
-      "#2f5fa6",
-      "#e093a6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_e31eaf94-bda8-4ea8-9dcb-c581d8421c52.jpg?v=1786607731",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_28f69254-53a7-4d4f-98e6-35d0ff09b1a6.jpg?v=1786607731",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_bb3c2d83-92b1-418d-843e-77516c006299.jpg?v=1786607731"
-    ],
-    "description": "With a design inspired by the iconic 2000s running spike, the PUMA Harambee, the?H-Street?is a timeless icon. The H-Street Lustre sneakers blend 2000s style with a high-gloss, metallic finish.",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9999,
-        "url": "https://www.superkicks.in/products/puma-h-street-luster-powder-pink-birch",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5"
-        ],
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20H-Street%20Luster%20Powder%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20H-Street%20Luster%20Powder%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20H-Street%20Luster%20Powder%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20H-Street%20Luster%20Powder%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-h-street-luster-puma-silver-feather-gray",
-    "slug": "puma-h-street-luster-puma-silver-feather-gray",
-    "brand": "Puma",
-    "model": "H-Street Luster",
-    "colorway": "Puma Silver / Feather Gray",
-    "category": "Lifestyle",
-    "palette": [
-      "#9b9b94",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_d7350c8a-18b3-4b14-91f1-68e3c15a6504.jpg?v=1786606031",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_45d5864a-b0b0-4356-93f3-9522df0594df.jpg?v=1786606031",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_12736be3-77e2-497a-8e15-a12c1b259afe.jpg?v=1786606031"
-    ],
-    "description": "With a design inspired by the iconic 2000s running spike, the PUMA Harambee, the?H-Street?is a timeless icon. The H-Street Lustre sneakers blend 2000s style with a high-gloss, metallic finish.",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9999,
-        "url": "https://www.superkicks.in/products/puma-h-street-luster-puma-silver-feather-gray",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5"
-        ],
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20H-Street%20Luster%20Puma%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20H-Street%20Luster%20Puma%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20H-Street%20Luster%20Puma%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20H-Street%20Luster%20Puma%20Silver",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-15T03:29:26.462Z"
