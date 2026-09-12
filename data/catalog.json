@@ -1,5 +1,318 @@
 [
   {
+    "id": "sk-new-balance-9060-shadow-blue-with-dark-night",
+    "slug": "new-balance-9060-shadow-blue-with-dark-night",
+    "brand": "New Balance",
+    "model": "9060",
+    "colorway": "Shadow Blue With Dark Night",
+    "category": "Lifestyle",
+    "palette": [
+      "#2f5fa6",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3ecf9095-f022-48dd-af9d-92860d20d692.jpg?v=1789132734",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_32399190-ebc8-4b71-b27c-182528a81120.jpg?v=1789132734",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_78cacf75-e55c-48a5-b191-b51c2d53967e.jpg?v=1789132734"
+    ],
+    "description": "The 9060 is a new expression of the refined style and innovation-led design of the classic 99X series. The 9060 reinterprets familiar 99X elements with a warped sensibility inspired by the proudly futuristic, visible tech aesthetic of the Y",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 18999,
+        "url": "https://www.superkicks.in/products/new-balance-9060-shadow-blue-with-dark-night",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Shadow%20Blue%20With%20Dark%20Night",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Shadow%20Blue%20With%20Dark%20Night",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Shadow%20Blue%20With%20Dark%20Night",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Shadow%20Blue%20With%20Dark%20Night",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-471-black-black-cement",
+    "slug": "new-balance-471-black-black-cement",
+    "brand": "New Balance",
+    "model": "471",
+    "colorway": "Black / Black Cement",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_006a0ca4-9bb9-405d-8d40-9a8371cd3621.jpg?v=1789132654",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0eca72fb-1cab-4386-b877-29fcfd56d847.jpg?v=1789132654",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/11_1c126a3b-d17f-4614-9aa2-9e51c2a80d43.jpg?v=1789132654"
+    ],
+    "description": "The 471 transforms ‘70s running heritage into a new, everyday go-to, with a reinterpretation of the era’s visual signatures. The sleek low profile, wedge-shaped EVA midsole, and herringbone outsole provide a familiar starting point, allowin",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/new-balance-471-black-black-cement",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20471%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20471%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20471%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20471%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-bb950-angora-with-oxford-blue",
+    "slug": "new-balance-bb950-angora-with-oxford-blue",
+    "brand": "New Balance",
+    "model": "Bb950",
+    "colorway": "Angora With Oxford Blue",
+    "category": "Lifestyle",
+    "palette": [
+      "#2f5fa6",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_89e12450-eb17-4bb7-885b-4a235ff7680e.jpg?v=1789132559",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_a494f712-fcd5-4196-a9cd-d490a6b013cf.jpg?v=1789132559",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_0f15c10a-7000-49f1-889d-f91f33cfe5e5.jpg?v=1789132559"
+    ],
+    "description": "The 950 is the next evolution of court-inspired style. With its roots in mid-’80s basketball, the 950 is clean, versatile, and undeniably wearable. The puffed ‘N’ logo and basketball label on the tongue are distinct but subtle cues to the s",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/new-balance-bb950-angora-with-oxford-blue",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20Bb950%20Angora%20With%20Oxford%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20Bb950%20Angora%20With%20Oxford%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20Bb950%20Angora%20With%20Oxford%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Bb950%20Angora%20With%20Oxford%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-530-pumpernickel-with-sea-salt",
+    "slug": "new-balance-530-pumpernickel-with-sea-salt",
+    "brand": "New Balance",
+    "model": "530",
+    "colorway": "Pumpernickel With Sea Salt",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a16a0d77-278a-476e-9bfd-f7a11e0d18d2.jpg?v=1789132437",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0c58271e-42e3-4426-9a37-76947caf2199.jpg?v=1789132437",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8d26482b-6593-4023-8fe1-e69d6aeb6b16.jpg?v=1789132438"
+    ],
+    "description": "A classic running shoe with a cushioned ABZORB midsole for comfort.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11999,
+        "url": "https://www.superkicks.in/products/new-balance-530-pumpernickel-with-sea-salt",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20530%20Pumpernickel%20With%20Sea%20Salt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20530%20Pumpernickel%20With%20Sea%20Salt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20530%20Pumpernickel%20With%20Sea%20Salt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20530%20Pumpernickel%20With%20Sea%20Salt",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-471-angora-with-black",
+    "slug": "new-balance-471-angora-with-black",
+    "brand": "New Balance",
+    "model": "471",
+    "colorway": "Angora With Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_bd2625d0-ae23-40df-b106-dad318603fb7.jpg?v=1789132325",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_318dcdd7-a133-4869-849c-d59c9b9860f4.jpg?v=1789132325",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d3d72fee-6cbe-4327-88bf-abb66d2534ed.jpg?v=1789132325"
+    ],
+    "description": "The 471 transforms ‘70s running heritage into a new, everyday go-to, with a reinterpretation of the era’s visual signatures. The sleek low profile, wedge-shaped EVA midsole, and herringbone outsole provide a familiar starting point, allowin",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/new-balance-471-angora-with-black",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20471%20Angora%20With%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20471%20Angora%20With%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20471%20Angora%20With%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20471%20Angora%20With%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
+      }
+    ]
+  },
+  {
     "id": "sk-nike-air-max-dn-roam-light-silver-metallic-silver",
     "slug": "nike-air-max-dn-roam-light-silver-metallic-silver",
     "brand": "Nike",
@@ -223,10 +536,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
-          "6"
+          "5"
         ],
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "amazon",
@@ -354,10 +666,11 @@
         "sizes": [
           "7",
           "8",
+          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -423,10 +736,11 @@
         "sizes": [
           "7",
           "8",
+          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -1068,9 +1382,13 @@
         "retailerId": "superkicks",
         "price": 16995,
         "url": "https://www.superkicks.in/products/nike-air-max-plus-se-black-off-noir-metallic-silver",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-09T07:39:03.679Z"
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -1341,9 +1659,15 @@
         "retailerId": "superkicks",
         "price": 7999,
         "url": "https://www.superkicks.in/products/adidas-originals-adidas-originals-x-daewon-song-glenburn-brown",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-09T07:39:03.679Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "adidas",
@@ -1404,9 +1728,14 @@
         "retailerId": "superkicks",
         "price": 17495,
         "url": "https://www.superkicks.in/products/nike-g-t-future-ep-varsity-red-black",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-09T07:39:03.679Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "11"
+        ],
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -1540,9 +1869,10 @@
           "7",
           "8",
           "9",
-          "10"
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-09-09T07:39:03.679Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "adidas",
@@ -1608,9 +1938,10 @@
           "7",
           "8",
           "9",
-          "10"
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-09-09T07:39:03.679Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "adidas",
@@ -1673,12 +2004,13 @@
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-lx-green-apple-green-apple-chlorophyll",
         "inStock": true,
         "sizes": [
+          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-29T09:31:27.541Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -1739,9 +2071,16 @@
         "retailerId": "superkicks",
         "price": 15999,
         "url": "https://www.superkicks.in/products/adidas-x-larry-june-adistar-control-5-watermelon-smoothie-semi-lucid-red-semi-solar-slime-clay",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "adidas",
@@ -2073,10 +2412,11 @@
         "url": "https://www.superkicks.in/products/adidas-originals-samba-og-khaki-three-olive-strata-gum",
         "inStock": true,
         "sizes": [
+          "7",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-09T07:39:03.679Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "adidas",
@@ -3412,9 +3752,11 @@
         "retailerId": "superkicks",
         "price": 4999,
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-black-silver-gold",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-09T07:39:03.679Z"
+        "inStock": true,
+        "sizes": [
+          "8"
+        ],
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "amazon",
@@ -3591,10 +3933,11 @@
         "url": "https://www.superkicks.in/products/nike-vomero-premium-university-red-metallic-silver",
         "inStock": true,
         "sizes": [
+          "4",
           "5",
           "6"
         ],
-        "fetchedAt": "2026-09-09T07:39:03.679Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -4239,10 +4582,13 @@
         "url": "https://www.superkicks.in/products/nike-shox-tl-light-silver-light-silver-newsprint",
         "inStock": true,
         "sizes": [
+          "7",
           "8",
-          "9"
+          "9",
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -4305,11 +4651,13 @@
         "url": "https://www.superkicks.in/products/nike-shox-tl-newsprint-newsprint-black",
         "inStock": true,
         "sizes": [
+          "7",
           "8",
           "9",
-          "10"
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -4372,10 +4720,11 @@
         "url": "https://www.superkicks.in/products/nike-air-max-plus-se-white-black-pure-platinum",
         "inStock": true,
         "sizes": [
+          "4",
           "5",
           "6"
         ],
-        "fetchedAt": "2026-08-31T09:01:21.468Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -4577,9 +4926,13 @@
         "url": "https://www.superkicks.in/products/nike-cortez-leather-white-varsity-red-varsity-blue",
         "inStock": true,
         "sizes": [
-          "10"
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -5201,9 +5554,10 @@
         "url": "https://www.superkicks.in/products/nike-acg-zegama-spruce-fog-sea-glass-black-black-spruce",
         "inStock": true,
         "sizes": [
-          "7"
+          "7",
+          "9"
         ],
-        "fetchedAt": "2026-09-09T07:39:03.679Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -5855,10 +6209,12 @@
         "url": "https://www.superkicks.in/products/jordan-air-jordan-4-retro-comic-off-white-fire-pink-anthracite",
         "inStock": true,
         "sizes": [
+          "8",
           "9",
+          "10",
           "11"
         ],
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
+        "fetchedAt": "2026-09-12T07:25:24.302Z"
       },
       {
         "retailerId": "nike",
@@ -5894,323 +6250,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-18T03:35:20.656Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-react-x-rejuven8-black",
-    "slug": "nike-react-x-rejuven8-black",
-    "brand": "Nike",
-    "model": "React X Rejuven8",
-    "colorway": "Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_2b8a54ef-ce81-4441-b0cc-ce58b2338f57.jpg?v=1785934766",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_858a8e39-73b7-44f4-828d-8c1553d6dadb.jpg?v=1785934766",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_fcc3db33-75a0-4e5d-b581-315ef2617b2f.jpg?v=1785934767"
-    ],
-    "description": "Give your feet a rest. Made from soft and responsive ReactX foam the Rejuven8 uses some of our best tech to create recovery slides you'll look forward to wearing.",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 4695,
-        "url": "https://www.superkicks.in/products/nike-react-x-rejuven8-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8"
-        ],
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20React%20X%20Rejuven8%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20React%20X%20Rejuven8%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20React%20X%20Rejuven8%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20React%20X%20Rejuven8%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20React%20X%20Rejuven8%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-95-big-bubble-iron-grey-illusion-green-black",
-    "slug": "nike-air-max-95-big-bubble-iron-grey-illusion-green-black",
-    "brand": "Nike",
-    "model": "Air Max 95 Big Bubble",
-    "colorway": "Iron Grey / Illusion Green / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94",
-      "#2f6f4e"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_73827e36-2092-400e-a018-9abfccfbfd30.jpg?v=1786948441",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_a0de5cd0-c1ba-44f0-a94b-123aba7ec6bd.jpg?v=1786948441",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a0018661-d658-4afb-962e-37d11e8c7353.jpg?v=1786948441"
-    ],
-    "description": "The Air Max 95 takes inspiration from the human anatomy, leading to its distinctive wavy design. This version pairs mixed materials and visible cushioning for a layered look with unbelievable comfort. Inspired by the human anatomy, the mids",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 16995,
-        "url": "https://www.superkicks.in/products/nike-air-max-95-big-bubble-iron-grey-illusion-green-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-05T07:11:16.287Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Iron%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20Big%20Bubble%20Iron%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Iron%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20Big%20Bubble%20Iron%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Iron%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-speedcat-ballet-nova-red-rhythm-puma-black",
-    "slug": "puma-speedcat-ballet-nova-red-rhythm-puma-black",
-    "brand": "Puma",
-    "model": "Speedcat Ballet Nova",
-    "colorway": "Red Rhythm / Puma Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_64defb82-c7a0-4147-8628-2939abed394c.jpg?v=1786711884",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_02030746-5243-4102-9732-4828c0f852f2.jpg?v=1786711884",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_1276ad93-aa7e-4104-a761-28b6874148f0.jpg?v=1786711884"
-    ],
-    "description": "No matter how you style it, Speedcat Ballet brings elegance and individuality to every fit. With ballet-inspired detailing and refined accents, this silhouette delivers a bold reinterpretation of an icon. Rooted in racing heritage yet desig",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 6999,
-        "url": "https://www.superkicks.in/products/puma-speedcat-ballet-nova-red-rhythm-puma-black",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Ballet%20Nova%20Red%20Rhythm",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Red%20Rhythm",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Ballet%20Nova%20Red%20Rhythm",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Red%20Rhythm",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-speedcat-ballet-nova-puma-black-puma-white",
-    "slug": "puma-speedcat-ballet-nova-puma-black-puma-white",
-    "brand": "Puma",
-    "model": "Speedcat Ballet Nova",
-    "colorway": "Puma Black / Puma White",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c8fd164c-edb5-4049-8a47-a7308cd34ecb.jpg?v=1786711292",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_2d5d3b5b-1983-41ce-98cc-3ac56c3eec76.jpg?v=1786711292",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9d7dd400-2180-4ab1-9845-f8cec7c54630.jpg?v=1786711292"
-    ],
-    "description": "No matter how you style it, Speedcat Ballet brings elegance and individuality to every fit. With ballet-inspired detailing and refined accents, this silhouette delivers a bold reinterpretation of an icon. Rooted in racing heritage yet desig",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 6999,
-        "url": "https://www.superkicks.in/products/puma-speedcat-ballet-nova-puma-black-puma-white",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Ballet%20Nova%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Ballet%20Nova%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-speedcat-ballet-nova-powder-pink-puma-black",
-    "slug": "puma-speedcat-ballet-nova-powder-pink-puma-black",
-    "brand": "Puma",
-    "model": "Speedcat Ballet Nova",
-    "colorway": "Powder Pink / Puma Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#2f5fa6",
-      "#e093a6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_45b15d88-b702-4c09-a1b3-415183850690.jpg?v=1786711115",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_3df5aafe-3f47-4225-aa81-4431c9f0d8f1.jpg?v=1786711115",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_02556b11-68c6-4d69-b574-d58e5d48bf3a.jpg?v=1786711115"
-    ],
-    "description": "The classic PUMA shoe is inspired by racetrack speed: The Speedcat Ballet stands out from other shoes with its race shoe-inspired shape and sleek lines that give you a fast and bold look. Bring motorsport to the street and feature minimalis",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 6999,
-        "url": "https://www.superkicks.in/products/puma-speedcat-ballet-nova-powder-pink-puma-black",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Ballet%20Nova%20Powder%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Powder%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Ballet%20Nova%20Powder%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Ballet%20Nova%20Powder%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-15T03:29:26.462Z"
       }
     ]
   }
