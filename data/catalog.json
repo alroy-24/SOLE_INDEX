@@ -1,5 +1,67 @@
 [
   {
+    "id": "sk-puma-mb-06-shooting-star-dark-amethyst-lavender-alert",
+    "slug": "puma-mb-06-shooting-star-dark-amethyst-lavender-alert",
+    "brand": "Puma",
+    "model": "Mb.06 Shooting Star",
+    "colorway": "Dark Amethyst / Lavender Alert",
+    "category": "Basketball",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_b01351c0-517b-4176-886b-6304dc28778f.jpg?v=1788351756",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_32f58f32-d30e-46a6-a4ac-c07422987380.jpg?v=1788351756",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_a0f44e24-e597-4a1c-82b9-c83343faedd0.jpg?v=1788351756"
+    ],
+    "description": "No one rewrites the playbook like Melo, and the MB.06 Shooting Star Basketball Shoes bring that “1of1” attitude to your game. Its low-to-the-court feel helps you cut, pivot, and show off what’s next – always shining under pressure.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/puma-mb-06-shooting-star-dark-amethyst-lavender-alert",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-15T08:07:10.723Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Mb.06%20Shooting%20Star%20Dark%20Amethyst",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-15T08:07:10.723Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Mb.06%20Shooting%20Star%20Dark%20Amethyst",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-15T08:07:10.723Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Mb.06%20Shooting%20Star%20Dark%20Amethyst",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-15T08:07:10.723Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Mb.06%20Shooting%20Star%20Dark%20Amethyst",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-15T08:07:10.723Z"
+      }
+    ]
+  },
+  {
     "id": "sk-new-balance-9060-shadow-blue-with-dark-night",
     "slug": "new-balance-9060-shadow-blue-with-dark-night",
     "brand": "New Balance",
@@ -1661,11 +1723,10 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
+        "fetchedAt": "2026-09-15T08:07:10.723Z"
       },
       {
         "retailerId": "adidas",
@@ -1726,11 +1787,9 @@
         "retailerId": "superkicks",
         "price": 17495,
         "url": "https://www.superkicks.in/products/nike-g-t-future-ep-varsity-red-black",
-        "inStock": true,
-        "sizes": [
-          "7"
-        ],
-        "fetchedAt": "2026-09-13T07:44:39.453Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-15T08:07:10.723Z"
       },
       {
         "retailerId": "nike",
@@ -3754,11 +3813,9 @@
         "retailerId": "superkicks",
         "price": 4999,
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-black-silver-gold",
-        "inStock": true,
-        "sizes": [
-          "8"
-        ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-15T08:07:10.723Z"
       },
       {
         "retailerId": "amazon",
@@ -3814,10 +3871,9 @@
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-egret-silver-gold",
         "inStock": true,
         "sizes": [
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-09-13T07:44:39.453Z"
+        "fetchedAt": "2026-09-15T08:07:10.723Z"
       },
       {
         "retailerId": "amazon",
@@ -6164,74 +6220,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Slate%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-4-retro-comic-off-white-fire-pink-anthracite",
-    "slug": "jordan-air-jordan-4-retro-comic-off-white-fire-pink-anthracite",
-    "brand": "Jordan",
-    "model": "Air Jordan 4 Retro Comic",
-    "colorway": "Off White / Fire Pink / Anthracite",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#e093a6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c4c70ddf-5488-4dca-82b6-b4c196dceb71.jpg?v=1786712342",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_ed1514f4-a633-49e3-8971-41ec2921974e.jpg?v=1786712342",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_08a63251-dc52-483f-b848-6c971fd852f3.jpg?v=1786712343"
-    ],
-    "description": "Like your favorite comic book superheroes, the AJ4 still reigns supreme. This edition pulls inspiration from comic book culture, lending an action-packed update to the iconic silhouette. Think of it as a variant cover to a key issue—vibrant",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 21995,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-4-retro-comic-off-white-fire-pink-anthracite",
-        "inStock": true,
-        "sizes": [
-          "8",
-          "9",
-          "11"
-        ],
-        "fetchedAt": "2026-09-13T07:44:39.453Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%204%20Retro%20Comic%20Off%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%204%20Retro%20Comic%20Off%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%204%20Retro%20Comic%20Off%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%204%20Retro%20Comic%20Off%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-18T03:35:20.656Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%204%20Retro%20Comic%20Off%20White",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-18T03:35:20.656Z"
