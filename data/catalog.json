@@ -424,14 +424,13 @@
         "sizes": [
           "4",
           "5",
-          "6",
           "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
       },
       {
         "retailerId": "amazon",
@@ -1375,145 +1374,6 @@
     ]
   },
   {
-    "id": "sk-adidas-originals-x-sp5der-adizero-f50-formotion-solar-green-core-black-silver-metallic",
-    "slug": "adidas-originals-x-sp5der-adizero-f50-formotion-solar-green-core-black-silver-metallic",
-    "brand": "adidas",
-    "model": "X Sp5der Adizero F50 Formotion",
-    "colorway": "Solar Green / Core Black / Silver Metallic",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94",
-      "#2f6f4e"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c70812ce-17ac-43f6-bd83-b32fcba1cbe7.jpg?v=1788352591",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f5ac51fb-525f-474e-a057-2d79350dfb43.jpg?v=1788352592",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_5e8eb06b-2c5f-4a1c-b733-9788524086bb.jpg?v=1788352591"
-    ],
-    "description": "SP5DER x adidas F50 Formotion. Solar Green turns adidas football DNA all the way up. An F50-inspired upper meets Formotion running tech, creating a hybrid that feels just as at home on the streets as it does on the pitch. Football heritage,",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 19999,
-        "url": "https://www.superkicks.in/products/adidas-originals-x-sp5der-adizero-f50-formotion-solar-green-core-black-silver-metallic",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Solar%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Solar%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Solar%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Solar%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Solar%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-original-x-sp5der-adizero-f50-formotion-red-supplier-colour-core-black",
-    "slug": "adidas-original-x-sp5der-adizero-f50-formotion-red-supplier-colour-core-black",
-    "brand": "adidas",
-    "model": "X Sp5der Adizero F50 Formotion",
-    "colorway": "Red / Supplier Colour / Core Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_3a61326c-afc8-4995-a5d0-ee8610517784.jpg?v=1788352449",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_530fd405-8168-44d9-8612-dc0c2fe3ba3b.jpg?v=1788352449",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_bb35f940-4b60-4928-a721-9721debd3130.jpg?v=1788352449"
-    ],
-    "description": "SP5DER x adidas F50 Formotion. Glossy red meets vivid pink across the upper, Three Stripes and Formotion sole. Loud, graphic and built to stand out. Football, the SP5DER way.",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 19999,
-        "url": "https://www.superkicks.in/products/adidas-original-x-sp5der-adizero-f50-formotion-red-supplier-colour-core-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20X%20Sp5der%20Adizero%20F50%20Formotion%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      }
-    ]
-  },
-  {
     "id": "sk-puma-speedcat-wedge-sand-dune-alpine-snow",
     "slug": "puma-speedcat-wedge-sand-dune-alpine-snow",
     "brand": "Puma",
@@ -1828,147 +1688,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-03T07:27:48.853Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-bad-bunny-x-adidas-badbo-1-0-night-navy",
-    "slug": "adidas-bad-bunny-x-adidas-badbo-1-0-night-navy",
-    "brand": "adidas",
-    "model": "Bad Bunny X Adidas Badbo 1.0",
-    "colorway": "Night Navy / Nindig / Cbrown",
-    "category": "Lifestyle",
-    "palette": [
-      "#2f5fa6",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d6e61324-add7-40ca-b51d-97f949f7f9cd.jpg?v=1788181795",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_709d0165-d708-48bc-ac6e-4fe99a8357b8.jpg?v=1788181795",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_ad6fcd3d-2a1e-4317-b54d-d7236009edb6.jpg?v=1788181796"
-    ],
-    "description": "The shoe’s design opts for a deep, tonal look, featuring a range of blues across its upper. The color scheme makes the shoe feel relaxing and beachy allowing you to draw connections back to Puerto Rico’s coastlines and island landscape. The",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 15999,
-        "url": "https://www.superkicks.in/products/adidas-bad-bunny-x-adidas-badbo-1-0-night-navy",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-09-08T07:31:20.533Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.0%20Night%20Navy",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.0%20Night%20Navy",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.0%20Night%20Navy",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.0%20Night%20Navy",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.0%20Night%20Navy",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-badbo-1-1-bad-bunny-chalk-white-pink-white-gretwo-pink",
-    "slug": "adidas-badbo-1-1-bad-bunny-chalk-white-pink-white-gretwo-pink",
-    "brand": "adidas",
-    "model": "Bad Bunny X Adidas Badbo 1.1",
-    "colorway": "Chalk White Pink / White / Gretwo / Pink",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#e093a6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_be07b5d4-4c39-4d12-b652-152591eedabe.jpg?v=1788181877",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_e5345458-800b-475a-b8e5-bf614c1cca1c.jpg?v=1788181877",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_7e782b8d-1e26-406e-961c-211c1a0ea108.jpg?v=1788181877"
-    ],
-    "description": "The Badbo 1.1 builds on its predecessor with a number of tweaks, the three triangular windows on each side now feature dimpled mesh rather than leather, and the flat toe cap has been replaced by a suede T-toe overlay, a throughline to model",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11999,
-        "url": "https://www.superkicks.in/products/adidas-badbo-1-1-bad-bunny-chalk-white-pink-white-gretwo-pink",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.1%20Chalk%20White%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-14T08:14:48.881Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.1%20Chalk%20White%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-14T08:14:48.881Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.1%20Chalk%20White%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-14T08:14:48.881Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.1%20Chalk%20White%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-14T08:14:48.881Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.1%20Chalk%20White%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-14T08:14:48.881Z"
       }
     ]
   },
@@ -3082,12 +2801,11 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-08-31T09:01:21.468Z"
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
       },
       {
         "retailerId": "amazon",
@@ -6238,6 +5956,260 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-08-19T03:36:54.335Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-superfly-elm-metallic-silver-baroque-brown",
+    "slug": "nike-air-superfly-elm-metallic-silver-baroque-brown",
+    "brand": "Nike",
+    "model": "Air Superfly",
+    "colorway": "Elm / Metallic Silver / Baroque Brown",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#6b4a2f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_007d5efc-5704-476f-b55f-99957c87e3d6.jpg?v=1786971858",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_1f55daea-e0e6-47d3-ad15-ef97c6c0fda6.jpg?v=1786971859",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/17_6faf7b9d-62d1-4eee-920a-03bf6e6ce8c9.jpg?v=1786971859"
+    ],
+    "description": "The Superfly ushers in a new era of running-inspired design. It emerges from our vault with new Air and a new attitude. The low-profile shape and outsole pattern channel its track heritage, while textured finishes bring your look up to spee",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8695,
+        "url": "https://www.superkicks.in/products/nike-air-superfly-elm-metallic-silver-baroque-brown",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Superfly%20Elm",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Superfly%20Elm",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Superfly%20Elm",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Superfly%20Elm",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Superfly%20Elm",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-bb950-white-green-grey",
+    "slug": "new-balance-bb950-white-green-grey",
+    "brand": "New Balance",
+    "model": "Bb950",
+    "colorway": "White / Green / Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#9b9b94",
+      "#2f6f4e"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_273dea13-9ada-499b-9f72-70abcc863ec4.jpg?v=1786964320",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_09b6d3af-10c8-4579-95ad-ed919b9b9ea0.jpg?v=1786964320",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_bf3e0b87-c3d4-40f9-ac40-eedc0ae126de.jpg?v=1786964320"
+    ],
+    "description": "The BB950 is the next evolution of court-inspired style. With its roots in mid-’80s basketball, the 950 is clean, versatile, and undeniably wearable. The puffed ‘N’ logo and basketball label on the tongue are distinct but subtle cues to the",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/new-balance-bb950-white-green-grey",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-bb950-white-red-grey",
+    "slug": "new-balance-bb950-white-red-grey",
+    "brand": "New Balance",
+    "model": "Bb950",
+    "colorway": "White / Red / Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#9b9b94",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4ec3bd08-0b1c-4bae-8c5f-20aea5edc229.jpg?v=1786964068",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_7ddf9aae-c363-43c2-a011-93687eacf9db.jpg?v=1786964068",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_0713018b-8e12-4fdb-9442-278c5e67c85a.jpg?v=1786964068"
+    ],
+    "description": "The BB950 is the next evolution of court-inspired style. With its roots in mid-’80s basketball, the 950 is clean, versatile, and undeniably wearable. The puffed ‘N’ logo and basketball label on the tongue are distinct but subtle cues to the",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/new-balance-bb950-white-red-grey",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Bb950%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-9060-slate-grey-1",
+    "slug": "new-balance-9060-slate-grey-1",
+    "brand": "New Balance",
+    "model": "9060",
+    "colorway": "Slate Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_52092c95-075d-4484-bd89-93d3debb3563.jpg?v=1786964643",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_fbce9ff8-9d0f-4287-962b-4bc2b8d532d6.jpg?v=1786964643",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9cd65a1a-e89c-4a41-84d9-07d57545912f.jpg?v=1786964643"
+    ],
+    "description": "The 9060 is a new expression of the refined style and innovation-led design of the classic 99X series. The 9060 reinterprets familiar 99X elements with a warped sensibility inspired by the proudly futuristic, visible tech aesthetic of the Y",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 18999,
+        "url": "https://www.superkicks.in/products/new-balance-9060-slate-grey-1",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-18T07:42:23.689Z"
       }
     ]
   }
