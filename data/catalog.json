@@ -1,5 +1,74 @@
 [
   {
+    "id": "sk-adidas-original-x-vegnonveg-samba-mule-core-black-off-white-gum",
+    "slug": "adidas-original-x-vegnonveg-samba-mule-core-black-off-white-gum",
+    "brand": "adidas",
+    "model": "X Vegnonveg Samba Mule",
+    "colorway": "Core Black / Off White / Gum",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_03292052-a843-4fb9-b221-559cf987e962.jpg?v=1789547114",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_43f6e997-bbde-4fae-9c7e-fb8cdb5f1846.jpg?v=1789547114",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1bfce07e-95ee-446f-a911-ffc89e338875.jpg?v=1789547114"
+    ],
+    "description": "Classic laced shoes with leather upper for everyday comfort and style. The Samba Mule is a bold twist on the legendary adidas Samba silhouette. This mule design blends heritage football inspiration with modern, fashion-forward energy for tr",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12999,
+        "url": "https://www.superkicks.in/products/adidas-original-x-vegnonveg-samba-mule-core-black-off-white-gum",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-09-19T07:37:36.280Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20X%20Vegnonveg%20Samba%20Mule%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-19T07:37:36.280Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20X%20Vegnonveg%20Samba%20Mule%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-19T07:37:36.280Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20X%20Vegnonveg%20Samba%20Mule%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-19T07:37:36.280Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20X%20Vegnonveg%20Samba%20Mule%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-19T07:37:36.280Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20X%20Vegnonveg%20Samba%20Mule%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-19T07:37:36.280Z"
+      }
+    ]
+  },
+  {
     "id": "sk-adidas-originals-samba-og-night-indigo-maroon-preloved-ink",
     "slug": "adidas-originals-samba-og-night-indigo-maroon-preloved-ink",
     "brand": "adidas",
@@ -2050,15 +2119,9 @@
         "retailerId": "superkicks",
         "price": 11995,
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-lx-green-apple-green-apple-chlorophyll",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-19T07:37:36.280Z"
       },
       {
         "retailerId": "nike",
@@ -2119,12 +2182,9 @@
         "retailerId": "superkicks",
         "price": 15999,
         "url": "https://www.superkicks.in/products/adidas-x-larry-june-adistar-control-5-watermelon-smoothie-semi-lucid-red-semi-solar-slime-clay",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8"
-        ],
-        "fetchedAt": "2026-09-14T08:14:48.881Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-19T07:37:36.280Z"
       },
       {
         "retailerId": "adidas",
@@ -2465,11 +2525,10 @@
           "6",
           "7",
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-13T07:44:39.453Z"
+        "fetchedAt": "2026-09-19T07:37:36.280Z"
       },
       {
         "retailerId": "adidas",
@@ -2989,10 +3048,9 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10"
         ],
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
+        "fetchedAt": "2026-09-19T07:37:36.280Z"
       },
       {
         "retailerId": "amazon",
@@ -4972,13 +5030,12 @@
         "url": "https://www.superkicks.in/products/nike-cortez-leather-white-varsity-red-varsity-blue",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
+        "fetchedAt": "2026-09-19T07:37:36.280Z"
       },
       {
         "retailerId": "nike",
@@ -6146,67 +6203,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Bb950%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-9060-slate-grey-1",
-    "slug": "new-balance-9060-slate-grey-1",
-    "brand": "New Balance",
-    "model": "9060",
-    "colorway": "Slate Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#9b9b94",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_52092c95-075d-4484-bd89-93d3debb3563.jpg?v=1786964643",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_fbce9ff8-9d0f-4287-962b-4bc2b8d532d6.jpg?v=1786964643",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9cd65a1a-e89c-4a41-84d9-07d57545912f.jpg?v=1786964643"
-    ],
-    "description": "The 9060 is a new expression of the refined style and innovation-led design of the classic 99X series. The 9060 reinterprets familiar 99X elements with a warped sensibility inspired by the proudly futuristic, visible tech aesthetic of the Y",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 18999,
-        "url": "https://www.superkicks.in/products/new-balance-9060-slate-grey-1",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Slate%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Slate%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Slate%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Slate%20Grey",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-18T07:42:23.689Z"
