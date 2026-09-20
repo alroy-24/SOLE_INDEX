@@ -22,14 +22,9 @@
         "retailerId": "superkicks",
         "price": 12999,
         "url": "https://www.superkicks.in/products/adidas-original-x-vegnonveg-samba-mule-core-black-off-white-gum",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-09-19T07:37:36.280Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-20T08:00:59.705Z"
       },
       {
         "retailerId": "adidas",
@@ -493,13 +488,14 @@
         "sizes": [
           "4",
           "5",
+          "6",
           "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
+        "fetchedAt": "2026-09-20T08:00:59.705Z"
       },
       {
         "retailerId": "amazon",
@@ -618,9 +614,10 @@
           "7",
           "8",
           "9",
-          "10"
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
+        "fetchedAt": "2026-09-20T08:00:59.705Z"
       },
       {
         "retailerId": "amazon",
@@ -3919,9 +3916,11 @@
         "retailerId": "superkicks",
         "price": 4999,
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-egret-silver-gold",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-17T08:07:13.081Z"
+        "inStock": true,
+        "sizes": [
+          "10"
+        ],
+        "fetchedAt": "2026-09-20T08:00:59.705Z"
       },
       {
         "retailerId": "amazon",
@@ -5410,10 +5409,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
+        "fetchedAt": "2026-09-20T08:00:59.705Z"
       },
       {
         "retailerId": "amazon",
