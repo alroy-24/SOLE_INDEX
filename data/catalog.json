@@ -291,15 +291,9 @@
         "retailerId": "superkicks",
         "price": 8695,
         "url": "https://www.superkicks.in/products/nike-tennis-classic-neutral-olive-neutral-olive-sail",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "nike",
@@ -1209,10 +1203,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "nike",
@@ -1400,14 +1393,9 @@
         "retailerId": "superkicks",
         "price": 16999,
         "url": "https://www.superkicks.in/products/puma-puma-x-salehe-bembury-velum-2-nitro™-red-clay-nasturtium",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-13T07:44:39.453Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "amazon",
@@ -1782,11 +1770,10 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-15T08:07:10.723Z"
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "adidas",
@@ -2051,11 +2038,9 @@
         "sizes": [
           "7",
           "8",
-          "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "adidas",
@@ -2592,10 +2577,9 @@
           "6",
           "7",
           "8",
-          "9",
           "11"
         ],
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "adidas",
@@ -2726,11 +2710,9 @@
         "retailerId": "superkicks",
         "price": 12999,
         "url": "https://www.superkicks.in/products/adidas-originals-adidas-originals-x-superkicks-samba-ngtcar-wonwhi-prebrn",
-        "inStock": true,
-        "sizes": [
-          "3"
-        ],
-        "fetchedAt": "2026-09-13T07:44:39.453Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "adidas",
@@ -3550,7 +3532,6 @@
         "url": "https://www.superkicks.in/products/new-balance-1906r-white-with-nordic-green",
         "inStock": true,
         "sizes": [
-          "7",
           "7.5",
           "8.5",
           "9",
@@ -3559,7 +3540,7 @@
           "11",
           "11.5"
         ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "amazon",
@@ -4037,11 +4018,10 @@
         "url": "https://www.superkicks.in/products/nike-vomero-premium-university-red-metallic-silver",
         "inStock": true,
         "sizes": [
-          "4",
           "5",
           "6"
         ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "nike",
@@ -4961,11 +4941,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
-          "6",
-          "7"
+          "5"
         ],
-        "fetchedAt": "2026-08-28T14:41:12.369Z"
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "nike",
@@ -5030,11 +5008,9 @@
         "inStock": true,
         "sizes": [
           "8",
-          "9",
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-09-19T07:37:36.280Z"
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "nike",
@@ -5781,11 +5757,9 @@
         "retailerId": "superkicks",
         "price": 4695,
         "url": "https://www.superkicks.in/products/nike-react-x-rejuven8-cool-grey-black-volt",
-        "inStock": true,
-        "sizes": [
-          "10"
-        ],
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-09-21T08:19:40.877Z"
       },
       {
         "retailerId": "nike",
