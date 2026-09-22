@@ -1,5 +1,140 @@
 [
   {
+    "id": "sk-nike-sb-force-58-medium-olive-black-medium-olive",
+    "slug": "nike-sb-force-58-medium-olive-black-medium-olive",
+    "brand": "Nike",
+    "model": "Sb Force 58",
+    "colorway": "Medium Olive / Black / Medium Olive",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#2f6f4e"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_31f6fb71-150d-4311-9f08-46a412d5fee6.jpg?v=1789474289",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_433663c6-7a1c-4601-a0a4-af74ca4db31c.jpg?v=1789474289",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8c5f17c5-ff3b-419a-b321-c43f206fc9c2.jpg?v=1789474289"
+    ],
+    "description": "The latest and greatest innovation to hit the streets, the Force 58 gives you the durability of a cupsole with the flexibility of vulcanized shoes. Made from canvas and suede and finished with perforations on the toe, the whole look is infu",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 6495,
+        "url": "https://www.superkicks.in/products/nike-sb-force-58-medium-olive-black-medium-olive",
+        "inStock": true,
+        "sizes": [
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Sb%20Force%2058%20Medium%20Olive",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Sb%20Force%2058%20Medium%20Olive",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Sb%20Force%2058%20Medium%20Olive",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Sb%20Force%2058%20Medium%20Olive",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Sb%20Force%2058%20Medium%20Olive",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-samba-jane-core-black-cloud-white-gum",
+    "slug": "adidas-originals-samba-jane-core-black-cloud-white-gum",
+    "brand": "adidas",
+    "model": "Samba Jane",
+    "colorway": "Core Black / Cloud White / Gum",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_84e668f6-4da4-4eb9-b386-1090606f2813.jpg?v=1789473186",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_31fc6995-d702-4a60-87ec-fa6958d248ac.jpg?v=1789473186",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_11ac0961-9f40-4dcc-b7b9-0f194d0aa89e.jpg?v=1789473187"
+    ],
+    "description": "Sneakers with leather upper and serrated 3-Stripes for versatile street style. Enter a new era of Originals with the Samba Jane Shoes, where classic meets contemporary in a bold Mary Jane silhouette. This reimagined Samba features an open, ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/adidas-originals-samba-jane-core-black-cloud-white-gum",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20Jane%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Samba%20Jane%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20Jane%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20Jane%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20Jane%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
+      }
+    ]
+  },
+  {
     "id": "sk-adidas-original-x-vegnonveg-samba-mule-core-black-off-white-gum",
     "slug": "adidas-original-x-vegnonveg-samba-mule-core-black-off-white-gum",
     "brand": "adidas",
@@ -4533,10 +4668,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11.5"
+          "10"
         ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
       },
       {
         "retailerId": "nike",
@@ -5007,10 +5141,9 @@
         "url": "https://www.superkicks.in/products/nike-cortez-leather-white-varsity-red-varsity-blue",
         "inStock": true,
         "sizes": [
-          "8",
           "11"
         ],
-        "fetchedAt": "2026-09-21T08:19:40.877Z"
+        "fetchedAt": "2026-09-22T08:02:43.848Z"
       },
       {
         "retailerId": "nike",
@@ -6049,132 +6182,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Superfly%20Elm",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-bb950-white-green-grey",
-    "slug": "new-balance-bb950-white-green-grey",
-    "brand": "New Balance",
-    "model": "Bb950",
-    "colorway": "White / Green / Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#9b9b94",
-      "#2f6f4e"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_273dea13-9ada-499b-9f72-70abcc863ec4.jpg?v=1786964320",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_09b6d3af-10c8-4579-95ad-ed919b9b9ea0.jpg?v=1786964320",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_bf3e0b87-c3d4-40f9-ac40-eedc0ae126de.jpg?v=1786964320"
-    ],
-    "description": "The BB950 is the next evolution of court-inspired style. With its roots in mid-’80s basketball, the 950 is clean, versatile, and undeniably wearable. The puffed ‘N’ logo and basketball label on the tongue are distinct but subtle cues to the",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13999,
-        "url": "https://www.superkicks.in/products/new-balance-bb950-white-green-grey",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%20Bb950%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%20Bb950%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%20Bb950%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Bb950%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-bb950-white-red-grey",
-    "slug": "new-balance-bb950-white-red-grey",
-    "brand": "New Balance",
-    "model": "Bb950",
-    "colorway": "White / Red / Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#9b9b94",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4ec3bd08-0b1c-4bae-8c5f-20aea5edc229.jpg?v=1786964068",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_7ddf9aae-c363-43c2-a011-93687eacf9db.jpg?v=1786964068",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_0713018b-8e12-4fdb-9442-278c5e67c85a.jpg?v=1786964068"
-    ],
-    "description": "The BB950 is the next evolution of court-inspired style. With its roots in mid-’80s basketball, the 950 is clean, versatile, and undeniably wearable. The puffed ‘N’ logo and basketball label on the tongue are distinct but subtle cues to the",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13999,
-        "url": "https://www.superkicks.in/products/new-balance-bb950-white-red-grey",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%20Bb950%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%20Bb950%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%20Bb950%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-18T07:42:23.689Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Bb950%20White",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-18T07:42:23.689Z"
