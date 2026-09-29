@@ -1,5 +1,73 @@
 [
   {
+    "id": "sk-nike-air-max-dolce-old-royal-black-old-royal",
+    "slug": "nike-air-max-dolce-old-royal-black-old-royal",
+    "brand": "Nike",
+    "model": "Air Max Dolce",
+    "colorway": "Old Royal / Black / Old Royal",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#2f5fa6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3aed11b6-21f9-4372-bf99-00edd6b2f549.jpg?v=1790588690",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0909b6b6-753c-4e1d-8822-d6affc5c25d7.jpg?v=1790588690",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_320ebcbc-c899-4e25-a368-395b7d02e694.jpg?v=1790588691"
+    ],
+    "description": "From running to the red carpet, the Air Max Dolce has lived a life. Now it's back, ready for whatever's next. The details that make the Dolce a standout member of the Air Max family remain, from the laceless, molded upper with its overlay c",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 14995,
+        "url": "https://www.superkicks.in/products/nike-air-max-dolce-old-royal-black-old-royal",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-09-29T09:13:51.188Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Dolce%20Old%20Royal",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-29T09:13:51.188Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Dolce%20Old%20Royal",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-29T09:13:51.188Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Dolce%20Old%20Royal",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-29T09:13:51.188Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Dolce%20Old%20Royal",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-29T09:13:51.188Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Dolce%20Old%20Royal",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-29T09:13:51.188Z"
+      }
+    ]
+  },
+  {
     "id": "sk-jordan-air-jordan-1-low-se-cacao-wow-pearl-white-rust-pink",
     "slug": "jordan-air-jordan-1-low-se-cacao-wow-pearl-white-rust-pink",
     "brand": "Jordan",
@@ -976,7 +1044,7 @@
     ],
     "images": [
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_89d4e44d-37bc-4d9a-93d2-79660a0eec04.jpg?v=1790254992",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_df241e6b-a707-4d3a-8e68-156f809e1197.jpg?v=1790254991",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/0_426965e0-7fec-4e84-abf8-eac5e2f12c6d.jpg?v=1790666491",
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_fa46199f-3ff7-4283-87a0-341d938c9108.jpg?v=1790254991"
     ],
     "description": "Comfortable, durable and timeless—it’s number one for a reason. The Air Force 1 pairs its classic silhouette with textile and genuine leather for a crisp, clean look. Premium leather and textile upper with perforated toe box is breathable a",
@@ -1332,6 +1400,7 @@
         "url": "https://www.superkicks.in/products/adidas-naked-x-adizero-evo-sl-zip-blush-pink",
         "inStock": true,
         "sizes": [
+          "4",
           "5",
           "6",
           "7",
@@ -1339,7 +1408,7 @@
           "10",
           "10.5"
         ],
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
+        "fetchedAt": "2026-09-29T09:13:51.188Z"
       },
       {
         "retailerId": "adidas",
@@ -3583,10 +3652,9 @@
         "inStock": true,
         "sizes": [
           "6",
-          "8",
-          "10"
+          "8"
         ],
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
+        "fetchedAt": "2026-09-29T09:13:51.188Z"
       },
       {
         "retailerId": "adidas",
@@ -5232,11 +5300,10 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
+        "fetchedAt": "2026-09-29T09:13:51.188Z"
       },
       {
         "retailerId": "amazon",
@@ -6391,76 +6458,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Khaki%20Three",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-bw-army-beige-light-brown-putty-beige-grey",
-    "slug": "adidas-bw-army-beige-light-brown-putty-beige-grey",
-    "brand": "adidas",
-    "model": "Bw Army",
-    "colorway": "Beige Light Brown / Putty Beige Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#9b9b94",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_9904f579-f66c-4693-a63d-682d93e9b3c7.jpg?v=1788181310",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_0e94e4a7-0299-4b97-93d6-ebe3b62f6291.jpg?v=1788343574",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_1b0db246-d6f9-4974-a0a6-892030df665b.jpg?v=1788181310"
-    ],
-    "description": "Classic trainers with leather upper for timeless style and everyday comfort. Enjoy understated confidence with the BW Army Shoes, where simplicity meets premium craftsmanship. Inspired by classic sport heritage, these trainers are designed ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 14999,
-        "url": "https://www.superkicks.in/products/adidas-bw-army-beige-light-brown-putty-beige-grey",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "11"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Bw%20Army%20Beige%20Light%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Bw%20Army%20Beige%20Light%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Bw%20Army%20Beige%20Light%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Bw%20Army%20Beige%20Light%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Bw%20Army%20Beige%20Light%20Brown",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-01T08:04:38.198Z"
