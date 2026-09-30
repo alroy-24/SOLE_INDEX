@@ -1,5 +1,1104 @@
 [
   {
+    "id": "sk-adidas-originals-bad-bunny-x-adidas-gazelle-indoor-solar-gold-core-black",
+    "slug": "adidas-originals-bad-bunny-x-adidas-gazelle-indoor-solar-gold-core-black",
+    "brand": "adidas",
+    "model": "Bad Bunny X Adidas Gazelle Indoor",
+    "colorway": "Solar Gold / Core Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#d9b441"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_2fe3f17f-7468-47ee-8a9c-8461d49c184c.jpg?v=1790683777",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_855a7136-3391-4a25-ba06-480ef269b078.jpg?v=1790683777",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_5cab712b-40db-43a8-802e-09462cc06a90.jpg?v=1790683777"
+    ],
+    "description": "The design is built on strong contrast. Golden yellow covers the upper from toe to heel, and black Three Stripes on the side panels provide most of the contrast, giving the pair its most recognizable feature. The palette is a clear change f",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/adidas-originals-bad-bunny-x-adidas-gazelle-indoor-solar-gold-core-black",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Gazelle%20Indoor%20Solar%20Gold",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Bad%20Bunny%20X%20Adidas%20Gazelle%20Indoor%20Solar%20Gold",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Gazelle%20Indoor%20Solar%20Gold",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Bad%20Bunny%20X%20Adidas%20Gazelle%20Indoor%20Solar%20Gold",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Gazelle%20Indoor%20Solar%20Gold",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-adi2000-earth-strata-cloud-white-magic-beige",
+    "slug": "adidas-originals-adi2000-earth-strata-cloud-white-magic-beige",
+    "brand": "adidas",
+    "model": "Adi2000",
+    "colorway": "Earth Strata / Cloud White / Magic Beige",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#e7dfcd",
+      "#6b4a2f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_49ba8474-1fc0-4253-b340-d3c3163009ca.jpg?v=1790683267",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6c3c71fe-f394-454f-bd51-82e88d017e28.jpg?v=1790683267",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_dc1b6630-b9de-47ce-a1dc-4e19b11a6029.jpg?v=1790683267"
+    ],
+    "description": "The adi2000 Shoes bring back the early 2000s look in a way that fits into everyday wear. They're made using a mix of leather and suede, which makes them feel strong and look good at the same time. You'll notice the classic Trefoil logo and ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/adidas-originals-adi2000-earth-strata-cloud-white-magic-beige",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Adi2000%20Earth%20Strata",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Adi2000%20Earth%20Strata",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Adi2000%20Earth%20Strata",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Adi2000%20Earth%20Strata",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Adi2000%20Earth%20Strata",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-formotion-f50-maroon-iron-metallic-cream-white",
+    "slug": "adidas-formotion-f50-maroon-iron-metallic-cream-white",
+    "brand": "adidas",
+    "model": "Formotion F50",
+    "colorway": "Maroon / Iron Metallic / Cream White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d2e4ac7b-3671-4664-9cef-56167648ef64.jpg?v=1790683987",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_837e4873-df9d-4dd5-befa-c395bd0c6cba.jpg?v=1790683987",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a3fba303-d771-4898-ba40-0eda52b07f47.jpg?v=1790683987"
+    ],
+    "description": "Head Into The City With Confidence In The Formotion F50 Shoes. Designed For Those Who Move With Purpose, These Shoes Blend Classic Adidas Heritage With Modern Street Style, Making Them A Standout Choice For City Explorers And Trendsetters A",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 14999,
+        "url": "https://www.superkicks.in/products/adidas-formotion-f50-maroon-iron-metallic-cream-white",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Formotion%20F50%20Maroon",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Formotion%20F50%20Maroon",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Formotion%20F50%20Maroon",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Formotion%20F50%20Maroon",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Formotion%20F50%20Maroon",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-original-samba-og-mule-core-black-cloud-white-gum",
+    "slug": "adidas-original-samba-og-mule-core-black-cloud-white-gum",
+    "brand": "adidas",
+    "model": "Samba OG Mule",
+    "colorway": "Core Black / Cloud White / Gum",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c3cd9aaf-0fa8-4eed-9226-9e0626eec6f6.jpg?v=1790684408",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a2af1ffe-adf8-4f6d-b221-1958c4ada306.jpg?v=1790684408",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_1d181e76-64e8-4869-a491-2d2259036beb.jpg?v=1790684408"
+    ],
+    "description": "The Samba Og Mule Shoes Redefine A True Adidas Icon With Effortless, Everyday Appeal. Drawing From The Legendary Samba Og, They Retain Signature Elements—the Crisp T-toe, Refined Lace Details, And A Streamlined Outsole—while Embracing A Mor",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/adidas-original-samba-og-mule-core-black-cloud-white-gum",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20OG%20Mule%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Samba%20OG%20Mule%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20OG%20Mule%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20OG%20Mule%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Mule%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
+    "slug": "adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
+    "brand": "adidas",
+    "model": "Adizero Evo Sl",
+    "colorway": "Cloud White / Grey Two / Core Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c487f6b1-4c68-4dca-aad9-65a94e12e3c5.jpg?v=1790683876",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_53c0cadc-3591-4944-8287-7a8e755c8227.jpg?v=1790683876",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_857efb54-7b27-4c98-858f-6f714fec7edb.jpg?v=1790683876"
+    ],
+    "description": "Break boundaries with the Adizero Evo SL Laceless LightstrikePro Running Shoes, inspired by the record-breaking EVO 1. Whether you're training or racing, these shoes are engineered for pace and comfort on the road. Designed for runners who ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16999,
+        "url": "https://www.superkicks.in/products/adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-samba-ballet-core-black-off-white-gum",
+    "slug": "adidas-originals-samba-ballet-core-black-off-white-gum",
+    "brand": "adidas",
+    "model": "Samba Ballet",
+    "colorway": "Core Black / Off White / Gum",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_e1ea01c6-bf29-4006-8db2-c80acf1106f2.jpg?v=1790683674",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5b532f4d-2665-48ac-ba67-c311715ebcef.jpg?v=1790683674",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_e505542c-3d8f-4082-add3-161c8d758030.jpg?v=1790683674"
+    ],
+    "description": "Discover a world of timeless style with the Samba Ballet Shoes. Inspired by the legendary Samba silhouette, these shoes bring a modern twist to heritage design, making them a staple for those who value both fashion and comfort. Crafted with",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/adidas-originals-samba-ballet-core-black-off-white-gum",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20Ballet%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Samba%20Ballet%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20Ballet%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20Ballet%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20Ballet%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-original-samba-og-mule-cloud-white-core-black-gum",
+    "slug": "adidas-original-samba-og-mule-cloud-white-core-black-gum",
+    "brand": "adidas",
+    "model": "Samba OG Mule",
+    "colorway": "Cloud White / Core Black / Gum",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4ee7097a-d34e-4540-9acb-032584e5ae5a.jpg?v=1790684207",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_62ae7e48-9dea-4c42-8c3d-8c7e44736f04.jpg?v=1790684207",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_80fed0d0-adab-4edf-9e05-6083ac274666.jpg?v=1790684207"
+    ],
+    "description": "The Samba Og Mule Shoes Redefine A True Adidas Icon With Effortless, Everyday Appeal. Drawing From The Legendary Samba Og, They Retain Signature Elements—the Crisp T-toe, Refined Lace Details, And A Streamlined Outsole—while Embracing A Mor",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/adidas-original-samba-og-mule-cloud-white-core-black-gum",
+        "inStock": true,
+        "sizes": [
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20OG%20Mule%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Samba%20OG%20Mule%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20OG%20Mule%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20OG%20Mule%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Mule%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-samba-ballet-off-white-core-black-gum",
+    "slug": "adidas-originals-samba-ballet-off-white-core-black-gum",
+    "brand": "adidas",
+    "model": "Samba Ballet",
+    "colorway": "Off / White / Core / Black / Gum",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_40703c38-5647-4f65-87ec-2b7ed794566e.jpg?v=1790682911",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ea192c32-780e-45e1-b642-4e464076c9b7.jpg?v=1790682912",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d8cb479f-a1e0-4c17-8b39-3d521df95066.jpg?v=1790682912"
+    ],
+    "description": "The adidas Samba Ballet Womens reimagines an icon through a feminine ballet-inspired silhouette. This cream colourway features a smooth leather upper with contrasting black 3-Stripes transformed into adjustable buckle straps, creating a Mar",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/adidas-originals-samba-ballet-off-white-core-black-gum",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20Ballet%20Off",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Samba%20Ballet%20Off",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20Ballet%20Off",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20Ballet%20Off",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20Ballet%20Off",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-printed-putty-puma-black",
+    "slug": "puma-speedcat-printed-putty-puma-black",
+    "brand": "Puma",
+    "model": "Speedcat Printed",
+    "colorway": "Putty / Puma Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_8160e7b5-0fc6-44bf-a602-e263d955e3d8.jpg?v=1790680230",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_b1cef6e5-0c56-43a2-a7fa-b761877dfe3d.jpg?v=1790680230",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_89dbed57-0e38-475f-a045-ed194bd0ee7f.jpg?v=1790680231"
+    ],
+    "description": "An icon inspired by the speed of the racetrack, the Speedcat sneakers bring edge and individuality to any outfit. These Speedcat sneakers bring motorsport to your look with a mix of materials and heritage PUMA details.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-printed-putty-puma-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Printed%20Putty",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Printed%20Putty",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Printed%20Putty",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Printed%20Putty",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-force-1-07-se-black-black-sequoia-scream-green",
+    "slug": "nike-air-force-1-07-se-black-black-sequoia-scream-green",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Mid Se",
+    "colorway": "Black / Black / Sequoia / Scream Green",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#e7dfcd",
+      "#2f6f4e"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_077e489a-3443-4e76-8b14-913eec752e83.jpg?v=1790680531",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_a1e8aa50-8333-4dcd-b054-cef48a1e5ac5.jpg?v=1790680531",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c1cb0f2d-594d-4ef9-b085-2b909f4809c6.jpg?v=1790680531"
+    ],
+    "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colors and crisp leather give it a distinct identity. Nike Air technology absorbs impact for cushioning with every step. Leather upper offers",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12495,
+        "url": "https://www.superkicks.in/products/nike-air-force-1-07-se-black-black-sequoia-scream-green",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-dolce-black-sport-red-black",
+    "slug": "nike-air-max-dolce-black-sport-red-black",
+    "brand": "Nike",
+    "model": "Air Max Dolce",
+    "colorway": "Black / Sport Red / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4650b3b3-6647-4a1f-9323-cd817ff4c6fc.jpg?v=1790680755",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c356dd61-d8d3-4310-b22f-62cb93ca886d.jpg?v=1790680755",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_04e35dfe-bd36-4091-a787-a115082365d3.jpg?v=1790680754"
+    ],
+    "description": "From running to the red carpet, the Air Max Dolce has lived a life. Now it's back, ready for whatever's next. The details that make the Dolce a standout member of the Air Max family remain, from the laceless, molded upper with its overlay c",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 14995,
+        "url": "https://www.superkicks.in/products/nike-air-max-dolce-black-sport-red-black",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Dolce%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Dolce%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Dolce%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Dolce%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Dolce%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-ecstasy-plus-black-black-black",
+    "slug": "nike-air-max-ecstasy-plus-black-black-black",
+    "brand": "Nike",
+    "model": "Air Max Ecstasy Plus",
+    "colorway": "Black / Black / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b873e016-706c-47a2-9eee-f681225717f8.jpg?v=1790679863",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4f99eb13-f9f8-4905-bf1e-37845f5340f2.jpg?v=1790679863",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6b3ed40c-272d-4860-a4fb-167f34fb5f2a.jpg?v=1790679863"
+    ],
+    "description": "Nike Air technology absorbs impact for cushioning with every step. More Details Low-cut collar",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 15995,
+        "url": "https://www.superkicks.in/products/nike-air-max-ecstasy-plus-black-black-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-90-premium-black-black-cinnamon",
+    "slug": "nike-air-max-90-premium-black-black-cinnamon",
+    "brand": "Nike",
+    "model": "Air Max 90 Premium",
+    "colorway": "Black / Black / Cinnamon",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_44f1a568-1f99-46fc-b9fa-b30ff75ef8dc.jpg?v=1790679336",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_09749a60-58aa-4dda-8c53-a18e9c39e119.jpg?v=1790679336",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_da91fa3e-80ee-4759-93af-c94dabfc3ca6.jpg?v=1790679336"
+    ],
+    "description": "The Air Max 90 stays true to its running roots with the iconic Waffle sole. Stitched overlays and gradient accents create the '90s look you love. Its visible cushioning adds comfort to your journey. Synthetic leather upper is durable and co",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12995,
+        "url": "https://www.superkicks.in/products/nike-air-max-90-premium-black-black-cinnamon",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2090%20Premium%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2090%20Premium%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2090%20Premium%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2090%20Premium%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2090%20Premium%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-liquid-max-aw-black-chrome-white-black",
+    "slug": "nike-air-liquid-max-aw-black-chrome-white-black",
+    "brand": "Nike",
+    "model": "Air Liquid Max Aw",
+    "colorway": "Black / Chrome / White / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_c6083089-cd1e-4b59-9aeb-00a5cafdb91d.jpg?v=1790679690",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_d816d217-8930-4dfe-b57d-469cf02df359.jpg?v=1790679690",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_620eb91b-29cb-4888-8e73-653426e7f4f1.jpg?v=1790679690"
+    ],
+    "description": "The Air Liquid Max wasn't made to convince you. It was made to innovate. Do you like it, or not? Either way, it's one of our most comfortable Air Max shoes to date. Every step feels fluid and smooth thanks to the drop-in foam midsole stacke",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19995,
+        "url": "https://www.superkicks.in/products/nike-air-liquid-max-aw-black-chrome-white-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Liquid%20Max%20Aw%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Liquid%20Max%20Aw%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Liquid%20Max%20Aw%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Liquid%20Max%20Aw%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Liquid%20Max%20Aw%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-moon-shoe-off-noir-sail-black-gum-light-brown",
+    "slug": "nike-moon-shoe-off-noir-sail-black-gum-light-brown",
+    "brand": "Nike",
+    "model": "Moon Shoe",
+    "colorway": "Off Noir / Sail / Black / Gum Light Brown",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3f73b404-3999-48eb-a7a5-b359ec8f6ab4.jpg?v=1790591369",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_709d66d1-3c88-4628-abe5-ef847976a423.jpg?v=1790591368",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_2bf678be-4051-4593-867e-847c04bdde95.jpg?v=1790591368"
+    ],
+    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using a waffle iron—the Moon Shoe. We're bringing the original design back into the limelight. The nylon upper pairs with a Waffle sole to recreate tha",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8995,
+        "url": "https://www.superkicks.in/products/nike-moon-shoe-off-noir-sail-black-gum-light-brown",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20Off%20Noir",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20Off%20Noir",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20Off%20Noir",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20Off%20Noir",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20Off%20Noir",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-moon-shoe-mystic-dates-sail-tough-red",
+    "slug": "nike-moon-shoe-mystic-dates-sail-tough-red",
+    "brand": "Nike",
+    "model": "Moon Shoe",
+    "colorway": "Mystic Dates / Sail / Tough Red",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_acf4194c-177f-47fd-b0e3-efb3c9439da3.jpg?v=1790589032",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4f84a58e-a293-4727-9b92-715c72b0600d.jpg?v=1790589032",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_95b62ee1-c80a-473f-bc11-61487a92d025.jpg?v=1790589032"
+    ],
+    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using a waffle iron—the Moon Shoe. We're bringing the original design back into the limelight. The nylon upper pairs with a Waffle sole to recreate tha",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8995,
+        "url": "https://www.superkicks.in/products/nike-moon-shoe-mystic-dates-sail-tough-red",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20Mystic%20Dates",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20Mystic%20Dates",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
     "id": "sk-nike-air-max-dolce-old-royal-black-old-royal",
     "slug": "nike-air-max-dolce-old-royal-black-old-royal",
     "brand": "Nike",
@@ -3448,10 +4547,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
-          "7"
+          "5"
         ],
-        "fetchedAt": "2026-09-27T08:40:54.884Z"
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
       },
       {
         "retailerId": "nike",
@@ -5106,10 +6204,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-09-23T08:04:41.168Z"
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
       },
       {
         "retailerId": "nike",
@@ -5392,1075 +6489,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-03T07:27:48.853Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-bella-mina-crocodile-chocolate-fondue-gum",
-    "slug": "puma-bella-mina-crocodile-chocolate-fondue-gum",
-    "brand": "Puma",
-    "model": "Bella Mina Crocodile",
-    "colorway": "Chocolate Fondue / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_6f7430e8-8a16-4e65-a1c2-07570e7cbea1.jpg?v=1788352916",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_941b4f2a-b62b-45c0-a0ba-443fc0cd5391.jpg?v=1788352916",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_23317ec1-dccc-4531-8531-19371d3d57f4.jpg?v=1788352917"
-    ],
-    "description": "The Bella Mina Croc Sneakers serve up gloss, texture, and attitude in one iconic shape. Premium croc-embossed details and a sculpted PUMA Formstrip bring throwback energy. Luxe finish, unmistakable presence. Designed for: Lifestyle by PUMA ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 7999,
-        "url": "https://www.superkicks.in/products/puma-bella-mina-crocodile-chocolate-fondue-gum",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Bella%20Mina%20Crocodile%20Chocolate%20Fondue",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Bella%20Mina%20Crocodile%20Chocolate%20Fondue",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Bella%20Mina%20Crocodile%20Chocolate%20Fondue",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Bella%20Mina%20Crocodile%20Chocolate%20Fondue",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-fade-ls-y2k-puma-black-puma-silver",
-    "slug": "puma-fade-ls-y2k-puma-black-puma-silver",
-    "brand": "Puma",
-    "model": "Fade Ls Y2k",
-    "colorway": "Puma Black / Puma Silver",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_ee530fd2-84a6-4090-8ebf-8075bbb18d20.jpg?v=1788351850",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_60e49a09-9dfb-41c9-9d83-5183690011d5.jpg?v=1788351850",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8591abb4-9db6-47e0-acae-6c123e2e85cc.jpg?v=1788351851"
-    ],
-    "description": "The PUMA Fade redefines technical streetwear with a bold, sculpted style. These sneakers channel that vibe into everyday wear. Pair them with cargos, denim, or track pants for a look that stands out. DETAILS Designed for: Lifestyle by PUMA ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9999,
-        "url": "https://www.superkicks.in/products/puma-fade-ls-y2k-puma-black-puma-silver",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Fade%20Ls%20Y2k%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Fade%20Ls%20Y2k%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Fade%20Ls%20Y2k%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Fade%20Ls%20Y2k%20Puma%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-plus-se-black-off-noir-metallic-silver",
-    "slug": "nike-air-max-plus-se-black-off-noir-metallic-silver",
-    "brand": "Nike",
-    "model": "Air Max Plus Se",
-    "colorway": "Black / Off Noir / Metallic Silver",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_94f887bf-913f-4bd8-9223-303fc772e4f2.jpg?v=1787649519",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4a762c9f-6f88-41ac-96ab-5281931462b5.jpg?v=1787649519",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5035a41f-6af2-45aa-ba3f-6d7f03a817b2.jpg?v=1787649519"
-    ],
-    "description": "Let your attitude have the edge in the Air Max Plus. Its iconic caging adds heat to your look while airy mesh keeps you cool. And the visible cushioning lets you celebrate your defiant style in comfort. This premium version features metalli",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 16995,
-        "url": "https://www.superkicks.in/products/nike-air-max-plus-se-black-off-noir-metallic-silver",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Plus%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Plus%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Plus%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Plus%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Plus%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-pokemon-x-adidas-adistar-control-5-haunter-purple-purple-yellow",
-    "slug": "adidas-pokemon-x-adidas-adistar-control-5-haunter-purple-purple-yellow",
-    "brand": "adidas",
-    "model": "PokéMon X Adidas Adistar Control 5 Haunter",
-    "colorway": "Purple / Purple / Yellow",
-    "category": "Lifestyle",
-    "palette": [
-      "#d9b441",
-      "#6b4a8a"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a38effc3-4a8f-4f91-8a8f-3144975dfaa3.jpg?v=1788180606",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_3c57b864-096c-48d2-9c9d-8b5d278083d2.jpg?v=1788180606",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_48af00c8-6c1f-4e55-a063-1f7d760053c3.jpg?v=1788180606"
-    ],
-    "description": "Summoned from the shadows of gaming lore, the Pokémon x adidas Adistar Control 5 \"Haunter\" merges spectral energy with performance design. Dark, ghostly aesthetics take over the silhouette, channelling the eerie presence of its ghostly name",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 15999,
-        "url": "https://www.superkicks.in/products/adidas-pokemon-x-adidas-adistar-control-5-haunter-purple-purple-yellow",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Pok%C3%A9Mon%20X%20Adidas%20Adistar%20Control%205%20Haunter%20Purple",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Pok%C3%A9Mon%20X%20Adidas%20Adistar%20Control%205%20Haunter%20Purple",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Pok%C3%A9Mon%20X%20Adidas%20Adistar%20Control%205%20Haunter%20Purple",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Pok%C3%A9Mon%20X%20Adidas%20Adistar%20Control%205%20Haunter%20Purple",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Pok%C3%A9Mon%20X%20Adidas%20Adistar%20Control%205%20Haunter%20Purple",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-adidas-originals-x-daewon-song-glenburn-brown",
-    "slug": "adidas-originals-adidas-originals-x-daewon-song-glenburn-brown",
-    "brand": "adidas",
-    "model": "X Daewon Song Glenburn",
-    "colorway": "Brown",
-    "category": "Lifestyle",
-    "palette": [
-      "#6b4a2f",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_27fe230d-885f-4aa4-8bd8-b8dbc2010c27.jpg?v=1788181037",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_af9f544c-c9de-41e8-a73c-01c573b363ac.jpg?v=1788181037",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_2696fd3b-ab6d-4380-92ac-3d055ba56553.jpg?v=1788181037"
-    ],
-    "description": "The adidas Originals x Daewon Song Glenburn are the perfect fusion of classic style and modern functionality. Inspired by skate culture, these brown sneakers offer a design that combines comfort and style for any occasion. With a low profil",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 7999,
-        "url": "https://www.superkicks.in/products/adidas-originals-adidas-originals-x-daewon-song-glenburn-brown",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "11"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20X%20Daewon%20Song%20Glenburn%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20X%20Daewon%20Song%20Glenburn%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20X%20Daewon%20Song%20Glenburn%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20X%20Daewon%20Song%20Glenburn%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20X%20Daewon%20Song%20Glenburn%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-g-t-future-ep-varsity-red-black",
-    "slug": "nike-g-t-future-ep-varsity-red-black",
-    "brand": "Nike",
-    "model": "G.T. Future Ep",
-    "colorway": "Varsity Red / Black",
-    "category": "Basketball",
-    "palette": [
-      "#161616",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_0814eade-2001-430a-8fa4-bb3b48c60e9f.jpg?v=1788254727",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/18_7383671b-6331-4de4-b0c2-b61ef5609e0f.jpg?v=1788254727",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_82298885-771e-4a8e-9e4a-e3cbd5f65cb5.jpg?v=1788254727"
-    ],
-    "description": "Where is the game going? Wherever your talent and the G.T. Future want to take it. Loaded with bouncy, full-length Air Zoom Strobel and super responsive forefoot Air Zoom, it's made to help optimize your skillset, speed and springs. Our pla",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 17495,
-        "url": "https://www.superkicks.in/products/nike-g-t-future-ep-varsity-red-black",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-15T08:07:10.723Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20G.T.%20Future%20Ep%20Varsity%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20G.T.%20Future%20Ep%20Varsity%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20G.T.%20Future%20Ep%20Varsity%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20G.T.%20Future%20Ep%20Varsity%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20G.T.%20Future%20Ep%20Varsity%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-02T07:24:44.167Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-x-clot-samba-espadrille-by-edison-chen-cougrn-warvan-cblack",
-    "slug": "adidas-originals-x-clot-samba-espadrille-by-edison-chen-cougrn-warvan-cblack",
-    "brand": "adidas",
-    "model": "X Clot Samba Espadrille By Edison Chen",
-    "colorway": "Cougrn / Warvan / Cblack",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_15a88ef6-7f23-4f19-9b82-b2d8e9ce390e.jpg?v=1788180140",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_52483eb9-ead1-46cf-9458-dca3b65ca25f.jpg?v=1788180140",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_0a309134-e18f-4f4c-9f2c-9c56235b08d0.jpg?v=1788180140"
-    ],
-    "description": "A bold, artisanal reimagining of a pitch legend, the adidas Originals x CLOT Samba Espadrille by Edison Chen seamlessly bridges classic sportswear heritage with high-end summer craftsmanship. This limited-edition release strips away the tra",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13999,
-        "url": "https://www.superkicks.in/products/adidas-originals-x-clot-samba-espadrille-by-edison-chen-cougrn-warvan-cblack",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-09-09T07:39:03.679Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Cougrn",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Cougrn",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Cougrn",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Cougrn",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Cougrn",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-x-clot-samba-espadrille-by-edison-chen-floral-pink",
-    "slug": "adidas-originals-x-clot-samba-espadrille-by-edison-chen-floral-pink",
-    "brand": "adidas",
-    "model": "X Clot Samba Espadrille By Edison Chen",
-    "colorway": "Floral Pink",
-    "category": "Lifestyle",
-    "palette": [
-      "#e093a6",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4e822933-40ca-47d1-98e1-432e922f5d11.jpg?v=1788343457",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_d7f6157a-dd07-41e5-bcba-727ce2a1ffec.jpg?v=1788180343",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d56d22e7-80b2-4881-86b3-ea7b5865c42f.jpg?v=1788180343"
-    ],
-    "description": "A bold, artisanal reimagining of a pitch legend, the adidas Originals x CLOT Samba Espadrille by Edison Chen seamlessly bridges classic sportswear heritage with high-end summer craftsmanship. This limited-edition release strips away the tra",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13999,
-        "url": "https://www.superkicks.in/products/adidas-originals-x-clot-samba-espadrille-by-edison-chen-floral-pink",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Floral%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Floral%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Floral%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Floral%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Floral%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-x-clot-samba-espadrille-by-edison-chen-core-black",
-    "slug": "adidas-originals-x-clot-samba-espadrille-by-edison-chen-core-black",
-    "brand": "adidas",
-    "model": "X Clot Samba Espadrille By Edison Chen",
-    "colorway": "Core Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_b2307d8e-8b6d-4348-adc7-d7447e625d14.jpg?v=1788180004",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ceeb1630-090a-4c7f-9ec7-39ae38cda15a.jpg?v=1788180005",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ad35aa78-5092-4765-920a-6b7ea07154d8.jpg?v=1788180005"
-    ],
-    "description": "A bold, artisanal reimagining of a pitch legend, the adidas Originals x CLOT Samba Espadrille by Edison Chen seamlessly bridges classic sportswear heritage with high-end summer craftsmanship. This limited-edition release strips away the tra",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13999,
-        "url": "https://www.superkicks.in/products/adidas-originals-x-clot-samba-espadrille-by-edison-chen-core-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20X%20Clot%20Samba%20Espadrille%20By%20Edison%20Chen%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-lx-green-apple-green-apple-chlorophyll",
-    "slug": "nike-air-force-1-07-lx-green-apple-green-apple-chlorophyll",
-    "brand": "Nike",
-    "model": "Air Force 1 '07 Lx",
-    "colorway": "Green Apple / Green Apple / Chlorophyll",
-    "category": "Lifestyle",
-    "palette": [
-      "#2f6f4e",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b1e4e502-88d7-48be-a2b7-55403fd568a3.jpg?v=1787575731",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_779d9787-b397-4552-8f72-c5e83b16006a.jpg?v=1787575731",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_688de588-cf96-4210-bb12-bfa75d1a49df.jpg?v=1787575732"
-    ],
-    "description": "Comfortable, durable and timeless, the Air Force 1 has a classic silhouette and leather upper that creates a crisp, clean look. Nike Air technology absorbs impact for cushioning with every step. Genuine leather upper adds premium durability",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-lx-green-apple-green-apple-chlorophyll",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-19T07:37:36.280Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Lx%20Green%20Apple",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Lx%20Green%20Apple",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Lx%20Green%20Apple",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Lx%20Green%20Apple",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Lx%20Green%20Apple",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-08-26T03:43:19.350Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-x-larry-june-adistar-control-5-watermelon-smoothie-semi-lucid-red-semi-solar-slime-clay",
-    "slug": "adidas-x-larry-june-adistar-control-5-watermelon-smoothie-semi-lucid-red-semi-solar-slime-clay",
-    "brand": "adidas",
-    "model": "X Larry June Adistar Control 5 'Watermelon Smoothie'",
-    "colorway": "Semi Lucid Red / Semi Solar Slime / Clay",
-    "category": "Lifestyle",
-    "palette": [
-      "#c2362f",
-      "#d8702f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_7ab6ea52-2aa8-4d1c-88c0-85c2bc5890de.jpg?v=1788180900",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_43b23b5a-d7f5-4dc4-98ac-3187e0674a2b.jpg?v=1788180900",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c450a361-691e-4fa2-a223-22f5646800da.jpg?v=1788180900"
-    ],
-    "description": "Shoes with textile upper and rubber outsole for comfort and reliable traction. Designed in collaboration with Larry June, the LJ Adistar Control 5 Shoes blend bold style with everyday comfort. The regular fit allows for easy wear, whether y",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 15999,
-        "url": "https://www.superkicks.in/products/adidas-x-larry-june-adistar-control-5-watermelon-smoothie-semi-lucid-red-semi-solar-slime-clay",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20X%20Larry%20June%20Adistar%20Control%205%20'Watermelon%20Smoothie'%20Semi%20Lucid%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20X%20Larry%20June%20Adistar%20Control%205%20'Watermelon%20Smoothie'%20Semi%20Lucid%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20X%20Larry%20June%20Adistar%20Control%205%20'Watermelon%20Smoothie'%20Semi%20Lucid%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20X%20Larry%20June%20Adistar%20Control%205%20'Watermelon%20Smoothie'%20Semi%20Lucid%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20X%20Larry%20June%20Adistar%20Control%205%20'Watermelon%20Smoothie'%20Semi%20Lucid%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-ghost-sprint-carbon-carbon-core-black",
-    "slug": "adidas-ghost-sprint-carbon-carbon-core-black",
-    "brand": "adidas",
-    "model": "Ghost Sprint",
-    "colorway": "Carbon / Carbon / Core Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_06a1a402-90ef-4b24-80e5-6ce076b67645.jpg?v=1788179869",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_3d455d58-4020-473e-811b-0572ad063c66.jpg?v=1788179869",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_9840d183-b397-4cd5-8a96-bd8f2dd0a720.jpg?v=1788179869"
-    ],
-    "description": "A fashion-forward relaunch of a '00s running shoe. A hidden gem returns from our '00s running archives. The adidas Ghost Sprint shoes were originally made for sprinting, and now they've been remade for style. Premium materials pay tribute t",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11999,
-        "url": "https://www.superkicks.in/products/adidas-ghost-sprint-carbon-carbon-core-black",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Ghost%20Sprint%20Carbon",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Ghost%20Sprint%20Carbon",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Ghost%20Sprint%20Carbon",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Ghost%20Sprint%20Carbon",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Ghost%20Sprint%20Carbon",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-samba-jane-crystal-white-supplier-colour-acid-orange",
-    "slug": "adidas-originals-samba-jane-crystal-white-supplier-colour-acid-orange",
-    "brand": "adidas",
-    "model": "Samba Jane",
-    "colorway": "Crystal White / Supplier Colour / Acid Orange",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#d8702f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c7a940c5-396f-473a-931c-4412b6c0c5e5.jpg?v=1788181413",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_456f0973-f71c-43a4-882a-3177407b02a5.jpg?v=1788181413",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_372e5f4e-56d8-4ff4-95f9-117b7aa8d74d.jpg?v=1788181413"
-    ],
-    "description": "Low-rise shoes with rubber outsole for reliable grip. Iconic streetwear gets a fresh new look with the Samba Jane Shoes from adidas Originals, a new take on an adidas legend. Designed for those who appreciate heritage with a modern twist, t",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10999,
-        "url": "https://www.superkicks.in/products/adidas-originals-samba-jane-crystal-white-supplier-colour-acid-orange",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-09-13T07:44:39.453Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20Jane%20Crystal%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Samba%20Jane%20Crystal%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20Jane%20Crystal%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20Jane%20Crystal%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20Jane%20Crystal%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-bw-army-lux-brown-brown-gum",
-    "slug": "adidas-bw-army-lux-brown-brown-gum",
-    "brand": "adidas",
-    "model": "Bw Army Lux",
-    "colorway": "Brown / Brown / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_225e652f-e67f-4ebf-b00c-ed1b560e4c6e.jpg?v=1788181570",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c08dbc29-d643-4f32-b247-075fdd8d8a5e.jpg?v=1788181570",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_17370155-2638-438d-ace0-e1670ce68cf7.jpg?v=1788181570"
-    ],
-    "description": "Classic style shoes with lace closure for versatile wear and adjustability. The BW Army Lux Shoes are a premium addition to the adidas Originals collection. These shoes blend classic army-inspired aesthetics with modern materials for a look",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 14999,
-        "url": "https://www.superkicks.in/products/adidas-bw-army-lux-brown-brown-gum",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-08T07:31:20.533Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Bw%20Army%20Lux%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Bw%20Army%20Lux%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Bw%20Army%20Lux%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Bw%20Army%20Lux%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Bw%20Army%20Lux%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-hyperboost-run-grey-two-carbon-blue-dawn",
-    "slug": "adidas-hyperboost-run-grey-two-carbon-blue-dawn",
-    "brand": "adidas",
-    "model": "Hyperboost Run",
-    "colorway": "Grey Two / Carbon / Blue Dawn",
-    "category": "Lifestyle",
-    "palette": [
-      "#9b9b94",
-      "#2f5fa6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_e357571b-8eff-4f99-975b-6c612eb8c6ac.jpg?v=1788180438",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_550dad5e-c137-4695-b34f-4f2c77ab8a60.jpg?v=1788180438",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a34a45c6-155b-462f-b3db-a64998b63458.jpg?v=1788180438"
-    ],
-    "description": "Shoes With Hyperboost Pro For Energy Return And A Lighttraxion Outsole For A Lightweight Grip. A Lightweight Daily Trainer, Powered By Hyperboost Pro Technology With A Lower Stack For Closer Control Through Easy Runs To Tempo Runs. These Ru",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 17999,
-        "url": "https://www.superkicks.in/products/adidas-hyperboost-run-grey-two-carbon-blue-dawn",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Hyperboost%20Run%20Grey%20Two",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Hyperboost%20Run%20Grey%20Two",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Hyperboost%20Run%20Grey%20Two",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Hyperboost%20Run%20Grey%20Two",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Hyperboost%20Run%20Grey%20Two",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-samba-og-khaki-three-olive-strata-gum",
-    "slug": "adidas-originals-samba-og-khaki-three-olive-strata-gum",
-    "brand": "adidas",
-    "model": "Samba OG",
-    "colorway": "Khaki Three / Olive Strata / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#2f6f4e"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_1f41160b-7a46-432d-9f0c-13a9d4baed94.jpg?v=1788179575",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5c339c81-5895-4fc3-a977-ff074bf0c764.jpg?v=1788179576",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_72fade3a-ea69-4237-9caf-6c62d2679ef0.jpg?v=1788179576"
-    ],
-    "description": "A Hype DC Match Exclusive, the adidas Samba OG refreshes one of the most sought-after low-profile sneakers with an understated neutral finish. This iteration pairs a soft beige suede upper with contrast khaki 3-Stripes, gold Samba branding ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10999,
-        "url": "https://www.superkicks.in/products/adidas-originals-samba-og-khaki-three-olive-strata-gum",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20OG%20Khaki%20Three",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Samba%20OG%20Khaki%20Three",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20OG%20Khaki%20Three",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20OG%20Khaki%20Three",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Khaki%20Three",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-01T08:04:38.198Z"
       }
     ]
   }
