@@ -1,5 +1,537 @@
 [
   {
+    "id": "sk-air-jordan-3-cardinal-red",
+    "slug": "air-jordan-3-cardinal-red",
+    "brand": "Jordan",
+    "model": "Air Jordan 3",
+    "colorway": "Cardinal Red",
+    "category": "Lifestyle",
+    "palette": [
+      "#c2362f",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/1-4-9.jpg?v=1675965793",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2-1-33.jpg?v=1675965793",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/3-82.jpg?v=1675965793"
+    ],
+    "description": "The legendary Tinker Hatfield design that solidified MJ's relationship with Nike is returning in a new colourway for the season. 'Cardinal' is a well-known Air Jordan 7 colourway, but with that make-up applied to the Air Jordan 3, it's resu",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 15995,
+        "url": "https://www.superkicks.in/products/air-jordan-3-cardinal-red",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%203%20Cardinal%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%203%20Cardinal%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%203%20Cardinal%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%203%20Cardinal%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%203%20Cardinal%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-wmns-air-jordan-1-lv8d-bred",
+    "slug": "wmns-air-jordan-1-lv8d-bred",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Lv8d",
+    "colorway": "Bred",
+    "category": "Lifestyle",
+    "palette": [
+      "#c2362f",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/1-3-9.jpg?v=1675965598",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/2-1-10.jpg?v=1675965598",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/3-59_211d0a7c-fcb0-4736-91a7-1ae2b5cec672.jpg?v=1675965598"
+    ],
+    "description": "Elevate your style, soul and height with the brand-new Air Jordan 1 LV8D. It represents OG Air Jordan 1 heritage, but with a lift—a boost even—for your most confident stride. A foam midsole and cork sockliner deliver all-day lightweight com",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12995,
+        "url": "https://www.superkicks.in/products/wmns-air-jordan-1-lv8d-bred",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Lv8d%20Bred",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Lv8d%20Bred",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Lv8d%20Bred",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Lv8d%20Bred",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Lv8d%20Bred",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-air-jordan-4-crimson",
+    "slug": "air-jordan-4-crimson",
+    "brand": "Jordan",
+    "model": "Air Jordan 4",
+    "colorway": "Crimson",
+    "category": "Lifestyle",
+    "palette": [
+      "#c2362f",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/CT8527-016-1.jpg?v=1675964891",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/CT8527-016-2.jpg?v=1675964891",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/products/CT8527-016-3.jpg?v=1675964891"
+    ],
+    "description": "The Air Jordan 4 Retro is inspired by the original metallic colors featured on the Air Jordan 1 from 1985. Boldly original, the now-iconic colors continue to reinforce the Brand's peerless heritage.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 15995,
+        "url": "https://www.superkicks.in/products/air-jordan-4-crimson",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%204%20Crimson",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%204%20Crimson",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%204%20Crimson",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%204%20Crimson",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%204%20Crimson",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-crazy-energy-cblack-cblack-impora",
+    "slug": "adidas-crazy-energy-cblack-cblack-impora",
+    "brand": "adidas",
+    "model": "Crazy Energy",
+    "colorway": "Cblack / Cblack / Impora",
+    "category": "Basketball",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_f39c3c7a-28e7-4b48-b225-709206f05413.jpg?v=1790683188",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4604824a-513c-407f-8737-a58f27a09ddf.jpg?v=1790683188",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_3f514781-4bd4-404b-a79a-1b6468db50cf.jpg?v=1790683188"
+    ],
+    "description": "The adidas Crazy Energy trainer brings a breath of fresh air to your basketball game and your street style. With its dynamic design and low-top silhouette, you’ll be ready to shine both on the court and around town.The synthetic upper ensur",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/adidas-crazy-energy-cblack-cblack-impora",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Crazy%20Energy%20Cblack",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Crazy%20Energy%20Cblack",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Crazy%20Energy%20Cblack",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Crazy%20Energy%20Cblack",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Crazy%20Energy%20Cblack",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
+    "slug": "adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
+    "brand": "adidas",
+    "model": "Adizero Evo Sl",
+    "colorway": "Cloud White / Grey Two / Core Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c487f6b1-4c68-4dca-aad9-65a94e12e3c5.jpg?v=1790683876",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_53c0cadc-3591-4944-8287-7a8e755c8227.jpg?v=1790683876",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_857efb54-7b27-4c98-858f-6f714fec7edb.jpg?v=1790683876"
+    ],
+    "description": "Break boundaries with the Adizero Evo SL Laceless LightstrikePro Running Shoes, inspired by the record-breaking EVO 1. Whether you're training or racing, these shoes are engineered for pace and comfort on the road. Designed for runners who ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16999,
+        "url": "https://www.superkicks.in/products/adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-moon-shoe-off-noir-sail-black-gum-light-brown",
+    "slug": "nike-moon-shoe-off-noir-sail-black-gum-light-brown",
+    "brand": "Nike",
+    "model": "Moon Shoe",
+    "colorway": "Off Noir / Sail / Black / Gum Light Brown",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3f73b404-3999-48eb-a7a5-b359ec8f6ab4.jpg?v=1790591369",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_709d66d1-3c88-4628-abe5-ef847976a423.jpg?v=1790591368",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_2bf678be-4051-4593-867e-847c04bdde95.jpg?v=1790591368"
+    ],
+    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using a waffle iron—the Moon Shoe. We're bringing the original design back into the limelight. The nylon upper pairs with a Waffle sole to recreate tha",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8995,
+        "url": "https://www.superkicks.in/products/nike-moon-shoe-off-noir-sail-black-gum-light-brown",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20Off%20Noir",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20Off%20Noir",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20Off%20Noir",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20Off%20Noir",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20Off%20Noir",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-moon-shoe-mystic-dates-sail-tough-red",
+    "slug": "nike-moon-shoe-mystic-dates-sail-tough-red",
+    "brand": "Nike",
+    "model": "Moon Shoe",
+    "colorway": "Mystic Dates / Sail / Tough Red",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_acf4194c-177f-47fd-b0e3-efb3c9439da3.jpg?v=1790589032",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4f84a58e-a293-4727-9b92-715c72b0600d.jpg?v=1790589032",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_95b62ee1-c80a-473f-bc11-61487a92d025.jpg?v=1790589032"
+    ],
+    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using a waffle iron—the Moon Shoe. We're bringing the original design back into the limelight. The nylon upper pairs with a Waffle sole to recreate tha",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8995,
+        "url": "https://www.superkicks.in/products/nike-moon-shoe-mystic-dates-sail-tough-red",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20Mystic%20Dates",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20Mystic%20Dates",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-ecstasy-plus-black-black-black",
+    "slug": "nike-air-max-ecstasy-plus-black-black-black",
+    "brand": "Nike",
+    "model": "Air Max Ecstasy Plus",
+    "colorway": "Black / Black / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b873e016-706c-47a2-9eee-f681225717f8.jpg?v=1790679863",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4f99eb13-f9f8-4905-bf1e-37845f5340f2.jpg?v=1790679863",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6b3ed40c-272d-4860-a4fb-167f34fb5f2a.jpg?v=1790679863"
+    ],
+    "description": "Nike Air technology absorbs impact for cushioning with every step. More Details Low-cut collar",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 15995,
+        "url": "https://www.superkicks.in/products/nike-air-max-ecstasy-plus-black-black-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-09-30T09:07:10.855Z"
+      }
+    ]
+  },
+  {
     "id": "sk-adidas-originals-bad-bunny-x-adidas-gazelle-indoor-solar-gold-core-black",
     "slug": "adidas-originals-bad-bunny-x-adidas-gazelle-indoor-solar-gold-core-black",
     "brand": "adidas",
@@ -279,76 +811,6 @@
     ]
   },
   {
-    "id": "sk-adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
-    "slug": "adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
-    "brand": "adidas",
-    "model": "Adizero Evo Sl",
-    "colorway": "Cloud White / Grey Two / Core Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c487f6b1-4c68-4dca-aad9-65a94e12e3c5.jpg?v=1790683876",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_53c0cadc-3591-4944-8287-7a8e755c8227.jpg?v=1790683876",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_857efb54-7b27-4c98-858f-6f714fec7edb.jpg?v=1790683876"
-    ],
-    "description": "Break boundaries with the Adizero Evo SL Laceless LightstrikePro Running Shoes, inspired by the record-breaking EVO 1. Whether you're training or racing, these shoes are engineered for pace and comfort on the road. Designed for runners who ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 16999,
-        "url": "https://www.superkicks.in/products/adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
     "id": "sk-adidas-originals-samba-ballet-core-black-off-white-gum",
     "slug": "adidas-originals-samba-ballet-core-black-off-white-gum",
     "brand": "adidas",
@@ -442,11 +904,12 @@
         "url": "https://www.superkicks.in/products/adidas-original-samba-og-mule-cloud-white-core-black-gum",
         "inStock": true,
         "sizes": [
+          "4",
           "5",
           "6",
           "7"
         ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
       },
       {
         "retailerId": "adidas",
@@ -756,74 +1219,6 @@
     ]
   },
   {
-    "id": "sk-nike-air-max-ecstasy-plus-black-black-black",
-    "slug": "nike-air-max-ecstasy-plus-black-black-black",
-    "brand": "Nike",
-    "model": "Air Max Ecstasy Plus",
-    "colorway": "Black / Black / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b873e016-706c-47a2-9eee-f681225717f8.jpg?v=1790679863",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4f99eb13-f9f8-4905-bf1e-37845f5340f2.jpg?v=1790679863",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6b3ed40c-272d-4860-a4fb-167f34fb5f2a.jpg?v=1790679863"
-    ],
-    "description": "Nike Air technology absorbs impact for cushioning with every step. More Details Low-cut collar",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 15995,
-        "url": "https://www.superkicks.in/products/nike-air-max-ecstasy-plus-black-black-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
     "id": "sk-nike-air-max-90-premium-black-black-cinnamon",
     "slug": "nike-air-max-90-premium-black-black-cinnamon",
     "brand": "Nike",
@@ -964,141 +1359,6 @@
     ]
   },
   {
-    "id": "sk-nike-moon-shoe-off-noir-sail-black-gum-light-brown",
-    "slug": "nike-moon-shoe-off-noir-sail-black-gum-light-brown",
-    "brand": "Nike",
-    "model": "Moon Shoe",
-    "colorway": "Off Noir / Sail / Black / Gum Light Brown",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3f73b404-3999-48eb-a7a5-b359ec8f6ab4.jpg?v=1790591369",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_709d66d1-3c88-4628-abe5-ef847976a423.jpg?v=1790591368",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_2bf678be-4051-4593-867e-847c04bdde95.jpg?v=1790591368"
-    ],
-    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using a waffle iron—the Moon Shoe. We're bringing the original design back into the limelight. The nylon upper pairs with a Waffle sole to recreate tha",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/nike-moon-shoe-off-noir-sail-black-gum-light-brown",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-moon-shoe-mystic-dates-sail-tough-red",
-    "slug": "nike-moon-shoe-mystic-dates-sail-tough-red",
-    "brand": "Nike",
-    "model": "Moon Shoe",
-    "colorway": "Mystic Dates / Sail / Tough Red",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_acf4194c-177f-47fd-b0e3-efb3c9439da3.jpg?v=1790589032",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4f84a58e-a293-4727-9b92-715c72b0600d.jpg?v=1790589032",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_95b62ee1-c80a-473f-bc11-61487a92d025.jpg?v=1790589032"
-    ],
-    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using a waffle iron—the Moon Shoe. We're bringing the original design back into the limelight. The nylon upper pairs with a Waffle sole to recreate tha",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/nike-moon-shoe-mystic-dates-sail-tough-red",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20Mystic%20Dates",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20Mystic%20Dates",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
     "id": "sk-nike-air-max-dolce-old-royal-black-old-royal",
     "slug": "nike-air-max-dolce-old-royal-black-old-royal",
     "brand": "Nike",
@@ -1192,13 +1452,14 @@
         "inStock": true,
         "sizes": [
           "3",
+          "4",
           "5",
           "6",
           "7",
           "8",
           "9"
         ],
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
       },
       {
         "retailerId": "nike",
@@ -1680,9 +1941,15 @@
         "retailerId": "superkicks",
         "price": 11495,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-black-black-scream-green-dk-smoke-grey",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
+        "inStock": true,
+        "sizes": [
+          "6",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
       },
       {
         "retailerId": "nike",
@@ -1818,10 +2085,9 @@
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-white-tech-grey-college-navy-white",
         "inStock": true,
         "sizes": [
-          "4",
-          "5"
+          "4"
         ],
-        "fetchedAt": "2026-09-27T08:40:54.884Z"
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
       },
       {
         "retailerId": "nike",
@@ -4410,10 +4676,9 @@
           "6",
           "7",
           "8",
-          "9",
           "10"
         ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
       },
       {
         "retailerId": "nike",
@@ -4547,9 +4812,11 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5"
+          "5",
+          "6",
+          "7"
         ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
       },
       {
         "retailerId": "nike",
@@ -4615,9 +4882,10 @@
           "7",
           "8",
           "9",
-          "10"
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-09-27T08:40:54.884Z"
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
       },
       {
         "retailerId": "nike",
@@ -6204,9 +6472,10 @@
           "7",
           "8",
           "9",
-          "10"
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-01T09:34:43.334Z"
       },
       {
         "retailerId": "nike",
@@ -6242,253 +6511,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-10T07:35:30.039Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-mind-002-flyknit-sanddrift-fossil-rose-plum-eclipse",
-    "slug": "nike-mind-002-flyknit-sanddrift-fossil-rose-plum-eclipse",
-    "brand": "Nike",
-    "model": "Mind 002 Flyknit",
-    "colorway": "Sanddrift / Fossil Rose / Plum Eclipse",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#e093a6",
-      "#6b4a8a"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_cd701f1e-7094-4181-a64d-30bd56a19249.jpg?v=1787575937",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0437a17e-b7ee-449c-897f-1458f89fc84c.jpg?v=1787575937",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_465b770c-52fc-4f71-9b40-316103b4baee.jpg?v=1787575938"
-    ],
-    "description": "The benefits of Nike Mind technology in a comfortable, go-anywhere sneaker? Yeah, we did that. Plush and responsive foam cushions your every step while large outsole nodes push against your foot, engaging sensory areas of the brain to help ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12795,
-        "url": "https://www.superkicks.in/products/nike-mind-002-flyknit-sanddrift-fossil-rose-plum-eclipse",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Mind%20002%20Flyknit%20Sanddrift",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Mind%20002%20Flyknit%20Sanddrift",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Mind%20002%20Flyknit%20Sanddrift",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Mind%20002%20Flyknit%20Sanddrift",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Mind%20002%20Flyknit%20Sanddrift",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-mind-002-flyknit-light-bone-saturn-gold-infinite-gold",
-    "slug": "nike-mind-002-flyknit-light-bone-saturn-gold-infinite-gold",
-    "brand": "Nike",
-    "model": "Mind 002 Flyknit",
-    "colorway": "Light Bone / Saturn Gold / Infinite Gold",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#d9b441"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c31c6aa1-6711-496d-bbee-747376184675.jpg?v=1787575823",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_7d86f92b-c530-45ca-bba6-c25341e8b734.jpg?v=1787575823",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_142be4b2-9d57-43f0-a0c5-fdf44b30ff52.jpg?v=1787575823"
-    ],
-    "description": "The benefits of Nike Mind technology in a comfortable, go-anywhere sneaker? Yeah, we did that. Plush and responsive foam cushions your every step while large outsole nodes push against your foot, engaging sensory areas of the brain to help ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12795,
-        "url": "https://www.superkicks.in/products/nike-mind-002-flyknit-light-bone-saturn-gold-infinite-gold",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Mind%20002%20Flyknit%20Light%20Bone",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Mind%20002%20Flyknit%20Light%20Bone",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Mind%20002%20Flyknit%20Light%20Bone",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Mind%20002%20Flyknit%20Light%20Bone",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Mind%20002%20Flyknit%20Light%20Bone",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-04T07:30:06.501Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-puma-x-salehe-bembury-velum-2-nitro™-red-clay-nasturtium",
-    "slug": "puma-puma-x-salehe-bembury-velum-2-nitro™-red-clay-nasturtium",
-    "brand": "Puma",
-    "model": "Puma X Salehe Bembury Velum 2 Nitro™",
-    "colorway": "Red Clay / Nasturtium",
-    "category": "Lifestyle",
-    "palette": [
-      "#c2362f",
-      "#d8702f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_bf7f284a-d571-4156-ae1f-47bbfe7357b3.jpg?v=1788353709",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_f9ed344d-8547-4bc0-94a1-50048e4a5e4a.jpg?v=1788353709",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_e219e2e4-e184-4c73-b610-851ee822d5c0.jpg?v=1788353709"
-    ],
-    "description": "The PUMA Fade redefines technical streetwear with a bold, sculpted style. These sneakers channel that vibe into everyday wear. Pair them with cargos, denim, or track pants for a look that stands out. Designed for: Lifestyle by PUMA Width: R",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 16999,
-        "url": "https://www.superkicks.in/products/puma-puma-x-salehe-bembury-velum-2-nitro™-red-clay-nasturtium",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-29T09:13:51.188Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Puma%20X%20Salehe%20Bembury%20Velum%202%20Nitro%E2%84%A2%20Red%20Clay",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Puma%20X%20Salehe%20Bembury%20Velum%202%20Nitro%E2%84%A2%20Red%20Clay",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Puma%20X%20Salehe%20Bembury%20Velum%202%20Nitro%E2%84%A2%20Red%20Clay",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Puma%20X%20Salehe%20Bembury%20Velum%202%20Nitro%E2%84%A2%20Red%20Clay",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-speedcat-wedge-sand-dune-alpine-snow",
-    "slug": "puma-speedcat-wedge-sand-dune-alpine-snow",
-    "brand": "Puma",
-    "model": "Speedcat Wedge",
-    "colorway": "Sand Dune / Alpine Snow",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#2f6f4e"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_e95a83af-fde9-4bf2-bc79-d10cf64abb38.jpg?v=1788353039",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_b70c6243-4607-46fd-b651-706c752d71e0.jpg?v=1788353040",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_eff8c2a3-d382-42d8-bd43-ac7a0e2ddbdc.jpg?v=1788353039"
-    ],
-    "description": "The Speedcat Wedge transforms an icon with a modern twist—featuring a concealed wedge heel and statement hook-and-loop straps for elevated style. Crafted with refined details, this design stands taller while keeping its signature streamline",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9999,
-        "url": "https://www.superkicks.in/products/puma-speedcat-wedge-sand-dune-alpine-snow",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Wedge%20Sand%20Dune",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Wedge%20Sand%20Dune",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Wedge%20Sand%20Dune",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Wedge%20Sand%20Dune",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-03T07:27:48.853Z"
       }
     ]
   }
