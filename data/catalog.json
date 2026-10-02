@@ -1,5 +1,197 @@
 [
   {
+    "id": "sk-asics-gel-nyc-cream-antique-red",
+    "slug": "asics-gel-nyc-cream-antique-red",
+    "brand": "Asics",
+    "model": "Gel-Nyc",
+    "colorway": "Cream / Antique Red",
+    "category": "Lifestyle",
+    "palette": [
+      "#e7dfcd",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_43387c28-ba92-4b3b-bc52-efa01bf40b07.jpg?v=1790771395",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4528ebd3-90b9-4f1a-844e-f3b52a96acec.jpg?v=1790771395",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_ccc5cd2d-16ca-4d00-a6e6-2ef79d040eef.jpg?v=1790771395"
+    ],
+    "description": "The GEL-NYC sneaker sources inspiration from heritage and modern performance running styles. Its upper construction references the GEL-NIMBUS 3 shoe from the early 2000s and blends it with various embellishments from the GEL-MC PLUS V shoe ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12999,
+        "url": "https://www.superkicks.in/products/asics-gel-nyc-cream-antique-red",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Gel-Nyc%20Cream",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Gel-Nyc%20Cream",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Gel-Nyc%20Cream",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Gel-Nyc%20Cream",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-asics-gel-nyc-smoke-grey-black",
+    "slug": "asics-gel-nyc-smoke-grey-black",
+    "brand": "Asics",
+    "model": "Gel-Nyc",
+    "colorway": "Smoke Grey / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6aafbf14-2e6c-4363-96d4-024f073a6482.jpg?v=1790772488",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_1_b3bbb703-8e17-43d1-88a2-18a04bfd4bf0.jpg?v=1790772488",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_7090d546-94dc-4307-923f-ed1760730a0e.jpg?v=1790772488"
+    ],
+    "description": "The GEL-NYC sneaker sources inspiration from heritage and modern performance running styles. Its upper construction references the GEL-NIMBUS 3 shoe from the early 2000s and blends it with various embellishments from the GEL-MC PLUS V shoe ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12999,
+        "url": "https://www.superkicks.in/products/asics-gel-nyc-smoke-grey-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Gel-Nyc%20Smoke%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Gel-Nyc%20Smoke%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Gel-Nyc%20Smoke%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Gel-Nyc%20Smoke%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-air-jordan-1-mid-hydrogen-blue-white-aluminum",
+    "slug": "jordan-air-jordan-1-mid-hydrogen-blue-white-aluminum",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Mid",
+    "colorway": "Hydrogen Blue / White / Aluminum",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#2f5fa6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c06603e9-f5e0-4552-a6ff-328f3392650a.jpg?v=1790598124",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_e089341b-2e1f-4044-88b9-83c68874fefa.jpg?v=1790598124",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_971b376a-49a0-4678-b4e6-a87f8b5cbead.jpg?v=1790598125"
+    ],
+    "description": "This iteration of the AJ1 reimagines Mike's first signature model with a fresh mix of colors. Premium materials, soft cushioning and a padded ankle collar offer total support and celebrate the shoe that started it all. Premium construction ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 7995,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-hydrogen-blue-white-aluminum",
+        "inStock": true,
+        "sizes": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20Hydrogen%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20Hydrogen%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Hydrogen%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20Hydrogen%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Hydrogen%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
+      }
+    ]
+  },
+  {
     "id": "sk-air-jordan-3-cardinal-red",
     "slug": "air-jordan-3-cardinal-red",
     "brand": "Jordan",
@@ -259,10 +451,10 @@
     ]
   },
   {
-    "id": "sk-adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
-    "slug": "adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
+    "id": "sk-adidas-adizero-evo-sl-laceless-cloud-white-grey-two-core-black",
+    "slug": "adidas-adizero-evo-sl-laceless-cloud-white-grey-two-core-black",
     "brand": "adidas",
-    "model": "Adizero Evo Sl",
+    "model": "Adizero Evo Sl Laceless",
     "colorway": "Cloud White / Grey Two / Core Black",
     "category": "Lifestyle",
     "palette": [
@@ -280,7 +472,7 @@
       {
         "retailerId": "superkicks",
         "price": 16999,
-        "url": "https://www.superkicks.in/products/adidas-adizero-evo-sl-cloud-white-grey-two-core-black",
+        "url": "https://www.superkicks.in/products/adidas-adizero-evo-sl-laceless-cloud-white-grey-two-core-black",
         "inStock": true,
         "sizes": [
           "7",
@@ -289,42 +481,42 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Adizero%20Evo%20Sl%20Laceless%20Cloud%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "url": "https://www.amazon.in/s?k=adidas%20Adizero%20Evo%20Sl%20Laceless%20Cloud%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "url": "https://www.flipkart.com/search?q=adidas%20Adizero%20Evo%20Sl%20Laceless%20Cloud%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "url": "https://www.ajio.com/search/?text=adidas%20Adizero%20Evo%20Sl%20Laceless%20Cloud%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Adizero%20Evo%20Sl%20Cloud%20White",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Adizero%20Evo%20Sl%20Laceless%20Cloud%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       }
     ]
   },
@@ -355,9 +547,10 @@
         "sizes": [
           "4",
           "5",
-          "6"
+          "6",
+          "7"
         ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "nike",
@@ -422,9 +615,10 @@
         "sizes": [
           "4",
           "5",
-          "6"
+          "6",
+          "7"
         ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "nike",
@@ -975,10 +1169,9 @@
         "sizes": [
           "4",
           "5",
-          "6",
           "7"
         ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "adidas",
@@ -1803,11 +1996,10 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "12",
           "13"
         ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "nike",
@@ -1946,10 +2138,9 @@
           "6",
           "9",
           "10",
-          "11",
-          "12"
+          "11"
         ],
-        "fetchedAt": "2026-10-01T09:34:43.334Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "nike",
@@ -2083,11 +2274,9 @@
         "retailerId": "superkicks",
         "price": 7995,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-white-tech-grey-college-navy-white",
-        "inStock": true,
-        "sizes": [
-          "4"
-        ],
-        "fetchedAt": "2026-10-01T09:34:43.334Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "nike",
@@ -2561,11 +2750,10 @@
         "sizes": [
           "3",
           "4",
-          "5",
           "6",
           "7"
         ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "nike",
@@ -4675,10 +4863,9 @@
         "sizes": [
           "6",
           "7",
-          "8",
           "10"
         ],
-        "fetchedAt": "2026-10-01T09:34:43.334Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "nike",
@@ -4812,11 +4999,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
-          "6",
           "7"
         ],
-        "fetchedAt": "2026-10-01T09:34:43.334Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "nike",
@@ -4882,10 +5067,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-10-01T09:34:43.334Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "nike",
@@ -6262,10 +6446,11 @@
         "sizes": [
           "7",
           "8",
+          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-27T08:40:54.884Z"
+        "fetchedAt": "2026-10-02T09:08:03.532Z"
       },
       {
         "retailerId": "nike",
@@ -6298,216 +6483,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20OG%20Midnight%20Navy",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-moon-shoe-og-sail-black-sail",
-    "slug": "nike-moon-shoe-og-sail-black-sail",
-    "brand": "Nike",
-    "model": "Moon Shoe OG",
-    "colorway": "Sail / Black / Sail",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_b34d6bb8-6d60-45f9-842f-06beac64bf03.jpg?v=1788946794",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/7_1a7b6be8-bffb-4418-b80d-93ceeb5ecde6.jpg?v=1788946794",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/8_5cd32a7d-5651-401b-803d-f8bf14b64097.jpg?v=1788946794"
-    ],
-    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using his wife's waffle iron. This modern take brings the original design back into the limelight. The nylon upper, complete with leather Swoosh, pairs",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/nike-moon-shoe-og-sail-black-sail",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20OG%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20OG%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20OG%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20OG%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20OG%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-moon-shoe-og-cacao-wow-sail-gum-light-brown",
-    "slug": "nike-moon-shoe-og-cacao-wow-sail-gum-light-brown",
-    "brand": "Nike",
-    "model": "Moon Shoe OG",
-    "colorway": "Cacao Wow / Sail / Gum Light Brown",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_edd03def-8ac4-4c0b-a6aa-4cf03ddc2ccb.jpg?v=1788946889",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f4b47f96-189c-4081-8740-048b6afe5d30.jpg?v=1788946889",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ab86ba5c-c4e7-4373-ae26-ad0c28eadd78.jpg?v=1788946889"
-    ],
-    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using his wife's waffle iron. This modern take brings the original design back into the limelight. The nylon upper, complete with leather Swoosh, pairs",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/nike-moon-shoe-og-cacao-wow-sail-gum-light-brown",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20OG%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20OG%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20OG%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20OG%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20OG%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-12-retro-idols-become-rivals-summit-white-gorge-green-fierce-purple",
-    "slug": "jordan-air-jordan-12-retro-idols-become-rivals-summit-white-gorge-green-fierce-purple",
-    "brand": "Jordan",
-    "model": "Air Jordan 12 Retro Idols Become Rivals",
-    "colorway": "Summit White / Gorge Green / Fierce Purple",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#2f6f4e",
-      "#6b4a8a"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_94777ad7-de30-4f47-85d3-54986b8c53d0.jpg?v=1788777701",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_381c2a0a-9ee0-4773-b138-d8b8e1d71282.jpg?v=1788777702",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9c748f40-487e-4a51-9a58-1180a224f6d0.jpg?v=1788777702"
-    ],
-    "description": "Inspired by early-2000s player exclusives, this Summit White and Gorge Green edition of the AJ12 comes clad in luxe leather and bold colors, drawn from hoops icons of the era. MJ's game-winning look from '96 is the return of Tinker Hatfield",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 18395,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-12-retro-idols-become-rivals-summit-white-gorge-green-fierce-purple",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-01T09:34:43.334Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%2012%20Retro%20Idols%20Become%20Rivals%20Summit%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%2012%20Retro%20Idols%20Become%20Rivals%20Summit%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%2012%20Retro%20Idols%20Become%20Rivals%20Summit%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%2012%20Retro%20Idols%20Become%20Rivals%20Summit%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%2012%20Retro%20Idols%20Become%20Rivals%20Summit%20White",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-10T07:35:30.039Z"
