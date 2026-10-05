@@ -1,5 +1,349 @@
 [
   {
+    "id": "sk-jordan-air-jordan-5-black-carolina-black-university-blue-white-1",
+    "slug": "jordan-air-jordan-5-black-carolina-black-university-blue-white-1",
+    "brand": "Jordan",
+    "model": "Air Jordan 5 Black Carolina",
+    "colorway": "Black / University Blue / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#2f5fa6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_6041c51d-e95c-46c7-84b2-e5fbb808dba3.jpg?v=1781262977",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_13a23884-10d5-443b-9cac-548c7d416cd9.jpg?v=1781262977",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c31aadd4-af52-4d6e-aa55-22a14286104f.jpg?v=1781262977"
+    ],
+    "description": "You know the colors. You know the history. From his high-flying artistry to his dramatic game-winning shots, MJ's college years catapulted him to early stardom. Everything that followed was a continuation of his legacy. This bringback of th",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19295,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-5-black-carolina-black-university-blue-white-1",
+        "inStock": true,
+        "sizes": [
+          "3.5",
+          "5.5",
+          "6.5"
+        ],
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%205%20Black%20Carolina%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%205%20Black%20Carolina%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%205%20Black%20Carolina%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%205%20Black%20Carolina%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%205%20Black%20Carolina%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-brain-dead-x-adidas-barricade-mystery-ink-silver-metallic-carbon",
+    "slug": "adidas-originals-brain-dead-x-adidas-barricade-mystery-ink-silver-metallic-carbon",
+    "brand": "adidas",
+    "model": "Brain Dead X Adidas Barricade",
+    "colorway": "Mystery Ink / Silver Metallic / Carbon",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_ebd109d5-6109-4a76-b44d-4af64d427ca5.jpg?v=1790683094",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/8_5f0aaec5-db75-4556-a28a-b962880df5fa.jpg?v=1790683094",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_1eafadf4-1b67-4047-bbe8-37486866ab00.jpg?v=1790683094"
+    ],
+    "description": "The adidas Originals x Brain Dead Barricade takes classic tennis DNA into Brain Dead’s offbeat world. A low-cut profile, bold blue colourway and unexpected detailing give the silhouette a distinctly contemporary edge. Built for everyday wea",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19999,
+        "url": "https://www.superkicks.in/products/adidas-originals-brain-dead-x-adidas-barricade-mystery-ink-silver-metallic-carbon",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Brain%20Dead%20X%20Adidas%20Barricade%20Mystery%20Ink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Brain%20Dead%20X%20Adidas%20Barricade%20Mystery%20Ink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Brain%20Dead%20X%20Adidas%20Barricade%20Mystery%20Ink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Brain%20Dead%20X%20Adidas%20Barricade%20Mystery%20Ink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Brain%20Dead%20X%20Adidas%20Barricade%20Mystery%20Ink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-samba-og-mercedes-amg-petronas-f1-team-core-black-core-black-silver-metallic",
+    "slug": "adidas-originals-samba-og-mercedes-amg-petronas-f1-team-core-black-core-black-silver-metallic",
+    "brand": "adidas",
+    "model": "Samba OG Mercedes Amg Petronas F1 Team",
+    "colorway": "Core Black / Core Black / Silver Metallic",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f4453d9b-ff0d-4d70-a231-96608c934e87.jpg?v=1790684982",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_a3502688-a91e-4ef8-8481-ee420ad5fc04.jpg?v=1790684982",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_515c8392-2534-47ad-80a5-21c127e2998f.jpg?v=1790684982"
+    ],
+    "description": "The Samba OG Mercedes AMG Petronas F1 Team Shoes from adidas Originals bring together an iconic football silhouette and modern motorsport influence in a design that connects heritage sport style with the passion of Formula 1. A premium leat",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12999,
+        "url": "https://www.superkicks.in/products/adidas-originals-samba-og-mercedes-amg-petronas-f1-team-core-black-core-black-silver-metallic",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-samba-og-mercedes-amg-petronas-f1-team-grey-five-grey-five-silver-metallic",
+    "slug": "adidas-originals-samba-og-mercedes-amg-petronas-f1-team-grey-five-grey-five-silver-metallic",
+    "brand": "adidas",
+    "model": "Samba OG Mercedes Amg Petronas F1 Team",
+    "colorway": "Grey Five / Grey Five / Silver Metallic",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_972a8278-4680-4420-a051-56b36825da40.jpg?v=1790684817",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_e14faf59-4edd-45b7-acda-23ef926489db.jpg?v=1790684817",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a75fc5f2-1981-4a92-8fda-d6fbb22edca3.jpg?v=1790684817"
+    ],
+    "description": "The Samba OG Mercedes AMG Petronas F1 Team Shoes from adidas Originals bring together an iconic football silhouette and modern motorsport influence in a design that connects heritage sport style with the passion of Formula 1. A premium leat",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12999,
+        "url": "https://www.superkicks.in/products/adidas-originals-samba-og-mercedes-amg-petronas-f1-team-grey-five-grey-five-silver-metallic",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Grey%20Five",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Grey%20Five",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Grey%20Five",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Grey%20Five",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Grey%20Five",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-samba-og-mercedes-amg-petronas-f1-team-magic-beige-magic-beige-silver-metallic",
+    "slug": "adidas-originals-samba-og-mercedes-amg-petronas-f1-team-magic-beige-magic-beige-silver-metallic",
+    "brand": "adidas",
+    "model": "Samba OG Mercedes Amg Petronas F1 Team",
+    "colorway": "Magic Beige / Magic Beige / Silver Metallic",
+    "category": "Lifestyle",
+    "palette": [
+      "#e7dfcd",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_fa6500e6-31c5-4fe9-8bc4-f4c413ec9dd8.jpg?v=1790684678",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ab3e24b7-e385-45a3-a5b7-5fd101c592d5.jpg?v=1790684679",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_ee84d47a-a911-4703-b011-b45f498a4fc0.jpg?v=1790684678"
+    ],
+    "description": "The Samba OG Mercedes AMG Petronas F1 Team Shoes from adidas Originals bring together an iconic football silhouette and modern motorsport influence in a design that connects heritage sport style with the passion of Formula 1. A premium leat",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12999,
+        "url": "https://www.superkicks.in/products/adidas-originals-samba-og-mercedes-amg-petronas-f1-team-magic-beige-magic-beige-silver-metallic",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Magic%20Beige",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Magic%20Beige",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Magic%20Beige",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Magic%20Beige",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Mercedes%20Amg%20Petronas%20F1%20Team%20Magic%20Beige",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
+      }
+    ]
+  },
+  {
     "id": "sk-asics-gel-nyc-cream-antique-red",
     "slug": "asics-gel-nyc-cream-antique-red",
     "brand": "Asics",
@@ -956,10 +1300,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
-          "7"
+          "5"
         ],
-        "fetchedAt": "2026-10-04T08:56:34.945Z"
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
       },
       {
         "retailerId": "adidas",
@@ -2121,13 +2464,9 @@
         "retailerId": "superkicks",
         "price": 11495,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-black-black-scream-green-dk-smoke-grey",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "8",
-          "9"
-        ],
-        "fetchedAt": "2026-10-04T08:56:34.945Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
       },
       {
         "retailerId": "nike",
@@ -3739,10 +4078,9 @@
         "inStock": true,
         "sizes": [
           "8",
-          "9",
           "10"
         ],
-        "fetchedAt": "2026-10-03T08:41:32.072Z"
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
       },
       {
         "retailerId": "nike",
@@ -3877,12 +4215,11 @@
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-black-coconut-milk-velvet-brown",
         "inStock": true,
         "sizes": [
-          "7",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
       },
       {
         "retailerId": "nike",
@@ -4979,11 +5316,9 @@
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-swan-white-purple-smoke",
         "inStock": true,
         "sizes": [
-          "4",
-          "5",
           "6"
         ],
-        "fetchedAt": "2026-10-04T08:56:34.945Z"
+        "fetchedAt": "2026-10-05T09:46:57.199Z"
       },
       {
         "retailerId": "nike",
@@ -6140,333 +6475,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-12T07:25:24.302Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-dn-roam-light-silver-metallic-silver",
-    "slug": "nike-air-max-dn-roam-light-silver-metallic-silver",
-    "brand": "Nike",
-    "model": "Air Max Dn Roam",
-    "colorway": "Light Silver / Metallic Silver",
-    "category": "Lifestyle",
-    "palette": [
-      "#9b9b94",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a9d95686-99c4-48b3-b5d7-2e489111d7ac.jpg?v=1788784097",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_f1258ad4-23ff-45ec-8931-a0ff92087726.jpg?v=1788784097",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_ca6b90f7-4f0d-4856-8e9b-b46021abc1a3.jpg?v=1788784097"
-    ],
-    "description": "Hit the streets with confidence in this weatherized rendition of the Air Max Dn. While maintaining its Dynamic Air unit cushioning system, we added a water-repellent zip-up shroud and durable rubber outsole for reliable coverage and tractio",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 16995,
-        "url": "https://www.superkicks.in/products/nike-air-max-dn-roam-light-silver-metallic-silver",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Dn%20Roam%20Light%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Dn%20Roam%20Light%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Dn%20Roam%20Light%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Dn%20Roam%20Light%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Dn%20Roam%20Light%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-tl-2-5-premium-phantom-lt-orewood-brn-cream-ii",
-    "slug": "nike-air-max-tl-2-5-premium-phantom-lt-orewood-brn-cream-ii",
-    "brand": "Nike",
-    "model": "Air Max Tl 2.5 Premium",
-    "colorway": "Phantom / Lt Orewood Brn / Cream II",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/9_3a9e4f6f-9c0f-4e43-a7b7-4bfb6d1359d6.jpg?v=1788946072",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_c443dd88-842f-40bb-81e3-82f93fde711a.jpg?v=1788946072",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_30cd5e3c-b16e-4db7-8134-2bad0721eeda.jpg?v=1788946072"
-    ],
-    "description": "Reviving a late '90s fave, the Air Max TL 2.5 brings back the iconic wavy Air Max aesthetic. Airy textiles fuse with smooth synthetic leather for a clean finish, while full-length Max Air cushioning brings a bouncy feel to every step. Upper",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 17495,
-        "url": "https://www.superkicks.in/products/nike-air-max-tl-2-5-premium-phantom-lt-orewood-brn-cream-ii",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Tl%202.5%20Premium%20Phantom",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Tl%202.5%20Premium%20Phantom",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Tl%202.5%20Premium%20Phantom",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Tl%202.5%20Premium%20Phantom",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Tl%202.5%20Premium%20Phantom",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-palermo-leather-warm-white-chocolate-fondue-gum",
-    "slug": "puma-palermo-leather-warm-white-chocolate-fondue-gum",
-    "brand": "Puma",
-    "model": "Palermo Leather",
-    "colorway": "Warm White / Chocolate Fondue / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/8_191586ec-4ef2-4af0-a7d3-9e0cb2de1ccd.jpg?v=1788859320",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_2173dc1c-1eec-4836-a1b4-7a4fcc205d7f.jpg?v=1788859320",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_42a86abe-137e-4bf5-86d0-d99522812690.jpg?v=1788859320"
-    ],
-    "description": "A fan favourite in the '80s, the Palermo was known for pops of colour on a gum sole. A current streetwear staple, this icon is ready for anything. These Palermo sneakers step straight out of the archives for heritage style. DETAILS: Designe",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 6999,
-        "url": "https://www.superkicks.in/products/puma-palermo-leather-warm-white-chocolate-fondue-gum",
-        "inStock": true,
-        "sizes": [
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-14T08:14:48.881Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Palermo%20Leather%20Warm%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Palermo%20Leather%20Warm%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Palermo%20Leather%20Warm%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Palermo%20Leather%20Warm%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-speedcat-wedge-puma-silver-vapor-grey",
-    "slug": "puma-speedcat-wedge-puma-silver-vapor-grey",
-    "brand": "Puma",
-    "model": "Speedcat Wedge",
-    "colorway": "Puma Silver / Vapor Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#9b9b94",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/7_99ba31d1-b338-469f-b681-5dc423c14b22.jpg?v=1788859428",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9be620b6-2dad-4af3-927a-ee00f651c94b.jpg?v=1788859428",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_49bd6157-7e38-4df9-ae9d-a45919e9b698.jpg?v=1788859428"
-    ],
-    "description": "These Women's Puma Speedcat Wedge Casual Shoes are back to tack on more stats to their historic track record. Originally a Monaco-made marvel, this once fireproof F1 design is reimagined once again, with buttery smooth suede uppers, suede F",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10999,
-        "url": "https://www.superkicks.in/products/puma-speedcat-wedge-puma-silver-vapor-grey",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5"
-        ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Wedge%20Puma%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Wedge%20Puma%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Wedge%20Puma%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Wedge%20Puma%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-11T07:33:55.249Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-moon-shoe-og-midnight-navy-sail-black",
-    "slug": "nike-moon-shoe-og-midnight-navy-sail-black",
-    "brand": "Nike",
-    "model": "Moon Shoe OG",
-    "colorway": "Midnight Navy / Sail / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#2f5fa6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_5214cbbb-1f55-40b4-bb69-69073bc82c6e.jpg?v=1788946241",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_5d299dcf-bcdc-4331-8dc9-932e2945e703.jpg?v=1788946241",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/9_f7033d32-7ffe-430c-8610-c57bd61cc00e.jpg?v=1788946241"
-    ],
-    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using his wife's waffle iron. This modern take brings the original design back into the limelight. The nylon upper, complete with leather Swoosh, pairs",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/nike-moon-shoe-og-midnight-navy-sail-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-02T09:08:03.532Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20OG%20Midnight%20Navy",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20OG%20Midnight%20Navy",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20OG%20Midnight%20Navy",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20OG%20Midnight%20Navy",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20OG%20Midnight%20Navy",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-10T07:35:30.039Z"
       }
     ]
   }
