@@ -1,5 +1,473 @@
 [
   {
+    "id": "sk-nike-vomero-plus-particle-rose-sail-silver-lilac",
+    "slug": "nike-vomero-plus-particle-rose-sail-silver-lilac",
+    "brand": "Nike",
+    "model": "Vomero Plus",
+    "colorway": "Particle Rose / Sail / Silver Lilac",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#9b9b94",
+      "#e093a6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_73710a7e-7221-4166-9015-b8ffdb750c39.jpg?v=1790681119",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_9a11d69d-8d00-483f-b8dd-83140fa9c289.jpg?v=1790681119",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_35845fb4-33d2-4fd4-9316-650f5fd19d25.jpg?v=1790681119"
+    ],
+    "description": "A tall stack of responsive, light foam offers next-level cushioning. Take maximum cushioning to the next level with the Vomero Plus. It provides an ultra-comfortable ride for every day runs thanks to a mountainous stack of full-length ZoomX",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 15295,
+        "url": "https://www.superkicks.in/products/nike-vomero-plus-particle-rose-sail-silver-lilac",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Vomero%20Plus%20Particle%20Rose",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Vomero%20Plus%20Particle%20Rose",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Vomero%20Plus%20Particle%20Rose",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Vomero%20Plus%20Particle%20Rose",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Vomero%20Plus%20Particle%20Rose",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-95-big-bubble-se-black-metallic-silver-white",
+    "slug": "nike-air-max-95-big-bubble-se-black-metallic-silver-white",
+    "brand": "Nike",
+    "model": "Air Max 95 Big Bubble Se",
+    "colorway": "Black / Metallic Silver / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_0d9f59fe-4302-4a2a-b6b1-eda022b99b9d.jpg?v=1790681198",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_153f56e4-5bfc-4323-918b-efc3e93480b4.jpg?v=1790681198",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_b6441eec-c2dd-490e-af43-4ea21f366131.jpg?v=1790681198"
+    ],
+    "description": "Taking inspiration from '90s track aesthetics, the Air Max 95 Big Bubble mixes unbelievable comfort with fast-paced style. Smooth leather and tonal textures create dimension while pumped-up Max Air unit adds performance-like cushioning. Upp",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16995,
+        "url": "https://www.superkicks.in/products/nike-air-max-95-big-bubble-se-black-metallic-silver-white",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-95-big-bubble-se-enigma-stone-metallic-silver-white",
+    "slug": "nike-air-max-95-big-bubble-se-enigma-stone-metallic-silver-white",
+    "brand": "Nike",
+    "model": "Air Max 95 Big Bubble Se",
+    "colorway": "Enigma Stone / Metallic Silver / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_2c6de227-79af-4da6-b2da-46119296cf81.jpg?v=1790681837",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_11b3acba-5207-4198-9d71-73e78e8be6c4.jpg?v=1790681837",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_337d9424-b530-459a-86e1-b08fe5835442.jpg?v=1790681837"
+    ],
+    "description": "Taking inspiration from '90s track aesthetics, the Air Max 95 Big Bubble mixes unbelievable comfort with fast-paced style. Smooth leather and tonal textures create dimension while pumped-up Max Air unit adds performance-like cushioning. Upp",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16995,
+        "url": "https://www.superkicks.in/products/nike-air-max-95-big-bubble-se-enigma-stone-metallic-silver-white",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Enigma%20Stone",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Enigma%20Stone",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Enigma%20Stone",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Enigma%20Stone",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Enigma%20Stone",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-force-1-low-07-white-white-white",
+    "slug": "nike-air-force-1-low-07-white-white-white",
+    "brand": "Nike",
+    "model": "Air Force 1 Low '07",
+    "colorway": "White / White / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#161616"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_30743b8f-3010-4427-837b-288245f5bad6.jpg?v=1790682027",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_97cf2ae3-dc21-4aef-a3b6-f08ec9abfe54.jpg?v=1790682027",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_21a671c7-37c7-41ef-b257-44dda951b0fd.jpg?v=1790682027"
+    ],
+    "description": "The radiance lives on in the Nike Air Force 1 Low ’07, the b-ball icon that puts a fresh spin on what you know best: crisp leather, bold colors and the perfect amount of flash to make you shine. Water-repellent Cordura fabric makes these ki",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11995,
+        "url": "https://www.superkicks.in/products/nike-air-force-1-low-07-white-white-white",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20Low%20'07%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20Low%20'07%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20Low%20'07%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20Low%20'07%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20Low%20'07%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-95-big-bubble-se-pink-foam-metallic-silver-pearl-pink",
+    "slug": "nike-air-max-95-big-bubble-se-pink-foam-metallic-silver-pearl-pink",
+    "brand": "Nike",
+    "model": "Air Max 95 Big Bubble Se",
+    "colorway": "Pink Foam / Metallic Silver / Pearl Pink",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#e093a6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_9d13b8b9-a17b-40bb-ab62-2350d5cee9f6.jpg?v=1790681926",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_75437b7d-ca86-4894-91e7-05fa3b99cb3b.jpg?v=1790681926",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5f193102-a0bc-40b2-a0ba-f9db325103f4.jpg?v=1790681926"
+    ],
+    "description": "Taking inspiration from '90s track aesthetics, the Air Max 95 Big Bubble mixes unbelievable comfort with fast-paced style. Smooth leather and tonal textures create dimension while pumped-up Max Air unit adds performance-like cushioning. Upp",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 15995,
+        "url": "https://www.superkicks.in/products/nike-air-max-95-big-bubble-se-pink-foam-metallic-silver-pearl-pink",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Pink%20Foam",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Pink%20Foam",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Pink%20Foam",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Pink%20Foam",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Se%20Pink%20Foam",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
+    "slug": "jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
+    "brand": "Jordan",
+    "model": "Air Jordan 5 Retro Halloween",
+    "colorway": "Black / Black / Picante Red / Glow N The Dark",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_7f6d3a4f-24a3-48b0-8f57-d7cf3d5e6d0c.jpg?v=1791276575",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_1c5c93ad-1b84-492b-a410-b4d88c23eef8.jpg?v=1791276576",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5c602742-a225-4f6e-9bd7-806000361836.jpg?v=1791276575"
+    ],
+    "description": "The spooky season's upon us. Step into the shadows in this sinister take on the AJ5. Premium black nubuck cloaks the upper to keep you out of sight. Spine-chilling Picante Red accents emerge like a jack-o-lantern's flickering glare in the d",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19295,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-air-jordan-1-high-og-royal-black-game-royal-white-1",
+    "slug": "jordan-air-jordan-1-high-og-royal-black-game-royal-white-1",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 High OG Royal",
+    "colorway": "Black / Game Royal / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#2f5fa6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_1e8e4baf-a118-4b2b-917d-c5f4ae5c3a76.jpg?v=1791275660",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_96e2d9db-ce4d-4c84-832d-7099adebf74e.jpg?v=1791275660",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_29c46c10-f983-4845-a229-528328e7df4c.jpg?v=1791275660"
+    ],
+    "description": "First released in 1985, the AJ1 set the tone for years of innovation through the Air Jordan signature line. More than four decades since the design forever changed the future of footwear, the debut AJ1 \"Royal\" returns true to form. Premium ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16995,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-high-og-royal-black-game-royal-white-1",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20High%20OG%20Royal%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20High%20OG%20Royal%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20High%20OG%20Royal%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20High%20OG%20Royal%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20High%20OG%20Royal%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      }
+    ]
+  },
+  {
     "id": "sk-adidas-aadistar-control-5-x-hardies-aurora-ruby-maroon-dusky-ink",
     "slug": "adidas-aadistar-control-5-x-hardies-aurora-ruby-maroon-dusky-ink",
     "brand": "adidas",
@@ -627,9 +1095,14 @@
         "retailerId": "superkicks",
         "price": 7995,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-hydrogen-blue-white-aluminum",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-10-04T08:56:34.945Z"
+        "inStock": true,
+        "sizes": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -1706,9 +2179,12 @@
         "inStock": true,
         "sizes": [
           "6",
-          "7"
+          "7",
+          "9",
+          "10",
+          "12"
         ],
-        "fetchedAt": "2026-10-04T08:56:34.945Z"
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -2049,12 +2525,13 @@
         "sizes": [
           "3",
           "4",
+          "5",
           "6",
           "7",
           "8",
           "9"
         ],
-        "fetchedAt": "2026-10-04T08:56:34.945Z"
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -2535,9 +3012,16 @@
         "retailerId": "superkicks",
         "price": 11495,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-black-black-scream-green-dk-smoke-grey",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-10-05T09:46:57.199Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -2671,9 +3155,13 @@
         "retailerId": "superkicks",
         "price": 7995,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-white-tech-grey-college-navy-white",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-10-02T09:08:03.532Z"
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -2805,11 +3293,12 @@
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-se-black-black-mtlc-summit-wht",
         "inStock": true,
         "sizes": [
+          "3",
           "4",
           "5",
           "6"
         ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -3008,11 +3497,13 @@
         "sizes": [
           "6",
           "7",
+          "8",
+          "9",
           "10",
           "11",
           "12"
         ],
-        "fetchedAt": "2026-10-04T08:56:34.945Z"
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -3145,9 +3636,12 @@
         "inStock": true,
         "sizes": [
           "3",
-          "4"
+          "4",
+          "5",
+          "6",
+          "7"
         ],
-        "fetchedAt": "2026-10-06T09:33:56.237Z"
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -3675,9 +4169,10 @@
           "7",
           "8",
           "9",
-          "10"
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -4077,12 +4572,14 @@
         "url": "https://www.superkicks.in/products/air-force-1-07-wb-flax-wheat-gum-light-brown-black",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
           "8",
+          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-06T09:33:56.237Z"
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -4284,10 +4781,14 @@
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-black-coconut-milk-velvet-brown",
         "inStock": true,
         "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-06T09:33:56.237Z"
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -4489,12 +4990,13 @@
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-white-black-gum-light-brown",
         "inStock": true,
         "sizes": [
+          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-04T08:56:34.945Z"
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -5250,10 +5752,11 @@
         "sizes": [
           "6",
           "7",
+          "10",
           "11",
           "12"
         ],
-        "fetchedAt": "2026-10-06T09:33:56.237Z"
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -5384,11 +5887,9 @@
         "retailerId": "superkicks",
         "price": 8295,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-swan-white-purple-smoke",
-        "inStock": true,
-        "sizes": [
-          "6"
-        ],
-        "fetchedAt": "2026-10-05T09:46:57.199Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "nike",
@@ -5590,10 +6091,9 @@
         "inStock": true,
         "sizes": [
           "6",
-          "8",
-          "10"
+          "8"
         ],
-        "fetchedAt": "2026-10-06T09:33:56.237Z"
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
       },
       {
         "retailerId": "adidas",
@@ -6034,453 +6534,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-16T08:01:06.198Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-95-x-lego®-collection-smoke-grey-metallic-silver-black",
-    "slug": "nike-air-max-95-x-lego®-collection-smoke-grey-metallic-silver-black",
-    "brand": "Nike",
-    "model": "Air Max 95 X Lego® Collection",
-    "colorway": "Smoke Grey / Metallic Silver / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_6e96969f-857c-4150-a1c8-acfccb2b2f36.jpg?v=1789472359",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_93dc721a-81e6-45fa-a9a1-912359716cad.jpg?v=1789472359",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9874e7be-a585-4897-84ab-536880ab2224.jpg?v=1789472359"
-    ],
-    "description": "A staple around soccer stadiums of the late ‘90s, the Air Max 95 offers legendary style and the soft touch of a massive Air unit. We wrapped this Air Max 95 in a striking print made from LEGO® bricks to give it wild energy. Kick your feet b",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10095,
-        "url": "https://www.superkicks.in/products/nike-air-max-95-x-lego®-collection-smoke-grey-metallic-silver-black",
-        "inStock": true,
-        "sizes": [
-          "1",
-          "1.5",
-          "2",
-          "2.5",
-          "13.5"
-        ],
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20X%20Lego%C2%AE%20Collection%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20X%20Lego%C2%AE%20Collection%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20X%20Lego%C2%AE%20Collection%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20X%20Lego%C2%AE%20Collection%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20X%20Lego%C2%AE%20Collection%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-tennis-classic-neutral-olive-neutral-olive-sail",
-    "slug": "nike-tennis-classic-neutral-olive-neutral-olive-sail",
-    "brand": "Nike",
-    "model": "Tennis Classic",
-    "colorway": "Neutral Olive / Neutral Olive / Sail",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#2f6f4e"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_60656783-4da5-481b-8eab-dbd31b9532de.jpg?v=1789472957",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_60060a4f-c0d3-4306-8d74-bb38e33468ae.jpg?v=1789472957",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_eccf03fb-4bab-4563-93cc-68f45e5fae1b.jpg?v=1789472957"
-    ],
-    "description": "Understated style. Unmatched comfort. Made with smooth leather, the Tennis Classic was born on the court and reimagined for your every day. Smooth leather ages to soft perfection. Improved sockliner adds all-day cushioning. Rubber sole has ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8695,
-        "url": "https://www.superkicks.in/products/nike-tennis-classic-neutral-olive-neutral-olive-sail",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Tennis%20Classic%20Neutral%20Olive",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Tennis%20Classic%20Neutral%20Olive",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Tennis%20Classic%20Neutral%20Olive",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Tennis%20Classic%20Neutral%20Olive",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Tennis%20Classic%20Neutral%20Olive",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-puma-mb-06-shooting-star-dark-amethyst-lavender-alert",
-    "slug": "puma-mb-06-shooting-star-dark-amethyst-lavender-alert",
-    "brand": "Puma",
-    "model": "Mb.06 Shooting Star",
-    "colorway": "Dark Amethyst / Lavender Alert",
-    "category": "Basketball",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_b01351c0-517b-4176-886b-6304dc28778f.jpg?v=1788351756",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_32f58f32-d30e-46a6-a4ac-c07422987380.jpg?v=1788351756",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_a0f44e24-e597-4a1c-82b9-c83343faedd0.jpg?v=1788351756"
-    ],
-    "description": "No one rewrites the playbook like Melo, and the MB.06 Shooting Star Basketball Shoes bring that “1of1” attitude to your game. Its low-to-the-court feel helps you cut, pivot, and show off what’s next – always shining under pressure.",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13999,
-        "url": "https://www.superkicks.in/products/puma-mb-06-shooting-star-dark-amethyst-lavender-alert",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-15T08:07:10.723Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Puma%20Mb.06%20Shooting%20Star%20Dark%20Amethyst",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-15T08:07:10.723Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Puma%20Mb.06%20Shooting%20Star%20Dark%20Amethyst",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-15T08:07:10.723Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Puma%20Mb.06%20Shooting%20Star%20Dark%20Amethyst",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-15T08:07:10.723Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Puma%20Mb.06%20Shooting%20Star%20Dark%20Amethyst",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-15T08:07:10.723Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-9060-shadow-blue-with-dark-night",
-    "slug": "new-balance-9060-shadow-blue-with-dark-night",
-    "brand": "New Balance",
-    "model": "9060",
-    "colorway": "Shadow Blue With Dark Night",
-    "category": "Lifestyle",
-    "palette": [
-      "#2f5fa6",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3ecf9095-f022-48dd-af9d-92860d20d692.jpg?v=1789132734",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_32399190-ebc8-4b71-b27c-182528a81120.jpg?v=1789132734",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_78cacf75-e55c-48a5-b191-b51c2d53967e.jpg?v=1789132734"
-    ],
-    "description": "The 9060 is a new expression of the refined style and innovation-led design of the classic 99X series. The 9060 reinterprets familiar 99X elements with a warped sensibility inspired by the proudly futuristic, visible tech aesthetic of the Y",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 18999,
-        "url": "https://www.superkicks.in/products/new-balance-9060-shadow-blue-with-dark-night",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-10-04T08:56:34.945Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Shadow%20Blue%20With%20Dark%20Night",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Shadow%20Blue%20With%20Dark%20Night",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Shadow%20Blue%20With%20Dark%20Night",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Shadow%20Blue%20With%20Dark%20Night",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-471-black-black-cement",
-    "slug": "new-balance-471-black-black-cement",
-    "brand": "New Balance",
-    "model": "471",
-    "colorway": "Black / Black Cement",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_006a0ca4-9bb9-405d-8d40-9a8371cd3621.jpg?v=1789132654",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0eca72fb-1cab-4386-b877-29fcfd56d847.jpg?v=1789132654",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/11_1c126a3b-d17f-4614-9aa2-9e51c2a80d43.jpg?v=1789132654"
-    ],
-    "description": "The 471 transforms ‘70s running heritage into a new, everyday go-to, with a reinterpretation of the era’s visual signatures. The sleek low profile, wedge-shaped EVA midsole, and herringbone outsole provide a familiar starting point, allowin",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10999,
-        "url": "https://www.superkicks.in/products/new-balance-471-black-black-cement",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-20T08:00:59.705Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%20471%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%20471%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%20471%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20471%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-bb950-angora-with-oxford-blue",
-    "slug": "new-balance-bb950-angora-with-oxford-blue",
-    "brand": "New Balance",
-    "model": "Bb950",
-    "colorway": "Angora With Oxford Blue",
-    "category": "Lifestyle",
-    "palette": [
-      "#2f5fa6",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_89e12450-eb17-4bb7-885b-4a235ff7680e.jpg?v=1789132559",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_a494f712-fcd5-4196-a9cd-d490a6b013cf.jpg?v=1789132559",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_0f15c10a-7000-49f1-889d-f91f33cfe5e5.jpg?v=1789132559"
-    ],
-    "description": "The 950 is the next evolution of court-inspired style. With its roots in mid-’80s basketball, the 950 is clean, versatile, and undeniably wearable. The puffed ‘N’ logo and basketball label on the tongue are distinct but subtle cues to the s",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13999,
-        "url": "https://www.superkicks.in/products/new-balance-bb950-angora-with-oxford-blue",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%20Bb950%20Angora%20With%20Oxford%20Blue",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%20Bb950%20Angora%20With%20Oxford%20Blue",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%20Bb950%20Angora%20With%20Oxford%20Blue",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20Bb950%20Angora%20With%20Oxford%20Blue",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-530-pumpernickel-with-sea-salt",
-    "slug": "new-balance-530-pumpernickel-with-sea-salt",
-    "brand": "New Balance",
-    "model": "530",
-    "colorway": "Pumpernickel With Sea Salt",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a16a0d77-278a-476e-9bfd-f7a11e0d18d2.jpg?v=1789132437",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0c58271e-42e3-4426-9a37-76947caf2199.jpg?v=1789132437",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8d26482b-6593-4023-8fe1-e69d6aeb6b16.jpg?v=1789132438"
-    ],
-    "description": "A classic running shoe with a cushioned ABZORB midsole for comfort.",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11999,
-        "url": "https://www.superkicks.in/products/new-balance-530-pumpernickel-with-sea-salt",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "11"
-        ],
-        "fetchedAt": "2026-10-04T08:56:34.945Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%20530%20Pumpernickel%20With%20Sea%20Salt",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%20530%20Pumpernickel%20With%20Sea%20Salt",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%20530%20Pumpernickel%20With%20Sea%20Salt",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20530%20Pumpernickel%20With%20Sea%20Salt",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-12T07:25:24.302Z"
       }
     ]
   }
