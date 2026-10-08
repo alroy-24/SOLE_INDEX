@@ -1,5 +1,140 @@
 [
   {
+    "id": "sk-nike-air-rift-wolf-grey-wolf-grey-pure-platinum",
+    "slug": "nike-air-rift-wolf-grey-wolf-grey-pure-platinum",
+    "brand": "Nike",
+    "model": "Air Rift",
+    "colorway": "Wolf Grey / Wolf Grey / Pure Platinum",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_1_fa61f7fa-2b87-4b5c-8659-b80743a0c0b1.jpg?v=1791205303",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_ebda9cfc-e4c6-4c63-8cb3-fb981456a065.jpg?v=1791205303",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_2157510d-bedb-4631-a264-a23f64e60a45.jpg?v=1791205303"
+    ],
+    "description": "When you want to be barefoot but you need a shoe, go with the Air Rift. Adjustable straps let you easily slide in and customize the fit. The split-toe design, based on the '96 original, helps your feet feel like they're wearing nothing at a",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11895,
+        "url": "https://www.superkicks.in/products/nike-air-rift-wolf-grey-wolf-grey-pure-platinum",
+        "inStock": true,
+        "sizes": [
+          "4.5",
+          "5.5",
+          "6.5"
+        ],
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Rift%20Wolf%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Rift%20Wolf%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Rift%20Wolf%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Rift%20Wolf%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Rift%20Wolf%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-zoom-vomero-5-lt-orewood-brn-metallic-gold-hemp",
+    "slug": "nike-zoom-vomero-5-lt-orewood-brn-metallic-gold-hemp",
+    "brand": "Nike",
+    "model": "Zoom Vomero 5",
+    "colorway": "Lt Orewood Brn / Metallic Gold / Hemp",
+    "category": "Lifestyle",
+    "palette": [
+      "#d9b441",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_69906697-f8c7-4b3d-8491-206abf17f180.jpg?v=1791204785",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_90c57d58-47f4-44e8-b0e1-360f92a846c0.jpg?v=1791204785",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_b8f96b19-30b3-4991-949e-1405669e7927.jpg?v=1791204785"
+    ],
+    "description": "The Vomero 5 takes early 2000s running to modern heights. A combination of breathable and durable materials stands ready for the rigors of your day, while Air Zoom cushioning creates a smooth ride. Chrome accents take your favorite shoe to ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 14995,
+        "url": "https://www.superkicks.in/products/nike-zoom-vomero-5-lt-orewood-brn-metallic-gold-hemp",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Zoom%20Vomero%205%20Lt%20Orewood%20Brn",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Zoom%20Vomero%205%20Lt%20Orewood%20Brn",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Zoom%20Vomero%205%20Lt%20Orewood%20Brn",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Zoom%20Vomero%205%20Lt%20Orewood%20Brn",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Zoom%20Vomero%205%20Lt%20Orewood%20Brn",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
+      }
+    ]
+  },
+  {
     "id": "sk-nike-vomero-plus-particle-rose-sail-silver-lilac",
     "slug": "nike-vomero-plus-particle-rose-sail-silver-lilac",
     "brand": "Nike",
@@ -362,9 +497,13 @@
         "retailerId": "superkicks",
         "price": 19295,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
       },
       {
         "retailerId": "nike",
@@ -426,9 +565,15 @@
         "retailerId": "superkicks",
         "price": 16995,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-high-og-royal-black-game-royal-white-1",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
       },
       {
         "retailerId": "nike",
@@ -2181,10 +2326,9 @@
           "6",
           "7",
           "9",
-          "10",
           "12"
         ],
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
       },
       {
         "retailerId": "nike",
@@ -3158,10 +3302,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
-          "6"
+          "5"
         ],
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
       },
       {
         "retailerId": "nike",
@@ -3498,12 +3641,11 @@
           "6",
           "7",
           "8",
-          "9",
           "10",
           "11",
           "12"
         ],
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
       },
       {
         "retailerId": "nike",
@@ -5887,9 +6029,14 @@
         "retailerId": "superkicks",
         "price": 8295,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-swan-white-purple-smoke",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
       },
       {
         "retailerId": "nike",
@@ -6226,10 +6373,9 @@
         "url": "https://www.superkicks.in/products/nike-sb-force-58-medium-olive-black-medium-olive",
         "inStock": true,
         "sizes": [
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
+        "fetchedAt": "2026-10-08T09:40:49.494Z"
       },
       {
         "retailerId": "nike",
@@ -6397,143 +6543,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-19T07:37:36.280Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-samba-og-night-indigo-maroon-preloved-ink",
-    "slug": "adidas-originals-samba-og-night-indigo-maroon-preloved-ink",
-    "brand": "adidas",
-    "model": "Samba OG",
-    "colorway": "Night Indigo / Maroon / Preloved Ink",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_5d954cf5-019c-4f1d-81f1-679e10e4eae7.jpg?v=1789474656",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_ca3ea58f-79de-426f-b3d5-146469e0e21d.jpg?v=1789474656",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_125020a2-d144-4cff-a033-27ac6c8f04f9.jpg?v=1789474656"
-    ],
-    "description": "Trainers with lace closure and textile upper for classic style and everyday comfort. Wear a legacy with the Samba OG Shoes, a true icon from adidas Originals. Born in the 1950s and celebrated by fashion leaders worldwide, the Samba OG conti",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11999,
-        "url": "https://www.superkicks.in/products/adidas-originals-samba-og-night-indigo-maroon-preloved-ink",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20OG%20Night%20Indigo",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Samba%20OG%20Night%20Indigo",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20OG%20Night%20Indigo",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20OG%20Night%20Indigo",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Night%20Indigo",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-samba-og-blanch-brown-khaki-three-silver-pebble",
-    "slug": "adidas-originals-samba-og-blanch-brown-khaki-three-silver-pebble",
-    "brand": "adidas",
-    "model": "Samba OG",
-    "colorway": "Blanch Brown / Khaki Three / Silver Pebble",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#9b9b94",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_ffa5e820-f8a5-4c3f-9ea2-cdcf4185cb89.jpg?v=1789473629",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_bd1ddb52-b87a-45fd-a1c9-b12feccd4197.jpg?v=1789473629",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_13df2f7e-4394-40c6-93d8-10e32ad08e75.jpg?v=1789473629"
-    ],
-    "description": "Trainers with lace closure and houndstooth upper for effortless style. Celebrate a legacy with the Samba OG Shoes, a true icon that has transcended generations. Born on the football pitch in the 1950s, this silhouette has evolved into a sta",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11999,
-        "url": "https://www.superkicks.in/products/adidas-originals-samba-og-blanch-brown-khaki-three-silver-pebble",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20OG%20Blanch%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Samba%20OG%20Blanch%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20OG%20Blanch%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20OG%20Blanch%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Blanch%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-16T08:01:06.198Z"
       }
     ]
   }
