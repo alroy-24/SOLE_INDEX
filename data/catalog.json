@@ -1,5 +1,211 @@
 [
   {
+    "id": "sk-nike-vomero-plus-white-black-lemon-venom-electric-yellow",
+    "slug": "nike-vomero-plus-white-black-lemon-venom-electric-yellow",
+    "brand": "Nike",
+    "model": "Vomero Plus",
+    "colorway": "White / Black / Lemon Venom / Electric Yellow",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#d9b441"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_06160d95-eb4a-4d08-b8d4-8cd48e053050.jpg?v=1791810609",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_784e61ef-3a3a-480c-b7b0-a4d6a07428ef.jpg?v=1791810609",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_4272adfd-8892-4bca-8459-d0d39de9de96.jpg?v=1791810609"
+    ],
+    "description": "A tall stack of responsive, light foam offers next-level cushioning. Take maximum cushioning to the next level with the Vomero Plus. It provides an ultra-comfortable ride for every day runs thanks to a mountainous stack of full-length ZoomX",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 15295,
+        "url": "https://www.superkicks.in/products/nike-vomero-plus-white-black-lemon-venom-electric-yellow",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "10",
+          "12"
+        ],
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Vomero%20Plus%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Vomero%20Plus%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Vomero%20Plus%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Vomero%20Plus%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Vomero%20Plus%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-liquid-max-aw-sequoia-black-medium-olive-anthracite",
+    "slug": "nike-air-liquid-max-aw-sequoia-black-medium-olive-anthracite",
+    "brand": "Nike",
+    "model": "Air Liquid Max Aw",
+    "colorway": "Sequoia / Black / Medium Olive / Anthracite",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#2f6f4e"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ce0c5c6e-4fad-41c8-aed8-a2e55b2f8061.jpg?v=1791810062",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/12-oct_54c32254-d8ed-4c55-b7a1-b3970a6962a7.jpg?v=1791810062",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_3325c1ec-2122-4231-8e92-140505897692.jpg?v=1791810062"
+    ],
+    "description": "The Air Liquid Max wasn't made to convince you. It was made to innovate. Do you like it, or not? Either way, it's one of our most comfortable Air Max shoes to date. Every step feels fluid and smooth thanks to the drop-in foam midsole stacke",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19995,
+        "url": "https://www.superkicks.in/products/nike-air-liquid-max-aw-sequoia-black-medium-olive-anthracite",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Liquid%20Max%20Aw%20Sequoia",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Liquid%20Max%20Aw%20Sequoia",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Liquid%20Max%20Aw%20Sequoia",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Liquid%20Max%20Aw%20Sequoia",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Liquid%20Max%20Aw%20Sequoia",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-force-1-07-lv8-black-campfire-orange-white",
+    "slug": "nike-air-force-1-07-lv8-black-campfire-orange-white",
+    "brand": "Nike",
+    "model": "Air Force 1 '07 Lv8",
+    "colorway": "Black / Campfire Orange / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#d8702f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_68d266f8-fcbb-4a1a-a3fc-adedc75e2c56.jpg?v=1791812098",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4b176958-57db-4130-82e9-f4df3df665eb.jpg?v=1791812098",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_90503012-088b-4e26-aeb7-995cf33a5c30.jpg?v=1791812098"
+    ],
+    "description": "Nike Air technology absorbs impact for cushioning with every step. More Details Foam midsole Rubber outsole",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10995,
+        "url": "https://www.superkicks.in/products/nike-air-force-1-07-lv8-black-campfire-orange-white",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Lv8%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Lv8%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Lv8%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
+      }
+    ]
+  },
+  {
     "id": "sk-jordan-air-jordan-1-high-og-royal-black-game-royal-white",
     "slug": "jordan-air-jordan-1-high-og-royal-black-game-royal-white",
     "brand": "Jordan",
@@ -162,10 +368,9 @@
         "sizes": [
           "7",
           "8",
-          "9",
-          "10"
+          "9"
         ],
-        "fetchedAt": "2026-10-12T09:57:22.104Z"
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
       },
       {
         "retailerId": "nike",
@@ -1736,7 +1941,7 @@
     "images": [
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f4453d9b-ff0d-4d70-a231-96608c934e87.jpg?v=1790684982",
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_a3502688-a91e-4ef8-8481-ee420ad5fc04.jpg?v=1790684982",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_515c8392-2534-47ad-80a5-21c127e2998f.jpg?v=1790684982"
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_315065c6-8f1f-4752-b18e-b15cdf45d369.jpg?v=1790684982"
     ],
     "description": "The Samba OG Mercedes AMG Petronas F1 Team Shoes from adidas Originals bring together an iconic football silhouette and modern motorsport influence in a design that connects heritage sport style with the passion of Formula 1. A premium leat",
     "offers": [
@@ -3160,10 +3365,13 @@
         "sizes": [
           "6",
           "7",
+          "8",
           "9",
+          "10",
+          "11",
           "12"
         ],
-        "fetchedAt": "2026-10-08T09:40:49.494Z"
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
       },
       {
         "retailerId": "nike",
@@ -3643,10 +3851,12 @@
         "inStock": true,
         "sizes": [
           "7",
+          "8",
           "9",
+          "10",
           "11"
         ],
-        "fetchedAt": "2026-10-11T09:27:04.274Z"
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
       },
       {
         "retailerId": "nike",
@@ -4134,9 +4344,10 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5"
+          "5",
+          "6"
         ],
-        "fetchedAt": "2026-10-08T09:40:49.494Z"
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
       },
       {
         "retailerId": "nike",
@@ -4203,9 +4414,10 @@
           "3",
           "4",
           "5",
-          "6"
+          "6",
+          "7"
         ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
       },
       {
         "retailerId": "nike",
@@ -4473,10 +4685,12 @@
           "6",
           "7",
           "8",
+          "9",
+          "10",
           "11",
           "12"
         ],
-        "fetchedAt": "2026-10-10T09:11:25.061Z"
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
       },
       {
         "retailerId": "nike",
@@ -4818,11 +5032,10 @@
           "5",
           "6",
           "7",
-          "8",
           "10",
           "10.5"
         ],
-        "fetchedAt": "2026-09-29T09:13:51.188Z"
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
       },
       {
         "retailerId": "adidas",
@@ -5349,9 +5562,10 @@
           "3",
           "4",
           "5",
-          "6"
+          "6",
+          "7"
         ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
       },
       {
         "retailerId": "nike",
@@ -5753,13 +5967,14 @@
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-black-coconut-milk-velvet-brown",
         "inStock": true,
         "sizes": [
-          "6",
           "7",
+          "8",
           "9",
           "10",
-          "11"
+          "11",
+          "12"
         ],
-        "fetchedAt": "2026-10-12T09:57:22.104Z"
+        "fetchedAt": "2026-10-13T09:51:05.308Z"
       },
       {
         "retailerId": "nike",
@@ -6276,210 +6491,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Rust%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-triple-stack-black-white",
-    "slug": "jordan-air-jordan-1-triple-stack-black-white",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Triple Stack",
-    "colorway": "Black / White",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a926d1ad-ebe5-407e-9be3-16d04d9b1b43.jpg?v=1789995391",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_1e311e63-3279-42e5-9f09-f37ceeddfd57.jpg?v=1789995391",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_68ee1a31-5c25-4629-be38-36492d15e8ca.jpg?v=1789995391"
-    ],
-    "description": "Stand tall with elevated style. Inspired by the original that debuted in 1985, the Air Jordan 1offers a clean, classic look that's familiar yet always fresh. This remix boldly reworks the icon's original magic with a triple-stacked sole. Wi",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12795,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-triple-stack-black-white",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-edge-sail-sail-metallic-silver",
-    "slug": "nike-air-force-1-07-edge-sail-sail-metallic-silver",
-    "brand": "Nike",
-    "model": "Air Force 1 '07 Edge",
-    "colorway": "Sail / Sail / Metallic Silver",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_1b98bb45-5d1d-40ae-a542-4b3a25f74cc5.jpg?v=1789995213",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_327df572-63cc-43d4-8cf0-e8deca268d9f.jpg?v=1789995213",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_cf9bee9d-1eed-42ce-b58e-67a8b801967c.jpg?v=1789995213"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. This Air Force 1 gives your look an extra edge by pairing crisp leather with a starry appliqué and silver dubrae. Leather upper with perforated toe box is breathable and comfor",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-edge-sail-sail-metallic-silver",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Edge%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Edge%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Edge%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Edge%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Edge%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-sprint-sister-cacao-wow-sail",
-    "slug": "nike-sprint-sister-cacao-wow-sail",
-    "brand": "Nike",
-    "model": "Sprint Sister",
-    "colorway": "Cacao Wow / Sail",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#161616"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_56d28872-6bb8-4fd1-9e7e-cb19e3b1e681.jpg?v=1789994828",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_26ffc48f-a26d-4ce6-ae63-e5694a88df66.jpg?v=1789994828",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_7e04224f-d8e3-447d-ab1b-3f4082260a9c.jpg?v=1789994828"
-    ],
-    "description": "Inspired by Nike's 1979 women's-only track spike, the Sprint Sister returns—reimagined for the street—delivering comfort and flexibility in a polished package. Leather and textile upper is durable and breathable. Low-cut silhouette provides",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/nike-sprint-sister-cacao-wow-sail",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Sprint%20Sister%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Sprint%20Sister%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Sprint%20Sister%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Sprint%20Sister%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Sprint%20Sister%20Cacao%20Wow",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-24T07:55:02.196Z"
