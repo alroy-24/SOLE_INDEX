@@ -1,5 +1,966 @@
 [
   {
+    "id": "sk-nike-air-max-90-sp-black-black-black",
+    "slug": "nike-air-max-90-sp-black-black-black",
+    "brand": "Nike",
+    "model": "Air Max 90 Sp",
+    "colorway": "Black / Black / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a88d2fd4-31cd-4549-ad9a-7b64c04f5c3d.jpg?v=1792048293",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_865b8ea8-8a06-444a-9b73-81153e99ef02.jpg?v=1792048293",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_c179fb06-ef6a-4fdd-a5dc-a7113ea98bbc.jpg?v=1792048293"
+    ],
+    "description": "The Air Max 90 stays true to its running roots with the iconic Waffle sole, while stitched overlays and textured accents create the '90s look you love. Finished with easy-to-style colors, its visible cushioning adds comfort to your journey.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13995,
+        "url": "https://www.superkicks.in/products/nike-air-max-90-sp-black-black-black",
+        "inStock": true,
+        "sizes": [
+          "6.5",
+          "7",
+          "7.5",
+          "8",
+          "8.5",
+          "9",
+          "9.5",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2090%20Sp%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2090%20Sp%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2090%20Sp%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2090%20Sp%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2090%20Sp%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-air-force-1-07-black-black-black-shoes-for-men",
+    "slug": "air-force-1-07-black-black-black-shoes-for-men",
+    "brand": "Nike",
+    "model": "Air Force 1 '07",
+    "colorway": "Black / Black / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/CW2288-001_1.jpg?v=1779089827",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/CW2288-001_4.jpg?v=1779089827",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/CW2288-001_5.jpg?v=1779089827"
+    ],
+    "description": "The radiance lives on in the Nike Air Force 1 ’07, the b-ball OG that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine. The stitched overlays on the upper a",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 7495,
+        "url": "https://www.superkicks.in/products/air-force-1-07-black-black-black-shoes-for-men",
+        "inStock": true,
+        "sizes": [
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-air-force-1-07-triple-white-1-shoes-for-men",
+    "slug": "air-force-1-07-triple-white-1-shoes-for-men",
+    "brand": "Nike",
+    "model": "Air Force 1 '07",
+    "colorway": "White / White / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#161616"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3c83d254-0730-4068-9a19-d8a19f1c891e.png?v=1779089649",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_dba31b52-2242-4c0e-80ca-64e7182afc5e.png?v=1779089648",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_29e0a91e-ba20-406e-81f0-20413a11cf94.png?v=1779089649"
+    ],
+    "description": "The radiance lives on in the Nike Air Force 1 ’07, the b-ball OG that puts a fresh spin on what you know best: durable stitched overlays, clean finishes, and the perfect amount of flash to make you shine.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 7495,
+        "url": "https://www.superkicks.in/products/air-force-1-07-triple-white-1-shoes-for-men",
+        "inStock": true,
+        "sizes": [
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-asics-hypersync-black-black",
+    "slug": "asics-hypersync-black-black",
+    "brand": "Asics",
+    "model": "Hypersync",
+    "colorway": "Black / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_aa753403-fd78-4321-a0d9-a9611ecdc4e9.jpg?v=1788516883",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_96f4a16f-3577-4e2b-a71c-2ffd96e1b6da.jpg?v=1788516883",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3a33fcc1-4614-4f85-aebf-908c480cfa67.jpg?v=1788516883"
+    ],
+    "description": "The HYPERSYNC™ shoe draws inspiration from archived wrestling and track field footwear. This silhouette allows you to connect more closely with your surrounding environments and experience the present moment. The upper channels influences f",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11999,
+        "url": "https://www.superkicks.in/products/asics-hypersync-black-black",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Hypersync%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Hypersync%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Hypersync%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Hypersync%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-asics-hypersync-cocoa-powder-cocoa-powder",
+    "slug": "asics-hypersync-cocoa-powder-cocoa-powder",
+    "brand": "Asics",
+    "model": "Hypersync",
+    "colorway": "Cocoa Powder / Cocoa Powder",
+    "category": "Lifestyle",
+    "palette": [
+      "#2f5fa6",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_98823dfa-cfc1-4119-b049-ec195d9ca805.jpg?v=1788517044",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a52ce244-980d-4382-b6aa-0be53bb1f273.jpg?v=1788517043",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_b28b82cb-c9bf-4b36-a02d-9943df5aef92.jpg?v=1788517044"
+    ],
+    "description": "The HYPERSYNC™ shoe draws inspiration from archived wrestling and track field footwear. This silhouette allows you to connect more closely with your surrounding environments and experience the present moment. The upper channels influences f",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11999,
+        "url": "https://www.superkicks.in/products/asics-hypersync-cocoa-powder-cocoa-powder",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Hypersync%20Cocoa%20Powder",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Hypersync%20Cocoa%20Powder",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Hypersync%20Cocoa%20Powder",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Hypersync%20Cocoa%20Powder",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-pegasus-premium-dark-shadow-black-lemon-venom-white",
+    "slug": "nike-pegasus-premium-dark-shadow-black-lemon-venom-white",
+    "brand": "Nike",
+    "model": "Pegasus Premium",
+    "colorway": "Dark Shadow / Black / Lemon Venom / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#d9b441"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_5eb59fb4-42a7-4c3d-86e8-1cffb44f50ce.jpg?v=1791981737",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_cf7dd0cd-2efa-4408-8342-862324b436ae.jpg?v=1791981737",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8e3ce928-46fa-4a15-a665-2b3faffbc2c6.jpg?v=1791981737"
+    ],
+    "description": "The Pegasus Premium supercharges responsive cushioning with a triple stack of our most powerful running technologies: ZoomX foam, a sculpted Air Zoom unit and ReactX foam. It’s the most responsive Pegasus ever, providing high energy return ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19295,
+        "url": "https://www.superkicks.in/products/nike-pegasus-premium-dark-shadow-black-lemon-venom-white",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Pegasus%20Premium%20Dark%20Shadow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Pegasus%20Premium%20Dark%20Shadow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Pegasus%20Premium%20Dark%20Shadow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Pegasus%20Premium%20Dark%20Shadow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Pegasus%20Premium%20Dark%20Shadow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-air-jordan-1-mid-se-team-red-white-black-dark-team-red",
+    "slug": "jordan-air-jordan-1-mid-se-team-red-white-black-dark-team-red",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Mid Se",
+    "colorway": "Team Red / White / Black / Dark Team Red",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_6bc1e129-6a86-49f7-ad1a-96be9fd9afb0.jpg?v=1791981318",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_242f5417-2cb5-4e4e-abd8-ffebdd580be4.jpg?v=1791981318",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_367d2989-7f76-4000-b6ae-2fcc2e3be4ca.jpg?v=1791981318"
+    ],
+    "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colors and crisp leather give it a distinct identity. Leather in the upper offers durability and structure. Nike Air technology absorbs impac",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12495,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-se-team-red-white-black-dark-team-red",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Team%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20Se%20Team%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Team%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20Se%20Team%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Team%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-air-jordan-1-low-se-black-team-red-white-lt-orewood-brn",
+    "slug": "jordan-air-jordan-1-low-se-black-team-red-white-lt-orewood-brn",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Low Se",
+    "colorway": "Black / Team Red / White / Lt Orewood Brn",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_91fc505a-f195-4e45-9741-8ac0d18623d8.jpg?v=1791980659",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0b1ec8ce-a20e-47b6-8f4d-f2c7f42e661a.jpg?v=1791980660",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9a9c0051-d4b6-48ed-8c79-4635ed7fe4b9.jpg?v=1791980659"
+    ],
+    "description": "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. With an iconic design that pairs perfectly with any 'fit, these kicks ensure you'll always be on point. Nike ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11495,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-black-team-red-white-lt-orewood-brn",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-shox-r4-black-challenge-red-black",
+    "slug": "nike-shox-r4-black-challenge-red-black",
+    "brand": "Nike",
+    "model": "Shox R4",
+    "colorway": "Black / Challenge Red / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_9883d1a3-3c84-485b-a75f-c527f10d8fcc.jpg?v=1791897560",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_a44c5166-942b-4130-b5f2-1b76396c5217.jpg?v=1791897560",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_29b9051e-210e-4047-a6cb-46f8246fef36.jpg?v=1791897560"
+    ],
+    "description": "A recrafted version of the early 2000s icon, the Nike Shox R4 replicates the original with its futuristic design lines and performance-like cushioning. Nike Shox columns in the heel distribute weight to maximize comfort while providing a bo",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13995,
+        "url": "https://www.superkicks.in/products/nike-shox-r4-black-challenge-red-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Shox%20R4%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Shox%20R4%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Shox%20R4%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Shox%20R4%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Shox%20R4%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-shox-r4-black-black-black-bright-crimson",
+    "slug": "nike-shox-r4-black-black-black-bright-crimson",
+    "brand": "Nike",
+    "model": "Shox R4",
+    "colorway": "Black / Black / Black / Bright Crimson",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_f8be016c-9c5e-412c-9f8f-ab3c114828ce.jpg?v=1791897327",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_2512d19c-7f92-49fb-af7d-52adfcbf9c65.jpg?v=1791897327",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5c9db699-cf46-4eda-995a-509cd57ecd7e.jpg?v=1791897327"
+    ],
+    "description": "A recrafted version of the early 2000s icon, the Nike Shox R4 replicates the original with its futuristic design lines and performance-like cushioning. Nike Shox columns in the heel distribute weight to maximize comfort while providing a bo",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13995,
+        "url": "https://www.superkicks.in/products/nike-shox-r4-black-black-black-bright-crimson",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Shox%20R4%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Shox%20R4%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Shox%20R4%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Shox%20R4%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Shox%20R4%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-force-1-07-cargo-khaki-coconut-milk-black",
+    "slug": "nike-air-force-1-07-cargo-khaki-coconut-milk-black",
+    "brand": "Nike",
+    "model": "Air Force 1 '07",
+    "colorway": "Cargo Khaki / Coconut Milk / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_838d8d0e-3402-4bbc-8c00-c48eabb73235.jpg?v=1791897235",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_cfa2582f-5de5-40b6-8643-2242db6963ff.jpg?v=1791897235",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_f0db11bf-ae69-476c-9b80-6cda3c4369b5.jpg?v=1791897235"
+    ],
+    "description": "Comfortable, durable and timeless—it’s number 1 for a reason. The ‘80s construction pairs with classic colors for style that tracks whether you’re on court or on the go. Leather upper softens and gains vintage character with wear. Originall",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9695,
+        "url": "https://www.superkicks.in/products/nike-air-force-1-07-cargo-khaki-coconut-milk-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Cargo%20Khaki",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Cargo%20Khaki",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Cargo%20Khaki",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Cargo%20Khaki",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Cargo%20Khaki",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-air-jordan-1-low-se-black-chalk-velvet-brown",
+    "slug": "jordan-air-jordan-1-low-se-black-chalk-velvet-brown",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Low Se",
+    "colorway": "Black / Chalk / Velvet Brown",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#6b4a2f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_08ea6cbd-fd66-43ac-8419-c1cc5cf9f63b.jpg?v=1791896577",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_2fbc53f6-75e8-4b32-aeca-833d8c559052.jpg?v=1791896577",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_b5981935-de4e-4cc7-ba10-3f2d07ddae2b.jpg?v=1791896577"
+    ],
+    "description": "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. This take calls back to MJ's iconic nickname: The Black Cat. With an iconic design that pairs perfectly with ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10495,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-black-chalk-velvet-brown",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-force-1-07-se-rust-pink-particle-rose",
+    "slug": "nike-air-force-1-07-se-rust-pink-particle-rose",
+    "brand": "Nike",
+    "model": "Air Force 1 '07 Se",
+    "colorway": "Rust Pink / Particle Rose",
+    "category": "Lifestyle",
+    "palette": [
+      "#e093a6",
+      "#d8702f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_6d095269-753b-4dae-a2e9-703e4935c8a5.jpg?v=1791896351",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_dcf53bde-a79e-4050-9716-4610521e8e61.jpg?v=1791896351",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/13_2ff6c869-bc40-49d4-a5a7-7c54d9ca6c66.jpg?v=1791896351"
+    ],
+    "description": "Comfortable, durable and timeless—it’s number one for a reason. This Air Force 1 pairs a suede upper with a matching outsole for a monochromatic look. Suede upper softens and gains vintage character with wear. Perforated toe box is breathab",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10995,
+        "url": "https://www.superkicks.in/products/nike-air-force-1-07-se-rust-pink-particle-rose",
+        "inStock": true,
+        "sizes": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Se%20Rust%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Se%20Rust%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20Rust%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Se%20Rust%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20Rust%20Pink",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-bad-bunny-gazelle-indoor-solar-gold-core-black",
+    "slug": "adidas-originals-bad-bunny-gazelle-indoor-solar-gold-core-black",
+    "brand": "adidas",
+    "model": "Bad Bunny Gazelle Indoor",
+    "colorway": "Solar Gold / Core Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#d9b441"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_67256695-6a12-493e-be53-89295a8c49a3.jpg?v=1791978150",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_de648557-5d4e-4569-88b6-35893ced68ce.jpg?v=1791978150",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_8d44e44f-ddd3-419a-bef8-cf9edead0387.jpg?v=1791978150"
+    ],
+    "description": "The design is built on strong contrast. Golden yellow covers the upper from toe to heel, and black Three Stripes on the side panels provide most of the contrast, giving the pair its most recognizable feature. The palette is a clear change f",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/adidas-originals-bad-bunny-gazelle-indoor-solar-gold-core-black",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Bad%20Bunny%20Gazelle%20Indoor%20Solar%20Gold",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Bad%20Bunny%20Gazelle%20Indoor%20Solar%20Gold",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Bad%20Bunny%20Gazelle%20Indoor%20Solar%20Gold",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Bad%20Bunny%20Gazelle%20Indoor%20Solar%20Gold",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Bad%20Bunny%20Gazelle%20Indoor%20Solar%20Gold",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
+      }
+    ]
+  },
+  {
     "id": "sk-nike-vomero-plus-white-black-lemon-venom-electric-yellow",
     "slug": "nike-vomero-plus-white-black-lemon-venom-electric-yellow",
     "brand": "Nike",
@@ -367,9 +1328,11 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8"
+          "8",
+          "9",
+          "10"
         ],
-        "fetchedAt": "2026-10-14T08:08:41.241Z"
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
       },
       {
         "retailerId": "nike",
@@ -1473,12 +2436,13 @@
         "sizes": [
           "6",
           "7",
+          "8",
           "9",
           "10",
           "11",
           "12"
         ],
-        "fetchedAt": "2026-10-11T09:27:04.274Z"
+        "fetchedAt": "2026-10-15T07:48:51.586Z"
       },
       {
         "retailerId": "nike",
@@ -3893,73 +4857,6 @@
     ]
   },
   {
-    "id": "sk-jordan-air-jordan-3-retro-fireside-velvet-brown-pearl-white-lt-british-tan",
-    "slug": "jordan-air-jordan-3-retro-fireside-velvet-brown-pearl-white-lt-british-tan",
-    "brand": "Jordan",
-    "model": "Air Jordan 3 Retro Fireside",
-    "colorway": "Velvet Brown / Pearl White / Lt British Tan",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_16eca50e-5668-4cd9-a557-99b9beb8cbb0.jpg?v=1790159669",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_ecd46275-76ad-4443-a477-0f86e1d57c82.jpg?v=1790159669",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d5cd2f28-8ff0-4da3-8965-c8599469e409.jpg?v=1790159669"
-    ],
-    "description": "Sweater weather? We got you. The AJ3 returns with all its style and grace. A rustic \"Fireside\" colorway mixes Velvet Brown with Pearl White Jumpman branding and Rust Pink laces. Premium leather in the upper—with luxurious elephant print tex",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 16595,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-3-retro-fireside-velvet-brown-pearl-white-lt-british-tan",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5"
-        ],
-        "fetchedAt": "2026-10-14T08:08:41.241Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%203%20Retro%20Fireside%20Velvet%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%203%20Retro%20Fireside%20Velvet%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%203%20Retro%20Fireside%20Velvet%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%203%20Retro%20Fireside%20Velvet%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%203%20Retro%20Fireside%20Velvet%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
     "id": "sk-nike-air-force-1-07-se-black-team-red-gum-med-brown",
     "slug": "nike-air-force-1-07-se-black-team-red-gum-med-brown",
     "brand": "Jordan",
@@ -5596,899 +6493,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-pokemon-x-megaride-f50-pikachu-cblack-carbon-ftwwht",
-    "slug": "adidas-pokemon-x-megaride-f50-pikachu-cblack-carbon-ftwwht",
-    "brand": "adidas",
-    "model": "PokéMon X Megaride F50 Pikachu",
-    "colorway": "Cblack / Carbon / Ftwwht",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/23_587e470c-46b2-4009-817c-864b00398c28.jpg?v=1790166752",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_0046e11c-6365-4633-b994-9db4c8e9b8ad.jpg?v=1790166752",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d9fa8e3d-a8fc-43a6-b63b-2ab5c78643d0.jpg?v=1790166751"
-    ],
-    "description": "The adidas Megaride F50 x Pokémon brings football DNA into a futuristic lifestyle silhouette. The iconic F50, it pairs a sculpted Megaride sole with a structured F50-inspired cage for a distinctly technical look. A layered upper keeps the p",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 19999,
-        "url": "https://www.superkicks.in/products/adidas-pokemon-x-megaride-f50-pikachu-cblack-carbon-ftwwht",
-        "inStock": true,
-        "sizes": [
-          "7"
-        ],
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Pok%C3%A9Mon%20X%20Megaride%20F50%20Pikachu%20Cblack",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Pok%C3%A9Mon%20X%20Megaride%20F50%20Pikachu%20Cblack",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Pok%C3%A9Mon%20X%20Megaride%20F50%20Pikachu%20Cblack",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Pok%C3%A9Mon%20X%20Megaride%20F50%20Pikachu%20Cblack",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Pok%C3%A9Mon%20X%20Megaride%20F50%20Pikachu%20Cblack",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-9060-beige-gray",
-    "slug": "new-balance-9060-beige-gray",
-    "brand": "New Balance",
-    "model": "9060",
-    "colorway": "Beige / Gray",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/23_e95ed0e8-fe60-41da-b3fc-2dfbf54af84d.jpg?v=1790167171",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_db08ad2d-bf45-4289-9401-b39089833d50.jpg?v=1790167171",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_602a46f7-84fb-4d76-b54f-b5d3a90aa0be.jpg?v=1790167171"
-    ],
-    "description": "The 9060 is a new expression of the refined style and innovation-led design of the classic 99X series. The 9060 reinterprets familiar 99X elements with a warped sensibility inspired by the proudly futuristic, visible tech aesthetic of the Y",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 18999,
-        "url": "https://www.superkicks.in/products/new-balance-9060-beige-gray",
-        "inStock": true,
-        "sizes": [
-          "5",
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "10.5",
-          "11"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Beige",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Beige",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Beige",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Beige",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-air-force-1-07-wb-flax-wheat-gum-light-brown-black",
-    "slug": "air-force-1-07-wb-flax-wheat-gum-light-brown-black",
-    "brand": "Nike",
-    "model": "Air Force 1 '07 Wb",
-    "colorway": "Flax / Wheat / Gum Light Brown / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/8_c55ed573-15b7-4b91-97c6-23b187c40971.jpg?v=1791455464",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c3484c23-6f9e-45b7-9fb6-d6ad6f7396a8.jpg?v=1695808831",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_66109675-3862-4c55-b75f-2df8c64e23bb.jpg?v=1695808831"
-    ],
-    "description": "ICONIC CUSHIONING AND DESIGN. The legend lives on in the Nike Air Force 1 '07 WB, a low-cut take on the iconic AF1 that offers classic court style and premium cushioning. A full-length Nike Air unit offers excellent impact absorption. A low",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/air-force-1-07-wb-flax-wheat-gum-light-brown-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-12T09:57:22.104Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Wb%20Flax",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Wb%20Flax",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Wb%20Flax",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Wb%20Flax",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Wb%20Flax",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-p-6000-black-black-white-metallic-silver",
-    "slug": "nike-p-6000-black-black-white-metallic-silver",
-    "brand": "Nike",
-    "model": "P-6000",
-    "colorway": "Black / Black / White / Metallic Silver",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a58aa10a-286b-4fff-83a5-30567bec83b8.jpg?v=1790158716",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_cac0ddb2-2fd9-4c52-84fd-39e8a4f2c69e.jpg?v=1790158716",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_f11d8c66-6c67-430a-9c38-6d5b0cae143a.jpg?v=1790158716"
-    ],
-    "description": "The Nike P-6000 draws on the 2006 Nike Air Pegasus, bringing you a mash-up of iconic style that's breathable, comfortable and evocative of that early-2000s vibe. Breathable mesh has real and synthetic leather overlays to give a 2000s runnin",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 7995,
-        "url": "https://www.superkicks.in/products/nike-p-6000-black-black-white-metallic-silver",
-        "inStock": true,
-        "sizes": [
-          "8",
-          "10"
-        ],
-        "fetchedAt": "2026-10-05T09:46:57.199Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20P-6000%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20P-6000%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20P-6000%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20P-6000%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20P-6000%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-dunk-low-gore-tex-oil-grey-summit-white-dove-grey-black",
-    "slug": "nike-dunk-low-gore-tex-oil-grey-summit-white-dove-grey-black",
-    "brand": "Nike",
-    "model": "Dunk Low Gore-Tex",
-    "colorway": "Oil Grey / Summit White / Dove Grey / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_fe06a80d-a7d8-4ad4-b34e-1c80fdc58abb.jpg?v=1790156885",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_134ae9b4-eb11-4b1f-b72f-e5d19f66d473.jpg?v=1790156885",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_e96a566e-d43f-45a2-8811-bb27bfd7baf5.jpg?v=1790156885"
-    ],
-    "description": "You can always count on a classic. Made with premium leather, this Dunk Low features waterproof GORE-TEX to help keep you dry in wet conditions. And like all Dunks, it has plush padding for game-changing comfort that lasts. Waterproof GORE-",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 14995,
-        "url": "https://www.superkicks.in/products/nike-dunk-low-gore-tex-oil-grey-summit-white-dove-grey-black",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Dunk%20Low%20Gore-Tex%20Oil%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Dunk%20Low%20Gore-Tex%20Oil%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Dunk%20Low%20Gore-Tex%20Oil%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Dunk%20Low%20Gore-Tex%20Oil%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Dunk%20Low%20Gore-Tex%20Oil%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-black-coconut-milk-velvet-brown",
-    "slug": "nike-air-force-1-07-black-coconut-milk-velvet-brown",
-    "brand": "Nike",
-    "model": "Air Force 1 '07",
-    "colorway": "Black / Coconut Milk / Velvet Brown",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_51e6d663-d534-4278-b936-e02c15fe16f3.jpg?v=1790155768",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_6846d165-bf91-4b6e-b81a-496e0c157d33.jpg?v=1790155768",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_f8a53b86-c339-4e52-a644-f65767d16371.jpg?v=1790155768"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number 1 for a reason. The ‘80s construction pairs with classic colors for style that tracks whether you’re on court or on the go. Leather upper softens and gains vintage character with wear. Originall",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9695,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-black-coconut-milk-velvet-brown",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-10-13T09:51:05.308Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-mid-07-flax-wheat-gum-light-brown-black",
-    "slug": "nike-air-force-1-mid-07-flax-wheat-gum-light-brown-black",
-    "brand": "Nike",
-    "model": "Air Force 1 Mid '07",
-    "colorway": "Flax / Wheat / Gum Light Brown / Black",
-    "category": "Basketball",
-    "palette": [
-      "#161616",
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_e4257529-c95c-4813-a25e-7cc4c3f1001b.jpg?v=1790155646",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f4fd3aa5-9832-4e0e-b31f-99103f980b92.jpg?v=1790155646",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_bd0105b7-eb11-4b7a-a642-6d96d99df0a2.jpg?v=1790155646"
-    ],
-    "description": "LEGENDARY AF1 STYLE. The Air Force 1 Mid '07 is everything you know best: crisp overlays, fresh accents, and the perfect details to let your shoe game shine. The padded, mid-height collar with classic hook-and-loop closure adds heritage b-b",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11495,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-mid-07-flax-wheat-gum-light-brown-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10"
-        ],
-        "fetchedAt": "2026-10-03T08:41:32.072Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20Mid%20'07%20Flax",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20Mid%20'07%20Flax",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20Mid%20'07%20Flax",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20Mid%20'07%20Flax",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20Mid%20'07%20Flax",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-95-big-bubble-black-pink-smoke-white-medium-grey",
-    "slug": "nike-air-max-95-big-bubble-black-pink-smoke-white-medium-grey",
-    "brand": "Nike",
-    "model": "Air Max 95 Big Bubble",
-    "colorway": "Black / Pink Smoke / White / Medium Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_38024026-75af-4eb5-ba8a-cc8d58aa2d2d.jpg?v=1790157194",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_c418a342-f652-41d4-8803-6f72a9ee5d99.jpg?v=1790157194",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_be8784a2-d3ef-49b6-922b-d196ebb27cfc.jpg?v=1790157194"
-    ],
-    "description": "The Air Max 95 originally takes inspiration from the human anatomy, leading to its distinctive wavy design. This version pairs mixed materials and visible Max Air cushioning for a layered look with unbelievable comfort. Upper draws inspirat",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 15995,
-        "url": "https://www.superkicks.in/products/nike-air-max-95-big-bubble-black-pink-smoke-white-medium-grey",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20Big%20Bubble%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20Big%20Bubble%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-white-black-gum-light-brown",
-    "slug": "nike-air-force-1-07-white-black-gum-light-brown",
-    "brand": "Nike",
-    "model": "Air Force 1 '07",
-    "colorway": "White / Black / Gum Light Brown",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_65444685-5f41-45cb-b331-5e37ba0c1063.jpg?v=1789995839",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_e777d399-a292-484b-b263-1e2528b744ac.jpg?v=1789995840",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_3929a393-501c-438e-a12e-3eb39267e6cc.jpg?v=1789995839"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number 1 for a reason. The ‘80s construction pairs with classic colors for style that tracks whether you’re on court or on the go. Leather upper softens and gains vintage character with wear. Originall",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9695,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-white-black-gum-light-brown",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-light-bone-coconut-milk-black",
-    "slug": "nike-air-force-1-07-light-bone-coconut-milk-black",
-    "brand": "Nike",
-    "model": "Air Force 1 '07",
-    "colorway": "Light Bone / Coconut Milk / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_58ef6cdc-5df7-45dd-a229-e7e42fa584c2.jpg?v=1789995746",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_bcfaca87-9a1c-41da-838e-c43298fff50b.jpg?v=1789995746",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/21_3e8037bd-8397-481c-a465-a10e3418f00d.jpg?v=1789995746"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number 1 for a reason. The ‘80s construction pairs with classic colors for style that tracks whether you’re on court or on the go. Leather upper softens and gains vintage character with wear. Originall",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9695,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-light-bone-coconut-milk-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Light%20Bone",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Light%20Bone",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Light%20Bone",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Light%20Bone",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Light%20Bone",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-95-big-bubble-og-photon-dust-sweet-beet-off-noir",
-    "slug": "nike-air-max-95-big-bubble-og-photon-dust-sweet-beet-off-noir",
-    "brand": "Nike",
-    "model": "Air Max 95 Big Bubble OG",
-    "colorway": "Photon Dust / Sweet Beet / Off Noir",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_b2c44e95-47d3-4a8c-a2dd-c9a038a2fe4b.jpg?v=1789995655",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_45941d9f-25bd-4b8a-b876-8ef7a8c5444f.jpg?v=1789995655",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_b011dfd4-3157-4ab1-b553-f9c6ba6660da.jpg?v=1789995655"
-    ],
-    "description": "Taking inspiration from the human body and '90s track aesthetics, the Air Max 95 mixes unbelievable comfort with fast-paced style. The wavy side panels add natural flow to any outfit while visible cushioning in the heel and forefoot deliver",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 15995,
-        "url": "https://www.superkicks.in/products/nike-air-max-95-big-bubble-og-photon-dust-sweet-beet-off-noir",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20Big%20Bubble%20OG%20Photon%20Dust",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20Big%20Bubble%20OG%20Photon%20Dust",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20OG%20Photon%20Dust",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20Big%20Bubble%20OG%20Photon%20Dust",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20OG%20Photon%20Dust",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-sprint-sister-sail-velvet-brown",
-    "slug": "nike-sprint-sister-sail-velvet-brown",
-    "brand": "Nike",
-    "model": "Sprint Sister",
-    "colorway": "Sail / Velvet Brown",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f99b9241-2564-406a-8405-1d7c757254e5.jpg?v=1789995541",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_e00660db-b110-42bc-8eaf-76a44a7f6f9b.jpg?v=1789995541",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3d76f45e-4d52-41f0-9762-f2bd2506d0f7.jpg?v=1789995541"
-    ],
-    "description": "Inspired by Nike's 1979 women's-only track spike, the Sprint Sister returns—reimagined for the street—delivering comfort and flexibility in a polished package. Leather and textile upper is durable and breathable. Low-cut silhouette provides",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/nike-sprint-sister-sail-velvet-brown",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Sprint%20Sister%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Sprint%20Sister%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Sprint%20Sister%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Sprint%20Sister%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Sprint%20Sister%20Sail",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-triple-stack-rust-pink-pearl-white-cacao-wow",
-    "slug": "jordan-air-jordan-1-triple-stack-rust-pink-pearl-white-cacao-wow",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Triple Stack",
-    "colorway": "Rust Pink / Pearl White / Cacao Wow",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#e093a6",
-      "#d8702f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_91ea5719-da3a-4972-a012-ca74d309698a.jpg?v=1789995482",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_6dc04d9e-c4b6-4f09-af9b-571378385f13.jpg?v=1789995482",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_67dc3ad4-cfc6-446e-86bb-fde086d10441.jpg?v=1789995482"
-    ],
-    "description": "Stand tall with elevated style. Inspired by the original that debuted in 1985, the Air Jordan 1offers a clean, classic look that's familiar yet always fresh. This remix boldly reworks the icon's original magic with a triple-stacked sole. Wi",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12795,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-triple-stack-rust-pink-pearl-white-cacao-wow",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Rust%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Rust%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Rust%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Rust%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Rust%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-24T07:55:02.196Z"
       }
     ]
   }
