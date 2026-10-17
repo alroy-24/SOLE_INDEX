@@ -1,5 +1,641 @@
 [
   {
+    "id": "sk-jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
+    "slug": "jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
+    "brand": "Jordan",
+    "model": "Air Jordan 5 Retro Halloween",
+    "colorway": "Black / Black / Picante Red / Glow N The Dark",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_7f6d3a4f-24a3-48b0-8f57-d7cf3d5e6d0c.jpg?v=1791276575",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_1c5c93ad-1b84-492b-a410-b4d88c23eef8.jpg?v=1791276576",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5c602742-a225-4f6e-9bd7-806000361836.jpg?v=1791276575"
+    ],
+    "description": "The spooky season's upon us. Step into the shadows in this sinister take on the AJ5. Premium black nubuck cloaks the upper to keep you out of sight. Spine-chilling Picante Red accents emerge like a jack-o-lantern's flickering glare in the d",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19295,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10"
+        ],
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-07T09:29:39.153Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-force-1-07-vast-grey-pencil-point-metallic-silver",
+    "slug": "nike-air-force-1-07-vast-grey-pencil-point-metallic-silver",
+    "brand": "Nike",
+    "model": "Air Force 1 '07",
+    "colorway": "Vast Grey / Pencil Point / Metallic Silver",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c4e36848-7362-48e3-bb41-521fc989aae1.jpg?v=1792057633",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_ef826cd0-418b-4e12-a996-138818d17edb.jpg?v=1792057634",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6ca2f0e7-adbb-475d-97c7-680204618f19.jpg?v=1792057633"
+    ],
+    "description": "Comfortable, durable and timeless—it’s number one for a reason. This edition of the Air Force 1 lets you switch up the iconic look with an extra set of laces and a removable charm. Premium leather on the upper rounds out the crisp, clean st",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10995,
+        "url": "https://www.superkicks.in/products/nike-air-force-1-07-vast-grey-pencil-point-metallic-silver",
+        "inStock": true,
+        "sizes": [
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Vast%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Vast%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Vast%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Vast%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Vast%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-force-1-07-cargo-khaki-cargo-khaki-black",
+    "slug": "nike-air-force-1-07-cargo-khaki-cargo-khaki-black",
+    "brand": "Nike",
+    "model": "Air Force 1 Low '07",
+    "colorway": "Cargo Khaki / Cargo Khaki / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_576f0d1a-de1a-4c41-8857-99d1f3fd1cda.jpg?v=1792058060",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_9d7c786c-d671-4b5f-8486-7ae9c2c08853.jpg?v=1792058060",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9a9e164e-1d2e-440f-9b09-9836bbc7705c.jpg?v=1792058060"
+    ],
+    "description": "The radiance lives on in the Nike Air Force 1 Low ’07, the b-ball icon that puts a fresh spin on what you know best: crisp leather, bold colors and the perfect amount of flash to make you shine. Water-repellent Cordura fabric makes these ki",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11995,
+        "url": "https://www.superkicks.in/products/nike-air-force-1-07-cargo-khaki-cargo-khaki-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20Low%20'07%20Cargo%20Khaki",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20Low%20'07%20Cargo%20Khaki",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20Low%20'07%20Cargo%20Khaki",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20Low%20'07%20Cargo%20Khaki",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20Low%20'07%20Cargo%20Khaki",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-force-1-07-essential-desert-dust-desert-dust-white",
+    "slug": "nike-air-force-1-07-essential-desert-dust-desert-dust-white",
+    "brand": "Nike",
+    "model": "Air Force 1 '07 Essential+",
+    "colorway": "Desert Dust / Desert Dust / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#161616"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_40074abd-cfad-47f9-8639-ecabd4374d40.jpg?v=1792065303",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_fb72e68f-13b6-4cab-b926-a90321732801.jpg?v=1792065303",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_f092c8b6-c5c1-4571-a64b-c7639cc1f712.jpg?v=1792065303"
+    ],
+    "description": "Comfortable, durable and timeless—it’s number one for a reason. This Air Force 1 pairs its classic silhouette with premium leather and contrast stitching to make an essential sneaker that never misses. Genuine leather upper with perforated ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9995,
+        "url": "https://www.superkicks.in/products/nike-air-force-1-07-essential-desert-dust-desert-dust-white",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "7"
+        ],
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Essential%2B%20Desert%20Dust",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Essential%2B%20Desert%20Dust",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Essential%2B%20Desert%20Dust",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Essential%2B%20Desert%20Dust",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Essential%2B%20Desert%20Dust",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-la-france-mocha-mix-haute-coffee-espresso-brown-mocha-mix",
+    "slug": "puma-la-france-mocha-mix-haute-coffee-espresso-brown-mocha-mix",
+    "brand": "Puma",
+    "model": "La France Mocha Mix",
+    "colorway": "Haute Coffee / Espresso Brown / Mocha Mix",
+    "category": "Lifestyle",
+    "palette": [
+      "#6b4a2f",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_106b7ece-be79-44ef-a814-0ad94483bbdc.jpg?v=1792137243",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_46c10bb6-77c8-49e5-9a3c-36335de360d1.jpg?v=1792137243",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_cb3026f5-22ee-4cf7-bc5a-7a09613c0bae.jpg?v=1792137243"
+    ],
+    "description": "The PUMA LaFrancé “Mocha Mix” takes LaMelo Ball’s oversized style off court. Named after his own streetwear label, the LaFrancé borrows its chunky proportions from ’90s and early-2000s skate shoes rather than his performance basketball line",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10999,
+        "url": "https://www.superkicks.in/products/puma-la-france-mocha-mix-haute-coffee-espresso-brown-mocha-mix",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20La%20France%20Mocha%20Mix%20Haute%20Coffee",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20La%20France%20Mocha%20Mix%20Haute%20Coffee",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20La%20France%20Mocha%20Mix%20Haute%20Coffee",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20La%20France%20Mocha%20Mix%20Haute%20Coffee",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-vintage-x-rose-haute-coffee-espresso-brown",
+    "slug": "puma-speedcat-vintage-x-rose-haute-coffee-espresso-brown",
+    "brand": "Puma",
+    "model": "Speedcat Vintage X Rosé",
+    "colorway": "Haute Coffee / Espresso Brown",
+    "category": "Lifestyle",
+    "palette": [
+      "#6b4a2f",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_bec44552-84e0-44d2-b004-f26c4a709016.jpg?v=1792136408",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_0f607706-ed7d-4b28-9a93-06c0e654842d.jpg?v=1792136408",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_96dc8f50-f637-4b48-99ac-976fb4a5ec93.jpg?v=1792136408"
+    ],
+    "description": "The PUMA Speedcat Vintage x ROSÉ brings a fresh, fashion-forward perspective to the iconic motorsport-inspired silhouette. Reimagined in a rich colourway, this collaboration blends vintage racing heritage with ROSÉ''s effortlessly cool aest",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-vintage-x-rose-haute-coffee-espresso-brown",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Vintage%20X%20Ros%C3%A9%20Haute%20Coffee",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Vintage%20X%20Ros%C3%A9%20Haute%20Coffee",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Vintage%20X%20Ros%C3%A9%20Haute%20Coffee",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Vintage%20X%20Ros%C3%A9%20Haute%20Coffee",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-speedcat-vintage-x-rose-dark-crimson-alpine-snow",
+    "slug": "puma-speedcat-vintage-x-rose-dark-crimson-alpine-snow",
+    "brand": "Puma",
+    "model": "Speedcat Vintage X Rosé",
+    "colorway": "Dark Crimson / Alpine Snow",
+    "category": "Lifestyle",
+    "palette": [
+      "#c2362f",
+      "#2f6f4e"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a817fa51-f627-4c9c-9555-64de2b7a87bd.jpg?v=1792136052",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_08ad34d6-2ad6-4a22-a153-e033fce66d68.jpg?v=1792136052",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_46f2599e-1b8c-4bf3-9b19-fa13e5d57fd1.jpg?v=1792136052"
+    ],
+    "description": "The PUMA Speedcat Vintage x ROSÉ brings a fresh, fashion-forward perspective to the iconic motorsport-inspired silhouette. Reimagined in a rich colourway, this collaboration blends vintage racing heritage with ROSÉ''s effortlessly cool aest",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/puma-speedcat-vintage-x-rose-dark-crimson-alpine-snow",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Speedcat%20Vintage%20X%20Ros%C3%A9%20Dark%20Crimson",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Speedcat%20Vintage%20X%20Ros%C3%A9%20Dark%20Crimson",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Speedcat%20Vintage%20X%20Ros%C3%A9%20Dark%20Crimson",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Speedcat%20Vintage%20X%20Ros%C3%A9%20Dark%20Crimson",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-mostro-fey-satin-puma-black-cool-dark-gray",
+    "slug": "puma-mostro-fey-satin-puma-black-cool-dark-gray",
+    "brand": "Puma",
+    "model": "Mostro Fey Satin",
+    "colorway": "Puma Black / Cool Dark Gray",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_7869cdfc-899e-4e66-8ef4-d6692ab4340f.jpg?v=1790851693",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_6486a168-2319-4be8-baa1-a1a8b6544925.jpg?v=1790851693",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_4ff290e0-5df0-4dc7-8d5b-85149e538dde.jpg?v=1790851694"
+    ],
+    "description": "First Released In 1999, The Mostro Has Become One Of Puma's Best-selling Shoes Ever. Affectionately Named After The Italian Word For \"Monster\", It Was Originally Inspired By Two Sports Shoes – A Sprinting Spike From 1968 And A Surfing Shoe ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8999,
+        "url": "https://www.superkicks.in/products/puma-mostro-fey-satin-puma-black-cool-dark-gray",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Mostro%20Fey%20Satin%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Mostro%20Fey%20Satin%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Mostro%20Fey%20Satin%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Mostro%20Fey%20Satin%20Puma%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-mostro-fey-satin-mouse-gray",
+    "slug": "puma-mostro-fey-satin-mouse-gray",
+    "brand": "Puma",
+    "model": "Mostro Fey Satin",
+    "colorway": "Mouse Gray",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_699764ff-c18b-4ba1-b148-51a66398bd28.jpg?v=1790851163",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_b4c9cab4-c167-455b-b41e-a496d4302f79.jpg?v=1790851163",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_f46a6803-7163-48fb-b73f-818dae52d23d.jpg?v=1790851163"
+    ],
+    "description": "First Released In 1999, The Mostro Has Become One Of Puma's Best-selling Shoes Ever. Affectionately Named After The Italian Word For \"Monster\", It Was Originally Inspired By Two Sports Shoes – A Sprinting Spike From 1968 And A Surfing Shoe ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8999,
+        "url": "https://www.superkicks.in/products/puma-mostro-fey-satin-mouse-gray",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Mostro%20Fey%20Satin%20Mouse%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Mostro%20Fey%20Satin%20Mouse%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Mostro%20Fey%20Satin%20Mouse%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Mostro%20Fey%20Satin%20Mouse%20Gray",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-puma-suede-st-danielle-cathari-sea-glass",
+    "slug": "puma-suede-st-danielle-cathari-sea-glass",
+    "brand": "Puma",
+    "model": "Suede St Danielle Cathari",
+    "colorway": "Sea Glass",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f5acf20e-59c1-4afb-8211-8d89abfcd9ca.jpg?v=1790851046",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_5fc09817-db42-407e-a070-b852fc655a96.jpg?v=1790851046",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_5_ce58fc3a-0212-4cb9-9b59-efddd93cd03c.jpg?v=1790851046"
+    ],
+    "description": "If there’s a sneaker that has become the uniform for several generations of subcultures, it’s the Puma Suede . This model is more than just a sneaker – it’s a cultural artifact that has defined the concept of street style since 1968 . At Fo",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9999,
+        "url": "https://www.superkicks.in/products/puma-suede-st-danielle-cathari-sea-glass",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Suede%20St%20Danielle%20Cathari%20Sea%20Glass",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Suede%20St%20Danielle%20Cathari%20Sea%20Glass",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Suede%20St%20Danielle%20Cathari%20Sea%20Glass",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Suede%20St%20Danielle%20Cathari%20Sea%20Glass",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
+      }
+    ]
+  },
+  {
     "id": "sk-nike-nike-air-more-uptempo-96-premium-flax-flax-phantom-gum-light-brown",
     "slug": "nike-nike-air-more-uptempo-96-premium-flax-flax-phantom-gum-light-brown",
     "brand": "Nike",
@@ -304,9 +940,10 @@
         "sizes": [
           "4",
           "5",
-          "6"
+          "6",
+          "7"
         ],
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
       },
       {
         "retailerId": "nike",
@@ -920,9 +1557,13 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8"
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
         ],
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
       },
       {
         "retailerId": "nike",
@@ -1334,12 +1975,10 @@
           "6",
           "7",
           "8",
-          "9",
           "10",
-          "11",
           "12"
         ],
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
       },
       {
         "retailerId": "adidas",
@@ -2967,75 +3606,6 @@
     ]
   },
   {
-    "id": "sk-jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
-    "slug": "jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
-    "brand": "Jordan",
-    "model": "Air Jordan 5 Retro Halloween",
-    "colorway": "Black / Black / Picante Red / Glow N The Dark",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_7f6d3a4f-24a3-48b0-8f57-d7cf3d5e6d0c.jpg?v=1791276575",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_1c5c93ad-1b84-492b-a410-b4d88c23eef8.jpg?v=1791276576",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5c602742-a225-4f6e-9bd7-806000361836.jpg?v=1791276575"
-    ],
-    "description": "The spooky season's upon us. Step into the shadows in this sinister take on the AJ5. Premium black nubuck cloaks the upper to keep you out of sight. Spine-chilling Picante Red accents emerge like a jack-o-lantern's flickering glare in the d",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 19295,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-14T08:08:41.241Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%205%20Retro%20Halloween%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
-      }
-    ]
-  },
-  {
     "id": "sk-adidas-aadistar-control-5-x-hardies-aurora-ruby-maroon-dusky-ink",
     "slug": "adidas-aadistar-control-5-x-hardies-aurora-ruby-maroon-dusky-ink",
     "brand": "adidas",
@@ -3264,10 +3834,9 @@
         "inStock": true,
         "sizes": [
           "3.5",
-          "5.5",
-          "6.5"
+          "5.5"
         ],
-        "fetchedAt": "2026-10-05T09:46:57.199Z"
+        "fetchedAt": "2026-10-17T07:16:28.906Z"
       },
       {
         "retailerId": "nike",
@@ -5897,613 +6466,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-jordan-pointe-black-anthracite-summit-white",
-    "slug": "jordan-jordan-pointe-black-anthracite-summit-white",
-    "brand": "Jordan",
-    "model": "Jordan Pointe",
-    "colorway": "Black / Anthracite / Summit White",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c2f8eafb-20bc-4697-8671-057e1a128bfe.jpg?v=1789994916",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_328e991f-d4d7-4f04-9784-0feac879cd24.jpg?v=1789994917",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d7cbae31-6ae4-40c5-9d56-6b44615ec6a3.jpg?v=1789994916"
-    ],
-    "description": "The Jordan Pointe blends the best of training and ballet to make a low-profile beauty. Inspired by the ribbons of pointe shoes, the detachable lacing system gives you multiple styling options—while the chunky sole and sleek leather give it ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10795,
-        "url": "https://www.superkicks.in/products/jordan-jordan-pointe-black-anthracite-summit-white",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Jordan%20Pointe%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Jordan%20Pointe%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Jordan%20Pointe%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Jordan%20Pointe%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Jordan%20Pointe%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-lv8-shadow-brown-baroque-brown-gum-med-brown",
-    "slug": "nike-air-force-1-07-lv8-shadow-brown-baroque-brown-gum-med-brown",
-    "brand": "Nike",
-    "model": "Air Force 1 '07 Lv8",
-    "colorway": "Shadow Brown / Baroque Brown / Gum Med Brown",
-    "category": "Lifestyle",
-    "palette": [
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_89d4e44d-37bc-4d9a-93d2-79660a0eec04.jpg?v=1790254992",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/0_426965e0-7fec-4e84-abf8-eac5e2f12c6d.jpg?v=1790666491",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_fa46199f-3ff7-4283-87a0-341d938c9108.jpg?v=1790254991"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. The Air Force 1 pairs its classic silhouette with textile and genuine leather for a crisp, clean look. Premium leather and textile upper with perforated toe box is breathable a",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-lv8-shadow-brown-baroque-brown-gum-med-brown",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-10-13T09:51:05.308Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Lv8%20Shadow%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Lv8%20Shadow%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Shadow%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Lv8%20Shadow%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Shadow%20Brown",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-pegasus-premium-particle-rose-sail-silver-lilac",
-    "slug": "nike-pegasus-premium-particle-rose-sail-silver-lilac",
-    "brand": "Nike",
-    "model": "Pegasus Premium",
-    "colorway": "Particle Rose / Sail / Silver Lilac",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#9b9b94",
-      "#e093a6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_fa313134-9299-4cb6-a004-0bd7c8c2ea90.jpg?v=1790253429",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_6467e068-8cf8-4ef6-95db-54a3a2364468.jpg?v=1790253429",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c34c0f18-b985-47ef-8558-f2a6d1a3805e.jpg?v=1790253429"
-    ],
-    "description": "The Pegasus Premium supercharges responsive cushioning with a triple stack of our most powerful running technologies: ZoomX foam, a sculpted Air Zoom unit and ReactX foam. It’s the most responsive Pegasus ever, providing high energy return ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 19295,
-        "url": "https://www.superkicks.in/products/nike-pegasus-premium-particle-rose-sail-silver-lilac",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Pegasus%20Premium%20Particle%20Rose",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Pegasus%20Premium%20Particle%20Rose",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Pegasus%20Premium%20Particle%20Rose",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Pegasus%20Premium%20Particle%20Rose",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Pegasus%20Premium%20Particle%20Rose",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-sprint-sister-black-black-university-red",
-    "slug": "nike-sprint-sister-black-black-university-red",
-    "brand": "Nike",
-    "model": "Sprint Sister",
-    "colorway": "Black / Black / University Red",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_10977289-28de-43e8-b672-68d4cdab11d7.jpg?v=1790253216",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_ef81ba5e-e75b-4d58-8b79-4646cde997cf.jpg?v=1790253216",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6af86132-85b9-4d8e-a4cc-6d86768cda0d.jpg?v=1790253217"
-    ],
-    "description": "Inspired by Nike's 1979 women's-only track spike, the Sprint Sister returns—reimagined for the street. This suede version has a flat, low-profile look, delivering comfort and flexibility in a polished package. Suede upper with leather accen",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/nike-sprint-sister-black-black-university-red",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Sprint%20Sister%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Sprint%20Sister%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Sprint%20Sister%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Sprint%20Sister%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Sprint%20Sister%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-pegasus-premium-white-black-bleached-lilac-lt-magenta",
-    "slug": "nike-pegasus-premium-white-black-bleached-lilac-lt-magenta",
-    "brand": "Nike",
-    "model": "Pegasus Premium",
-    "colorway": "White / Black / Bleached Lilac / Lt Magenta",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#e093a6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_72f8ddd7-9208-4758-b6a0-6b327884e657.jpg?v=1790253326",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_39c5c7f1-e9db-440a-8231-e2d5b6f96ff8.jpg?v=1790253326",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6ec0cabe-531d-4c45-af38-57824f342f84.jpg?v=1790253326"
-    ],
-    "description": "The Pegasus Premium supercharges responsive cushioning with a triple stack of our most powerful running technologies: ZoomX foam, a sculpted Air Zoom unit and ReactX foam. It’s the most responsive Pegasus ever, providing high energy return ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 19295,
-        "url": "https://www.superkicks.in/products/nike-pegasus-premium-white-black-bleached-lilac-lt-magenta",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Pegasus%20Premium%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Pegasus%20Premium%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Pegasus%20Premium%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Pegasus%20Premium%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Pegasus%20Premium%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-se-white-white-mtlc-summit-wht",
-    "slug": "nike-air-force-1-07-se-white-white-mtlc-summit-wht",
-    "brand": "Nike",
-    "model": "Air Force 1 '07 Se",
-    "colorway": "White / White / Mtlc Summit Wht",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#161616"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_0dd17b3c-179c-4f6b-b00a-29d678d69db3.jpg?v=1790252944",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_159d1cdc-6ae9-46f0-93fb-b40c238230cc.jpg?v=1790252944",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_b9620a15-b3de-46a1-8d80-3fc10ee1bd80.jpg?v=1790252944"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. This Air Force 1 pairs its classic silhouette with smooth leather and pearl accents for a fresh look. Leather upper with perforated toe box is breathable and comfortable. Nike ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-se-white-white-mtlc-summit-wht",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Se%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Se%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Se%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-naked-x-adizero-evo-sl-zip-blush-pink",
-    "slug": "adidas-naked-x-adizero-evo-sl-zip-blush-pink",
-    "brand": "adidas",
-    "model": "Naked X Adizero Evo Sl Zip Blush Pink",
-    "colorway": "",
-    "category": "Lifestyle",
-    "palette": [
-      "#e093a6",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6_7b8d9aa8-e793-40ed-9169-7bbcdd877942.jpg?v=1784037112",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/7_1_e188d512-3b3e-4422-a0c6-df8f298dcb4e.jpg?v=1784037112",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_6_191578f2-0b86-458c-b68d-b73098bb9c67.jpg?v=1784037112"
-    ],
-    "description": "The adidas Performance x NAKED Copenhagen Women's Adizero Evo SL Zip is the perfect fusion of style and function, created for women who demand performance without sacrificing aesthetics. In collaboration with NAKED Copenhagen, these sneaker",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 15999,
-        "url": "https://www.superkicks.in/products/adidas-naked-x-adizero-evo-sl-zip-blush-pink",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7",
-          "10",
-          "10.5"
-        ],
-        "fetchedAt": "2026-10-13T09:51:05.308Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Naked%20X%20Adizero%20Evo%20Sl%20Zip%20Blush%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Naked%20X%20Adizero%20Evo%20Sl%20Zip%20Blush%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Naked%20X%20Adizero%20Evo%20Sl%20Zip%20Blush%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Naked%20X%20Adizero%20Evo%20Sl%20Zip%20Blush%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Naked%20X%20Adizero%20Evo%20Sl%20Zip%20Blush%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-2010-mushroom-with-harbor-grey",
-    "slug": "new-balance-2010-mushroom-with-harbor-grey",
-    "brand": "New Balance",
-    "model": "2010",
-    "colorway": "Mushroom With Harbor Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#9b9b94",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c045cf8d-6b33-409f-82f1-59708d71392c.jpg?v=1790164332",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_2fcc8fc2-17d9-463f-bf51-c592101155c9.jpg?v=1790164332",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6854ea68-a6e6-45b6-a2b2-12fd1eea052e.jpg?v=1790164332"
-    ],
-    "description": "ABZORB 2010 is a model that combines innovative and evolved style with a design that evokes a sense of nostalgia. This bold expansion of the segmented ABZORB sole, which was featured in popular models from the 2000s, puts it at the heart of",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 16999,
-        "url": "https://www.superkicks.in/products/new-balance-2010-mushroom-with-harbor-grey",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%202010%20Mushroom%20With%20Harbor%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%202010%20Mushroom%20With%20Harbor%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%202010%20Mushroom%20With%20Harbor%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%202010%20Mushroom%20With%20Harbor%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-9060-driftwood-brighten-grey",
-    "slug": "new-balance-9060-driftwood-brighten-grey",
-    "brand": "New Balance",
-    "model": "9060",
-    "colorway": "Driftwood / Brighten Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#9b9b94",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_652f4b27-ecd9-4300-8f9e-86f1c9d0b21c.jpg?v=1790158915",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_f75c4d14-90e2-4719-8419-6602072761d7.jpg?v=1790158915",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_0c8cb511-a96d-4bbd-a626-94a3b3fba512.jpg?v=1790158915"
-    ],
-    "description": "The 9060 is a new expression of the refined style and innovation-led design of the classic 99X series. The 9060 reinterprets familiar 99X elements with a warped sensibility inspired by the proudly futuristic, visible tech aesthetic of the Y",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 18999,
-        "url": "https://www.superkicks.in/products/new-balance-9060-driftwood-brighten-grey",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Driftwood",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Driftwood",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Driftwood",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Driftwood",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-25T08:18:42.058Z"
       }
     ]
   }
