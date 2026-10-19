@@ -1,5 +1,72 @@
 [
   {
+    "id": "sk-nike-ava-edge-se-black-racer-blue-black-metallic-silver",
+    "slug": "nike-ava-edge-se-black-racer-blue-black-metallic-silver",
+    "brand": "Nike",
+    "model": "Ava Edge Se",
+    "colorway": "Black / Racer Blue / Black / Metallic Silver",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94",
+      "#2f5fa6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8c6e2828-bdef-4910-a777-c186f3ecdd67.jpg?v=1792392449",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_76ade48f-206e-4e7a-a268-1f8b8e1c9312.jpg?v=1792392449",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/17_0a201ad0-c066-4b4a-b232-55d8510f3d33.jpg?v=1792392449"
+    ],
+    "description": "Inspired by the geometry of modern cities, the Nike Ava Edge is built for crisscrossing the concrete jungle. It combines a flexible upper with performance-level cushioning and an outsole that leaves a memorable mark. Navigating the city is ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13995,
+        "url": "https://www.superkicks.in/products/nike-ava-edge-se-black-racer-blue-black-metallic-silver",
+        "inStock": true,
+        "sizes": [
+          "8",
+          "10"
+        ],
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Ava%20Edge%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Ava%20Edge%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Ava%20Edge%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Ava%20Edge%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Ava%20Edge%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
+      }
+    ]
+  },
+  {
     "id": "sk-jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
     "slug": "jordan-air-jordan-5-retro-halloween-black-black-picante-red-glow-n-the-dark",
     "brand": "Jordan",
@@ -295,12 +362,11 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-17T07:16:28.906Z"
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
       },
       {
         "retailerId": "amazon",
@@ -1263,133 +1329,6 @@
     ]
   },
   {
-    "id": "sk-asics-hypersync-black-black",
-    "slug": "asics-hypersync-black-black",
-    "brand": "Asics",
-    "model": "Hypersync",
-    "colorway": "Black / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_aa753403-fd78-4321-a0d9-a9611ecdc4e9.jpg?v=1788516883",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_96f4a16f-3577-4e2b-a71c-2ffd96e1b6da.jpg?v=1788516883",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3a33fcc1-4614-4f85-aebf-908c480cfa67.jpg?v=1788516883"
-    ],
-    "description": "The HYPERSYNC™ shoe draws inspiration from archived wrestling and track field footwear. This silhouette allows you to connect more closely with your surrounding environments and experience the present moment. The upper channels influences f",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12999,
-        "url": "https://www.superkicks.in/products/asics-hypersync-black-black",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Asics%20Hypersync%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Asics%20Hypersync%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Asics%20Hypersync%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Asics%20Hypersync%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-asics-hypersync-cocoa-powder-cocoa-powder",
-    "slug": "asics-hypersync-cocoa-powder-cocoa-powder",
-    "brand": "Asics",
-    "model": "Hypersync",
-    "colorway": "Cocoa Powder / Cocoa Powder",
-    "category": "Lifestyle",
-    "palette": [
-      "#2f5fa6",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_98823dfa-cfc1-4119-b049-ec195d9ca805.jpg?v=1788517044",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a52ce244-980d-4382-b6aa-0be53bb1f273.jpg?v=1788517043",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_b28b82cb-c9bf-4b36-a02d-9943df5aef92.jpg?v=1788517044"
-    ],
-    "description": "The HYPERSYNC™ shoe draws inspiration from archived wrestling and track field footwear. This silhouette allows you to connect more closely with your surrounding environments and experience the present moment. The upper channels influences f",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12999,
-        "url": "https://www.superkicks.in/products/asics-hypersync-cocoa-powder-cocoa-powder",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Asics%20Hypersync%20Cocoa%20Powder",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Asics%20Hypersync%20Cocoa%20Powder",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Asics%20Hypersync%20Cocoa%20Powder",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Asics%20Hypersync%20Cocoa%20Powder",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      }
-    ]
-  },
-  {
     "id": "sk-nike-pegasus-premium-dark-shadow-black-lemon-venom-white",
     "slug": "nike-pegasus-premium-dark-shadow-black-lemon-venom-white",
     "brand": "Nike",
@@ -1558,12 +1497,11 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10",
           "11",
           "12"
         ],
-        "fetchedAt": "2026-10-17T07:16:28.906Z"
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
       },
       {
         "retailerId": "nike",
@@ -1973,10 +1911,9 @@
         "inStock": true,
         "sizes": [
           "6",
-          "10",
           "12"
         ],
-        "fetchedAt": "2026-10-18T07:30:23.468Z"
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
       },
       {
         "retailerId": "adidas",
@@ -2382,11 +2319,9 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
-          "9",
           "10"
         ],
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
       },
       {
         "retailerId": "nike",
@@ -3020,13 +2955,12 @@
         "url": "https://www.superkicks.in/products/nike-p-6000-white-metallic-silver-grey-fog-iron-grey",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-09T09:46:50.528Z"
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
       },
       {
         "retailerId": "nike",
@@ -3287,10 +3221,9 @@
         "url": "https://www.superkicks.in/products/nike-vomero-plus-particle-rose-sail-silver-lilac",
         "inStock": true,
         "sizes": [
-          "5",
-          "6"
+          "5"
         ],
-        "fetchedAt": "2026-10-12T09:57:22.104Z"
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
       },
       {
         "retailerId": "nike",
@@ -4626,10 +4559,9 @@
         "sizes": [
           "4",
           "5",
-          "6",
-          "7"
+          "6"
         ],
-        "fetchedAt": "2026-10-02T09:08:03.532Z"
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
       },
       {
         "retailerId": "nike",
@@ -4694,10 +4626,9 @@
         "sizes": [
           "4",
           "5",
-          "6",
-          "7"
+          "6"
         ],
-        "fetchedAt": "2026-10-02T09:08:03.532Z"
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
       },
       {
         "retailerId": "nike",
@@ -6462,6 +6393,73 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-26T08:05:16.369Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-jordan-pointe-black-anthracite-summit-white",
+    "slug": "jordan-jordan-pointe-black-anthracite-summit-white",
+    "brand": "Jordan",
+    "model": "Jordan Pointe",
+    "colorway": "Black / Anthracite / Summit White",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c2f8eafb-20bc-4697-8671-057e1a128bfe.jpg?v=1789994916",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_328e991f-d4d7-4f04-9784-0feac879cd24.jpg?v=1789994917",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d7cbae31-6ae4-40c5-9d56-6b44615ec6a3.jpg?v=1789994916"
+    ],
+    "description": "The Jordan Pointe blends the best of training and ballet to make a low-profile beauty. Inspired by the ribbons of pointe shoes, the detachable lacing system gives you multiple styling options—while the chunky sole and sleek leather give it ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10795,
+        "url": "https://www.superkicks.in/products/jordan-jordan-pointe-black-anthracite-summit-white",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Jordan%20Pointe%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Jordan%20Pointe%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Jordan%20Pointe%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Jordan%20Pointe%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Jordan%20Pointe%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-19T08:14:29.738Z"
       }
     ]
   }
