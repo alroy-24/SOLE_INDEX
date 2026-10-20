@@ -1,5 +1,74 @@
 [
   {
+    "id": "sk-jordan-air-jordan-12-retro-fireside-lt-orewood-brn-cacao-wow-cacao-wow",
+    "slug": "jordan-air-jordan-12-retro-fireside-lt-orewood-brn-cacao-wow-cacao-wow",
+    "brand": "Jordan",
+    "model": "Air Jordan 12 Retro Fireside",
+    "colorway": "Lt Orewood Brn / Cacao Wow / Cacao Wow",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b385a9f7-c3b9-4573-80a9-a6190653854b.jpg?v=1791895880",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0f596b76-0dfa-4917-8a4e-acbcddbf8c78.jpg?v=1791895881",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_db615ab5-544d-446d-92c8-389808235dde.jpg?v=1791895880"
+    ],
+    "description": "Sweater weather? We got you. The AJ12 returns in a rustic \"Fireside\" colorway, mixing Light Orewood Brown with Cacao Wow overlays and accents. Premium leather in the upper combines with full-length Air Zoom cushioning for a smooth, comfy ri",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 18395,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-12-retro-fireside-lt-orewood-brn-cacao-wow-cacao-wow",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%2012%20Retro%20Fireside%20Lt%20Orewood%20Brn",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%2012%20Retro%20Fireside%20Lt%20Orewood%20Brn",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%2012%20Retro%20Fireside%20Lt%20Orewood%20Brn",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%2012%20Retro%20Fireside%20Lt%20Orewood%20Brn",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%2012%20Retro%20Fireside%20Lt%20Orewood%20Brn",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
+      }
+    ]
+  },
+  {
     "id": "sk-nike-ava-edge-se-black-racer-blue-black-metallic-silver",
     "slug": "nike-ava-edge-se-black-racer-blue-black-metallic-silver",
     "brand": "Nike",
@@ -1262,8 +1331,8 @@
     ]
   },
   {
-    "id": "sk-air-force-1-07-triple-white-1-shoes-for-men",
-    "slug": "air-force-1-07-triple-white-1-shoes-for-men",
+    "id": "sk-nike-air-force-1-07-white-white-white",
+    "slug": "nike-air-force-1-07-white-white-white",
     "brand": "Nike",
     "model": "Air Force 1 '07",
     "colorway": "White / White / White",
@@ -1282,49 +1351,49 @@
       {
         "retailerId": "superkicks",
         "price": 7495,
-        "url": "https://www.superkicks.in/products/air-force-1-07-triple-white-1-shoes-for-men",
+        "url": "https://www.superkicks.in/products/nike-air-force-1-07-white-white-white",
         "inStock": true,
         "sizes": [
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "nike",
         "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "amazon",
         "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "flipkart",
         "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "ajio",
         "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20White",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       }
     ]
   },
@@ -1911,9 +1980,10 @@
         "inStock": true,
         "sizes": [
           "6",
+          "7",
           "12"
         ],
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "adidas",
@@ -2252,10 +2322,9 @@
         "sizes": [
           "3",
           "4",
-          "5",
           "6"
         ],
-        "fetchedAt": "2026-10-10T09:11:25.061Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "nike",
@@ -2319,9 +2388,10 @@
         "inStock": true,
         "sizes": [
           "7",
-          "10"
+          "10",
+          "12"
         ],
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "nike",
@@ -2757,12 +2827,11 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-09T09:46:50.528Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "amazon",
@@ -3085,11 +3154,12 @@
         "url": "https://www.superkicks.in/products/nike-air-rift-wolf-grey-wolf-grey-pure-platinum",
         "inStock": true,
         "sizes": [
+          "3.5",
           "4.5",
           "5.5",
           "6.5"
         ],
-        "fetchedAt": "2026-10-08T09:40:49.494Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "nike",
@@ -3832,9 +3902,10 @@
           "7",
           "8",
           "9",
+          "10",
           "11"
         ],
-        "fetchedAt": "2026-10-18T07:30:23.468Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "adidas",
@@ -4899,12 +4970,16 @@
         "url": "https://www.superkicks.in/products/adidas-original-samba-og-mule-core-black-cloud-white-gum",
         "inStock": true,
         "sizes": [
+          "3",
           "4",
           "5",
           "6",
-          "7"
+          "7",
+          "8",
+          "9",
+          "10"
         ],
-        "fetchedAt": "2026-10-06T09:33:56.237Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "adidas",
@@ -4968,12 +5043,13 @@
         "url": "https://www.superkicks.in/products/adidas-originals-samba-ballet-core-black-off-white-gum",
         "inStock": true,
         "sizes": [
+          "3",
           "4",
           "5",
           "6",
           "7"
         ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "adidas",
@@ -5041,9 +5117,12 @@
           "4",
           "5",
           "6",
-          "7"
+          "7",
+          "8",
+          "9",
+          "10"
         ],
-        "fetchedAt": "2026-10-06T09:33:56.237Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "adidas",
@@ -5107,12 +5186,12 @@
         "url": "https://www.superkicks.in/products/adidas-originals-samba-ballet-off-white-core-black-gum",
         "inStock": true,
         "sizes": [
+          "3",
           "4",
           "5",
-          "6",
           "7"
         ],
-        "fetchedAt": "2026-10-06T09:33:56.237Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "adidas",
@@ -6148,11 +6227,12 @@
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-white-tech-grey-college-navy-white",
         "inStock": true,
         "sizes": [
+          "3",
           "4",
           "5",
           "6"
         ],
-        "fetchedAt": "2026-10-13T09:51:05.308Z"
+        "fetchedAt": "2026-10-20T08:00:02.316Z"
       },
       {
         "retailerId": "nike",
@@ -6393,73 +6473,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-jordan-pointe-black-anthracite-summit-white",
-    "slug": "jordan-jordan-pointe-black-anthracite-summit-white",
-    "brand": "Jordan",
-    "model": "Jordan Pointe",
-    "colorway": "Black / Anthracite / Summit White",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c2f8eafb-20bc-4697-8671-057e1a128bfe.jpg?v=1789994916",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_328e991f-d4d7-4f04-9784-0feac879cd24.jpg?v=1789994917",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d7cbae31-6ae4-40c5-9d56-6b44615ec6a3.jpg?v=1789994916"
-    ],
-    "description": "The Jordan Pointe blends the best of training and ballet to make a low-profile beauty. Inspired by the ribbons of pointe shoes, the detachable lacing system gives you multiple styling options—while the chunky sole and sleek leather give it ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10795,
-        "url": "https://www.superkicks.in/products/jordan-jordan-pointe-black-anthracite-summit-white",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Jordan%20Pointe%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Jordan%20Pointe%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Jordan%20Pointe%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Jordan%20Pointe%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Jordan%20Pointe%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
       }
     ]
   }
