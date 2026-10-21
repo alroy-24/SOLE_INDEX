@@ -69,6 +69,128 @@
     ]
   },
   {
+    "id": "sk-puma-palermo-elevata-leather-blue-orange-gum",
+    "slug": "puma-palermo-elevata-leather-blue-orange-gum",
+    "brand": "Puma",
+    "model": "Palermo Elevata Leather",
+    "colorway": "Blue / Orange / Gum",
+    "category": "Lifestyle",
+    "palette": [
+      "#e7dfcd",
+      "#2f5fa6",
+      "#d8702f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_807fe2d6-55ee-47f6-9446-34e8b3911c01.jpg?v=1792392595",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d7f44b2c-2856-4662-a437-1d4521642d13.jpg?v=1792392595",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_59f3fb61-53d0-4f7d-9118-8ca9e828a52b.jpg?v=1792392595"
+    ],
+    "description": "Step into the sweet life with these '80s-inspired kicks. Featuring a leather base, suede tongue, and foil-printed PUMA branding, these sneakers blend retro vibes with modern flair. Perfect for making a bold statement wherever you go. Width:",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 7999,
+        "url": "https://www.superkicks.in/products/puma-palermo-elevata-leather-blue-orange-gum",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Puma%20Palermo%20Elevata%20Leather%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Puma%20Palermo%20Elevata%20Leather%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Puma%20Palermo%20Elevata%20Leather%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Puma%20Palermo%20Elevata%20Leather%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-converse-chuck-taylor-all-star-black-black-black",
+    "slug": "converse-chuck-taylor-all-star-black-black-black",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star",
+    "colorway": "Black / Black / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_6c82e06c-adfb-43cb-a89f-961a7b7ed4fa.jpg?v=1792392728",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_e955e9e3-01dd-447e-8579-8267ab53a5a3.jpg?v=1792392728",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_8fd6358b-bcff-49a4-9308-c07beb398649.jpg?v=1792392728"
+    ],
+    "description": "Own the night with the Converse Chuck Taylor All Star Gothic Charm Sneaker. Built for those who live between darkness and beauty, this high-top canvas sneaker features eye-catching silver gothic charms — winged hearts, bows and cats — set a",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 5499,
+        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-black-black-black",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
+      }
+    ]
+  },
+  {
     "id": "sk-nike-ava-edge-se-black-racer-blue-black-metallic-silver",
     "slug": "nike-ava-edge-se-black-racer-blue-black-metallic-silver",
     "brand": "Nike",
@@ -93,10 +215,13 @@
         "url": "https://www.superkicks.in/products/nike-ava-edge-se-black-racer-blue-black-metallic-silver",
         "inStock": true,
         "sizes": [
+          "7",
           "8",
-          "10"
+          "9",
+          "10",
+          "11"
         ],
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
       },
       {
         "retailerId": "nike",
@@ -1980,10 +2105,9 @@
         "inStock": true,
         "sizes": [
           "6",
-          "7",
           "12"
         ],
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
       },
       {
         "retailerId": "adidas",
@@ -4833,11 +4957,10 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
       },
       {
         "retailerId": "adidas",
@@ -5807,10 +5930,9 @@
           "7",
           "8",
           "9",
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-10-13T09:51:05.308Z"
+        "fetchedAt": "2026-10-21T08:05:18.028Z"
       },
       {
         "retailerId": "nike",
@@ -6335,141 +6457,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-se-black-black-mtlc-summit-wht",
-    "slug": "nike-air-force-1-07-se-black-black-mtlc-summit-wht",
-    "brand": "Nike",
-    "model": "Air Force 1 '07 Se",
-    "colorway": "Black / Black / Mtlc Summit Wht",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3a04fe61-a11f-46dd-81ff-89fa09c74437.jpg?v=1790252650",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/24_ecfcf682-7480-4a7a-b889-6b168bc9ddb9.jpg?v=1790252650",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_46087fdb-0498-40e8-b722-88b276b5de70.jpg?v=1790252650"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. This Air Force 1 pairs its classic silhouette with smooth leather and pearl accents for a fresh look. Leather upper with perforated toe box is breathable and comfortable. Nike ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-se-black-black-mtlc-summit-wht",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-jordan-pointe-pistachio-frost-healing-jade",
-    "slug": "jordan-jordan-pointe-pistachio-frost-healing-jade",
-    "brand": "Jordan",
-    "model": "Jordan Pointe",
-    "colorway": "Pistachio Frost / Healing Jade",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_ad330947-ed0f-49d3-acf7-ea451e0ec4a1.jpg?v=1789994975",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_7a6963b8-1ea9-4817-b29f-8d5e1dc97277.jpg?v=1789994975",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_0697b5e2-5c53-477d-ac0d-fb0c9753f455.jpg?v=1789994975"
-    ],
-    "description": "The Jordan Pointe blends the best of training and ballet to make a low-profile beauty. Inspired by the ribbons of pointe shoes, the detachable lacing system gives you multiple styling options—while the chunky sole and sleek leather give it ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10795,
-        "url": "https://www.superkicks.in/products/jordan-jordan-pointe-pistachio-frost-healing-jade",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Jordan%20Pointe%20Pistachio%20Frost",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Jordan%20Pointe%20Pistachio%20Frost",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Jordan%20Pointe%20Pistachio%20Frost",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Jordan%20Pointe%20Pistachio%20Frost",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Jordan%20Pointe%20Pistachio%20Frost",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-26T08:05:16.369Z"
