@@ -1,5 +1,208 @@
 [
   {
+    "id": "sk-nike-pegasus-premium-college-grey-black-light-redwood",
+    "slug": "nike-pegasus-premium-college-grey-black-light-redwood",
+    "brand": "Nike",
+    "model": "Pegasus Premium",
+    "colorway": "College Grey / Black / Light Redwood",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_94431232-6120-4539-89a7-5b255c1724c0.jpg?v=1792589164",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_20c5ca97-ea46-4893-b1bd-9f14ceb1efb6.jpg?v=1792589164",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_b5ea6dd8-9439-4b57-8b46-38fc4f445cde.jpg?v=1792589164"
+    ],
+    "description": "The Pegasus Premium supercharges responsive cushioning with a triple stack of our most powerful running technologies: ZoomX foam, a sculpted Air Zoom unit and ReactX foam. It’s the most responsive Pegasus ever, providing high energy return ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19295,
+        "url": "https://www.superkicks.in/products/nike-pegasus-premium-college-grey-black-light-redwood",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Pegasus%20Premium%20College%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Pegasus%20Premium%20College%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Pegasus%20Premium%20College%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Pegasus%20Premium%20College%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Pegasus%20Premium%20College%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-sb-air-force-1-se-black-game-royal-black-white",
+    "slug": "nike-sb-air-force-1-se-black-game-royal-black-white",
+    "brand": "Nike",
+    "model": "Sb Air Force 1 Se",
+    "colorway": "Black / Game Royal / Black / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#2f5fa6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_a053748e-56d4-4610-b9aa-1070f748ba9a.jpg?v=1792589275",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_59a2422a-1993-4e1e-8222-8ce97283acb6.jpg?v=1792589275",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/23_dd28f8eb-b6bb-44e0-bdd3-2c420d37560c.jpg?v=1792589275"
+    ],
+    "description": "Nike Air technology absorbs impact for cushioning with every step. More Details Low-cut collar",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 10495,
+        "url": "https://www.superkicks.in/products/nike-sb-air-force-1-se-black-game-royal-black-white",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Sb%20Air%20Force%201%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Sb%20Air%20Force%201%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Sb%20Air%20Force%201%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Sb%20Air%20Force%201%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Sb%20Air%20Force%201%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-pw-adistar-jellyfish-red-core-black",
+    "slug": "adidas-pw-adistar-jellyfish-red-core-black",
+    "brand": "adidas",
+    "model": "Pw Adistar Jellyfish",
+    "colorway": "Red / Core Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a69466fc-323b-4459-9132-2838eb693ba5.jpg?v=1790848381",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ab546e96-1566-4141-b6b0-c82612741443.jpg?v=1790848381",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_fb71a457-da56-4711-9f5c-c00459f40b07.jpg?v=1790848381"
+    ],
+    "description": "Since its debut, the VIRGINIA Adistar Jellyfish has become a defining expression of Pharrell Williams’ creative vision through VIRGINIA. This pair uses two different shades of red across the upper. A brighter tone covers the overlays and to",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 29999,
+        "url": "https://www.superkicks.in/products/adidas-pw-adistar-jellyfish-red-core-black",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Pw%20Adistar%20Jellyfish%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Pw%20Adistar%20Jellyfish%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      }
+    ]
+  },
+  {
     "id": "sk-jordan-air-jordan-12-retro-fireside-lt-orewood-brn-cacao-wow-cacao-wow",
     "slug": "jordan-air-jordan-12-retro-fireside-lt-orewood-brn-cacao-wow-cacao-wow",
     "brand": "Jordan",
@@ -287,10 +490,9 @@
           "6",
           "7",
           "8",
-          "9",
           "10"
         ],
-        "fetchedAt": "2026-10-18T07:30:23.468Z"
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
       },
       {
         "retailerId": "nike",
@@ -556,11 +758,12 @@
         "inStock": true,
         "sizes": [
           "7",
+          "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
       },
       {
         "retailerId": "amazon",
@@ -1272,10 +1475,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-10-18T07:30:23.468Z"
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
       },
       {
         "retailerId": "nike",
@@ -4026,10 +4228,9 @@
           "7",
           "8",
           "9",
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
       },
       {
         "retailerId": "adidas",
@@ -6246,217 +6447,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-lv8-grey-fog-black-sail-coconut-milk",
-    "slug": "nike-air-force-1-07-lv8-grey-fog-black-sail-coconut-milk",
-    "brand": "Nike",
-    "model": "Air Force 1 '07 Lv8",
-    "colorway": "Grey Fog / Black / Sail / Coconut Milk",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_07e97063-ac04-44cb-9205-85d0a779317d.jpg?v=1790254106",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_79acc6fe-e040-4dd2-b977-f37f9205a5e0.jpg?v=1790254106",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6dad469f-8912-400a-9328-05b40ea9e656.jpg?v=1790254106"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. The Air Force 1 pairs its classic silhouette with real and synthetic leather for a crisp, clean look. Real and synthetic leather upper with perforated toe box is breathable and",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-lv8-grey-fog-black-sail-coconut-milk",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Lv8%20Grey%20Fog",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Lv8%20Grey%20Fog",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Grey%20Fog",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Lv8%20Grey%20Fog",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Lv8%20Grey%20Fog",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-mid-white-tech-grey-college-navy-white",
-    "slug": "jordan-air-jordan-1-mid-white-tech-grey-college-navy-white",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Mid",
-    "colorway": "White / Tech Grey / College Navy / White",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#9b9b94",
-      "#2f5fa6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c2e5d398-9160-4938-b377-e3b3106d53d4.jpg?v=1790253546",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_755a21f6-bb54-4b6a-81ae-23092b7a4644.jpg?v=1790253546",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_48fef1c1-9e71-4221-814a-cd906ed2f25d.jpg?v=1790253546"
-    ],
-    "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colors and crisp leather give it a distinct identity. Leather, synthetic leather and textile upper for a supportive feel. Foam midsole and Ni",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 7995,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-white-tech-grey-college-navy-white",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-mid-se-cacao-wow-pearl-white-rust-pink",
-    "slug": "jordan-air-jordan-1-mid-se-cacao-wow-pearl-white-rust-pink",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Mid Se",
-    "colorway": "Cacao Wow / Pearl White / Rust Pink",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#e093a6",
-      "#d8702f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_7c7716d3-6e2a-4144-bc86-68a021c67917.jpg?v=1790253127",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_65ff5840-5624-4a39-817b-fe7b5a74a4c8.jpg?v=1790253127",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a348c3db-9160-49e8-ba54-0afa2f61b2cc.jpg?v=1790253127"
-    ],
-    "description": "The Air Jordan 1 Mid brings full-court style and premium comfort to an iconic look. Its Air-Sole unit cushions play on the hardwood, while the padded collar gives you a supportive feel. Leather in the upper offers durability and structure. ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12495,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-se-cacao-wow-pearl-white-rust-pink",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-10-13T09:51:05.308Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20Se%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20Se%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Cacao%20Wow",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-26T08:05:16.369Z"
