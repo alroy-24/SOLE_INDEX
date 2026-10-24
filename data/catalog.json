@@ -1,15 +1,148 @@
 [
   {
+    "id": "sk-adidas-pw-adistar-jellyfish-red-core-black",
+    "slug": "adidas-pw-adistar-jellyfish-red-core-black",
+    "brand": "adidas",
+    "model": "Pw Adistar Jellyfish",
+    "colorway": "Red / Core Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#c2362f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a69466fc-323b-4459-9132-2838eb693ba5.jpg?v=1790848381",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ab546e96-1566-4141-b6b0-c82612741443.jpg?v=1790848381",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_fb71a457-da56-4711-9f5c-c00459f40b07.jpg?v=1790848381"
+    ],
+    "description": "Since its debut, the VIRGINIA Adistar Jellyfish has become a defining expression of Pharrell Williams’ creative vision through VIRGINIA. This pair uses two different shades of red across the upper. A brighter tone covers the overlays and to",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 29999,
+        "url": "https://www.superkicks.in/products/adidas-pw-adistar-jellyfish-red-core-black",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Pw%20Adistar%20Jellyfish%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Pw%20Adistar%20Jellyfish%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-22T08:04:46.762Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
+    "slug": "jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
+    "brand": "Jordan",
+    "model": "Air Jordan 4 Retro Birds Of Paradise",
+    "colorway": "Coconut Milk / Muslin / Bright Mango",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d05aed50-0598-4163-b766-f363d5504e7b.jpg?v=1785841737",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0aec71a0-2210-478e-b6b4-3a2e8a401534.jpg?v=1785841737",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_84ad14be-6483-4bc6-99d1-8a81a919bf5c.jpg?v=1785841737"
+    ],
+    "description": "Take flight in the AJ4 and let them gaze up at your soles in awe. A calm mix of neutrals dress the upper, while tropical hues burst underfoot. All the iconic AJ4 details are there—visible Air, floating eyestays, mesh side panels and that co",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16570,
+        "mrp": 19495,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
+        "inStock": true,
+        "sizes": [
+          "3",
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%204%20Retro%20Birds%20Of%20Paradise%20Coconut%20Milk",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%204%20Retro%20Birds%20Of%20Paradise%20Coconut%20Milk",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%204%20Retro%20Birds%20Of%20Paradise%20Coconut%20Milk",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%204%20Retro%20Birds%20Of%20Paradise%20Coconut%20Milk",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%204%20Retro%20Birds%20Of%20Paradise%20Coconut%20Milk",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
+      }
+    ]
+  },
+  {
     "id": "sk-nike-air-force-1-07-black-stealth-gym-red-metallic-silver",
     "slug": "nike-air-force-1-07-black-stealth-gym-red-metallic-silver",
     "brand": "Nike",
-    "model": "Air Force 1 '07",
+    "model": "Air Force 1 '07 Scream",
     "colorway": "Black / Stealth / Gym Red / Metallic Silver",
     "category": "Lifestyle",
     "palette": [
       "#161616",
-      "#9b9b94",
-      "#c2362f"
+      "#e7dfcd",
+      "#9b9b94"
     ],
     "images": [
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_0aa64bb8-d51c-49e3-999e-2df7928d7de7.jpg?v=1792676139",
@@ -31,38 +164,38 @@
       },
       {
         "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Black",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Scream%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Black",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Scream%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Black",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Scream%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Black",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Scream%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Black",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Scream%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       }
     ]
   },
@@ -287,13 +420,15 @@
         "url": "https://www.superkicks.in/products/nike-pegasus-premium-college-grey-black-light-redwood",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
           "8",
           "9",
           "10",
-          "11"
+          "11",
+          "12"
         ],
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -326,74 +461,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Pegasus%20Premium%20College%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-pw-adistar-jellyfish-red-core-black",
-    "slug": "adidas-pw-adistar-jellyfish-red-core-black",
-    "brand": "adidas",
-    "model": "Pw Adistar Jellyfish",
-    "colorway": "Red / Core Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a69466fc-323b-4459-9132-2838eb693ba5.jpg?v=1790848381",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ab546e96-1566-4141-b6b0-c82612741443.jpg?v=1790848381",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_fb71a457-da56-4711-9f5c-c00459f40b07.jpg?v=1790848381"
-    ],
-    "description": "Since its debut, the VIRGINIA Adistar Jellyfish has become a defining expression of Pharrell Williams’ creative vision through VIRGINIA. This pair uses two different shades of red across the upper. A brighter tone covers the overlays and to",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 29999,
-        "url": "https://www.superkicks.in/products/adidas-pw-adistar-jellyfish-red-core-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Pw%20Adistar%20Jellyfish%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Pw%20Adistar%20Jellyfish%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-10-22T08:04:46.762Z"
@@ -482,9 +549,9 @@
       "#d8702f"
     ],
     "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_807fe2d6-55ee-47f6-9446-34e8b3911c01.jpg?v=1792392595",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d7f44b2c-2856-4662-a437-1d4521642d13.jpg?v=1792392595",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_59f3fb61-53d0-4f7d-9118-8ca9e828a52b.jpg?v=1792392595"
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_acf2c9b3-8962-4b1e-8d8b-868c9cfdb542.jpg?v=1792756762",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d7dd0006-9c08-48c8-861b-f1be51a6e743.jpg?v=1792756762",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_1c80c857-c71c-4ac8-a5d3-08c86421b41f.jpg?v=1792756762"
     ],
     "description": "Step into the sweet life with these '80s-inspired kicks. Featuring a leather base, suede tongue, and foil-printed PUMA branding, these sneakers blend retro vibes with modern flair. Perfect for making a bold statement wherever you go. Width:",
     "offers": [
@@ -751,9 +818,13 @@
         "retailerId": "superkicks",
         "price": 10995,
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-vast-grey-pencil-point-metallic-silver",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -814,9 +885,14 @@
         "retailerId": "superkicks",
         "price": 11995,
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-cargo-khaki-cargo-khaki-black",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "11"
+        ],
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -1057,9 +1133,9 @@
       "#2f6f4e"
     ],
     "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a817fa51-f627-4c9c-9555-64de2b7a87bd.jpg?v=1792136052",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_08ad34d6-2ad6-4a22-a153-e033fce66d68.jpg?v=1792136052",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_46f2599e-1b8c-4bf3-9b19-fa13e5d57fd1.jpg?v=1792136052"
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f479b722-9013-4b5a-ab95-fbb048bc4cb8.jpg?v=1792756929",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_4b1b389f-70c1-4a1d-9fc9-8945d2e2f987.jpg?v=1792756930",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_a33dff68-3c13-4676-a482-5d635c873577.jpg?v=1792756930"
     ],
     "description": "The PUMA Speedcat Vintage x ROSÉ brings a fresh, fashion-forward perspective to the iconic motorsport-inspired silhouette. Reimagined in a rich colourway, this collaboration blends vintage racing heritage with ROSÉ''s effortlessly cool aest",
     "offers": [
@@ -1310,6 +1386,7 @@
         "url": "https://www.superkicks.in/products/nike-nike-air-more-uptempo-96-premium-flax-flax-phantom-gum-light-brown",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
           "8",
           "9",
@@ -1317,7 +1394,7 @@
           "11",
           "12"
         ],
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -1661,9 +1738,11 @@
           "7",
           "8",
           "9",
-          "10"
+          "10",
+          "11",
+          "12"
         ],
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -1867,13 +1946,14 @@
         "url": "https://www.superkicks.in/products/nike-pegasus-premium-dark-shadow-black-lemon-venom-white",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -2009,10 +2089,15 @@
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-black-team-red-white-lt-orewood-brn",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
-          "8"
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
         ],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -2075,13 +2160,14 @@
         "url": "https://www.superkicks.in/products/nike-shox-r4-black-challenge-red-black",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -2144,13 +2230,15 @@
         "url": "https://www.superkicks.in/products/nike-shox-r4-black-black-black-bright-crimson",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
           "8",
           "9",
           "10",
-          "11"
+          "11",
+          "12"
         ],
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -2213,6 +2301,7 @@
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-cargo-khaki-coconut-milk-black",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
           "8",
           "9",
@@ -2220,7 +2309,7 @@
           "11",
           "12"
         ],
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -4339,12 +4428,10 @@
         "url": "https://www.superkicks.in/products/adidas-originals-samba-og-mercedes-amg-petronas-f1-team-core-black-core-black-silver-metallic",
         "inStock": true,
         "sizes": [
-          "7",
-          "8",
           "9",
           "11"
         ],
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "adidas",
@@ -6034,10 +6121,9 @@
         "sizes": [
           "4",
           "5",
-          "6",
-          "7"
+          "6"
         ],
-        "fetchedAt": "2026-09-29T09:13:51.188Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -6152,7 +6238,7 @@
     "id": "sk-jordan-jordan-pointe-se-black-cacao-wow-gum-dark-brown",
     "slug": "jordan-jordan-pointe-se-black-cacao-wow-gum-dark-brown",
     "brand": "Jordan",
-    "model": "Jordan Pointe Se",
+    "model": "Pointe Se",
     "colorway": "Black / Cacao Wow / Gum Dark Brown",
     "category": "Lifestyle",
     "palette": [
@@ -6181,38 +6267,38 @@
       },
       {
         "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Jordan%20Pointe%20Se%20Black",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Pointe%20Se%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Jordan%20Pointe%20Se%20Black",
+        "url": "https://www.amazon.in/s?k=Jordan%20Pointe%20Se%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Jordan%20Pointe%20Se%20Black",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Pointe%20Se%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Jordan%20Pointe%20Se%20Black",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Pointe%20Se%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Jordan%20Pointe%20Se%20Black",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Pointe%20Se%20Black",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       }
     ]
   },
@@ -6242,11 +6328,10 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
           "9",
           "11"
         ],
-        "fetchedAt": "2026-10-21T08:05:18.028Z"
+        "fetchedAt": "2026-10-24T07:42:18.937Z"
       },
       {
         "retailerId": "nike",
@@ -6351,72 +6436,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-comfort-ride-easyon-smoke-grey-black-volt-dk-smoke-grey",
-    "slug": "nike-comfort-ride-easyon-smoke-grey-black-volt-dk-smoke-grey",
-    "brand": "Nike",
-    "model": "Comfort Ride Easyon",
-    "colorway": "Smoke Grey / Black / Volt / Dk Smoke Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d7efbd45-051b-4bf8-92e0-a2ca42b959f7.jpg?v=1790253953",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f2eea562-1b69-49c5-9757-9cfab56dc9dc.jpg?v=1790253953",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_11f468c4-698d-41eb-933f-399e65605be4.jpg?v=1790253953"
-    ],
-    "description": "How’s the air up there? In the Nike Comfort Ride, it’s downright aerial. With ultra-high, head-turning foam cushioning every step and stride, it’s made for mega miles and more. That mattress-like stack combines with a supportive midfoot sys",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11895,
-        "url": "https://www.superkicks.in/products/nike-comfort-ride-easyon-smoke-grey-black-volt-dk-smoke-grey",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8"
-        ],
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-26T08:05:16.369Z"
