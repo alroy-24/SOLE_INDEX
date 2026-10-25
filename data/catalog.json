@@ -1,68 +1,5 @@
 [
   {
-    "id": "sk-adidas-pw-adistar-jellyfish-red-core-black",
-    "slug": "adidas-pw-adistar-jellyfish-red-core-black",
-    "brand": "adidas",
-    "model": "Pw Adistar Jellyfish",
-    "colorway": "Red / Core Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a69466fc-323b-4459-9132-2838eb693ba5.jpg?v=1790848381",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ab546e96-1566-4141-b6b0-c82612741443.jpg?v=1790848381",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_fb71a457-da56-4711-9f5c-c00459f40b07.jpg?v=1790848381"
-    ],
-    "description": "Since its debut, the VIRGINIA Adistar Jellyfish has become a defining expression of Pharrell Williams’ creative vision through VIRGINIA. This pair uses two different shades of red across the upper. A brighter tone covers the overlays and to",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 29999,
-        "url": "https://www.superkicks.in/products/adidas-pw-adistar-jellyfish-red-core-black",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Pw%20Adistar%20Jellyfish%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Pw%20Adistar%20Jellyfish%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
-      }
-    ]
-  },
-  {
     "id": "sk-jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
     "slug": "jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
     "brand": "Jordan",
@@ -157,10 +94,9 @@
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-black-stealth-gym-red-metallic-silver",
         "inStock": true,
         "sizes": [
-          "7",
-          "9"
+          "7"
         ],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
       },
       {
         "retailerId": "nike",
@@ -888,11 +824,10 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
           "9",
           "11"
         ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
       },
       {
         "retailerId": "nike",
@@ -1738,11 +1673,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11",
-          "12"
+          "10"
         ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
       },
       {
         "retailerId": "nike",
@@ -2918,11 +2851,9 @@
         "inStock": true,
         "sizes": [
           "7",
-          "9",
-          "10",
           "12"
         ],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
       },
       {
         "retailerId": "nike",
@@ -3555,11 +3486,9 @@
         "inStock": true,
         "sizes": [
           "8",
-          "9",
-          "10",
-          "11"
+          "9"
         ],
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
       },
       {
         "retailerId": "nike",
@@ -4428,10 +4357,9 @@
         "url": "https://www.superkicks.in/products/adidas-originals-samba-og-mercedes-amg-petronas-f1-team-core-black-core-black-silver-metallic",
         "inStock": true,
         "sizes": [
-          "9",
-          "11"
+          "9"
         ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
       },
       {
         "retailerId": "adidas",
@@ -5643,10 +5571,9 @@
           "5",
           "7",
           "8",
-          "9",
-          "10"
+          "9"
         ],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
       },
       {
         "retailerId": "adidas",
@@ -5712,10 +5639,9 @@
         "sizes": [
           "3",
           "4",
-          "5",
-          "7"
+          "5"
         ],
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
       },
       {
         "retailerId": "adidas",
@@ -6439,6 +6365,72 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-26T08:05:16.369Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-comfort-ride-easyon-smoke-grey-black-volt-dk-smoke-grey",
+    "slug": "nike-comfort-ride-easyon-smoke-grey-black-volt-dk-smoke-grey",
+    "brand": "Nike",
+    "model": "Comfort Ride Easyon",
+    "colorway": "Smoke Grey / Black / Volt / Dk Smoke Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d7efbd45-051b-4bf8-92e0-a2ca42b959f7.jpg?v=1790253953",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f2eea562-1b69-49c5-9757-9cfab56dc9dc.jpg?v=1790253953",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_11f468c4-698d-41eb-933f-399e65605be4.jpg?v=1790253953"
+    ],
+    "description": "How’s the air up there? In the Nike Comfort Ride, it’s downright aerial. With ultra-high, head-turning foam cushioning every step and stride, it’s made for mega miles and more. That mattress-like stack combines with a supportive midfoot sys",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11895,
+        "url": "https://www.superkicks.in/products/nike-comfort-ride-easyon-smoke-grey-black-volt-dk-smoke-grey",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8"
+        ],
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-25T07:54:08.600Z"
       }
     ]
   }
