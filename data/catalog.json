@@ -1,5 +1,277 @@
 [
   {
+    "id": "sk-jordan-air-jordan-1-mid-se-black-chalk-velvet-brown",
+    "slug": "jordan-air-jordan-1-mid-se-black-chalk-velvet-brown",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Mid Se",
+    "colorway": "Black / Chalk / Velvet Brown",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#6b4a2f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_98c825d1-40eb-407b-98a1-11cd9a10fee5.jpg?v=1791896458",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_ff520050-998d-4e83-a289-ce7f3cf9ed1b.jpg?v=1791896458",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_3d9d5d22-922e-4a23-9e2c-0f7279d2919d.jpg?v=1791896458"
+    ],
+    "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colors and crisp leather call out to MJ's iconic nickname: The Black Cat. Nike Air technology absorbs impact for cushioning with every step. ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12495,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-se-black-chalk-velvet-brown",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-dunk-low-gore-tex-black-off-noir-anthracite",
+    "slug": "nike-dunk-low-gore-tex-black-off-noir-anthracite",
+    "brand": "Nike",
+    "model": "Dunk Low Gore-Tex",
+    "colorway": "Black / Off Noir / Anthracite",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a1f91299-c876-40b0-aa17-a21c2429ac41.jpg?v=1791897686",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_54187e60-80bc-4a2b-aa9b-209e0354ab43.jpg?v=1791897686",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_7a8c1a81-0de2-47fa-bf0f-e13e0f012592.jpg?v=1791897686"
+    ],
+    "description": "You can always count on a classic. Made with premium leather, this Dunk Low features waterproof GORE-TEX to help keep you dry in wet conditions. And like all Dunks, it has plush padding for game-changing comfort that lasts. Waterproof GORE-",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 14995,
+        "url": "https://www.superkicks.in/products/nike-dunk-low-gore-tex-black-off-noir-anthracite",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Dunk%20Low%20Gore-Tex%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Dunk%20Low%20Gore-Tex%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Dunk%20Low%20Gore-Tex%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Dunk%20Low%20Gore-Tex%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Dunk%20Low%20Gore-Tex%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-shox-tl-anthracite-anthracite-black",
+    "slug": "nike-shox-tl-anthracite-anthracite-black",
+    "brand": "Nike",
+    "model": "Shox Tl",
+    "colorway": "Anthracite / Anthracite / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_f26d35c9-a04c-4350-9924-2069885eb847.jpg?v=1791982451",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f39494ca-13d8-426b-8fe8-941624617fd8.jpg?v=1791982451",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5dde3243-b6d1-459b-81b6-a177300e3353.jpg?v=1791982451"
+    ],
+    "description": "The Nike Shox TL takes mechanical cushioning to the next level. A recrafted version of the 2003 icon, it features breathable mesh and full-length Nike Shox technology for optimal impact absorption and a bold look. Nike Shox technology combi",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 15995,
+        "url": "https://www.superkicks.in/products/nike-shox-tl-anthracite-anthracite-black",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Shox%20Tl%20Anthracite",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Shox%20Tl%20Anthracite",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Shox%20Tl%20Anthracite",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Shox%20Tl%20Anthracite",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Shox%20Tl%20Anthracite",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-muse-satin-bleached-lilac-metallic-silver",
+    "slug": "nike-air-max-muse-satin-bleached-lilac-metallic-silver",
+    "brand": "Nike",
+    "model": "Air Max Muse Satin",
+    "colorway": "Bleached Lilac / Metallic Silver",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_7daa9e39-0eb5-4257-9769-06eb4e054d96.jpg?v=1792056759",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_1983b79e-1892-412b-9cfb-03977ccfb5d0.jpg?v=1792056759",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_019e4ec0-0c03-4f9a-8b95-4cc49a334f90.jpg?v=1792056759"
+    ],
+    "description": "The Air Max Muse is a bold, futuristic addition to the Air Max family. Its exaggerated proportions, sleek finishes and unexpectedly high arch showcase the shoe’s namesake Air technology. Get ready. A new era of expression is here. Satin upp",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 14995,
+        "url": "https://www.superkicks.in/products/nike-air-max-muse-satin-bleached-lilac-metallic-silver",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Muse%20Satin%20Bleached%20Lilac",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Muse%20Satin%20Bleached%20Lilac",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Muse%20Satin%20Bleached%20Lilac",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Muse%20Satin%20Bleached%20Lilac",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Muse%20Satin%20Bleached%20Lilac",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
+      }
+    ]
+  },
+  {
     "id": "sk-jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
     "slug": "jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
     "brand": "Jordan",
@@ -19,8 +291,7 @@
     "offers": [
       {
         "retailerId": "superkicks",
-        "price": 16570,
-        "mrp": 19495,
+        "price": 19495,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
         "inStock": true,
         "sizes": [
@@ -30,7 +301,7 @@
           "6",
           "7"
         ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
       },
       {
         "retailerId": "nike",
@@ -824,10 +1095,9 @@
         "inStock": true,
         "sizes": [
           "7",
-          "9",
           "11"
         ],
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
       },
       {
         "retailerId": "nike",
@@ -5428,11 +5698,9 @@
           "5",
           "6",
           "7",
-          "8",
-          "9",
           "10"
         ],
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
+        "fetchedAt": "2026-10-26T08:14:28.116Z"
       },
       {
         "retailerId": "adidas",
@@ -6157,280 +6425,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-28T09:04:57.988Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-jordan-pointe-se-black-cacao-wow-gum-dark-brown",
-    "slug": "jordan-jordan-pointe-se-black-cacao-wow-gum-dark-brown",
-    "brand": "Jordan",
-    "model": "Pointe Se",
-    "colorway": "Black / Cacao Wow / Gum Dark Brown",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_c1c1663a-0a03-4624-ab14-fbdf9a199dac.jpg?v=1790156669",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f603994b-c60c-4840-987c-5339089b6528.jpg?v=1790156669",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_254619d1-8cce-4d40-b8f0-7ca290e4d26a.jpg?v=1790156669"
-    ],
-    "description": "The Jordan Pointe blends the best of training and ballet to make a low-profile beauty. Inspired by the ribbons of pointe shoes, the hidden lacing system gives you multiple styling options—while the chunky sole and sleek leather give it a sp",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11995,
-        "url": "https://www.superkicks.in/products/jordan-jordan-pointe-se-black-cacao-wow-gum-dark-brown",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Pointe%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Pointe%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Pointe%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Pointe%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Pointe%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-ecstasy-plus-metallic-silver-black-white",
-    "slug": "nike-air-max-ecstasy-plus-metallic-silver-black-white",
-    "brand": "Nike",
-    "model": "Air Max Ecstasy Plus",
-    "colorway": "Metallic Silver / Black / White",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_9410bf96-98ec-4b0a-9730-babb5169b000.jpg?v=1790158417",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_65d02f94-4b65-4ed4-ba16-3f7cbc0aba5f.jpg?v=1790158417",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d2e0331f-38c8-4052-8f8f-a75fa4e0371f.jpg?v=1790158417"
-    ],
-    "description": "Nike Air technology absorbs impact for cushioning with every step. More Details Low-cut collar",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 15995,
-        "url": "https://www.superkicks.in/products/nike-air-max-ecstasy-plus-metallic-silver-black-white",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "9",
-          "11"
-        ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Metallic%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Ecstasy%20Plus%20Metallic%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Metallic%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Ecstasy%20Plus%20Metallic%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Metallic%20Silver",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-se-black-team-red-gum-med-brown",
-    "slug": "nike-air-force-1-07-se-black-team-red-gum-med-brown",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Mid Se",
-    "colorway": "Black / Team Red / Gum Med Brown",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#e7dfcd",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/IQ5491-001.jpg?v=1791277924",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_9d1565df-5c52-468b-854b-aa61a868eed2.jpg?v=1790254627",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/24_52d05812-0a94-46f0-93c2-3ad33f153f56.jpg?v=1790254627"
-    ],
-    "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colors and crisp leather give it a distinct identity. Nike Air technology absorbs impact for cushioning with every step. Leather upper offers",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12495,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-se-black-team-red-gum-med-brown",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-26T08:05:16.369Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-comfort-ride-easyon-smoke-grey-black-volt-dk-smoke-grey",
-    "slug": "nike-comfort-ride-easyon-smoke-grey-black-volt-dk-smoke-grey",
-    "brand": "Nike",
-    "model": "Comfort Ride Easyon",
-    "colorway": "Smoke Grey / Black / Volt / Dk Smoke Grey",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d7efbd45-051b-4bf8-92e0-a2ca42b959f7.jpg?v=1790253953",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f2eea562-1b69-49c5-9757-9cfab56dc9dc.jpg?v=1790253953",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_11f468c4-698d-41eb-933f-399e65605be4.jpg?v=1790253953"
-    ],
-    "description": "How’s the air up there? In the Nike Comfort Ride, it’s downright aerial. With ultra-high, head-turning foam cushioning every step and stride, it’s made for mega miles and more. That mattress-like stack combines with a supportive midfoot sys",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11895,
-        "url": "https://www.superkicks.in/products/nike-comfort-ride-easyon-smoke-grey-black-volt-dk-smoke-grey",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8"
-        ],
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Comfort%20Ride%20Easyon%20Smoke%20Grey",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
       }
     ]
   }
