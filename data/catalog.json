@@ -1,5 +1,142 @@
 [
   {
+    "id": "sk-nike-air-max-90-futura-red-stardust-rugged-orange-summit-white",
+    "slug": "nike-air-max-90-futura-red-stardust-rugged-orange-summit-white",
+    "brand": "Nike",
+    "model": "Air Max 90 Futura",
+    "colorway": "Red Stardust / Rugged Orange / Summit White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#c2362f",
+      "#d8702f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b0c3bfd9-17de-4b44-8a02-824e65095750.jpg?v=1787145004",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/17_8df8ba61-713d-47ee-beef-f3cdfc8297f6.jpg?v=1787145004",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9a1e4270-528d-4bba-945d-e08d44ba160c.jpg?v=1787145004"
+    ],
+    "description": "Ready to take your style up a notch? We've reimagined an icon of Air to bring you the perfect mix of throwback details and futuristic design. Sawtooth edging around the outsole combines with smooth leather and partially floating Swoosh logo",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12795,
+        "url": "https://www.superkicks.in/products/nike-air-max-90-futura-red-stardust-rugged-orange-summit-white",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2090%20Futura%20Red%20Stardust",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2090%20Futura%20Red%20Stardust",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2090%20Futura%20Red%20Stardust",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2090%20Futura%20Red%20Stardust",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2090%20Futura%20Red%20Stardust",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-dn8-leather-flax-fauna-brown",
+    "slug": "nike-air-max-dn8-leather-flax-fauna-brown",
+    "brand": "Nike",
+    "model": "Air Max Dn8 Leather",
+    "colorway": "Flax / Fauna Brown",
+    "category": "Lifestyle",
+    "palette": [
+      "#6b4a2f",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_06e01d02-56e8-44d8-a441-bd67905dc13f.jpg?v=1786972389",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0188032a-f2d0-43b4-83e4-f836dc11827f.jpg?v=1786972389",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_32dfcc90-36e1-47c6-bf98-af083f902a0c.jpg?v=1786972389"
+    ],
+    "description": "More Air, less bulk. The Dn8 takes our Dynamic Air system and condenses it into a sleek, low-profile package. Powered by eight pressurized Air tubes, it gives you a responsive sensation with every step. Enter an unreal experience of movemen",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19295,
+        "url": "https://www.superkicks.in/products/nike-air-max-dn8-leather-flax-fauna-brown",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Dn8%20Leather%20Flax",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Dn8%20Leather%20Flax",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Dn8%20Leather%20Flax",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Dn8%20Leather%20Flax",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Dn8%20Leather%20Flax",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
+      }
+    ]
+  },
+  {
     "id": "sk-jordan-air-jordan-1-mid-se-black-chalk-velvet-brown",
     "slug": "jordan-air-jordan-1-mid-se-black-chalk-velvet-brown",
     "brand": "Jordan",
@@ -492,13 +629,15 @@
         "url": "https://www.superkicks.in/products/nike-sb-air-force-1-se-black-game-royal-black-white",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
           "8",
           "9",
           "10",
-          "11"
+          "11",
+          "12"
         ],
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "nike",
@@ -1029,9 +1168,10 @@
         "sizes": [
           "4",
           "5",
-          "6"
+          "6",
+          "7"
         ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "nike",
@@ -1094,10 +1234,14 @@
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-cargo-khaki-cargo-khaki-black",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
+          "8",
+          "9",
+          "10",
           "11"
         ],
-        "fetchedAt": "2026-10-26T08:14:28.116Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "nike",
@@ -1532,10 +1676,12 @@
         "inStock": true,
         "sizes": [
           "7",
+          "8",
+          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "amazon",
@@ -1873,9 +2019,10 @@
         "sizes": [
           "4",
           "5",
-          "6"
+          "6",
+          "7"
         ],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "nike",
@@ -3189,9 +3336,10 @@
           "7",
           "8",
           "9",
+          "10",
           "11"
         ],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "amazon",
@@ -3755,10 +3903,9 @@
         "url": "https://www.superkicks.in/products/nike-p-6000-white-metallic-silver-grey-fog-iron-grey",
         "inStock": true,
         "sizes": [
-          "8",
           "9"
         ],
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "nike",
@@ -3822,11 +3969,12 @@
         "inStock": true,
         "sizes": [
           "7",
+          "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "amazon",
@@ -4495,9 +4643,11 @@
         "url": "https://www.superkicks.in/products/adidas-originals-x-hellstar-megaride-s2-bright-red-core-black",
         "inStock": true,
         "sizes": [
-          "7"
+          "7",
+          "8",
+          "10"
         ],
-        "fetchedAt": "2026-10-11T09:27:04.274Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "adidas",
@@ -4627,9 +4777,12 @@
         "url": "https://www.superkicks.in/products/adidas-originals-samba-og-mercedes-amg-petronas-f1-team-core-black-core-black-silver-metallic",
         "inStock": true,
         "sizes": [
-          "9"
+          "7",
+          "8",
+          "9",
+          "11"
         ],
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "adidas",
@@ -5834,14 +5987,14 @@
         "url": "https://www.superkicks.in/products/adidas-original-samba-og-mule-cloud-white-core-black-gum",
         "inStock": true,
         "sizes": [
-          "3",
           "4",
           "5",
+          "6",
           "7",
           "8",
           "9"
         ],
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "adidas",
@@ -5907,9 +6060,10 @@
         "sizes": [
           "3",
           "4",
-          "5"
+          "5",
+          "7"
         ],
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
+        "fetchedAt": "2026-10-27T08:28:17.357Z"
       },
       {
         "retailerId": "adidas",
@@ -6286,145 +6440,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-dolce-old-royal-black-old-royal",
-    "slug": "nike-air-max-dolce-old-royal-black-old-royal",
-    "brand": "Nike",
-    "model": "Air Max Dolce",
-    "colorway": "Old Royal / Black / Old Royal",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#2f5fa6"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3aed11b6-21f9-4372-bf99-00edd6b2f549.jpg?v=1790588690",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0909b6b6-753c-4e1d-8822-d6affc5c25d7.jpg?v=1790588690",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_320ebcbc-c899-4e25-a368-395b7d02e694.jpg?v=1790588691"
-    ],
-    "description": "From running to the red carpet, the Air Max Dolce has lived a life. Now it's back, ready for whatever's next. The details that make the Dolce a standout member of the Air Max family remain, from the laceless, molded upper with its overlay c",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 14995,
-        "url": "https://www.superkicks.in/products/nike-air-max-dolce-old-royal-black-old-royal",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Dolce%20Old%20Royal",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-29T09:13:51.188Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Dolce%20Old%20Royal",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-29T09:13:51.188Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Dolce%20Old%20Royal",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-29T09:13:51.188Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Dolce%20Old%20Royal",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-29T09:13:51.188Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Dolce%20Old%20Royal",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-29T09:13:51.188Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-low-se-cacao-wow-pearl-white-rust-pink",
-    "slug": "jordan-air-jordan-1-low-se-cacao-wow-pearl-white-rust-pink",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Low Se",
-    "colorway": "Cacao Wow / Pearl White / Rust Pink",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#e093a6",
-      "#d8702f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_94f77260-358a-4a0d-a71a-a7d742c72cec.jpg?v=1789994632",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_bc5a20d1-bdfa-409e-a696-535a1d82d195.jpg?v=1789994632",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_d96e461a-6798-4f9f-9e9e-5ab6ba51c86c.jpg?v=1789994632"
-    ],
-    "description": "An iconic look that lasts. This AJ1 pairs the classic design of the original with premium materials that will keep you going all day. Real leather upper delivers durable comfort. Nike Air technology absorbs impact for cushioning with every ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11495,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-cacao-wow-pearl-white-rust-pink",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7",
-          "8",
-          "9"
-        ],
-        "fetchedAt": "2026-10-07T09:29:39.153Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Se%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Se%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Cacao%20Wow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-28T09:04:57.988Z"
       }
     ]
   }
