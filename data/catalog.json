@@ -1,14 +1,216 @@
 [
   {
-    "id": "sk-new-balance-9060-blue-cream",
-    "slug": "new-balance-9060-blue-cream",
+    "id": "sk-new-balance-2010-sport-green-wakame",
+    "slug": "new-balance-2010-sport-green-wakame",
     "brand": "New Balance",
-    "model": "9060",
-    "colorway": "Blue / Cream",
+    "model": "2010",
+    "colorway": "Sport Green / Wakame",
     "category": "Lifestyle",
     "palette": [
-      "#e7dfcd",
-      "#2f5fa6"
+      "#2f6f4e",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f3db7bf0-75c9-4989-b326-edd4c8164d18.jpg?v=1793188504",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3a10e9e1-e3b8-4a70-a3f7-f8a2016b6980.jpg?v=1793188504",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_88338575-3bab-4323-b0ce-8e96ab0d1016.jpg?v=1793188504"
+    ],
+    "description": "The ABZORB 2010 combines the excitement of a progressive, all-new style with a sense of the familiar. The segmented ABZORB sole unit, a signature feature of several 2000s-era fan favorites, features more expansive proportions, becoming the ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16999,
+        "url": "https://www.superkicks.in/products/new-balance-2010-sport-green-wakame",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%202010%20Sport%20Green",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%202010%20Sport%20Green",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%202010%20Sport%20Green",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%202010%20Sport%20Green",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-moon-shoe-og-black-sail-black-safety-orange",
+    "slug": "nike-moon-shoe-og-black-sail-black-safety-orange",
+    "brand": "Nike",
+    "model": "Moon Shoe OG",
+    "colorway": "Black / Sail / Black / Safety Orange",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#d8702f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_90d1b53c-cd10-4860-8938-3e6a9724bede.jpg?v=1793100381",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_85c58b60-ac50-4a8e-9db4-643f0e533d72.jpg?v=1793100381",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_cc61ae38-4780-4930-b56d-5277a90b314a.jpg?v=1793100381"
+    ],
+    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using his wife's waffle iron. This modern take brings the original design back into the limelight. The nylon upper, complete with leather Swoosh, pairs",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8995,
+        "url": "https://www.superkicks.in/products/nike-moon-shoe-og-black-sail-black-safety-orange",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20OG%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20OG%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20OG%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20OG%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20OG%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-force-1-07-se-black-multi-color-wheat-desert-ochre",
+    "slug": "nike-air-force-1-07-se-black-multi-color-wheat-desert-ochre",
+    "brand": "Nike",
+    "model": "Air Force 1 '07 Se",
+    "colorway": "Black / Multi / Color / Wheat / Desert Ochre",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_dda61d94-3ce8-45e7-9d17-5712a67b67c8.jpg?v=1793099907",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_72034e2c-79ac-4c17-b290-5fda069daca3.jpg?v=1793099908",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_98571fe0-d017-4528-b8e8-9a9fa713cf85.jpg?v=1793099907"
+    ],
+    "description": "Comfortable, durable and timeless—it’s number one for a reason. This Air Force 1 updates its classic silhouette by pairing mixed materials with leopard and metallic accents. Real and synthetic leather upper with perforated toe box is breath",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9995,
+        "url": "https://www.superkicks.in/products/nike-air-force-1-07-se-black-multi-color-wheat-desert-ochre",
+        "inStock": true,
+        "sizes": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-9060-vintage-indigo-pumpernickel",
+    "slug": "new-balance-9060-vintage-indigo-pumpernickel",
+    "brand": "New Balance",
+    "model": "9060",
+    "colorway": "Vintage Indigo / Pumpernickel",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
     ],
     "images": [
       "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c51b53a7-53a4-4259-9e91-93001f700825.jpg?v=1793174038",
@@ -20,7 +222,7 @@
       {
         "retailerId": "superkicks",
         "price": 18999,
-        "url": "https://www.superkicks.in/products/new-balance-9060-blue-cream",
+        "url": "https://www.superkicks.in/products/new-balance-9060-vintage-indigo-pumpernickel",
         "inStock": true,
         "sizes": [
           "7",
@@ -29,35 +231,35 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       },
       {
         "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Blue",
+        "url": "https://www.amazon.in/s?k=New%20Balance%209060%20Vintage%20Indigo",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       },
       {
         "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Blue",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%209060%20Vintage%20Indigo",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       },
       {
         "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Blue",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%209060%20Vintage%20Indigo",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       },
       {
         "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Blue",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%209060%20Vintage%20Indigo",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       }
     ]
   },
@@ -152,9 +354,10 @@
           "8",
           "9",
           "10",
-          "11"
+          "11",
+          "12"
         ],
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       },
       {
         "retailerId": "nike",
@@ -899,12 +1102,11 @@
         "url": "https://www.superkicks.in/products/converse-as-1-pro-navy-armor-blue-classic-ecru",
         "inStock": true,
         "sizes": [
-          "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       },
       {
         "retailerId": "amazon",
@@ -964,11 +1166,9 @@
           "6",
           "7",
           "8",
-          "9",
-          "10",
-          "11"
+          "9"
         ],
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       },
       {
         "retailerId": "nike",
@@ -1360,13 +1560,15 @@
         "url": "https://www.superkicks.in/products/nike-ava-edge-se-black-racer-blue-black-metallic-silver",
         "inStock": true,
         "sizes": [
+          "6",
           "7",
           "8",
           "9",
           "10",
-          "11"
+          "11",
+          "12"
         ],
-        "fetchedAt": "2026-10-21T08:05:18.028Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       },
       {
         "retailerId": "nike",
@@ -1431,10 +1633,9 @@
         "sizes": [
           "6",
           "7",
-          "8",
-          "10"
+          "8"
         ],
-        "fetchedAt": "2026-10-22T08:04:46.762Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       },
       {
         "retailerId": "nike",
@@ -3192,10 +3393,9 @@
         "inStock": true,
         "sizes": [
           "6",
-          "9",
           "12"
         ],
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       },
       {
         "retailerId": "adidas",
@@ -3533,10 +3733,9 @@
         "inStock": true,
         "sizes": [
           "3",
-          "4",
-          "6"
+          "4"
         ],
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
+        "fetchedAt": "2026-10-29T09:04:16.345Z"
       },
       {
         "retailerId": "nike",
@@ -5303,9 +5502,9 @@
       "#c2362f"
     ],
     "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_43387c28-ba92-4b3b-bc52-efa01bf40b07.jpg?v=1790771395",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4528ebd3-90b9-4f1a-844e-f3b52a96acec.jpg?v=1790771395",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_ccc5cd2d-16ca-4d00-a6e6-2ef79d040eef.jpg?v=1790771395"
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/11_9b933bb0-4437-449a-8f1a-38b10921de7c.jpg?v=1793261251",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/20_212d10c1-a7eb-4554-8899-ae4753474620.jpg?v=1793261251",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/9_6168d8ac-8dff-4f14-8ba7-cb7779c9639b.jpg?v=1793261251"
     ],
     "description": "The GEL-NYC sneaker sources inspiration from heritage and modern performance running styles. Its upper construction references the GEL-NIMBUS 3 shoe from the early 2000s and blends it with various embellishments from the GEL-MC PLUS V shoe ",
     "offers": [
@@ -5365,9 +5564,9 @@
       "#9b9b94"
     ],
     "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6aafbf14-2e6c-4363-96d4-024f073a6482.jpg?v=1790772488",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_1_b3bbb703-8e17-43d1-88a2-18a04bfd4bf0.jpg?v=1790772488",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_7090d546-94dc-4307-923f-ed1760730a0e.jpg?v=1790772488"
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_2b0d22b6-c3db-4d2b-95e7-c4b415910f7c.jpg?v=1793261394",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_1892fd31-3a36-4acf-a9c7-acc06f128ac7.jpg?v=1793261394",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_558563df-f48a-4895-aa81-d1eae474b5e7.jpg?v=1793261394"
     ],
     "description": "The GEL-NYC sneaker sources inspiration from heritage and modern performance running styles. Its upper construction references the GEL-NIMBUS 3 shoe from the early 2000s and blends it with various embellishments from the GEL-MC PLUS V shoe ",
     "offers": [
@@ -6218,216 +6417,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Mule%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-samba-ballet-core-black-off-white-gum",
-    "slug": "adidas-originals-samba-ballet-core-black-off-white-gum",
-    "brand": "adidas",
-    "model": "Samba Ballet",
-    "colorway": "Core Black / Off White / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_e1ea01c6-bf29-4006-8db2-c80acf1106f2.jpg?v=1790683674",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5b532f4d-2665-48ac-ba67-c311715ebcef.jpg?v=1790683674",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_e505542c-3d8f-4082-add3-161c8d758030.jpg?v=1790683674"
-    ],
-    "description": "Discover a world of timeless style with the Samba Ballet Shoes. Inspired by the legendary Samba silhouette, these shoes bring a modern twist to heritage design, making them a staple for those who value both fashion and comfort. Crafted with",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9999,
-        "url": "https://www.superkicks.in/products/adidas-originals-samba-ballet-core-black-off-white-gum",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20Ballet%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Samba%20Ballet%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20Ballet%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20Ballet%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20Ballet%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-original-samba-og-mule-cloud-white-core-black-gum",
-    "slug": "adidas-original-samba-og-mule-cloud-white-core-black-gum",
-    "brand": "adidas",
-    "model": "Samba OG Mule",
-    "colorway": "Cloud White / Core Black / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4ee7097a-d34e-4540-9acb-032584e5ae5a.jpg?v=1790684207",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_62ae7e48-9dea-4c42-8c3d-8c7e44736f04.jpg?v=1790684207",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_80fed0d0-adab-4edf-9e05-6083ac274666.jpg?v=1790684207"
-    ],
-    "description": "The Samba Og Mule Shoes Redefine A True Adidas Icon With Effortless, Everyday Appeal. Drawing From The Legendary Samba Og, They Retain Signature Elements—the Crisp T-toe, Refined Lace Details, And A Streamlined Outsole—while Embracing A Mor",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9999,
-        "url": "https://www.superkicks.in/products/adidas-original-samba-og-mule-cloud-white-core-black-gum",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7",
-          "8",
-          "9"
-        ],
-        "fetchedAt": "2026-10-27T08:28:17.357Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20OG%20Mule%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Samba%20OG%20Mule%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20OG%20Mule%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20OG%20Mule%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Mule%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-samba-ballet-off-white-core-black-gum",
-    "slug": "adidas-originals-samba-ballet-off-white-core-black-gum",
-    "brand": "adidas",
-    "model": "Samba Ballet",
-    "colorway": "Off / White / Core / Black / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_40703c38-5647-4f65-87ec-2b7ed794566e.jpg?v=1790682911",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ea192c32-780e-45e1-b642-4e464076c9b7.jpg?v=1790682912",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d8cb479f-a1e0-4c17-8b39-3d521df95066.jpg?v=1790682912"
-    ],
-    "description": "The adidas Samba Ballet Womens reimagines an icon through a feminine ballet-inspired silhouette. This cream colourway features a smooth leather upper with contrasting black 3-Stripes transformed into adjustable buckle straps, creating a Mar",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9999,
-        "url": "https://www.superkicks.in/products/adidas-originals-samba-ballet-off-white-core-black-gum",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "7"
-        ],
-        "fetchedAt": "2026-10-27T08:28:17.357Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20Ballet%20Off",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Samba%20Ballet%20Off",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20Ballet%20Off",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20Ballet%20Off",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20Ballet%20Off",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-30T09:07:10.855Z"
