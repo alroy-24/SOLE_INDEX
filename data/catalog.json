@@ -1,5 +1,70 @@
 [
   {
+    "id": "sk-adidas-pw-adistar-jellyfish-white-white-white",
+    "slug": "adidas-pw-adistar-jellyfish-white-white-white",
+    "brand": "adidas",
+    "model": "Pw Adistar Jellyfish",
+    "colorway": "White / White / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#161616"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a89b174d-7ba0-452d-8fb0-9a0f2946fc08.jpg?v=1785830821",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/7_ffad1819-f475-47b5-af37-16119b64f00c.jpg?v=1785830821",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_df784456-2eb0-442a-b29a-f3b0ff15d9b0.jpg?v=1785830821"
+    ],
+    "description": "PW Adistar Jellyfish Shoes The newest release from adidas Originals by Pharrell Williams.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 29999,
+        "url": "https://www.superkicks.in/products/adidas-pw-adistar-jellyfish-white-white-white",
+        "inStock": true,
+        "sizes": [
+          "7.5"
+        ],
+        "fetchedAt": "2026-10-30T09:15:10.301Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Pw%20Adistar%20Jellyfish%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-30T09:15:10.301Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Pw%20Adistar%20Jellyfish%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-30T09:15:10.301Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-30T09:15:10.301Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Pw%20Adistar%20Jellyfish%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-30T09:15:10.301Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Pw%20Adistar%20Jellyfish%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-10-30T09:15:10.301Z"
+      }
+    ]
+  },
+  {
     "id": "sk-new-balance-2010-sport-green-wakame",
     "slug": "new-balance-2010-sport-green-wakame",
     "brand": "New Balance",
@@ -763,14 +828,13 @@
         "url": "https://www.superkicks.in/products/nike-dunk-low-gore-tex-black-off-noir-anthracite",
         "inStock": true,
         "sizes": [
-          "6",
           "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-26T08:14:28.116Z"
+        "fetchedAt": "2026-10-30T09:15:10.301Z"
       },
       {
         "retailerId": "nike",
@@ -1165,10 +1229,9 @@
         "sizes": [
           "6",
           "7",
-          "8",
           "9"
         ],
-        "fetchedAt": "2026-10-29T09:04:16.345Z"
+        "fetchedAt": "2026-10-30T09:15:10.301Z"
       },
       {
         "retailerId": "nike",
@@ -1231,9 +1294,10 @@
         "url": "https://www.superkicks.in/products/nike-wmns-air-force-1-07-black-black-black-black",
         "inStock": true,
         "sizes": [
-          "3"
+          "3",
+          "4"
         ],
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
+        "fetchedAt": "2026-10-30T09:15:10.301Z"
       },
       {
         "retailerId": "nike",
@@ -3733,9 +3797,10 @@
         "inStock": true,
         "sizes": [
           "3",
-          "4"
+          "4",
+          "5"
         ],
-        "fetchedAt": "2026-10-29T09:04:16.345Z"
+        "fetchedAt": "2026-10-30T09:15:10.301Z"
       },
       {
         "retailerId": "nike",
@@ -6172,10 +6237,9 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10"
         ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
+        "fetchedAt": "2026-10-30T09:15:10.301Z"
       },
       {
         "retailerId": "nike",
@@ -6346,77 +6410,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=adidas%20Formotion%20F50%20Maroon",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-original-samba-og-mule-core-black-cloud-white-gum",
-    "slug": "adidas-original-samba-og-mule-core-black-cloud-white-gum",
-    "brand": "adidas",
-    "model": "Samba OG Mule",
-    "colorway": "Core Black / Cloud White / Gum",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c3cd9aaf-0fa8-4eed-9226-9e0626eec6f6.jpg?v=1790684408",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_a2af1ffe-adf8-4f6d-b221-1958c4ada306.jpg?v=1790684408",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_1d181e76-64e8-4869-a491-2d2259036beb.jpg?v=1790684408"
-    ],
-    "description": "The Samba Og Mule Shoes Redefine A True Adidas Icon With Effortless, Everyday Appeal. Drawing From The Legendary Samba Og, They Retain Signature Elements—the Crisp T-toe, Refined Lace Details, And A Streamlined Outsole—while Embracing A Mor",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9999,
-        "url": "https://www.superkicks.in/products/adidas-original-samba-og-mule-core-black-cloud-white-gum",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7",
-          "10"
-        ],
-        "fetchedAt": "2026-10-26T08:14:28.116Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Samba%20OG%20Mule%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Samba%20OG%20Mule%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Samba%20OG%20Mule%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Samba%20OG%20Mule%20Core%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Samba%20OG%20Mule%20Core%20Black",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-30T09:07:10.855Z"
