@@ -1,5 +1,256 @@
 [
   {
+    "id": "sk-thaely-tech-tabi-sulfur-yellow",
+    "slug": "thaely-tech-tabi-sulfur-yellow",
+    "brand": "Thaely",
+    "model": "Tech Tabi",
+    "colorway": "Sulfur Yellow",
+    "category": "Lifestyle",
+    "palette": [
+      "#d9b441",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_012845fb-8605-4fec-b37a-cc72005cf148.jpg?v=1793462996",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ed7a1ea4-b915-44d4-bcbc-3973ef756ad6.jpg?v=1793462996",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_d7dc7e58-912f-4930-8267-a3f750e9e4d1.jpg?v=1793462996"
+    ],
+    "description": "Feel Everything. Wear Nothing. The Tech Tabi is Thaely’s barefoot-inspired sneaker built for running, trail, and training. Designed with a wide toe box and a low, grippy outsole, it lets your feet move naturally and stay connected to the gr",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 3500,
+        "url": "https://www.superkicks.in/products/thaely-tech-tabi-sulfur-yellow",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Thaely%20Tech%20Tabi%20Sulfur%20Yellow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Thaely%20Tech%20Tabi%20Sulfur%20Yellow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Thaely%20Tech%20Tabi%20Sulfur%20Yellow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Thaely%20Tech%20Tabi%20Sulfur%20Yellow",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-thaely-tech-tabi-ruby-red",
+    "slug": "thaely-tech-tabi-ruby-red",
+    "brand": "Thaely",
+    "model": "Tech Tabi",
+    "colorway": "Ruby Red",
+    "category": "Lifestyle",
+    "palette": [
+      "#c2362f",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_2fe91f66-cc89-443c-bfd0-e3e6f8408e72.jpg?v=1793462841",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_563b1eed-75f8-48ce-880c-d759cd2d777c.jpg?v=1793462840",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_f8df2a37-4061-4118-814c-e6234a29e1b7.jpg?v=1793462840"
+    ],
+    "description": "Feel Everything. Wear Nothing. The Tech Tabi is Thaely’s barefoot-inspired sneaker built for running, trail, and training. Designed with a wide toe box and a low, grippy outsole, it lets your feet move naturally and stay connected to the gr",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 3500,
+        "url": "https://www.superkicks.in/products/thaely-tech-tabi-ruby-red",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Thaely%20Tech%20Tabi%20Ruby%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Thaely%20Tech%20Tabi%20Ruby%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Thaely%20Tech%20Tabi%20Ruby%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Thaely%20Tech%20Tabi%20Ruby%20Red",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-thaely-tech-tabi-lapis-blue",
+    "slug": "thaely-tech-tabi-lapis-blue",
+    "brand": "Thaely",
+    "model": "Tech Tabi",
+    "colorway": "Lapis Blue",
+    "category": "Lifestyle",
+    "palette": [
+      "#2f5fa6",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_0e9e4d8d-25fb-4a52-b991-df3fdf05c5f9.jpg?v=1793462654",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_5a248345-b009-4958-906c-8b043f20d6e8.jpg?v=1793462654",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d33054b5-ca8a-4ba1-bb80-adbf574daa87.jpg?v=1793462654"
+    ],
+    "description": "Feel Everything. Wear Nothing. The Tech Tabi is Thaely’s barefoot-inspired sneaker built for running, trail, and training. Designed with a wide toe box and a low, grippy outsole, it lets your feet move naturally and stay connected to the gr",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 3500,
+        "url": "https://www.superkicks.in/products/thaely-tech-tabi-lapis-blue",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Thaely%20Tech%20Tabi%20Lapis%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Thaely%20Tech%20Tabi%20Lapis%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Thaely%20Tech%20Tabi%20Lapis%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Thaely%20Tech%20Tabi%20Lapis%20Blue",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-new-balance-740-slate-grey",
+    "slug": "new-balance-740-slate-grey",
+    "brand": "New Balance",
+    "model": "740",
+    "colorway": "Slate Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_b6791632-928e-4859-8b9f-8df0c78d5975.jpg?v=1793340583",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_80a4b54f-ba46-428f-806c-1080dc112887.jpg?v=1793340584",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_c08a9666-f174-4a80-9860-f8ba6e91f340.jpg?v=1793340584"
+    ],
+    "description": "The original 740 was the kind of daily runner that would be worn into the ground with heavy miles and bought all over again. This longtime fan favorite returns from the archives, poised to inspire a whole new generation of devotees. The 740",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/new-balance-740-slate-grey",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=New%20Balance%20740%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=New%20Balance%20740%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=New%20Balance%20740%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20740%20Slate%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
+      }
+    ]
+  },
+  {
     "id": "sk-adidas-pw-adistar-jellyfish-white-white-white",
     "slug": "adidas-pw-adistar-jellyfish-white-white-white",
     "brand": "adidas",
@@ -2401,13 +2652,12 @@
         "url": "https://www.superkicks.in/products/nike-p-6000-black-metallic-silver-pencil-point",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
       },
       {
         "retailerId": "nike",
@@ -2682,10 +2932,9 @@
           "6",
           "7",
           "8",
-          "9",
           "10"
         ],
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
       },
       {
         "retailerId": "nike",
@@ -3103,14 +3352,13 @@
         "url": "https://www.superkicks.in/products/nike-shox-r4-black-challenge-red-black",
         "inStock": true,
         "sizes": [
-          "6",
           "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
+        "fetchedAt": "2026-11-01T09:52:09.759Z"
       },
       {
         "retailerId": "nike",
@@ -6135,278 +6383,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-moon-shoe-mystic-dates-sail-tough-red",
-    "slug": "nike-moon-shoe-mystic-dates-sail-tough-red",
-    "brand": "Nike",
-    "model": "Moon Shoe",
-    "colorway": "Mystic Dates / Sail / Tough Red",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_acf4194c-177f-47fd-b0e3-efb3c9439da3.jpg?v=1790589032",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4f84a58e-a293-4727-9b92-715c72b0600d.jpg?v=1790589032",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_95b62ee1-c80a-473f-bc11-61487a92d025.jpg?v=1790589032"
-    ],
-    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using a waffle iron—the Moon Shoe. We're bringing the original design back into the limelight. The nylon upper pairs with a Waffle sole to recreate tha",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/nike-moon-shoe-mystic-dates-sail-tough-red",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20Mystic%20Dates",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20Mystic%20Dates",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20Mystic%20Dates",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-ecstasy-plus-black-black-black",
-    "slug": "nike-air-max-ecstasy-plus-black-black-black",
-    "brand": "Nike",
-    "model": "Air Max Ecstasy Plus",
-    "colorway": "Black / Black / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b873e016-706c-47a2-9eee-f681225717f8.jpg?v=1790679863",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4f99eb13-f9f8-4905-bf1e-37845f5340f2.jpg?v=1790679863",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6b3ed40c-272d-4860-a4fb-167f34fb5f2a.jpg?v=1790679863"
-    ],
-    "description": "Nike Air technology absorbs impact for cushioning with every step. More Details Low-cut collar",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 15995,
-        "url": "https://www.superkicks.in/products/nike-air-max-ecstasy-plus-black-black-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "10"
-        ],
-        "fetchedAt": "2026-10-30T09:15:10.301Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Ecstasy%20Plus%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-adi2000-earth-strata-cloud-white-magic-beige",
-    "slug": "adidas-originals-adi2000-earth-strata-cloud-white-magic-beige",
-    "brand": "adidas",
-    "model": "Adi2000",
-    "colorway": "Earth Strata / Cloud White / Magic Beige",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#e7dfcd",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_49ba8474-1fc0-4253-b340-d3c3163009ca.jpg?v=1790683267",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_6c3c71fe-f394-454f-bd51-82e88d017e28.jpg?v=1790683267",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_dc1b6630-b9de-47ce-a1dc-4e19b11a6029.jpg?v=1790683267"
-    ],
-    "description": "The adi2000 Shoes bring back the early 2000s look in a way that fits into everyday wear. They're made using a mix of leather and suede, which makes them feel strong and look good at the same time. You'll notice the classic Trefoil logo and ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10999,
-        "url": "https://www.superkicks.in/products/adidas-originals-adi2000-earth-strata-cloud-white-magic-beige",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-21T08:05:18.028Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Adi2000%20Earth%20Strata",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Adi2000%20Earth%20Strata",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Adi2000%20Earth%20Strata",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Adi2000%20Earth%20Strata",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Adi2000%20Earth%20Strata",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-formotion-f50-maroon-iron-metallic-cream-white",
-    "slug": "adidas-formotion-f50-maroon-iron-metallic-cream-white",
-    "brand": "adidas",
-    "model": "Formotion F50",
-    "colorway": "Maroon / Iron Metallic / Cream White",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d2e4ac7b-3671-4664-9cef-56167648ef64.jpg?v=1790683987",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_837e4873-df9d-4dd5-befa-c395bd0c6cba.jpg?v=1790683987",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a3fba303-d771-4898-ba40-0eda52b07f47.jpg?v=1790683987"
-    ],
-    "description": "Head Into The City With Confidence In The Formotion F50 Shoes. Designed For Those Who Move With Purpose, These Shoes Blend Classic Adidas Heritage With Modern Street Style, Making Them A Standout Choice For City Explorers And Trendsetters A",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 14999,
-        "url": "https://www.superkicks.in/products/adidas-formotion-f50-maroon-iron-metallic-cream-white",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Formotion%20F50%20Maroon",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Formotion%20F50%20Maroon",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Formotion%20F50%20Maroon",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Formotion%20F50%20Maroon",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Formotion%20F50%20Maroon",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-09-30T09:07:10.855Z"
