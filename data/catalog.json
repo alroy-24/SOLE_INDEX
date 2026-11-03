@@ -1,5 +1,132 @@
 [
   {
+    "id": "sk-asics-hypersync-cocoa-powder-cocoa-powder",
+    "slug": "asics-hypersync-cocoa-powder-cocoa-powder",
+    "brand": "Asics",
+    "model": "Hypersync",
+    "colorway": "Cocoa Powder / Cocoa Powder",
+    "category": "Lifestyle",
+    "palette": [
+      "#2f5fa6",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_98823dfa-cfc1-4119-b049-ec195d9ca805.jpg?v=1788517044",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a52ce244-980d-4382-b6aa-0be53bb1f273.jpg?v=1788517043",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_b28b82cb-c9bf-4b36-a02d-9943df5aef92.jpg?v=1788517044"
+    ],
+    "description": "The HYPERSYNC™ shoe draws inspiration from archived wrestling and track field footwear. This silhouette allows you to connect more closely with your surrounding environments and experience the present moment. The upper channels influences f",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12999,
+        "url": "https://www.superkicks.in/products/asics-hypersync-cocoa-powder-cocoa-powder",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Hypersync%20Cocoa%20Powder",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Hypersync%20Cocoa%20Powder",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Hypersync%20Cocoa%20Powder",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Hypersync%20Cocoa%20Powder",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-asics-hypersync-black-black",
+    "slug": "asics-hypersync-black-black",
+    "brand": "Asics",
+    "model": "Hypersync",
+    "colorway": "Black / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_aa753403-fd78-4321-a0d9-a9611ecdc4e9.jpg?v=1788516883",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_96f4a16f-3577-4e2b-a71c-2ffd96e1b6da.jpg?v=1788516883",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_3a33fcc1-4614-4f85-aebf-908c480cfa67.jpg?v=1788516883"
+    ],
+    "description": "The HYPERSYNC™ shoe draws inspiration from archived wrestling and track field footwear. This silhouette allows you to connect more closely with your surrounding environments and experience the present moment. The upper channels influences f",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12999,
+        "url": "https://www.superkicks.in/products/asics-hypersync-black-black",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Hypersync%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Hypersync%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Hypersync%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Hypersync%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
+      }
+    ]
+  },
+  {
     "id": "sk-thaely-tech-tabi-sulfur-yellow",
     "slug": "thaely-tech-tabi-sulfur-yellow",
     "brand": "Thaely",
@@ -2555,10 +2682,10 @@
     ]
   },
   {
-    "id": "sk-nike-nike-air-more-uptempo-96-premium-flax-flax-phantom-gum-light-brown",
-    "slug": "nike-nike-air-more-uptempo-96-premium-flax-flax-phantom-gum-light-brown",
+    "id": "sk-nike-air-more-uptempo-96-premium-flax-flax-phantom-gum-light-brown",
+    "slug": "nike-air-more-uptempo-96-premium-flax-flax-phantom-gum-light-brown",
     "brand": "Nike",
-    "model": "Nike Air More Uptempo '96 Premium",
+    "model": "Air More Uptempo '96 Premium",
     "colorway": "Flax / Flax / Phantom / Gum Light Brown",
     "category": "Lifestyle",
     "palette": [
@@ -2575,7 +2702,7 @@
       {
         "retailerId": "superkicks",
         "price": 17495,
-        "url": "https://www.superkicks.in/products/nike-nike-air-more-uptempo-96-premium-flax-flax-phantom-gum-light-brown",
+        "url": "https://www.superkicks.in/products/nike-air-more-uptempo-96-premium-flax-flax-phantom-gum-light-brown",
         "inStock": true,
         "sizes": [
           "6",
@@ -2586,42 +2713,42 @@
           "11",
           "12"
         ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
       },
       {
         "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Nike%20Air%20More%20Uptempo%20'96%20Premium%20Flax",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20More%20Uptempo%20'96%20Premium%20Flax",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
       },
       {
         "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Nike%20Air%20More%20Uptempo%20'96%20Premium%20Flax",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20More%20Uptempo%20'96%20Premium%20Flax",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
       },
       {
         "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Nike%20Air%20More%20Uptempo%20'96%20Premium%20Flax",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20More%20Uptempo%20'96%20Premium%20Flax",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
       },
       {
         "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Nike%20Air%20More%20Uptempo%20'96%20Premium%20Flax",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20More%20Uptempo%20'96%20Premium%20Flax",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
       },
       {
         "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Nike%20Air%20More%20Uptempo%20'96%20Premium%20Flax",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20More%20Uptempo%20'96%20Premium%20Flax",
         "inStock": true,
         "linkOnly": true,
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
       }
     ]
   },
@@ -4036,10 +4163,9 @@
         "inStock": true,
         "sizes": [
           "3",
-          "4",
           "5"
         ],
-        "fetchedAt": "2026-10-30T09:15:10.301Z"
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
       },
       {
         "retailerId": "nike",
@@ -5611,11 +5737,9 @@
         "url": "https://www.superkicks.in/products/adidas-originals-samba-og-mercedes-amg-petronas-f1-team-core-black-core-black-silver-metallic",
         "inStock": true,
         "sizes": [
-          "7",
-          "8",
-          "9"
+          "7"
         ],
-        "fetchedAt": "2026-11-02T10:13:58.327Z"
+        "fetchedAt": "2026-11-03T10:15:47.776Z"
       },
       {
         "retailerId": "adidas",
@@ -6240,144 +6364,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-10-01T09:34:43.334Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-adizero-evo-sl-laceless-cloud-white-grey-two-core-black",
-    "slug": "adidas-adizero-evo-sl-laceless-cloud-white-grey-two-core-black",
-    "brand": "adidas",
-    "model": "Adizero Evo Sl Laceless",
-    "colorway": "Cloud White / Grey Two / Core Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c487f6b1-4c68-4dca-aad9-65a94e12e3c5.jpg?v=1790683876",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_53c0cadc-3591-4944-8287-7a8e755c8227.jpg?v=1790683876",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_857efb54-7b27-4c98-858f-6f714fec7edb.jpg?v=1790683876"
-    ],
-    "description": "Break boundaries with the Adizero Evo SL Laceless LightstrikePro Running Shoes, inspired by the record-breaking EVO 1. Whether you're training or racing, these shoes are engineered for pace and comfort on the road. Designed for runners who ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 16999,
-        "url": "https://www.superkicks.in/products/adidas-adizero-evo-sl-laceless-cloud-white-grey-two-core-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-02T09:08:03.532Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Adizero%20Evo%20Sl%20Laceless%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-02T09:08:03.532Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Adizero%20Evo%20Sl%20Laceless%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-02T09:08:03.532Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Adizero%20Evo%20Sl%20Laceless%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-02T09:08:03.532Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Adizero%20Evo%20Sl%20Laceless%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-02T09:08:03.532Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Adizero%20Evo%20Sl%20Laceless%20Cloud%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-02T09:08:03.532Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-moon-shoe-off-noir-sail-black-gum-light-brown",
-    "slug": "nike-moon-shoe-off-noir-sail-black-gum-light-brown",
-    "brand": "Nike",
-    "model": "Moon Shoe",
-    "colorway": "Off Noir / Sail / Black / Gum Light Brown",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3f73b404-3999-48eb-a7a5-b359ec8f6ab4.jpg?v=1790591369",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_709d66d1-3c88-4628-abe5-ef847976a423.jpg?v=1790591368",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_2bf678be-4051-4593-867e-847c04bdde95.jpg?v=1790591368"
-    ],
-    "description": "Before Nike was even called Nike, Bill Bowerman created the company's first running shoe using a waffle iron—the Moon Shoe. We're bringing the original design back into the limelight. The nylon upper pairs with a Waffle sole to recreate tha",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8995,
-        "url": "https://www.superkicks.in/products/nike-moon-shoe-off-noir-sail-black-gum-light-brown",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6"
-        ],
-        "fetchedAt": "2026-10-19T08:14:29.738Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Moon%20Shoe%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Moon%20Shoe%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Moon%20Shoe%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Moon%20Shoe%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Moon%20Shoe%20Off%20Noir",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-09-30T09:07:10.855Z"
       }
     ]
   }
