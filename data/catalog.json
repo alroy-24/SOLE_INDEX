@@ -1,5 +1,69 @@
 [
   {
+    "id": "sk-gully-labs-gully-number-001-megh-white",
+    "slug": "gully-labs-gully-number-001-megh-white",
+    "brand": "Gully Labs",
+    "model": "Gully Number 001",
+    "colorway": "Megh White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#161616"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_d354cf60-19ed-45c3-b3e9-39ef9d23a3b8.jpg?v=1793861260",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_2886851c-1a92-4f57-8de9-5c68cfb0c992.jpg?v=1793861260",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_a57faf59-5f53-44a6-ad52-20a282541185.jpg?v=1793861260"
+    ],
+    "description": "The “Harvest Line” embroidery draws from the rhythm of collective plantation work, expressing movement as a shared force, one shaped by endurance, resilience, and togetherness. Kara footwear occupies the moment where thought becomes movemen",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 5990,
+        "url": "https://www.superkicks.in/products/gully-labs-gully-number-001-megh-white",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Gully%20Labs%20Gully%20Number%20001%20Megh%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Gully%20Labs%20Gully%20Number%20001%20Megh%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Gully%20Labs%20Gully%20Number%20001%20Megh%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Gully%20Labs%20Gully%20Number%20001%20Megh%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
+      }
+    ]
+  },
+  {
     "id": "sk-converse-chuck-70-seasonal-color-shadow-purple-egret-black-1",
     "slug": "converse-chuck-70-seasonal-color-shadow-purple-egret-black-1",
     "brand": "Converse",
@@ -20,7 +84,6 @@
       {
         "retailerId": "superkicks",
         "price": 5499,
-        "mrp": 6399,
         "url": "https://www.superkicks.in/products/converse-chuck-70-seasonal-color-shadow-purple-egret-black-1",
         "inStock": true,
         "sizes": [
@@ -30,7 +93,7 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
       },
       {
         "retailerId": "amazon",
@@ -528,12 +591,13 @@
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-lo-metallic-leather-silver-light-grey-white",
         "inStock": true,
         "sizes": [
+          "3",
           "4",
           "5",
           "6",
           "7"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
       },
       {
         "retailerId": "amazon",
@@ -711,11 +775,9 @@
         "retailerId": "superkicks",
         "price": 29999,
         "url": "https://www.superkicks.in/products/adidas-pw-adistar-jellyfish-red-core-black",
-        "inStock": true,
-        "sizes": [
-          "7"
-        ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
       },
       {
         "retailerId": "adidas",
@@ -1476,12 +1538,13 @@
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-lo-shadow-purple-new-found-bloom-egret",
         "inStock": true,
         "sizes": [
+          "3",
           "4",
           "5",
           "6",
           "7"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
       },
       {
         "retailerId": "amazon",
@@ -1724,12 +1787,11 @@
         "url": "https://www.superkicks.in/products/converse-chuck-70-dia-de-muertos-classic-ecru-classic-ecru",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
       },
       {
         "retailerId": "amazon",
@@ -2120,10 +2182,9 @@
           "8",
           "9",
           "10",
-          "11",
-          "12"
+          "11"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
       },
       {
         "retailerId": "nike",
@@ -2336,10 +2397,9 @@
           "8",
           "9",
           "10",
-          "11",
-          "12"
+          "11"
         ],
-        "fetchedAt": "2026-11-04T10:06:45.521Z"
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
       },
       {
         "retailerId": "nike",
@@ -3853,7 +3913,8 @@
     "offers": [
       {
         "retailerId": "superkicks",
-        "price": 19495,
+        "price": 18520,
+        "mrp": 19495,
         "url": "https://www.superkicks.in/products/jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
         "inStock": true,
         "sizes": [
@@ -3863,7 +3924,7 @@
           "6",
           "7"
         ],
-        "fetchedAt": "2026-10-26T08:14:28.116Z"
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
       },
       {
         "retailerId": "nike",
@@ -4050,11 +4111,9 @@
         "retailerId": "superkicks",
         "price": 10495,
         "url": "https://www.superkicks.in/products/nike-sb-air-force-1-se-black-game-royal-black-white",
-        "inStock": true,
-        "sizes": [
-          "9"
-        ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-11-06T10:03:57.441Z"
       },
       {
         "retailerId": "nike",
@@ -6243,72 +6302,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20Rust%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-adidas-originals-bad-bunny-gazelle-indoor-solar-gold-core-black",
-    "slug": "adidas-originals-bad-bunny-gazelle-indoor-solar-gold-core-black",
-    "brand": "adidas",
-    "model": "Bad Bunny Gazelle Indoor",
-    "colorway": "Solar Gold / Core Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#d9b441"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_67256695-6a12-493e-be53-89295a8c49a3.jpg?v=1791978150",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_de648557-5d4e-4569-88b6-35893ced68ce.jpg?v=1791978150",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_8d44e44f-ddd3-419a-bef8-cf9edead0387.jpg?v=1791978150"
-    ],
-    "description": "The design is built on strong contrast. Golden yellow covers the upper from toe to heel, and black Three Stripes on the side panels provide most of the contrast, giving the pair its most recognizable feature. The palette is a clear change f",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13999,
-        "url": "https://www.superkicks.in/products/adidas-originals-bad-bunny-gazelle-indoor-solar-gold-core-black",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "12"
-        ],
-        "fetchedAt": "2026-10-29T09:04:16.345Z"
-      },
-      {
-        "retailerId": "adidas",
-        "url": "https://www.adidas.co.in/search?q=adidas%20Bad%20Bunny%20Gazelle%20Indoor%20Solar%20Gold",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=adidas%20Bad%20Bunny%20Gazelle%20Indoor%20Solar%20Gold",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=adidas%20Bad%20Bunny%20Gazelle%20Indoor%20Solar%20Gold",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=adidas%20Bad%20Bunny%20Gazelle%20Indoor%20Solar%20Gold",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=adidas%20Bad%20Bunny%20Gazelle%20Indoor%20Solar%20Gold",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-10-15T07:48:51.586Z"
