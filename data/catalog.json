@@ -1,5 +1,73 @@
 [
   {
+    "id": "sk-nike-air-force-1-07-essential-white-white-black-metallic-silver",
+    "slug": "nike-air-force-1-07-essential-white-white-black-metallic-silver",
+    "brand": "Nike",
+    "model": "Air Force 1 '07 Essential+",
+    "colorway": "White / White / Black / Metallic Silver",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_4fe1e13e-6ca7-496c-9abe-4d88adbb967d.jpg?v=1793602282",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0c30f939-7c2e-4636-9011-709f71b6f953.jpg?v=1793602282",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_e10312f1-6791-45b7-91c5-ba5879fae2ec.jpg?v=1793602282"
+    ],
+    "description": "Comfortable, durable and timeless—it’s number one for a reason. This Air Force 1 pairs its classic silhouette with premium leather and contrast stitching to make an essential sneaker that never misses. Genuine leather upper with perforated ",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 9995,
+        "url": "https://www.superkicks.in/products/nike-air-force-1-07-essential-white-white-black-metallic-silver",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Essential%2B%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Essential%2B%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Essential%2B%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Essential%2B%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Essential%2B%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
+      }
+    ]
+  },
+  {
     "id": "sk-gully-labs-gully-number-001-megh-white",
     "slug": "gully-labs-gully-number-001-megh-white",
     "brand": "Gully Labs",
@@ -344,11 +412,10 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
       },
       {
         "retailerId": "amazon",
@@ -1476,13 +1543,10 @@
         "url": "https://www.superkicks.in/products/converse-chuck-70-dia-de-muertos-black-classic-ecru",
         "inStock": true,
         "sizes": [
-          "7",
-          "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
       },
       {
         "retailerId": "amazon",
@@ -1787,11 +1851,9 @@
         "url": "https://www.superkicks.in/products/converse-chuck-70-dia-de-muertos-classic-ecru-classic-ecru",
         "inStock": true,
         "sizes": [
-          "8",
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-11-06T10:03:57.441Z"
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
       },
       {
         "retailerId": "amazon",
@@ -2182,9 +2244,10 @@
           "8",
           "9",
           "10",
-          "11"
+          "11",
+          "12"
         ],
-        "fetchedAt": "2026-11-06T10:03:57.441Z"
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
       },
       {
         "retailerId": "nike",
@@ -2394,12 +2457,11 @@
         "sizes": [
           "6",
           "7",
-          "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-06T10:03:57.441Z"
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
       },
       {
         "retailerId": "nike",
@@ -3106,11 +3168,10 @@
         "inStock": true,
         "sizes": [
           "3",
-          "4",
           "5",
           "6"
         ],
-        "fetchedAt": "2026-10-29T09:04:16.345Z"
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
       },
       {
         "retailerId": "nike",
@@ -3513,10 +3574,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
-          "6"
+          "5"
         ],
-        "fetchedAt": "2026-10-27T08:28:17.357Z"
+        "fetchedAt": "2026-11-07T09:23:39.425Z"
       },
       {
         "retailerId": "nike",
@@ -6233,75 +6293,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-se-rust-pink-particle-rose",
-    "slug": "nike-air-force-1-07-se-rust-pink-particle-rose",
-    "brand": "Nike",
-    "model": "Air Force 1 '07 Se",
-    "colorway": "Rust Pink / Particle Rose",
-    "category": "Lifestyle",
-    "palette": [
-      "#e093a6",
-      "#d8702f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_6d095269-753b-4dae-a2e9-703e4935c8a5.jpg?v=1791896351",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_dcf53bde-a79e-4050-9716-4610521e8e61.jpg?v=1791896351",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/13_2ff6c869-bc40-49d4-a5a7-7c54d9ca6c66.jpg?v=1791896351"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. This Air Force 1 pairs a suede upper with a matching outsole for a monochromatic look. Suede upper softens and gains vintage character with wear. Perforated toe box is breathab",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-se-rust-pink-particle-rose",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Se%20Rust%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Se%20Rust%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20Rust%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Se%20Rust%20Pink",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Se%20Rust%20Pink",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-10-15T07:48:51.586Z"
