@@ -1,5 +1,73 @@
 [
   {
+    "id": "sk-nike-vomero-plus-pink-smoke-mtlc-red-bronze-mystic-dates",
+    "slug": "nike-vomero-plus-pink-smoke-mtlc-red-bronze-mystic-dates",
+    "brand": "Nike",
+    "model": "Vomero Plus",
+    "colorway": "Pink Smoke / Mtlc Red Bronze / Mystic Dates",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#c2362f",
+      "#e093a6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_8a439303-8615-4d30-9965-7562080c75ac.jpg?v=1793863838",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9afbb648-57ad-4817-b750-80016f4f3621.jpg?v=1793863839",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_616f86ef-d16a-452b-a0e5-390f1784db4d.jpg?v=1793863839"
+    ],
+    "description": "A tall stack of responsive, light foam offers next-level cushioning. Take maximum cushioning to the next level with the Vomero Plus. It provides an ultra-comfortable ride for every day runs thanks to a mountainous stack of full-length ZoomX",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16495,
+        "url": "https://www.superkicks.in/products/nike-vomero-plus-pink-smoke-mtlc-red-bronze-mystic-dates",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Vomero%20Plus%20Pink%20Smoke",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Vomero%20Plus%20Pink%20Smoke",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Vomero%20Plus%20Pink%20Smoke",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Vomero%20Plus%20Pink%20Smoke",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Vomero%20Plus%20Pink%20Smoke",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
+      }
+    ]
+  },
+  {
     "id": "sk-nike-air-force-1-07-essential-white-white-black-metallic-silver",
     "slug": "nike-air-force-1-07-essential-white-white-black-metallic-silver",
     "brand": "Nike",
@@ -220,10 +288,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
       },
       {
         "retailerId": "nike",
@@ -412,10 +479,11 @@
         "sizes": [
           "7",
           "8",
+          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-07T09:23:39.425Z"
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
       },
       {
         "retailerId": "amazon",
@@ -1543,10 +1611,11 @@
         "url": "https://www.superkicks.in/products/converse-chuck-70-dia-de-muertos-black-classic-ecru",
         "inStock": true,
         "sizes": [
+          "7",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-07T09:23:39.425Z"
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
       },
       {
         "retailerId": "amazon",
@@ -1789,13 +1858,12 @@
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-throwback-creeping-forest-red-egret",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
       },
       {
         "retailerId": "amazon",
@@ -1851,9 +1919,10 @@
         "url": "https://www.superkicks.in/products/converse-chuck-70-dia-de-muertos-classic-ecru-classic-ecru",
         "inStock": true,
         "sizes": [
+          "10",
           "11"
         ],
-        "fetchedAt": "2026-11-07T09:23:39.425Z"
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
       },
       {
         "retailerId": "amazon",
@@ -2039,9 +2108,11 @@
           "4",
           "5",
           "6",
-          "7"
+          "7",
+          "8",
+          "9"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
       },
       {
         "retailerId": "amazon",
@@ -2387,11 +2458,10 @@
           "7",
           "8",
           "9",
-          "10",
           "11",
           "12"
         ],
-        "fetchedAt": "2026-11-04T10:06:45.521Z"
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
       },
       {
         "retailerId": "nike",
@@ -3168,10 +3238,9 @@
         "inStock": true,
         "sizes": [
           "3",
-          "5",
-          "6"
+          "5"
         ],
-        "fetchedAt": "2026-11-07T09:23:39.425Z"
+        "fetchedAt": "2026-11-08T09:40:28.352Z"
       },
       {
         "retailerId": "nike",
@@ -6224,75 +6293,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Cargo%20Khaki",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-low-se-black-chalk-velvet-brown",
-    "slug": "jordan-air-jordan-1-low-se-black-chalk-velvet-brown",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Low Se",
-    "colorway": "Black / Chalk / Velvet Brown",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_08ea6cbd-fd66-43ac-8419-c1cc5cf9f63b.jpg?v=1791896577",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_2fbc53f6-75e8-4b32-aeca-833d8c559052.jpg?v=1791896577",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_b5981935-de4e-4cc7-ba10-3f2d07ddae2b.jpg?v=1791896577"
-    ],
-    "description": "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. This take calls back to MJ's iconic nickname: The Black Cat. With an iconic design that pairs perfectly with ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 10495,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-black-chalk-velvet-brown",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-10-15T07:48:51.586Z"
