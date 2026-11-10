@@ -1916,11 +1916,9 @@
         "retailerId": "superkicks",
         "price": 7499,
         "url": "https://www.superkicks.in/products/converse-chuck-70-dia-de-muertos-classic-ecru-classic-ecru",
-        "inStock": true,
-        "sizes": [
-          "11"
-        ],
-        "fetchedAt": "2026-11-09T10:33:54.940Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-11-10T10:35:08.888Z"
       },
       {
         "retailerId": "amazon",
@@ -2043,10 +2041,9 @@
           "5",
           "6",
           "7",
-          "8",
-          "9"
+          "8"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-10T10:35:08.888Z"
       },
       {
         "retailerId": "amazon",
@@ -3843,11 +3840,10 @@
         "sizes": [
           "7",
           "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-30T09:15:10.301Z"
+        "fetchedAt": "2026-11-10T10:35:08.888Z"
       },
       {
         "retailerId": "nike",
@@ -4973,12 +4969,10 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
-          "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-10T10:35:08.888Z"
       },
       {
         "retailerId": "amazon",
@@ -5968,7 +5962,6 @@
         "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-se-team-red-white-black-dark-team-red",
         "inStock": true,
         "sizes": [
-          "6",
           "7",
           "8",
           "9",
@@ -5976,7 +5969,7 @@
           "11",
           "12"
         ],
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
+        "fetchedAt": "2026-11-10T10:35:08.888Z"
       },
       {
         "retailerId": "nike",
