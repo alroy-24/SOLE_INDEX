@@ -1,5 +1,479 @@
 [
   {
+    "id": "sk-adidas-original-bad-bunny-x-adidas-badbo-1-1-simple-brown-feather-grey-sandy-pink",
+    "slug": "adidas-original-bad-bunny-x-adidas-badbo-1-1-simple-brown-feather-grey-sandy-pink",
+    "brand": "adidas",
+    "model": "Bad Bunny X Adidas Badbo 1.1",
+    "colorway": "Simple Brown / Feather Grey / Sandy Pink",
+    "category": "Lifestyle",
+    "palette": [
+      "#e7dfcd",
+      "#9b9b94",
+      "#e093a6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_24509b48-17e0-4668-9aa5-20d198878c43.jpg?v=1794386482",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_3d039957-e8f8-474f-b1e2-bb6e66fa5f5c.jpg?v=1794386482",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_50859e0e-2473-4a3d-8031-7a4100836f79.jpg?v=1794386482"
+    ],
+    "description": "Low-cut shoes featuring a leather and textile upper for premium comfort. The newest release from adidas Originals by Bad Bunny.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11999,
+        "url": "https://www.superkicks.in/products/adidas-original-bad-bunny-x-adidas-badbo-1-1-simple-brown-feather-grey-sandy-pink",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.1%20Simple%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.1%20Simple%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.1%20Simple%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.1%20Simple%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.1%20Simple%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-original-bad-bunny-x-adidas-badbo-1-0-grey-three-cloud-white-orbit-grey",
+    "slug": "adidas-original-bad-bunny-x-adidas-badbo-1-0-grey-three-cloud-white-orbit-grey",
+    "brand": "adidas",
+    "model": "Bad Bunny X Adidas Badbo 1.0",
+    "colorway": "Grey Three / Cloud White / Orbit Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4c67f71f-84b1-436a-b3d4-c9e8914f912d.jpg?v=1794386229",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_6142be8e-9284-495f-9f89-5a875ba9188d.jpg?v=1794386229",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d30d8da7-bced-45f5-a519-dde59086b20a.jpg?v=1794386229"
+    ],
+    "description": "Statement shoes with leather and textile upper for a bold, premium style. The newest release from adidas Originals by Bad Bunny.",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 15999,
+        "url": "https://www.superkicks.in/products/adidas-original-bad-bunny-x-adidas-badbo-1-0-grey-three-cloud-white-orbit-grey",
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.0%20Grey%20Three",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.0%20Grey%20Three",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.0%20Grey%20Three",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.0%20Grey%20Three",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Bad%20Bunny%20X%20Adidas%20Badbo%201.0%20Grey%20Three",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-original-wb-karintha-croc-dark-brown-core-black-gold-metallic",
+    "slug": "adidas-original-wb-karintha-croc-dark-brown-core-black-gold-metallic",
+    "brand": "adidas",
+    "model": "Wb Karintha Croc",
+    "colorway": "Dark Brown / Core Black / Gold Metallic",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#6b4a2f",
+      "#d9b441"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_8031f2a9-1ce0-433c-90a3-37ef7a18408a.jpg?v=1794384885",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_76a0394b-488d-4c10-ac2c-bf76df51acfd.jpg?v=1794384885",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_959ae1da-b071-43f7-b4fd-6ed18fb65729.jpg?v=1794384886"
+    ],
+    "description": "Heritage meets contemporary flair with the WB Karintha Croc shoes. Crafted in collaboration with Wales Bonner, these trainers are designed for those who want bold fashion. The regular fit provides comfort while the material upper delivers a",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 21999,
+        "url": "https://www.superkicks.in/products/adidas-original-wb-karintha-croc-dark-brown-core-black-gold-metallic",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Wb%20Karintha%20Croc%20Dark%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Wb%20Karintha%20Croc%20Dark%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Wb%20Karintha%20Croc%20Dark%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Wb%20Karintha%20Croc%20Dark%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Wb%20Karintha%20Croc%20Dark%20Brown",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-wales-bonner-gazelle-suede-croc-crystal-sky-green-night-power-blue",
+    "slug": "adidas-originals-wales-bonner-gazelle-suede-croc-crystal-sky-green-night-power-blue",
+    "brand": "adidas",
+    "model": "Wales Bonner Gazelle Suede Croc",
+    "colorway": "Crystal Sky / Green Night / Power Blue",
+    "category": "Lifestyle",
+    "palette": [
+      "#2f6f4e",
+      "#2f5fa6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_78aa2896-7ba6-4353-b0cb-7cfb234d399f.jpg?v=1794385010",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8538ab5b-472b-4338-b4fa-23e8613c2d0d.jpg?v=1794385010",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_63274a37-8ed7-4f62-ad93-368a89087c1f.jpg?v=1794385010"
+    ],
+    "description": "Heritage meets bold design in the WB Gazelle Croc Shoes, a statement piece from adidas Originals. These vibrant shoes are made in collaboration with Wales Bonner. This garment blends iconic Gazelle details with premium materials for a stand",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 21999,
+        "url": "https://www.superkicks.in/products/adidas-originals-wales-bonner-gazelle-suede-croc-crystal-sky-green-night-power-blue",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Wales%20Bonner%20Gazelle%20Suede%20Croc%20Crystal%20Sky",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Wales%20Bonner%20Gazelle%20Suede%20Croc%20Crystal%20Sky",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Wales%20Bonner%20Gazelle%20Suede%20Croc%20Crystal%20Sky",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Wales%20Bonner%20Gazelle%20Suede%20Croc%20Crystal%20Sky",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Wales%20Bonner%20Gazelle%20Suede%20Croc%20Crystal%20Sky",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-wales-bonner-adizero-adios-suede-wonder-white-dark-brown-chalk-white",
+    "slug": "adidas-originals-wales-bonner-adizero-adios-suede-wonder-white-dark-brown-chalk-white",
+    "brand": "adidas",
+    "model": "Wales Bonner Adizero Adios Suede",
+    "colorway": "Wonder White / Dark Brown / Chalk White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#6b4a2f"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_4bf685c5-f0b0-4dc0-80b2-16f2eebe2c94.jpg?v=1794385120",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_7d4fbc0b-a0a3-495c-944d-d1f2dfbf9658.jpg?v=1794385120",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_685817f7-81ce-452e-a210-79744df16879.jpg?v=1794385120"
+    ],
+    "description": "The WB Adizero Adios Suede shoes, from the Wales Bonner collaboration, bring together classic adidas heritage and contemporary design. With a regular fit, these shoes are crafted for everyday comfort and effortless wear, blending bold aesth",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19999,
+        "url": "https://www.superkicks.in/products/adidas-originals-wales-bonner-adizero-adios-suede-wonder-white-dark-brown-chalk-white",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Wales%20Bonner%20Adizero%20Adios%20Suede%20Wonder%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Wales%20Bonner%20Adizero%20Adios%20Suede%20Wonder%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Wales%20Bonner%20Adizero%20Adios%20Suede%20Wonder%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Wales%20Bonner%20Adizero%20Adios%20Suede%20Wonder%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Wales%20Bonner%20Adizero%20Adios%20Suede%20Wonder%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-original-wb-army-khaki-pony-noble-maroon-gold-metallic-wonder-white",
+    "slug": "adidas-original-wb-army-khaki-pony-noble-maroon-gold-metallic-wonder-white",
+    "brand": "adidas",
+    "model": "Wb Army Khaki Pony",
+    "colorway": "Noble Maroon / Gold Metallic / Wonder White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#e7dfcd",
+      "#d9b441"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_b3f51460-ac5d-4395-9400-1902635eb5f4.jpg?v=1794385272",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_c5ddb0b3-8953-4625-8319-0d00c0295689.jpg?v=1794385272",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_8aab7b70-8b14-4152-831c-31b5bc8bc096.jpg?v=1794385272"
+    ],
+    "description": "The WB Army Khaki Pony shoes are a striking collaboration between adidas and Wales Bonner. These statement shoes use army-inspired design to create a timeless look. The classic regular fit encourages free and easy movement. The adidas-brand",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19999,
+        "url": "https://www.superkicks.in/products/adidas-original-wb-army-khaki-pony-noble-maroon-gold-metallic-wonder-white",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Wb%20Army%20Khaki%20Pony%20Noble%20Maroon",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Wb%20Army%20Khaki%20Pony%20Noble%20Maroon",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Wb%20Army%20Khaki%20Pony%20Noble%20Maroon",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Wb%20Army%20Khaki%20Pony%20Noble%20Maroon",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Wb%20Army%20Khaki%20Pony%20Noble%20Maroon",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-original-wb-bw-army-black-pony-core-black-core-black-gum",
+    "slug": "adidas-original-wb-bw-army-black-pony-core-black-core-black-gum",
+    "brand": "adidas",
+    "model": "Wb Bw Army Black Pony",
+    "colorway": "Core Black / Core Black / Gum",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#e7dfcd"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_63a00d90-bfdd-4503-b689-1da0f5f7b714.jpg?v=1794385437",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_ce191221-98e6-452d-9450-421c38356ec3.jpg?v=1794385437",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b9a07a49-6094-4bb8-934e-cc4be3977e3b.jpg?v=1794385437"
+    ],
+    "description": "The WB BW Army Black Pony Shoes are part of a collaboration between adidas and Wales Bonner, reimagining classic army-inspired silhouettes. These statement shoes fuse heritage with contemporary flair for those who demand quality and presenc",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 19999,
+        "url": "https://www.superkicks.in/products/adidas-original-wb-bw-army-black-pony-core-black-core-black-gum",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20Wb%20Bw%20Army%20Black%20Pony%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20Wb%20Bw%20Army%20Black%20Pony%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20Wb%20Bw%20Army%20Black%20Pony%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20Wb%20Bw%20Army%20Black%20Pony%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20Wb%20Bw%20Army%20Black%20Pony%20Core%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
+      }
+    ]
+  },
+  {
     "id": "sk-nike-vomero-plus-pink-smoke-mtlc-red-bronze-mystic-dates",
     "slug": "nike-vomero-plus-pink-smoke-mtlc-red-bronze-mystic-dates",
     "brand": "Nike",
@@ -1857,12 +2331,11 @@
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-throwback-creeping-forest-red-egret",
         "inStock": true,
         "sizes": [
-          "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-08T09:40:28.352Z"
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
       },
       {
         "retailerId": "amazon",
@@ -3838,12 +4311,10 @@
         "url": "https://www.superkicks.in/products/nike-dunk-low-gore-tex-black-off-noir-anthracite",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-11-10T10:35:08.888Z"
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
       },
       {
         "retailerId": "nike",
@@ -5473,13 +5944,12 @@
         "url": "https://www.superkicks.in/products/nike-pegasus-premium-smokey-blue-black-dark-slate-racer-blue",
         "inStock": true,
         "sizes": [
-          "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-10-16T07:38:13.788Z"
+        "fetchedAt": "2026-11-11T09:58:43.346Z"
       },
       {
         "retailerId": "nike",
@@ -5792,498 +6262,6 @@
       {
         "retailerId": "vnv",
         "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2090%20Sp%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-white-white-white",
-    "slug": "nike-air-force-1-07-white-white-white",
-    "brand": "Nike",
-    "model": "Air Force 1 '07",
-    "colorway": "White / White / White",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#161616"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_3c83d254-0730-4068-9a19-d8a19f1c891e.png?v=1779089649",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_dba31b52-2242-4c0e-80ca-64e7182afc5e.png?v=1779089648",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_29e0a91e-ba20-406e-81f0-20413a11cf94.png?v=1779089649"
-    ],
-    "description": "The radiance lives on in the Nike Air Force 1 ’07, the b-ball OG that puts a fresh spin on what you know best: durable stitched overlays, clean finishes, and the perfect amount of flash to make you shine.",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 7495,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-white-white-white",
-        "inStock": true,
-        "sizes": [
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20White",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-20T08:00:02.316Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-pegasus-premium-dark-shadow-black-lemon-venom-white",
-    "slug": "nike-pegasus-premium-dark-shadow-black-lemon-venom-white",
-    "brand": "Nike",
-    "model": "Pegasus Premium",
-    "colorway": "Dark Shadow / Black / Lemon Venom / White",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#d9b441"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_5eb59fb4-42a7-4c3d-86e8-1cffb44f50ce.jpg?v=1791981737",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_cf7dd0cd-2efa-4408-8342-862324b436ae.jpg?v=1791981737",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_8e3ce928-46fa-4a15-a665-2b3faffbc2c6.jpg?v=1791981737"
-    ],
-    "description": "The Pegasus Premium supercharges responsive cushioning with a triple stack of our most powerful running technologies: ZoomX foam, a sculpted Air Zoom unit and ReactX foam. It’s the most responsive Pegasus ever, providing high energy return ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 19295,
-        "url": "https://www.superkicks.in/products/nike-pegasus-premium-dark-shadow-black-lemon-venom-white",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Pegasus%20Premium%20Dark%20Shadow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Pegasus%20Premium%20Dark%20Shadow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Pegasus%20Premium%20Dark%20Shadow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Pegasus%20Premium%20Dark%20Shadow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Pegasus%20Premium%20Dark%20Shadow",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-mid-se-team-red-white-black-dark-team-red",
-    "slug": "jordan-air-jordan-1-mid-se-team-red-white-black-dark-team-red",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Mid Se",
-    "colorway": "Team Red / White / Black / Dark Team Red",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_6bc1e129-6a86-49f7-ad1a-96be9fd9afb0.jpg?v=1791981318",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_242f5417-2cb5-4e4e-abd8-ffebdd580be4.jpg?v=1791981318",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_367d2989-7f76-4000-b6ae-2fcc2e3be4ca.jpg?v=1791981318"
-    ],
-    "description": "Inspired by the original AJ1, this mid-top edition maintains the iconic look you love while choice colors and crisp leather give it a distinct identity. Leather in the upper offers durability and structure. Nike Air technology absorbs impac",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12495,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-mid-se-team-red-white-black-dark-team-red",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-11-10T10:35:08.888Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Team%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Mid%20Se%20Team%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Team%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Mid%20Se%20Team%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Mid%20Se%20Team%20Red",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-1-low-se-black-team-red-white-lt-orewood-brn",
-    "slug": "jordan-air-jordan-1-low-se-black-team-red-white-lt-orewood-brn",
-    "brand": "Jordan",
-    "model": "Air Jordan 1 Low Se",
-    "colorway": "Black / Team Red / White / Lt Orewood Brn",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_91fc505a-f195-4e45-9741-8ac0d18623d8.jpg?v=1791980659",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0b1ec8ce-a20e-47b6-8f4d-f2c7f42e661a.jpg?v=1791980660",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9a9c0051-d4b6-48ed-8c79-4635ed7fe4b9.jpg?v=1791980659"
-    ],
-    "description": "Inspired by the original that debuted in 1985, the Air Jordan 1 Low offers a clean, classic look that's familiar yet always fresh. With an iconic design that pairs perfectly with any 'fit, these kicks ensure you'll always be on point. Nike ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 11495,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-low-se-black-team-red-white-lt-orewood-brn",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Low%20Se%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-shox-r4-black-challenge-red-black",
-    "slug": "nike-shox-r4-black-challenge-red-black",
-    "brand": "Nike",
-    "model": "Shox R4",
-    "colorway": "Black / Challenge Red / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_9883d1a3-3c84-485b-a75f-c527f10d8fcc.jpg?v=1791897560",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_a44c5166-942b-4130-b5f2-1b76396c5217.jpg?v=1791897560",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_29b9051e-210e-4047-a6cb-46f8246fef36.jpg?v=1791897560"
-    ],
-    "description": "A recrafted version of the early 2000s icon, the Nike Shox R4 replicates the original with its futuristic design lines and performance-like cushioning. Nike Shox columns in the heel distribute weight to maximize comfort while providing a bo",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13995,
-        "url": "https://www.superkicks.in/products/nike-shox-r4-black-challenge-red-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-11-02T10:13:58.327Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Shox%20R4%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Shox%20R4%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Shox%20R4%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Shox%20R4%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Shox%20R4%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-shox-r4-black-black-black-bright-crimson",
-    "slug": "nike-shox-r4-black-black-black-bright-crimson",
-    "brand": "Nike",
-    "model": "Shox R4",
-    "colorway": "Black / Black / Black / Bright Crimson",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#c2362f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_f8be016c-9c5e-412c-9f8f-ab3c114828ce.jpg?v=1791897327",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_2512d19c-7f92-49fb-af7d-52adfcbf9c65.jpg?v=1791897327",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5c9db699-cf46-4eda-995a-509cd57ecd7e.jpg?v=1791897327"
-    ],
-    "description": "A recrafted version of the early 2000s icon, the Nike Shox R4 replicates the original with its futuristic design lines and performance-like cushioning. Nike Shox columns in the heel distribute weight to maximize comfort while providing a bo",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13995,
-        "url": "https://www.superkicks.in/products/nike-shox-r4-black-black-black-bright-crimson",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Shox%20R4%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Shox%20R4%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Shox%20R4%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Shox%20R4%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Shox%20R4%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-cargo-khaki-coconut-milk-black",
-    "slug": "nike-air-force-1-07-cargo-khaki-coconut-milk-black",
-    "brand": "Nike",
-    "model": "Air Force 1 '07",
-    "colorway": "Cargo Khaki / Coconut Milk / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#e7dfcd"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_838d8d0e-3402-4bbc-8c00-c48eabb73235.jpg?v=1791897235",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_cfa2582f-5de5-40b6-8643-2242db6963ff.jpg?v=1791897235",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_f0db11bf-ae69-476c-9b80-6cda3c4369b5.jpg?v=1791897235"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number 1 for a reason. The ‘80s construction pairs with classic colors for style that tracks whether you’re on court or on the go. Leather upper softens and gains vintage character with wear. Originall",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9695,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-cargo-khaki-coconut-milk-black",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11",
-          "12"
-        ],
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Cargo%20Khaki",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Cargo%20Khaki",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Cargo%20Khaki",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Cargo%20Khaki",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-15T07:48:51.586Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Cargo%20Khaki",
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-10-15T07:48:51.586Z"
