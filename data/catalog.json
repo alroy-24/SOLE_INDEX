@@ -3208,11 +3208,10 @@
           "7",
           "8",
           "9",
-          "10",
           "11",
           "12"
         ],
-        "fetchedAt": "2026-11-12T10:26:40.536Z"
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
       },
       {
         "retailerId": "nike",
@@ -3279,9 +3278,10 @@
           "6",
           "7",
           "9",
-          "10"
+          "10",
+          "12"
         ],
-        "fetchedAt": "2026-11-12T10:26:40.536Z"
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
       },
       {
         "retailerId": "nike",
@@ -4768,76 +4768,6 @@
     ]
   },
   {
-    "id": "sk-jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
-    "slug": "jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
-    "brand": "Jordan",
-    "model": "Air Jordan 4 Retro Birds Of Paradise",
-    "colorway": "Coconut Milk / Muslin / Bright Mango",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_d05aed50-0598-4163-b766-f363d5504e7b.jpg?v=1785841737",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0aec71a0-2210-478e-b6b4-3a2e8a401534.jpg?v=1785841737",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_84ad14be-6483-4bc6-99d1-8a81a919bf5c.jpg?v=1785841737"
-    ],
-    "description": "Take flight in the AJ4 and let them gaze up at your soles in awe. A calm mix of neutrals dress the upper, while tropical hues burst underfoot. All the iconic AJ4 details are there—visible Air, floating eyestays, mesh side panels and that co",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 18520,
-        "mrp": 19495,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-4-retro-birds-of-paradise-coconut-milk-muslin-bright-mango",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4",
-          "5",
-          "6",
-          "7"
-        ],
-        "fetchedAt": "2026-11-06T10:03:57.441Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%204%20Retro%20Birds%20Of%20Paradise%20Coconut%20Milk",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%204%20Retro%20Birds%20Of%20Paradise%20Coconut%20Milk",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%204%20Retro%20Birds%20Of%20Paradise%20Coconut%20Milk",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%204%20Retro%20Birds%20Of%20Paradise%20Coconut%20Milk",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%204%20Retro%20Birds%20Of%20Paradise%20Coconut%20Milk",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-24T07:42:18.937Z"
-      }
-    ]
-  },
-  {
     "id": "sk-nike-air-force-1-07-black-stealth-gym-red-metallic-silver",
     "slug": "nike-air-force-1-07-black-stealth-gym-red-metallic-silver",
     "brand": "Nike",
@@ -4860,11 +4790,9 @@
         "retailerId": "superkicks",
         "price": 11495,
         "url": "https://www.superkicks.in/products/nike-air-force-1-07-black-stealth-gym-red-metallic-silver",
-        "inStock": true,
-        "sizes": [
-          "7"
-        ],
-        "fetchedAt": "2026-10-25T07:54:08.600Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
       },
       {
         "retailerId": "nike",
@@ -5023,72 +4951,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-10-22T08:04:46.762Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-wmns-air-force-1-07-black-black-black-black",
-    "slug": "nike-wmns-air-force-1-07-black-black-black-black",
-    "brand": "Nike",
-    "model": "Air Force 1 '07",
-    "colorway": "Black / Black / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_5ea17508-967e-4cdd-b784-3bfa3c2d250b.png?v=1779183629",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_540a7ebc-e17a-44a2-be14-7a961ca27a95.png?v=1779183630",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_97e45747-b961-4bfa-8119-81a72fd9f51c.png?v=1779183629"
-    ],
-    "description": "The radiance lives on in the Nike Air Force 1 ’07, the b-ball icon that puts a fresh spin on what you know best: crisp leather, bold colors and the perfect amount of flash to make you shine. A subtle platform gives you just the right amount",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 8195,
-        "url": "https://www.superkicks.in/products/nike-wmns-air-force-1-07-black-black-black-black",
-        "inStock": true,
-        "sizes": [
-          "3",
-          "4"
-        ],
-        "fetchedAt": "2026-10-30T09:15:10.301Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-23T08:03:10.772Z"
       }
     ]
   },
@@ -6265,6 +6127,145 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-10-16T07:38:13.788Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-dunk-low-retro-white-midnight-navy-white",
+    "slug": "nike-dunk-low-retro-white-midnight-navy-white",
+    "brand": "Nike",
+    "model": "Dunk Low Retro",
+    "colorway": "White / Midnight Navy / White",
+    "category": "Lifestyle",
+    "palette": [
+      "#f4f1e9",
+      "#2f5fa6"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_81976413-15c2-4b01-9517-c5eba7c37581.jpg?v=1792060516",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_e95f08b4-dfa2-4193-9cf2-6f735ce24d9e.jpg?v=1792060516",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d2b2c050-0bee-486f-9d65-caf45e9946be.jpg?v=1792060516"
+    ],
+    "description": "You can always count on a classic. The Dunk Low pairs its iconic color blocking with premium materials and plush padding for game-changing comfort that lasts. The possibilities are endless—how will you wear your Dunks? Synthetic leather upp",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 8295,
+        "url": "https://www.superkicks.in/products/nike-dunk-low-retro-white-midnight-navy-white",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Dunk%20Low%20Retro%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Dunk%20Low%20Retro%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Dunk%20Low%20Retro%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Dunk%20Low%20Retro%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Dunk%20Low%20Retro%20White",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-jordan-air-jordan-1-triple-stack-black-chalk-cacao-wow",
+    "slug": "jordan-air-jordan-1-triple-stack-black-chalk-cacao-wow",
+    "brand": "Jordan",
+    "model": "Air Jordan 1 Triple Stack",
+    "colorway": "Black / Chalk / Cacao Wow",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_7fbb9746-a9cd-4c25-a641-cbb0db9415f3.jpg?v=1792060087",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_d61ed197-a9fd-48d2-9782-89e7812e2a79.jpg?v=1792060087",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_5a90d382-46e0-4a2a-b051-3a793e1a1767.jpg?v=1792060087"
+    ],
+    "description": "Stand tall with elevated style. Inspired by the original that debuted in 1985, the Air Jordan 1 offers a clean, classic look that's familiar yet always fresh. This remix boldly reworks the icon's original magic with a triple-stacked sole. W",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 12995,
+        "url": "https://www.superkicks.in/products/jordan-air-jordan-1-triple-stack-black-chalk-cacao-wow",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6",
+          "7"
+        ],
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%201%20Triple%20Stack%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-13T10:17:05.707Z"
       }
     ]
   }
