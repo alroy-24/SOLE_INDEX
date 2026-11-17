@@ -684,10 +684,9 @@
           "7",
           "8",
           "9",
-          "10",
-          "11"
+          "10"
         ],
-        "fetchedAt": "2026-11-12T10:26:40.536Z"
+        "fetchedAt": "2026-11-17T11:18:15.505Z"
       },
       {
         "retailerId": "nike",
@@ -1303,9 +1302,10 @@
         "sizes": [
           "4",
           "5",
-          "6"
+          "6",
+          "7"
         ],
-        "fetchedAt": "2026-11-07T09:23:39.425Z"
+        "fetchedAt": "2026-11-17T11:18:15.505Z"
       },
       {
         "retailerId": "nike",
@@ -2628,9 +2628,10 @@
         "sizes": [
           "3",
           "4",
-          "5"
+          "5",
+          "6"
         ],
-        "fetchedAt": "2026-11-15T10:06:51.911Z"
+        "fetchedAt": "2026-11-17T11:18:15.505Z"
       },
       {
         "retailerId": "nike",
@@ -3120,10 +3121,9 @@
         "url": "https://www.superkicks.in/products/converse-chuck-70-dia-de-muertos-classic-ecru-classic-ecru",
         "inStock": true,
         "sizes": [
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-11-16T10:19:53.900Z"
+        "fetchedAt": "2026-11-17T11:18:15.505Z"
       },
       {
         "retailerId": "amazon",
@@ -3512,10 +3512,9 @@
           "7",
           "8",
           "9",
-          "11",
-          "12"
+          "11"
         ],
-        "fetchedAt": "2026-11-16T10:19:53.900Z"
+        "fetchedAt": "2026-11-17T11:18:15.505Z"
       },
       {
         "retailerId": "nike",
@@ -3655,10 +3654,9 @@
           "7",
           "8",
           "9",
-          "11",
-          "12"
+          "11"
         ],
-        "fetchedAt": "2026-11-13T10:17:05.707Z"
+        "fetchedAt": "2026-11-17T11:18:15.505Z"
       },
       {
         "retailerId": "nike",
@@ -3724,10 +3722,9 @@
         "sizes": [
           "6",
           "7",
-          "9",
-          "10"
+          "9"
         ],
-        "fetchedAt": "2026-11-15T10:06:51.911Z"
+        "fetchedAt": "2026-11-17T11:18:15.505Z"
       },
       {
         "retailerId": "nike",
@@ -5958,9 +5955,11 @@
         "inStock": true,
         "sizes": [
           "4",
+          "5",
+          "6",
           "7"
         ],
-        "fetchedAt": "2026-10-17T07:16:28.906Z"
+        "fetchedAt": "2026-11-17T11:18:15.505Z"
       },
       {
         "retailerId": "nike",
