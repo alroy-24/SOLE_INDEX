@@ -1,5 +1,335 @@
 [
   {
+    "id": "sk-nike-air-max-muse-satin-ridgerock-metallic-silver-ridgerock",
+    "slug": "nike-air-max-muse-satin-ridgerock-metallic-silver-ridgerock",
+    "brand": "Nike",
+    "model": "Air Max Muse Satin",
+    "colorway": "Ridgerock / Metallic Silver / Ridgerock",
+    "category": "Lifestyle",
+    "palette": [
+      "#9b9b94",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_828918f5-0d60-4339-a91d-21ddd756585a.png?v=1795522957",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_b95dd26b-6e2f-40cb-beac-9be11129a6e2.png?v=1795522957",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_eaf98368-7fd1-405a-8893-56d47ec44c30.png?v=1795522957"
+    ],
+    "description": "The Air Max Muse is a bold, futuristic addition to the Air Max family. Its exaggerated proportions, sleek finishes and unexpectedly high arch showcase the shoe’s namesake Air technology. Get ready. A new era of expression is here. Satin upp",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 14995,
+        "url": "https://www.superkicks.in/products/nike-air-max-muse-satin-ridgerock-metallic-silver-ridgerock",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%20Muse%20Satin%20Ridgerock",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%20Muse%20Satin%20Ridgerock",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%20Muse%20Satin%20Ridgerock",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%20Muse%20Satin%20Ridgerock",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%20Muse%20Satin%20Ridgerock",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-asics-gel-kayano-14-carrier-grey-black",
+    "slug": "asics-gel-kayano-14-carrier-grey-black",
+    "brand": "Asics",
+    "model": "Gel-Kayano 14",
+    "colorway": "Carrier Grey / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_b598af28-0330-4c77-9940-6da9ff140595.jpg?v=1788516574",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_7f4e7aa5-5c90-4062-b9d7-53b81c5bcd43.jpg?v=1788516575",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/6_efb8279b-3161-45d9-add7-93de19e1a66e.jpg?v=1788516574"
+    ],
+    "description": "The GEL-KAYANO™ 14 sneaker resurfaces with its late 2000s aesthetic as a nod to our storied GEL-KAYANO™ series. Reinterpreting the shoe's performance capabilities with updated materials and componentry, this version became the first iterati",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 13999,
+        "url": "https://www.superkicks.in/products/asics-gel-kayano-14-carrier-grey-black",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Asics%20Gel-Kayano%2014%20Carrier%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Asics%20Gel-Kayano%2014%20Carrier%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Asics%20Gel-Kayano%2014%20Carrier%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Asics%20Gel-Kayano%2014%20Carrier%20Grey",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-nike-air-max-95-big-bubble-premium-black-canyon-purple-dk-smoke-grey",
+    "slug": "nike-air-max-95-big-bubble-premium-black-canyon-purple-dk-smoke-grey",
+    "brand": "Nike",
+    "model": "Air Max 95 Big Bubble Premium",
+    "colorway": "Black / Canyon Purple / Dk Smoke Grey",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#9b9b94",
+      "#6b4a8a"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_2438f387-fe8d-49f2-a9a8-84c7fedba217.png?v=1795500103",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_f76bfa83-edd5-4d41-8c0d-1350f1872a8f.png?v=1795500104",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_463bbfd4-4fc4-454a-9e49-f82693634641.png?v=1795500103"
+    ],
+    "description": "Bigger. Bouncier. Air. Staying true to the original human anatomy-inspired design, rippling layers of synthetic leather and airy mesh stack for a gradient look. The larger Max Air units in the heel and forefoot highlight the supremely cushi",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 16995,
+        "url": "https://www.superkicks.in/products/nike-air-max-95-big-bubble-premium-black-canyon-purple-dk-smoke-grey",
+        "inStock": true,
+        "sizes": [
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12"
+        ],
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "nike",
+        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Premium%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2095%20Big%20Bubble%20Premium%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Premium%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2095%20Big%20Bubble%20Premium%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2095%20Big%20Bubble%20Premium%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-adidas-originals-d-o-n-issue-8-solar-turbo-core-black-gold-metallic",
+    "slug": "adidas-originals-d-o-n-issue-8-solar-turbo-core-black-gold-metallic",
+    "brand": "adidas",
+    "model": "D.O.N. Issue 8",
+    "colorway": "Solar Turbo / Core Black / Gold Metallic",
+    "category": "Basketball",
+    "palette": [
+      "#161616",
+      "#d9b441"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_67f0c4bf-4360-426d-aabb-319b5c5f8de1.png?v=1795439183",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_c9eaf2a4-4c03-43f7-ac0f-440a7a95e8de.png?v=1795439183",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_27d1564e-9f7f-4352-b069-391c4c6dc966.png?v=1795439183"
+    ],
+    "description": "The D.O.N. Issue 8 shoes are a bold statement in basketball footwear. Inspired by the energy of Donovan Mitchell, these shoes fuse comfort and style for athletes and fashion-lovers alike. They feature LightstrikePro technology, delivering l",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 11999,
+        "url": "https://www.superkicks.in/products/adidas-originals-d-o-n-issue-8-solar-turbo-core-black-gold-metallic",
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "adidas",
+        "url": "https://www.adidas.co.in/search?q=adidas%20D.O.N.%20Issue%208%20Solar%20Turbo",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=adidas%20D.O.N.%20Issue%208%20Solar%20Turbo",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=adidas%20D.O.N.%20Issue%208%20Solar%20Turbo",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=adidas%20D.O.N.%20Issue%208%20Solar%20Turbo",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=adidas%20D.O.N.%20Issue%208%20Solar%20Turbo",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      }
+    ]
+  },
+  {
+    "id": "sk-converse-chuck-taylor-all-star-black-egret-black",
+    "slug": "converse-chuck-taylor-all-star-black-egret-black",
+    "brand": "Converse",
+    "model": "Chuck Taylor All Star",
+    "colorway": "Black / Egret / Black",
+    "category": "Lifestyle",
+    "palette": [
+      "#161616",
+      "#f4f1e9"
+    ],
+    "images": [
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_9fa91f48-ee13-4359-a7d7-e6f770656835.png?v=1795438557",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_0ddfe9cb-4a64-4ca7-bec0-7e1ecfecedb2.png?v=1795438557",
+      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_fc00fc2a-cf5a-4fcc-8f65-ab94fba722c7.png?v=1795438557"
+    ],
+    "description": "A Chuck that’s as black as night. A black canvas upper, contrasts silver charms that stand out like the stars and moon in the night sky. Style them your way with between laces for a monochromic or contrasting pallet. Canvas upper for that c",
+    "offers": [
+      {
+        "retailerId": "superkicks",
+        "price": 4999,
+        "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-black-egret-black",
+        "inStock": true,
+        "sizes": [
+          "4",
+          "5",
+          "6"
+        ],
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "amazon",
+        "url": "https://www.amazon.in/s?k=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "flipkart",
+        "url": "https://www.flipkart.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "ajio",
+        "url": "https://www.ajio.com/search/?text=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      },
+      {
+        "retailerId": "vnv",
+        "url": "https://www.vegnonveg.com/search?q=Converse%20Chuck%20Taylor%20All%20Star%20Black",
+        "inStock": true,
+        "linkOnly": true,
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
+      }
+    ]
+  },
+  {
     "id": "sk-jordan-jordan-3-retro-santa-td-university-red-metallic-gold-white",
     "slug": "jordan-jordan-3-retro-santa-td-university-red-metallic-gold-white",
     "brand": "Jordan",
@@ -566,14 +896,13 @@
         "inStock": true,
         "sizes": [
           "6",
-          "7",
           "8",
           "9",
           "10",
           "11",
           "12"
         ],
-        "fetchedAt": "2026-11-19T10:52:40.592Z"
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
       },
       {
         "retailerId": "nike",
@@ -2382,12 +2711,11 @@
         "inStock": true,
         "sizes": [
           "7",
-          "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-11T09:58:43.346Z"
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
       },
       {
         "retailerId": "adidas",
@@ -2990,10 +3318,9 @@
           "7",
           "8",
           "9",
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
       },
       {
         "retailerId": "amazon",
@@ -5069,11 +5396,9 @@
         "sizes": [
           "6",
           "7",
-          "8",
-          "9",
-          "11"
+          "9"
         ],
-        "fetchedAt": "2026-11-17T11:18:15.505Z"
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
       },
       {
         "retailerId": "nike",
@@ -5911,14 +6236,13 @@
         "inStock": true,
         "sizes": [
           "4",
-          "6",
           "7",
           "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-14T09:36:56.910Z"
+        "fetchedAt": "2026-11-24T13:02:04.148Z"
       },
       {
         "retailerId": "amazon",
@@ -5947,345 +6271,6 @@
         "inStock": true,
         "linkOnly": true,
         "fetchedAt": "2026-10-29T09:04:16.345Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-new-balance-204l-pumpernicke-black",
-    "slug": "new-balance-204l-pumpernicke-black",
-    "brand": "New Balance",
-    "model": "204l",
-    "colorway": "Pumpernicke / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/1_24f5d825-be35-4ef1-a397-0d18f3ed3820.jpg?v=1793173694",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/5_5f650bf4-fe3b-470f-b39c-aaebb44a74a0.jpg?v=1793173694",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_38f1bc68-0c2f-46d2-8150-2c3525588be6.jpg?v=1793173693"
-    ],
-    "description": "Enter the 204L: an unexpected interpretation of 2000s running-inspired style. This low-profile silhouette blends the slim structure of '70s running shoes with tech-inspired texture of premium suede. Pulling design elements from past and pre",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12999,
-        "url": "https://www.superkicks.in/products/new-balance-204l-pumpernicke-black",
-        "inStock": true,
-        "sizes": [
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=New%20Balance%20204l%20Pumpernicke",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=New%20Balance%20204l%20Pumpernicke",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=New%20Balance%20204l%20Pumpernicke",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=New%20Balance%20204l%20Pumpernicke",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-ava-edge-se-dark-hazel-oxen-brown-dark-hazel-black",
-    "slug": "nike-ava-edge-se-dark-hazel-oxen-brown-dark-hazel-black",
-    "brand": "Nike",
-    "model": "Ava Edge Se",
-    "colorway": "Dark Hazel / Oxen Brown / Dark Hazel / Black",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#6b4a2f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_fec73b57-7dcf-41e5-84c7-39bb4920e885.jpg?v=1793174456",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_988e3f08-b25a-4e83-9b67-415f814a5521.jpg?v=1793174457",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d6f87f82-6e12-4b7f-96f8-5a5d3c92cbdf.jpg?v=1793174456"
-    ],
-    "description": "Inspired by the geometry of modern cities, the Nike Ava Edge is built for crisscrossing the concrete jungle. It combines a flexible upper with performance-level cushioning and an outsole that leaves a memorable mark. Navigating the city is ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 13995,
-        "url": "https://www.superkicks.in/products/nike-ava-edge-se-dark-hazel-oxen-brown-dark-hazel-black",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-11-22T10:28:45.422Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Ava%20Edge%20Se%20Dark%20Hazel",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Ava%20Edge%20Se%20Dark%20Hazel",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Ava%20Edge%20Se%20Dark%20Hazel",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Ava%20Edge%20Se%20Dark%20Hazel",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Ava%20Edge%20Se%20Dark%20Hazel",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-jordan-air-jordan-14-retro-forest-green-gorge-green-lt-graphite-white",
-    "slug": "jordan-air-jordan-14-retro-forest-green-gorge-green-lt-graphite-white",
-    "brand": "Jordan",
-    "model": "Air Jordan 14 Retro Forest Green",
-    "colorway": "Gorge Green / Lt Graphite / White",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#2f6f4e"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_ca37d36d-3bc8-478a-9aba-8671a26cbee9.jpg?v=1792589064",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_4ad8f5da-c1b6-4fc8-881d-ba2699e962e8.jpg?v=1792589064",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_d492a40a-f1b8-4a21-bc37-aaea115979b8.jpg?v=1792589064"
-    ],
-    "description": "The Air Jordan 14 is the stuff of legends—after all, it's the last signature shoe MJ wore on-court for Chicago. For the first time since its original 2005 release, the fan fave \"Forest Green\" colorway returns. Complete with chrome details a",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 18395,
-        "url": "https://www.superkicks.in/products/jordan-air-jordan-14-retro-forest-green-gorge-green-lt-graphite-white",
-        "inStock": true,
-        "sizes": [
-          "6",
-          "7",
-          "8",
-          "9",
-          "10",
-          "11"
-        ],
-        "fetchedAt": "2026-11-02T10:13:58.327Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Jordan%20Air%20Jordan%2014%20Retro%20Forest%20Green%20Gorge%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Jordan%20Air%20Jordan%2014%20Retro%20Forest%20Green%20Gorge%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Jordan%20Air%20Jordan%2014%20Retro%20Forest%20Green%20Gorge%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Jordan%20Air%20Jordan%2014%20Retro%20Forest%20Green%20Gorge%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Jordan%20Air%20Jordan%2014%20Retro%20Forest%20Green%20Gorge%20Green",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-force-1-07-essential-black-black-white-metallic-silver",
-    "slug": "nike-air-force-1-07-essential-black-black-white-metallic-silver",
-    "brand": "Nike",
-    "model": "Air Force 1 '07 Essential",
-    "colorway": "Black / Black / White / Metallic Silver",
-    "category": "Lifestyle",
-    "palette": [
-      "#161616",
-      "#f4f1e9",
-      "#9b9b94"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_a1e2432d-9558-4c6e-b5a8-e08245c39857.jpg?v=1791983222",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/3_81c907f4-e8c0-4039-8fd1-7d330d357e53.jpg?v=1791983222",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_86fd5fd1-30a3-4bdc-a954-1ec6193db529.jpg?v=1791983222"
-    ],
-    "description": "Comfortable, durable and timeless—it’s number one for a reason. This Air Force 1 pairs its classic silhouette with premium leather and contrast stitching to make an essential sneaker that never misses. Genuine leather upper with perforated ",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 9995,
-        "url": "https://www.superkicks.in/products/nike-air-force-1-07-essential-black-black-white-metallic-silver",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5",
-          "6",
-          "7",
-          "8"
-        ],
-        "fetchedAt": "2026-11-05T10:00:16.243Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Force%201%20'07%20Essential%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Force%201%20'07%20Essential%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Force%201%20'07%20Essential%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Force%201%20'07%20Essential%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Force%201%20'07%20Essential%20Black",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-28T09:06:19.987Z"
-      }
-    ]
-  },
-  {
-    "id": "sk-nike-air-max-90-futura-red-stardust-rugged-orange-summit-white",
-    "slug": "nike-air-max-90-futura-red-stardust-rugged-orange-summit-white",
-    "brand": "Nike",
-    "model": "Air Max 90 Futura",
-    "colorway": "Red Stardust / Rugged Orange / Summit White",
-    "category": "Lifestyle",
-    "palette": [
-      "#f4f1e9",
-      "#c2362f",
-      "#d8702f"
-    ],
-    "images": [
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/4_b0c3bfd9-17de-4b44-8a02-824e65095750.jpg?v=1787145004",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/17_8df8ba61-713d-47ee-beef-f3cdfc8297f6.jpg?v=1787145004",
-      "https://cdn.shopify.com/s/files/1/0659/0722/8923/files/2_9a1e4270-528d-4bba-945d-e08d44ba160c.jpg?v=1787145004"
-    ],
-    "description": "Ready to take your style up a notch? We've reimagined an icon of Air to bring you the perfect mix of throwback details and futuristic design. Sawtooth edging around the outsole combines with smooth leather and partially floating Swoosh logo",
-    "offers": [
-      {
-        "retailerId": "superkicks",
-        "price": 12795,
-        "url": "https://www.superkicks.in/products/nike-air-max-90-futura-red-stardust-rugged-orange-summit-white",
-        "inStock": true,
-        "sizes": [
-          "4",
-          "5"
-        ],
-        "fetchedAt": "2026-11-07T09:23:39.425Z"
-      },
-      {
-        "retailerId": "nike",
-        "url": "https://www.nike.com/in/w?q=Nike%20Air%20Max%2090%20Futura%20Red%20Stardust",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-27T08:28:17.357Z"
-      },
-      {
-        "retailerId": "amazon",
-        "url": "https://www.amazon.in/s?k=Nike%20Air%20Max%2090%20Futura%20Red%20Stardust",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-27T08:28:17.357Z"
-      },
-      {
-        "retailerId": "flipkart",
-        "url": "https://www.flipkart.com/search?q=Nike%20Air%20Max%2090%20Futura%20Red%20Stardust",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-27T08:28:17.357Z"
-      },
-      {
-        "retailerId": "ajio",
-        "url": "https://www.ajio.com/search/?text=Nike%20Air%20Max%2090%20Futura%20Red%20Stardust",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-27T08:28:17.357Z"
-      },
-      {
-        "retailerId": "vnv",
-        "url": "https://www.vegnonveg.com/search?q=Nike%20Air%20Max%2090%20Futura%20Red%20Stardust",
-        "inStock": true,
-        "linkOnly": true,
-        "fetchedAt": "2026-10-27T08:28:17.357Z"
       }
     ]
   }
