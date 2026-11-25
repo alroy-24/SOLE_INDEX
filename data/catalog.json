@@ -289,7 +289,8 @@
     "offers": [
       {
         "retailerId": "superkicks",
-        "price": 4999,
+        "price": 3999,
+        "mrp": 4999,
         "url": "https://www.superkicks.in/products/converse-chuck-taylor-all-star-black-egret-black",
         "inStock": true,
         "sizes": [
@@ -297,7 +298,7 @@
           "5",
           "6"
         ],
-        "fetchedAt": "2026-11-24T13:02:04.148Z"
+        "fetchedAt": "2026-11-25T11:51:44.713Z"
       },
       {
         "retailerId": "amazon",
@@ -1246,10 +1247,9 @@
           "8",
           "9",
           "10",
-          "11",
-          "12"
+          "11"
         ],
-        "fetchedAt": "2026-11-21T10:25:02.374Z"
+        "fetchedAt": "2026-11-25T11:51:44.713Z"
       },
       {
         "retailerId": "nike",
@@ -1777,11 +1777,12 @@
     "offers": [
       {
         "retailerId": "superkicks",
-        "price": 9695,
+        "price": 3877,
+        "mrp": 9695,
         "url": "https://www.superkicks.in/products/dunk-low-retro-premium-university-red-black-light-silver-white",
         "inStock": false,
         "sizes": [],
-        "fetchedAt": "2026-11-16T10:19:53.900Z"
+        "fetchedAt": "2026-11-25T11:51:44.713Z"
       },
       {
         "retailerId": "nike",
@@ -1840,11 +1841,12 @@
     "offers": [
       {
         "retailerId": "superkicks",
-        "price": 10295,
+        "price": 4117,
+        "mrp": 10295,
         "url": "https://www.superkicks.in/products/wmns-air-jordan-1-mid-sail-worn-blue",
         "inStock": false,
         "sizes": [],
-        "fetchedAt": "2026-11-16T10:19:53.900Z"
+        "fetchedAt": "2026-11-25T11:51:44.713Z"
       },
       {
         "retailerId": "nike",
@@ -1903,11 +1905,12 @@
     "offers": [
       {
         "retailerId": "superkicks",
-        "price": 9695,
+        "price": 3877,
+        "mrp": 9695,
         "url": "https://www.superkicks.in/products/dunk-low-fossil-rose",
         "inStock": false,
         "sizes": [],
-        "fetchedAt": "2026-11-16T10:19:53.900Z"
+        "fetchedAt": "2026-11-25T11:51:44.713Z"
       },
       {
         "retailerId": "nike",
@@ -1966,11 +1969,12 @@
     "offers": [
       {
         "retailerId": "superkicks",
-        "price": 8995,
+        "price": 3597,
+        "mrp": 8995,
         "url": "https://www.superkicks.in/products/air-force-1-shadow-malachite",
         "inStock": false,
         "sizes": [],
-        "fetchedAt": "2026-11-16T10:19:53.900Z"
+        "fetchedAt": "2026-11-25T11:51:44.713Z"
       },
       {
         "retailerId": "nike",
@@ -2161,7 +2165,8 @@
     "offers": [
       {
         "retailerId": "superkicks",
-        "price": 19999,
+        "price": 16999,
+        "mrp": 19999,
         "url": "https://www.superkicks.in/products/adidas-originals-x-sp5der-adizero-f50-formotion-solar-green-core-black-silver-metallic",
         "inStock": true,
         "sizes": [
@@ -2169,7 +2174,7 @@
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-12T10:26:40.536Z"
+        "fetchedAt": "2026-11-25T11:51:44.713Z"
       },
       {
         "retailerId": "adidas",
@@ -2298,7 +2303,8 @@
     "offers": [
       {
         "retailerId": "superkicks",
-        "price": 19999,
+        "price": 16999,
+        "mrp": 19999,
         "url": "https://www.superkicks.in/products/adidas-original-x-sp5der-adizero-f50-formotion-red-supplier-colour-core-black",
         "inStock": true,
         "sizes": [
@@ -2306,7 +2312,7 @@
           "9",
           "11"
         ],
-        "fetchedAt": "2026-11-14T09:36:56.910Z"
+        "fetchedAt": "2026-11-25T11:51:44.713Z"
       },
       {
         "retailerId": "adidas",
@@ -2440,9 +2446,10 @@
         "sizes": [
           "7",
           "8",
+          "9",
           "10"
         ],
-        "fetchedAt": "2026-11-20T10:41:58.558Z"
+        "fetchedAt": "2026-11-25T11:51:44.713Z"
       },
       {
         "retailerId": "nike",
@@ -5463,9 +5470,10 @@
         "inStock": true,
         "sizes": [
           "6",
-          "7"
+          "7",
+          "8"
         ],
-        "fetchedAt": "2026-11-18T10:51:26.912Z"
+        "fetchedAt": "2026-11-25T11:51:44.713Z"
       },
       {
         "retailerId": "nike",
