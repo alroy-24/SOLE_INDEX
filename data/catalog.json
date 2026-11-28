@@ -21,9 +21,15 @@
         "retailerId": "superkicks",
         "price": 14999,
         "url": "https://www.superkicks.in/products/adidas-originals-anthony-edwards-3-marvel-ant-man-core-black-lucid-red-iron-metallic",
-        "inStock": false,
-        "sizes": [],
-        "fetchedAt": "2026-11-27T11:32:59.218Z"
+        "inStock": true,
+        "sizes": [
+          "7",
+          "8",
+          "9",
+          "10",
+          "11"
+        ],
+        "fetchedAt": "2026-11-28T11:03:29.526Z"
       },
       {
         "retailerId": "adidas",
@@ -147,11 +153,9 @@
         "retailerId": "superkicks",
         "price": 29999,
         "url": "https://www.superkicks.in/products/adidas-pw-adistar-jellyfish-carbon-cblack-carbon",
-        "inStock": true,
-        "sizes": [
-          "9"
-        ],
-        "fetchedAt": "2026-11-27T11:32:59.218Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-11-28T11:03:29.526Z"
       },
       {
         "retailerId": "adidas",
@@ -485,10 +489,9 @@
         "inStock": true,
         "sizes": [
           "4",
-          "5",
           "6"
         ],
-        "fetchedAt": "2026-11-26T11:40:12.173Z"
+        "fetchedAt": "2026-11-28T11:03:29.526Z"
       },
       {
         "retailerId": "amazon",
@@ -1088,12 +1091,12 @@
         "inStock": true,
         "sizes": [
           "6",
+          "7",
           "9",
           "10",
-          "11",
           "12"
         ],
-        "fetchedAt": "2026-11-27T11:32:59.218Z"
+        "fetchedAt": "2026-11-28T11:03:29.526Z"
       },
       {
         "retailerId": "nike",
@@ -1434,11 +1437,11 @@
         "inStock": true,
         "sizes": [
           "7",
+          "8",
           "9",
-          "10",
           "11"
         ],
-        "fetchedAt": "2026-11-27T11:32:59.218Z"
+        "fetchedAt": "2026-11-28T11:03:29.526Z"
       },
       {
         "retailerId": "nike",
@@ -2633,11 +2636,9 @@
         "url": "https://www.superkicks.in/products/nike-sb-air-force-1-navy-black-navy",
         "inStock": true,
         "sizes": [
-          "7",
-          "8",
           "10"
         ],
-        "fetchedAt": "2026-11-26T11:40:12.173Z"
+        "fetchedAt": "2026-11-28T11:03:29.526Z"
       },
       {
         "retailerId": "nike",
@@ -3758,11 +3759,12 @@
         "inStock": true,
         "sizes": [
           "7",
+          "8",
           "9",
           "10",
           "11"
         ],
-        "fetchedAt": "2026-11-14T09:36:56.910Z"
+        "fetchedAt": "2026-11-28T11:03:29.526Z"
       },
       {
         "retailerId": "amazon",
@@ -5445,11 +5447,9 @@
         "retailerId": "superkicks",
         "price": 12995,
         "url": "https://www.superkicks.in/products/nike-air-force-1-luxe-brown-basalt-brown-black-gum-dark-brown",
-        "inStock": true,
-        "sizes": [
-          "6"
-        ],
-        "fetchedAt": "2026-11-21T10:25:02.374Z"
+        "inStock": false,
+        "sizes": [],
+        "fetchedAt": "2026-11-28T11:03:29.526Z"
       },
       {
         "retailerId": "nike",
